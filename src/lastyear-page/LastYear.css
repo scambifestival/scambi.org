@@ -9,21 +9,28 @@
   background: linear-gradient(90deg, #e9afff 0%, #ffedc4 98.65%);
 }
 .lastyear-main {
-  /* Photo Gallery */
+  /* Scambi 2021 Highlights */
+
+  /* Auto layout */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  gap: 40px;
 
   position: absolute;
-  width: 1328px;
-  height: 641px;
-  left: 76px;
-  top: 1784px;
+  width: 1311px;
+  height: 711px;
+  left: 64px;
+  top: 2495px;
 }
 .lastyear-text {
-  /* Last year at Scambi */
+  /* Scambi 2021 Highlights */
 
   position: absolute;
-  width: 492px;
+  width: 565px;
   height: 76px;
-  left: 405.46px;
+  left: 369.46px;
   top: 0px;
 
   /* H2 Headline, Light, 64px */
@@ -174,4 +181,66 @@
   filter: drop-shadow(0px 6px 20px rgba(0, 0, 0, 0.2));
   border-radius: 16px;
   padding: 16px;
+}
+.explore-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 40px;
+  gap: 8px;
+
+  width: 357px;
+  height: 46px;
+
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.2) 0%,
+      rgba(255, 255, 255, 0) 69.78%
+    ),
+    #69088d;
+  /* Button/Primary/Dropshadow */
+  box-shadow: 0px 4px 3px rgba(47, 4, 63, 0.7);
+  border-radius: 16px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.photo-gallery {
+  /* Photo Gallery */
+
+  width: 1311px;
+  height: 625px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.explore-label {
+  /* ✍️Label */
+
+  width: 277px;
+  height: 22px;
+
+  /* Button Text, Semi bold, 16px */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  /* identical to box height, or 138% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* Light/--text-color-on-primary */
+  color: #ffffff;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
 }
