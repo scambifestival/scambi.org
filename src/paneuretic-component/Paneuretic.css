@@ -1,0 +1,84 @@
+/* PaneureticWorkshopsBlurb */
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.first-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 67px;
+  position: absolute;
+  width: 1169px;
+  height: 400px;
+  left: 135px;
+  top: 1112px;
+  background: linear-gradient(90deg, #e9afff 0%, #ffedc4 98.65%);
+}
+
+.inner-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 20px;
+  width: 794px;
+  height: 192px;
+  /* Inside auto layout */
+  /* flex: none; */
+  display: flex;
+  order: 1;
+  flex-grow: 0;
+}
+
+.right-container {
+  width: 308px;
+  height: 300px;
+  left: 861px;
+  /* background: url(laboratori); */
+  /* Inside auto layout */
+  display: flex;
+  order: 1;
+  flex-grow: 4;
+  position: absolute;
+}
+
+.header {
+  /* What are paneuretic workshops? */
+  width: 794px;
+  height: 76px;
+  /* H2 Headline, Light, 64px */
+  font-family: 'Londrina Solid';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 76px;
+  /* identical to box height */
+  color: #323338;
+  /* Inside auto layout */
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.content {
+  width: 662px;
+  height: 96px;
+  /* Body, Regular, 16px */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+  display: flex;
+  align-items: center;
+  color: #000000;
+  /* Inside auto layout */
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+  text-align: left;
+}
