@@ -1,0 +1,194 @@
+.nls-main-container{
+    display: none;
+}
+
+@media (min-width: 765px){
+.nls-main-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #FFFFFF;
+    padding: 5%;
+    .nls-left-container{
+        border-radius: 32px 0px 0px 32px;
+        // width: 45%;
+        max-width: 680px;
+        .nls-left-image{
+            width: 100%;
+            max-width: 680px;
+            min-width: 253px;
+            min-height: 100%;
+            max-height: 413px;
+        }
+    }
+    .nls-right-container{
+        background-color: #69088D;
+        border-radius: 0px 32px 32px 0px;
+        // width: 45%;
+        max-width: 680px;
+        .nls-inner-container{
+            margin-top: 15%;
+            margin-left: 10%;
+            margin-bottom: 15%;
+            margin-right: 10%;
+            .nls-upper-subtitle{
+                // width: fit-content;
+                // float: left;
+                font-family: 'Poppins';
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 22px;
+                text-transform: uppercase;
+                color: #FFFFFF;
+            }
+            .nls-title{
+                margin-top: 5px;
+                width: fit-content;
+                font-family: 'Londrina Solid';
+                font-weight: 400;
+                font-size: 64px;
+                line-height: 76px;
+                color: #FFFFFF;
+            }
+            .nls-lower-subtitle{
+                margin-top: 5px;
+                width: fit-content;
+                font-family: 'Poppins';
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 24px;
+                color: #FFFFFF;
+            }
+            .nls-email-fields{
+                margin-top: 15px;
+                display: flex;
+                flex-direction: row;
+                .nls-text-field{
+                    width: 60%;
+                    height: 48px;
+                    background: #FFFFFF;
+                    border: 1px solid #69088D;
+                    box-sizing: border-box;
+                    border-radius: 4px;
+                    font-family: 'Poppins';
+                    margin-right: 15px;
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 24px;
+                    color: #676879;
+                    padding-left: 15px;
+                }
+                .nls-submit-button{
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    align-items: center;
+                    width: 30%;
+                    height: 46px;
+                    background: linear-gradient(180deg, rgba(255, 255, 255, 0.35) 0%, rgba(255, 255, 255, 0.07) 64.06%), #FFD166;
+                    box-shadow: 0px 4px 3px rgba(165, 159, 16, 0.7);
+                    border-radius: 16px;
+                    font-family: 'Poppins';
+                    font-weight: 600;
+                    font-size: 16px;
+                    line-height: 22px;
+                }
+            }
+        }
+    }
+}
+}
+
+@media (min-width: 1350px){
+    .main-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        .left-container{
+            border-radius: 32px 0px 0px 32px;
+            width: 45%;
+            max-width: 680px;
+            .left-image{
+                width: 100%;
+                min-width: 253px;
+                min-height: 100%;
+                max-height: 413px;
+            }
+        }
+        .right-container{
+            background-color: #69088D;
+            border-radius: 0px 32px 32px 0px;
+            width: 45%;
+            max-width: 680px;
+            .inner-container{
+                margin-top: 15%;
+                margin-left: 10%;
+                margin-bottom: 15%;
+                margin-right: 10%;
+                .upper-subtitle{
+                    // width: fit-content;
+                    float: left;
+                    font-family: 'Poppins';
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 22px;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                }
+                .title{
+                    margin-top: 5px;
+                    width: fit-content;
+                    font-family: 'Londrina Solid';
+                    font-weight: 400;
+                    font-size: 64px;
+                    line-height: 76px;
+                    color: #FFFFFF;
+                }
+                .lower-subtitle{
+                    margin-top: 5px;
+                    width: fit-content;
+                    font-family: 'Poppins';
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 24px;
+                    color: #FFFFFF;
+                }
+                .email-fields{
+                    margin-top: 15px;
+                    display: flex;
+                    flex-direction: row;
+                    .text-field{
+                        width: 60%;
+                        height: 48px;
+                        background: #FFFFFF;
+                        border: 1px solid #69088D;
+                        box-sizing: border-box;
+                        border-radius: 4px;
+                        font-family: 'Poppins';
+                        margin-right: 15px;
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 24px;
+                        color: #676879;
+                        padding-left: 15px;
+                    }
+                    .submit-button{
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: center;
+                        align-items: center;
+                        width: 30%;
+                        height: 46px;
+                        background: linear-gradient(180deg, rgba(255, 255, 255, 0.35) 0%, rgba(255, 255, 255, 0.07) 64.06%), #FFD166;
+                        box-shadow: 0px 4px 3px rgba(165, 159, 16, 0.7);
+                        border-radius: 16px;
+                        font-family: 'Poppins';
+                        font-weight: 600;
+                        font-size: 16px;
+                        line-height: 22px;
+                    }
+                }
+            }
+        }
+    }
+}

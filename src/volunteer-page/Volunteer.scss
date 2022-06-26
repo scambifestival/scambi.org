@@ -1,0 +1,29 @@
+.volunteer-main-container{
+    background: linear-gradient(90deg, #E9AFFF 0%, #FFEDC4 98.65%);
+    .volunteer-inner-container{
+        margin-top: 4%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .volunteer-title{
+            font-family: 'Londrina Solid';
+            font-weight: 400;
+            font-size: 102px;
+            line-height: 121px;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            text-transform: capitalize;
+            color: #323338;
+        }
+        .volunteer-cards{
+            margin-top: 2%;
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+        }
+    }
+
+}

@@ -1,0 +1,103 @@
+.faq-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: linear-gradient(90deg, #E9AFFF 0%, #FFEDC4 98.65%);
+    padding-top: 50px;
+    bottom: 50px;
+    z-index: -1;
+    position: relative;
+    .faq-header-title{
+        font-family: 'Londrina Solid';
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 76px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #323338;
+        // width: 50vw;
+    }
+    .faq-image{
+        width: 0%;
+    }
+}
+
+.faq-general{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 15%;
+    padding-right: 15%;
+    .faq-general-heading{
+        font-family: 'Poppins';
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 36px;
+        color: #000000;
+        display: flex;
+        justify-content: flex-start;
+        margin-bottom: 25px;
+    }
+    .faq-general-questions{
+        width: 100%;
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #323338;
+    }
+}
+
+@media (min-width: 795px){
+    .faq-header{
+        bottom: 50px;
+        z-index: -1;
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        background: linear-gradient(90deg, #E9AFFF 0%, #FFEDC4 98.65%);
+        .faq-header-title{
+            font-family: 'Londrina Solid';
+            font-weight: 400;
+            font-size: 64px;
+            line-height: 76px;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            color: #323338;
+            width: 50vw;
+        }
+        .faq-image{
+            width: 50vw;
+        }
+    }
+
+    .faq-general{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-top: 0px;
+        .faq-general-heading{
+            font-family: 'Poppins';
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 36px;
+            color: #000000;
+            display: flex;
+            justify-content: flex-start;
+            margin-bottom: 25px;
+        }
+        .faq-general-questions{
+            width: 100%;
+            font-family: 'Poppins';
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 24px;
+            color: #323338;
+        }
+    }
+}

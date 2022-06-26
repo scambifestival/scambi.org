@@ -9,7 +9,7 @@ import MiniVents from './minivents-page/MiniVents';
 import Labs from './labs-page/Labs';
 import FAQ from './faq-page/FAQ';
 import FilmContest from './filmcontest-page/FilmContest';
-import "monday-ui-react-core/dist/main.css"
+import Volunteer from './volunteer-page/Volunteer';
 
 function App() {
   return (
@@ -24,6 +24,7 @@ function App() {
         <Route path="faq" element={<FAQ />} />
         <Route path="careers" element={<Careers />} />
         <Route path="filmcontest" element={<FilmContest />} />
+        <Route path="volunteer" element={<Volunteer />} />
       </Routes>
       {/* <Home />
       <Contact />

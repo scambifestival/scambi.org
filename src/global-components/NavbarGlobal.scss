@@ -1,0 +1,99 @@
+.navbar{
+        background-color: #FFFFFF;
+        box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.2);
+        border-radius: 0px 0px 50px 50px;
+        
+        .me-auto{
+            font-family: 'Poppins';
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 22px;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            color: #000000;
+        }
+
+        #basic-nav-dropdown {
+            color: #000000;
+        }
+
+        #navbar-link{
+            color: #000000;
+        }
+
+        .left-logo{
+            font-family: 'Londrina Solid';
+            font-weight: 400;
+            font-size: 32px;
+            line-height: 38px;
+            letter-spacing: 0.25px;
+            color: #323338;
+        }
+
+        .rsvp-button{
+            color: #000000;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            text-decoration: none
+        }
+
+}
+    
+@media (min-width: 1200px){
+    .navbar{
+        background-color: #FFFFFF;
+        box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.2);
+        border-radius: 0px 0px 50px 50px;
+        
+        .me-auto{
+            font-family: 'Poppins';
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 22px;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            color: #000000;
+        }
+
+        #basic-nav-dropdown {
+            color: #000000;
+            margin-right: 10px;
+        }
+
+        #navbar-link{
+            color: #000000;
+            margin-right: 10px;
+        }
+
+        .left-logo{
+            font-family: 'Londrina Solid';
+            font-weight: 400;
+            font-size: 32px;
+            line-height: 38px;
+            letter-spacing: 0.25px;
+            color: #323338;
+            margin-right: 12.5%;
+        }
+
+        .rsvp-button{
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 22px;
+            color: #FFFFFF;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            padding: 12px 20px;
+            width: 100px;
+            height: 46px;
+            gap: 8px;
+            background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 69.78%), #69088D;
+            box-shadow: 0px 4px 3px rgba(47, 4, 63, 0.7);
+            border-radius: 16px;
+            margin-right: 10px;
+            margin-left: 12.5%;
+            text-decoration: none
+        }
+    }
+}

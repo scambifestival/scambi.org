@@ -1,0 +1,25 @@
+.statement-container{
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 38px;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.25px;
+        color: #323338;
+        background-color: #FFFFFF;
+        padding: 5%;
+}
+
+@media (min-width: 775px){
+    .statement-container{
+        font-family: 'Poppins';
+        font-weight: 400;
+        font-size: 52px;
+        line-height: 78px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #323338;
+    }
+}

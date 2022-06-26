@@ -1,0 +1,44 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+    .heading{
+        font-family: 'Londrina Solid';
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 38px;
+        display: flex;
+        align-items: center;
+        color: #323338;
+    }
+    .cards{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+}
+
+@media (min-width: 430px){
+    .main-container{
+        display: flex;
+        flex-direction: column;
+        padding: 5%;
+        .heading{
+            font-family: 'Londrina Solid';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 64px;
+            line-height: 76px;
+            display: flex;
+            align-items: center;
+            color: #323338;
+        }
+        .cards{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+    }
+}
