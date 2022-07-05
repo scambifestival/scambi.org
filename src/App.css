@@ -10,6 +10,7 @@
   --negative-color-hover:#B63546;
   --negative-color-selected:#F4C3CB;
   --primary-color-yellow: #FFD166;
+  background: linear-gradient(90deg, #E9AFFF 0%, #FFEDC4 98.65%);
 }
 
 .App-logo {

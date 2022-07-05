@@ -11,27 +11,30 @@ import LabInfo from './pages/labs/LabInfo';
 import FAQ from './pages/faq/FAQ';
 import FilmContest from './pages/filmcontest/FilmContest';
 import Volunteer from './pages/volunteer/Volunteer';
+import { PageLayout } from './PageLayout';
 
 function App() {
   return (
     <div className="App">
-       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="about" element={<About />} />
-        <Route path="contact" element={<Contact />} />
-        <Route path="blog" element={<Blog />} />
-        <Route path="minivents" element={<MiniVents />} />
-        <Route path='labs'>
-					<Route index element={<Labs />} />
-					<Route path=':labId' element={<LabInfo />} />
-				</Route>
-        <Route path="faq" element={<FAQ />} />
-        <Route path="careers" element={<Careers />} />
-        <Route path="filmcontest" element={<FilmContest />} />
-        <Route path="volunteer" element={<Volunteer />} />
+      <Routes>
+        <Route path="/" element={<PageLayout />}>
+          <Route path="/" element={<Home />} />
+          <Route path="about" element={<About />} />
+          <Route path="contact" element={<Contact />} />
+          <Route path="blog" element={<Blog />} />
+          <Route path="minivents" element={<MiniVents />} />
+          <Route path='labs'>
+            <Route index element={<Labs />} />
+            <Route path=':labId' element={<LabInfo />} />
+          </Route>
+          <Route path="faq" element={<FAQ />} />
+          <Route path="careers" element={<Careers />} />
+          <Route path="filmcontest" element={<FilmContest />} />
+          <Route path="volunteer" element={<Volunteer />} />
+        </Route>
       </Routes>
-		</div>
-	);
+    </div>
+  );
 }
 
 export default App;

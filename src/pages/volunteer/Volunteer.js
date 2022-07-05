@@ -1,12 +1,10 @@
 import React, { Component } from 'react';
 import './Volunteer.scss'
-import NavbarGlobal from '../../components/navbar';
 import VolunteerCard from './VolunteerCard'
 
 class Volunteer extends Component {
     render() {
         return <div className='volunteer-main-container'>
-            <NavbarGlobal/>
             <div className='volunteer-inner-container'>
                 <div className='volunteer-title'>
                     Volunteer With Us
