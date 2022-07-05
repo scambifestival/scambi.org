@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import ReactMarkdown from "react-markdown";
 import Example from './Example.md'
-import NavbarGlobal from '../../components/navbar';
 import "./Careers.scss";
 
 class Careers extends Component {
@@ -22,7 +21,6 @@ class Careers extends Component {
 
     render() {
         return <div>
-                    <NavbarGlobal />
                     <ReactMarkdown className="carrer-container" children={this.state.content} />
                 </div>
     }

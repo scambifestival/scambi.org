@@ -1,14 +1,11 @@
 import React, { Component } from 'react';
 import { Accordion } from 'react-bootstrap';
-import NavbarGlobal from '../../components/navbar';
 import './FAQ.scss'
 import FAQImage from '../../assets/subscribe/FAQImage.jpg'
-
 
 class FAQ extends Component {
     render() {
         return <div>
-            <NavbarGlobal/>
             <div className='faq-header'>
                 <div className="faq-header-title">Frequently Asked Questions</div>
                 <img className="faq-image" src={FAQImage} />
