@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Volunteer.scss'
-import NavbarGlobal from '../global-components/NavbarGlobal';
+import NavbarGlobal from '../../components/navbar';
 import VolunteerCard from './VolunteerCard'
 
 class Volunteer extends Component {

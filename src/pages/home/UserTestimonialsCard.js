@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './UserTestimonialsCard.scss';
-import UserTestimonialsPicture from '../images/UserTestimonial.png';
+// import UserTestimonialsPicture from '../images/UserTestimonial.png';
 
 class UserTestimonialsCard extends Component {
     render() {

@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
-import './NavbarGlobal.scss';
+import './Navbar.scss';
 import { Navbar, Container, NavDropdown, Nav } from 'react-bootstrap';
 
 class NavbarGlobal extends Component {
     render() {
         return <div>
             <Navbar className="navbar" bg="light" expand="xl">
-            <Container>
-                <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                <Navbar.Collapse id="basic-navbar-nav">
-                <Nav className="me-auto">
-                        <Navbar.Brand className='left-logo' href="/">Scambi</Navbar.Brand>
+                <Container>
+                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                    <Navbar.Collapse bsprefix="navbar-toggler-custom" id="basic-navbar-nav">
+                        <Nav className="me-auto">
+                            <Navbar.Brand className='left-logo' href="/">Scambi</Navbar.Brand>
                             <NavDropdown title="About Us" id="basic-nav-dropdown">
                                 <NavDropdown.Item href="/about">About Scambi</NavDropdown.Item>
                                 <NavDropdown.Item href="/about">Our Story</NavDropdown.Item>
@@ -30,14 +30,13 @@ class NavbarGlobal extends Component {
                             <Nav.Link href="/blog" id="navbar-link">Blog</Nav.Link>
                             <Nav.Link href="/faq" id="navbar-link">FAQ</Nav.Link>
                             <a href="/rsvp" className='rsvp-button'>Attend</a>
-                        <NavDropdown title="Language" id="basic-nav-dropdown" className="justify-content-end">
+                            <NavDropdown title="Language" id="basic-nav-dropdown" className="justify-content-end">
                                 <NavDropdown.Item href="">English</NavDropdown.Item>
                                 <NavDropdown.Item href="">Italian</NavDropdown.Item>
-                        </NavDropdown>
-                </Nav>
-                
-                </Navbar.Collapse>
-            </Container>
+                            </NavDropdown>
+                        </Nav>
+                    </Navbar.Collapse>
+                </Container>
             </Navbar>
         </div>
     }

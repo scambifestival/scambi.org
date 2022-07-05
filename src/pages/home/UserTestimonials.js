@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './UserTestimonials.scss';
-import UserTestimonialsPicture from '../images/UserTestimonial.png';
+import UserTestimonialsPicture from '../../assets/subscribe/UserTestimonial.png';
 import UserTestimonialsCard from './UserTestimonialsCard'
 
 

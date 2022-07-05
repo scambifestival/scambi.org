@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './NLSubscribe.scss';
-import SubscribeImage from '../images/SubscribeImage.png';
+import SubscribeImage from '../../assets/subscribe/SubscribeImage.png';
 
 
 /**

@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Accordion } from 'react-bootstrap';
-import NavbarGlobal from '../global-components/NavbarGlobal';
+import NavbarGlobal from '../../components/navbar';
 import './FAQ.scss'
-import FAQImage from '../images/FAQImage.jpg'
+import FAQImage from '../../assets/subscribe/FAQImage.jpg'
 
 
 class FAQ extends Component {
