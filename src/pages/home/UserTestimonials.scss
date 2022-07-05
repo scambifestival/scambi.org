@@ -5,10 +5,10 @@
     .heading{
         font-family: 'Londrina Solid';
         font-weight: 400;
-        font-size: 32px;
-        line-height: 38px;
+        font-size: 42px;
+        line-height: 50px;
         display: flex;
-        align-items: center;
+        justify-content: center;
         color: #323338;
     }
     .cards{
@@ -19,7 +19,7 @@
     }
 }
 
-@media (min-width: 430px){
+@media (min-width: 775px){
     .main-container{
         display: flex;
         flex-direction: column;

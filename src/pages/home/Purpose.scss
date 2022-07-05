@@ -1,7 +1,7 @@
 .statement-container{
         font-family: 'Poppins';
         font-weight: 400;
-        font-size: 32px;
+        font-size: 20px;
         line-height: 38px;
         display: flex;
         align-items: center;
@@ -9,17 +9,22 @@
         color: #323338;
         background-color: #FFFFFF;
         padding: 5%;
+
+        div {
+            padding: 3% 5%;
+        }
 }
 
 @media (min-width: 775px){
     .statement-container{
         font-family: 'Poppins';
         font-weight: 400;
-        font-size: 52px;
+        font-size: 32px;
         line-height: 78px;
         display: flex;
-        align-items: center;
-        text-align: center;
-        color: #323338;
+        justify-content: center;
+        div {
+            padding: 0 5%;
+        }
     }
 }

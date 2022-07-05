@@ -25,7 +25,7 @@ class Header extends Component {
                 </div>
             </div>
             <div className="header-video">
-                <ReactPlayer width='100%' height='100%' url='https://vimeo.com/658183199' />
+                <ReactPlayer width='100%' height='auto' url='https://vimeo.com/658183199' />
             </div>
         </div>
     }

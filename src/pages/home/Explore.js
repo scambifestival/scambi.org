@@ -6,7 +6,7 @@ class Explore extends Component {
         return <div className='explore-main-container'>
             <div className='explore-title'>Explore Scambi Festival</div>
             <div>
-                <iframe className="explore-map" src="https://www.openstreetmap.org/export/embed.html?bbox=7.615242004394532%2C43.75621697418052%2C7.848701477050782%2C43.8835420221887&amp;layer=mapnik" >
+                <iframe className="explore-map" src="https://www.openstreetmap.org/export/embed.html?bbox=7.764823436737061%2C43.82261500966294%2C7.778985500335694%2C43.82944193035853&amp;layer=mapnik" >
                 </iframe>
             </div>
         </div>

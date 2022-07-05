@@ -7,8 +7,8 @@ class NavbarGlobal extends Component {
         return <div>
             <Navbar className="navbar" bg="light" expand="xl">
                 <Container>
-                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                    <Navbar.Collapse bsprefix="navbar-toggler-custom" id="basic-navbar-nav">
+                    <Navbar.Toggle bsprefix="navbar-collapse-custom" aria-controls="basic-navbar-nav" />
+                    <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
                             <Navbar.Brand className='left-logo' href="/">Scambi</Navbar.Brand>
                             <NavDropdown title="About Us" id="basic-nav-dropdown">
