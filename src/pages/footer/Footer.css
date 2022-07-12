@@ -1,0 +1,85 @@
+.blobFooter {
+	width: 500px;
+	height: 500px;
+}
+
+.footer {
+	background-color: white;
+	margin-top: 100px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+}
+
+.icon {
+	padding: 5px;
+	margin-bottom: 20px;
+	color: #69008d;
+}
+
+.contentsBlob {
+	position: absolute;
+	z-index: 3;
+	top: 180px;
+	left: 150px;
+}
+
+.blobFooter {
+	position: relative;
+	z-index: 1;
+}
+
+.headText {
+	/* H2 Headline, Light, 64px */
+	font-family: "Londrina Solid";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 64px;
+	margin-top: 30px;
+	margin-left: 40px;
+}
+
+.readyToJoin {
+	font-family: "Poppins";
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+	/* identical to box height */
+
+	color: #000000;
+}
+
+.purpledBtn {
+	color: white;
+
+	background: linear-gradient(
+			180deg,
+			rgba(255, 255, 255, 0.2) 0%,
+			rgba(255, 255, 255, 0) 69.78%
+		),
+		#69088d;
+	/* Button/Primary/Dropshadow */
+	box-shadow: 0px 4px 3px rgba(47, 4, 63, 0.7);
+	border-radius: 16px;
+}
+
+.topRight {
+	position: absolute;
+	right: 30px;
+}
+
+.footerTop {
+	position: relative;
+}
+
+.subscribeNews {
+	/* Subtitle 2, Semi Bold, 18px */
+	font-family: "Poppins";
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+
+	/* Main UI Colors/Primary/Purple */
+	color: #69088d;
+}

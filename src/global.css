@@ -1,0 +1,146 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background: linear-gradient(90deg, #e9afff 0%, #ffedc4 98.65%);
+}
+* {
+	font-family: 'Poppins';
+	font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: 'Londrina Solid';
+}
+
+h1 {
+	font-size: 102px;
+}
+
+h2 {
+	font-size: 64px;
+}
+
+h3 {
+	font-size: 32px;
+}
+
+h4 {
+	font-size: 24px;
+}
+
+button {
+	font-family: 'Poppins';
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 22px;
+	padding: 0.85em 3em;
+}
+
+.shadow {
+	filter: drop-shadow(0, 15px, 50px, #4d000000);
+}
+
+.yellow-pink-gradient {
+	background: linear-gradient(110deg, #ffecc0 15%, #ffb0c4 60%);
+}
+
+.yellow {
+	background-color: #ffd166;
+}
+
+.orange {
+	background-color: #eebdad;
+}
+
+.purple {
+	background-color: #69088d;
+}
+
+.dark-purple {
+	background-color: #4e0968;
+}
+
+.purple-outline {
+	border-color: #69088d;
+}
+
+.light-purple {
+	background-color: #edbbff;
+}
+
+.blue {
+	background-color: #aab4d6;
+}
+
+/* TailwindCSS style components */
+
+@layer components {
+	.btn-primary.regular {
+		@apply text-white bg-gradient-to-b from-fuchsia-800 to-transparent;
+	}
+
+	.btn-primary.regular:hover {
+		@apply bg-gradient-to-b from-transparent to-transparent;
+	}
+
+	.btn-primary.regular,
+	.btn-primary.regular:hover {
+		@apply bg-purple-650;
+	}
+
+	.btn-primary.regular:active {
+		@apply bg-purple-750;
+	}
+
+	.btn-secondary.regular {
+		@apply shadow-lg border-purple-650 border-3 bg-transparent;
+	}
+
+	.btn-secondary.regular:hover {
+		@apply bg-purple-250;
+	}
+
+	.btn-secondary.regular:active {
+		@apply bg-purple-900 text-white border-3 border-purple-900;
+	}
+
+	.btn-primary.regular,
+	.btn-light.regular {
+		@apply shadow-3xl;
+	}
+
+	.btn-light.regular {
+		@apply bg-white;
+	}
+
+	.btn-light.regular:hover {
+		@apply bg-gray-50;
+	}
+
+	.btn-light.regular:active {
+		@apply bg-gray-200;
+	}
+
+	.btn-action.regular {
+		@apply shadow-yellow-3xl bg-gradient-to-b from-yellow-200 to-transparent;
+	}
+
+	.btn-action.regular,
+	.btn-action.regular:hover {
+		@apply bg-yellow-450;
+	}
+
+	.btn-action.regular:hover,
+	.btn-action.regular:active {
+		@apply bg-gradient-to-b from-transparent to-transparent;
+	}
+
+	.btn-action.regular:active {
+		@apply bg-yellow-400;
+	}
+}

@@ -1,0 +1,44 @@
+.flex-container {
+	padding: 70px;
+}
+
+.flex-content {
+	width: 100%;
+	text-align: center;
+}
+
+.flex-image {
+	max-width: 70%;
+	margin-top: 1.5em;
+}
+
+@media (min-width: 768px){
+	.flex-container {
+		flex-wrap: nowrap;
+		justify-content: space-around;
+		gap: 5em;
+		width: 90%;
+		margin: auto;
+	}
+
+	.flex-content {
+		width: 70%;
+		text-align: left;
+	}
+
+	.flex-image {
+		min-width: 12em;
+		max-width: 30%;
+		margin-top: 0;
+	}
+}
+
+@media (min-width: 1280px){
+	.flex-container {
+		width: 75%;
+	}
+
+	.flex-image {
+		max-width: 20%;
+	}
+}
