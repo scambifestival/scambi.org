@@ -46,7 +46,7 @@ const Home = () => {
 				</div>
 			</Flex>
 
-			<Flex classes='w-full space-x-reverse lg:space-x-32' reverse={true}>
+			<Flex classes='w-full md:space-x-reverse space-x-0 md:space-x-32' reverse={true}>
 				<div className='flex-content'>
 					<h2 className='leading-tight lg:leading-normal'>
 						2022 Edition: “Imbalance”
