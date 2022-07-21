@@ -41,7 +41,7 @@ const Home = () => {
 						ideas.
 					</p>
 				</div>
-				<div className='w-1/4'>
+				<div className='w-1/2 lg:w-1/4'>
 					<img src={TableTalk} alt='' />
 				</div>
 			</Flex>
