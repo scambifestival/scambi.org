@@ -46,7 +46,7 @@ const Home = () => {
 				</div>
 			</Flex>
 
-			<Flex classes='w-full' reverse={true}>
+			<Flex classes='w-full space-x-reverse lg:space-x-32' reverse={true}>
 				<div className='flex-content'>
 					<h2 className='leading-tight lg:leading-normal'>
 						2022 Edition: “Imbalance”
@@ -63,14 +63,14 @@ const Home = () => {
 					</p>
 					<p className='mx-auto my-8 w-4/5 md:mx-0'>
 						Not sure where to start? Check out our{' '}
-						<a href='/#' className='font-semibold text-purple-650'>
+						<a href='/faq' className='font-semibold text-purple-650'>
 							Frequently Asked Questions
 							<i className='fa fa-chevron-right px-3' />
 						</a>
 					</p>
 					<Button>View the 2022 Program</Button>
 				</div>
-				<div className='flex-image'>
+				<div className='w-2/5 lg:w-1/5'>
 					<img src={Program} alt='' />
 				</div>
 			</Flex>
