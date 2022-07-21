@@ -75,10 +75,10 @@ const Home = () => {
 				</div>
 			</Flex>
 
-			<div className='flex flex-col items-center justify-center space-y-7 mt-16 lg:flex-row lg:space-x-14 lg:space-y-0'>
+			<div className='flex flex-col items-center justify-center space-y-7 mt-16 lg:flex-row lg:items-start lg:space-x-14 lg:space-y-0'>
 				{eventCards.map((event) => (
 					<Card classes='w-4/5 h-fit px-10 py-5 space-y-4 bg-white lg:w-1/4'>
-						<h4>{event.title}</h4>
+						<h4 className='font-["Poppins"] font-semibold'>{event.title}</h4>
 						<p className='text-left'>{event.description}</p>
 						<div className='text-left text-purple-650'>
 							<a href={`/${event.link}`}>
