@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const aboutUsDropdown = [
 	{ title: 'About Scambi', href: 'about' },
 	{ title: 'Our Story', href: '' },
-	{ title: 'Our Team', href: '' },
+	{ title: 'Our Team', href: 'ourTeam' },
 ];
 
 const festivalDropdown = [

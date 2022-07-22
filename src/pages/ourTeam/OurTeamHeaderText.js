@@ -20,7 +20,7 @@ const OurTeamHeaderText = (props) => {
                 We will be waiting for you in Sanremo, to introduce ourselves properly.
                 In the meanwhile, here is an anticipation of who we are.
 			</p>
-			<Button styleType='light' classes='mt-10'>Join Our Team </Button>
+			<Button styleType='light' classes='mt-10' href="joinTeam">Join Our Team </Button>
 		</div>
     );
 }
