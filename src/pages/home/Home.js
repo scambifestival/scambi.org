@@ -195,9 +195,9 @@ const Home = () => {
 				</p>
 			</div>
 
-			<div className='my-20 space-y-12'>
+			<div className='my-20 space-y-8 sm:space-y-12'>
 				<h2>Our Manifesto</h2>
-				<div className='flex flex-col justify-center mx-16 space-y-6 lg:space-x-5 lg:space-y-0 lg:flex-row xl:space-x-10 2xl:mx-32'>
+				<div className='flex flex-col justify-center mx-5 space-y-6 sm:mx-16 lg:space-x-5 lg:space-y-0 lg:flex-row xl:space-x-10 2xl:mx-32'>
 					{manifestoCards.map((card, index) => (
 						<Card
 							classes={`p-5 w-full h-fit lg:w-1/4 xl:w-1/5 ${
