@@ -25,8 +25,8 @@ const testimonials = [
 
 const Testimonials = () => {
 	return (
-		<div className='mt-6 lg:mt-10 xl:mt-32'>
-			<h2 className='px-10 leading-tight'>
+		<div className='mt-20 sm:mt-6 lg:mt-10 xl:mt-32'>
+			<h2 className='px-5 mb-14 sm:mb-0 sm:px-10 leading-tight'>
 				An experience people love to talk about
 			</h2>
 			<div className='flex flex-wrap justify-center mb-5 lg:mt-0 xl:mt-16'>
@@ -37,7 +37,7 @@ const Testimonials = () => {
 						<img
 							alt=''
 							src={testimonial.image}
-							className='absolute max-w-[12rem] -top-12 -right-14 lg:-top-14 lg:-right-10 xl:-top-24 xl:-right-20'
+							className='absolute max-w-[12rem] -top-14 -right-10 sm:-top-12 sm:-right-14 lg:-top-14 lg:-right-10 xl:-top-24 xl:-right-20'
 						/>
 						<div className='pb-8 text-lg font-semibold'>{testimonial.name}</div>
 						<p>{`"${testimonial.quote}"`}</p>
