@@ -27,7 +27,7 @@ const Home = () => {
 	return (
 		<div className='mainhome-container'>
 			<Header />
-			<Flex classes='mt-16'>
+			<Flex classes='px-5 mx-auto sm:mt-16'>
 				<div className='flex-content'>
 					<h2 className='leading-tight lg:leading-normal'>
 						What are paneuretic workshops?
@@ -41,12 +41,12 @@ const Home = () => {
 						ideas.
 					</p>
 				</div>
-				<div className='w-1/2 lg:w-1/4'>
+				<div className='w-4/5 sm:w-1/2 lg:w-1/4'>
 					<img src={TableTalk} alt='' />
 				</div>
 			</Flex>
 
-			<Flex classes='w-full md:space-x-reverse space-x-0 md:space-x-32' reverse={true}>
+			<Flex classes='px-5 w-full md:space-x-reverse space-x-0 md:space-x-32' reverse={true}>
 				<div className='flex-content'>
 					<h2 className='leading-tight lg:leading-normal'>
 						2022 Edition: “Imbalance”
@@ -70,7 +70,7 @@ const Home = () => {
 					</p>
 					<Button>View the 2022 Program</Button>
 				</div>
-				<div className='w-2/5 lg:w-1/5'>
+				<div className='w-4/5 sm:w-2/5 lg:w-1/5'>
 					<img src={Program} alt='' />
 				</div>
 			</Flex>
