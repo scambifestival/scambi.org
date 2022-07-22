@@ -152,9 +152,9 @@ const Home = () => {
 
 			<Testimonials />
 
-			<Flex>
-				<div className='md:text-left space-y-7 md:w-1/2 lg:w-3/5'>
-					<h2 className='leading-tight lg:leading-normal'>Scambi Family</h2>
+			<Flex classes='md:flex-col lg:flex-row px-7 sm:px-16 md:px-0 lg:space-x-24'>
+				<div className='lg:text-left space-y-7 lg:w-2/5'>
+					<h2 className='leading-none sm:leading-tight xl:leading-normal'>Scambi Family</h2>
 					<p className='mx-auto md:mx-0'>
 						We are a group of under 25s coming from every corner of Europe.
 					</p>
@@ -174,8 +174,8 @@ const Home = () => {
 						Volunteer with us
 					</Button>
 				</div>
-				<div className='md:w-1/2 lg:w-3/5'>
-					<img src={Volunteer} alt='' />
+				<div className='w-11/12 sm:w-4/5 md:w-3/5 lg:w-1/2 xl:w-2/5'>
+					<img src={Volunteer} className=' rounded-2xl' alt='' />
 				</div>
 			</Flex>
 
