@@ -213,9 +213,9 @@ const Home = () => {
 			</div>
 
 			<Flex
-				classes='my-1 px-8 space-y-10 md:space-x-reverse xl:gap-x-52'
+				classes='w-full mx-auto space-y-10 px-5 my-1 sm:px-8 md:px-0 md:space-x-reverse md:space-x-20'
 				reverse={true}>
-				<div className='w-4/5 flex flex-col text-center space-y-8 md:text-left'>
+				<div className='w-full flex flex-col text-center space-y-8 sm:w-4/5 md:text-left md:w-full'>
 					<h2 className='leading-tight lg:leading-normal'>Our Relations</h2>
 					<p className='mx-auto md:mx-0 w-full 2xl:w-4/5'>
 						Alone we would not have been able to concretize the magic of Scambi.
@@ -223,12 +223,12 @@ const Home = () => {
 						with local and non-local bodies, the public administration of
 						Sanremo and many other special people.
 					</p>
-					<div className='flex flex-row justify-center md:justify-start space-x-7'>
+					<div className='flex flex-col space-y-5 justify-center items-center sm:flex-row sm:items-stretch sm:space-x-5 sm:space-y-0 md:justify-start'>
 						<Button>Partner with us</Button>
 						<Button styleType='secondary'>Meet our partners</Button>
 					</div>
 				</div>
-				<div className='w-3/5 lg:w-4/12'>
+				<div className='w-4/5 sm:w-3/5 xl:w-3/5'>
 					<img src={Sponsors} alt='' />
 				</div>
 			</Flex>
