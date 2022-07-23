@@ -42,10 +42,7 @@ class FormComponent extends React.Component {
 	render() {
 		return (
 			<div>
-				<div
-					className={
-						"mb-3 flex " + (this.props.fileName === "Footer" && "flex-col")
-					}>
+				<div className={`mb-3 flex ${this.props.fileName === 'Footer' ? 'flex-col' : ''} ${this.props.classes || ''}`}>
 					<input
 						type="text"
 						id="email"
@@ -79,7 +76,6 @@ class FormComponent extends React.Component {
 						Subscribe
 					</button>
 				</div>
-				<div></div>
 			</div>
 		);
 	}
