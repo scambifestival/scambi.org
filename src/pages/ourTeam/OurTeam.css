@@ -4,7 +4,7 @@
 	height: 500px;
 	padding-top: 40px;
 	/* Subtitle 2, Semi Bold, 18px */
-	font-family: "Poppins";
+	font-family: 'Poppins';
 	font-style: normal;
 	font-size: 18px;
 }
@@ -21,19 +21,18 @@
 
 .scambi-text {
 	/* H2 Headline, Light, 64px */
-	font-family: "Londrina Solid";
+	font-family: 'Londrina Solid';
 	text-align: left;
 	font-size: 64px;
 }
 
 .joinTeamButton {
-    /*changed*/
+	/*changed*/
 	/* Auto layout */
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	gap: 8px;
 	width: 180px;
 	height: 46px;
 
@@ -48,7 +47,7 @@
 	flex-grow: 0;
 	background-color: white;
 	/* Button Text, Semi bold, 16px */
-	font-family: "Poppins";
+	font-family: 'Poppins';
 	font-style: normal;
 	font-weight: 600;
 	font-size: 16px;
@@ -85,7 +84,7 @@
 	font-size: 32px;
 	text-align: left;
 
-	font-family: "Londrina Solid";
+	font-family: 'Londrina Solid';
 	margin-bottom: 30px;
 }
 
@@ -112,7 +111,6 @@
 	flex-direction: column;
 	align-items: flex-start;
 	padding: 10px;
-	gap: 10px;
 	right: 20px;
 	width: 250px;
 	height: 60px;
@@ -131,7 +129,6 @@
 	justify-content: center;
 	align-items: center;
 	padding: 12px 40px;
-	gap: 8px;
 	background: linear-gradient(
 			180deg,
 			rgba(255, 255, 255, 0.2) 0%,
@@ -153,7 +150,7 @@
 
 .aboutExampleWorkshop-container {
 	background: linear-gradient(90deg, #e9afff 0%, #ffedc4 98.65%);
-	font-family: "Londrina Solid";
+	font-family: 'Londrina Solid';
 	padding: 20px;
 	height: 700px;
 }
@@ -183,7 +180,7 @@
 }
 
 .aboutQuoteText {
-	font-family: "Londrina Solid";
+	font-family: 'Londrina Solid';
 	padding: 100px 0;
 	text-align: center;
 	font-size: 64px;
@@ -209,7 +206,7 @@
 }
 
 .textOurTeam {
-	font-family: "Londrina Solid";
+	font-family: 'Londrina Solid';
 	text-align: left;
 	font-size: 64px;
 	margin-left: 30px;
@@ -220,37 +217,34 @@
 }
 
 .teams-background {
-    /* Rectangle 2293 */
+	/* Rectangle 2293 */
 
-    position: relative;
-    width: 100%;
-    left: 0px;
-    margin-top: 10%;
-    background: #FFFFFF;
+	position: relative;
+	width: 100%;
+	left: 0px;
+	margin-top: 10%;
+	background: #ffffff;
 }
 
 .team-row {
-    /* Auto layout */
+	/* Auto layout */
 
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 3%;
-    gap: 73px;
-
-    
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	padding: 3%;
 }
 
 .team-card {
-    /* Team Name Card */
-    /* Auto layout */
+	/* Team Name Card */
+	/* Auto layout */
 
-    margin: 5%;
-    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.2);
-    border-radius: 32px;
-    padding: 5%;
-    
-    /*
+	margin: 5%;
+	box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.2);
+	border-radius: 32px;
+	padding: 5%;
+
+	/*
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -268,153 +262,149 @@
     order: 0;
     flex-grow: 0;
     */
-
 }
 
 .card-title {
-    /* H3 Headline, Regular, 32px */
+	/* H3 Headline, Regular, 32px */
 
-    font-family: 'Londrina Solid';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 38px;
-    /* identical to box height */
+	font-family: 'Londrina Solid';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 38px;
+	/* identical to box height */
 
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.25px;
-    justify-content: center;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.25px;
+	justify-content: center;
 
-    color: #000000;
+	color: #000000;
 
+	/* Inside auto layout */
 
-    /* Inside auto layout */
-
-    flex: none;
-    order: 0;
-    flex-grow: 0;
+	flex: none;
+	order: 0;
+	flex-grow: 0;
 }
 
 .card-subtitle {
-    /* Subtitle 2, Semi Bold, 18px */
+	/* Subtitle 2, Semi Bold, 18px */
 
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
-    /* identical to box height */
-    justify-content: center;
-    display: flex;
-    align-items: center;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+	/* identical to box height */
+	justify-content: center;
+	display: flex;
+	align-items: center;
 
-    color: #000000;
+	color: #000000;
 
+	/* Inside auto layout */
 
-    /* Inside auto layout */
-
-    flex: none;
-    order: 1;
-    flex-grow: 0;
+	flex: none;
+	order: 1;
+	flex-grow: 0;
 }
 
 .card-content {
-    /* Body, Regular, 16px */
+	/* Body, Regular, 16px */
 
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* or 150% */
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	/* or 150% */
 
-    display: flex;
-    align-items: center;
-    text-align: center;
+	display: flex;
+	align-items: center;
+	text-align: center;
 
-    color: #000000;
+	color: #000000;
 
+	/* Inside auto layout */
 
-    /* Inside auto layout */
-
-    flex: none;
-    order: 2;
-    flex-grow: 0;
+	flex: none;
+	order: 2;
+	flex-grow: 0;
 }
 
 .support-us {
-    position: relative!important;
+	position: relative !important;
 }
 
 .card-image {
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    align-self: center;
-    margin: auto;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	align-self: center;
+	margin: auto;
 }
 
 .card-container {
-    justify-content: center;
-    align-items: center;
-    align-items: center;
-    text-align: center;
+	justify-content: center;
+	align-items: center;
+	align-items: center;
+	text-align: center;
 }
 
 .volunteer-card {
-    background: #EEBDAD;
+	background: #eebdad;
 }
 
-.volunteer-image{
-    width: 32px;
-    height: 87.9px;
-    margin: auto;
-    margin-top: 10px;
+.volunteer-image {
+	width: 32px;
+	height: 87.9px;
+	margin: auto;
+	margin-top: 10px;
 }
 
 .get-tickets-image {
-    width: 64px;
-    height: 78.52px;
-    margin: auto;
-    margin-top: 10px;
+	width: 64px;
+	height: 78.52px;
+	margin: auto;
+	margin-top: 10px;
 }
 
 .donate-image {
-    width: 42px;
-    height: 79px;
-    margin: auto;
-    margin-top: 10px;
+	width: 42px;
+	height: 79px;
+	margin: auto;
+	margin-top: 10px;
 }
 
 .button-center {
-    margin: auto;
-    margin-top: 10px;
+	margin: auto;
+	margin-top: 10px;
 }
 
 .our-team-footer {
-    /* Auto layout */
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0px;
+	/* Auto layout */
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 0px;
 
-    width: 100%;
-    height: 45vh;
-    left: 0px;
-    top: 4407px;
+	width: 100%;
+	height: 45vh;
+	left: 0px;
+	top: 4407px;
 
-    background: #FFFFFF;
-    /* Large Elements */
+	background: #ffffff;
+	/* Large Elements */
 
-    box-shadow: 0px 15px 50px rgba(0, 0, 0, 0.3);
-    border-radius: 50px 50px 0px 0px;
+	box-shadow: 0px 15px 50px rgba(0, 0, 0, 0.3);
+	border-radius: 50px 50px 0px 0px;
 }
 
 .our-team-image {
-    width: 100%;
-    height: auto;
+	width: 100%;
+	height: auto;
 }
 
 .our-team-header-text {
@@ -422,10 +412,10 @@
 }
 
 .team-link {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 22px;
-    color: #69088D;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 22px;
+	color: #69088d;
 }
