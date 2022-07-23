@@ -6,12 +6,12 @@ import EmailValidation from './../../components/emailValidation/EmailValidation'
 class NLSubscribe extends Component {
 	render() {
 		return (
-			<div className='main-container px-10'>
-				<div className='left-container hidden 2xl:block'>
-					<img src={SubscribeImage} alt='' />
+			<div className='w-11/12 flex flex-row items-center bg-transparent mx-auto drop-shadow-2xl sm:w-max sm:mx-10'>
+				<div className='left-container hidden xl:block w-full h-full'>
+					<img src={SubscribeImage} alt='' className=''/>
 				</div>
-				<div className='right-container rounded-3xl 2xl:rounded-none 2xl:rounded-r-3xl'>
-					<div className='inner-container'>
+				<div className='w-full h-full flex justify-center items-center bg-purple-650 rounded-3xl py-16 xl:py-0 xl:rounded-none xl:rounded-r-3xl'>
+					<div className='inner-container w-10/12 space-y-3 text-left'>
 						<div className='upper-subtitle'>
 							exchanges of letters, our newsletter
 						</div>
