@@ -101,17 +101,17 @@
 	/* width: 477px; */
 }
 
+.incorrectText.incorrectTextNL {
+	top: 15px;
+	left: 0px;
+}
+
+@media (min-width:640px) {
+	.incorrectText.incorrectTextNL {
+		top: 3.5rem;
+	}
+}
+
 .inputForNL {
 	width: 100%;
 }
-
-/* .inputForNL {
-	width: 20rem;
-	margin-right: 20px;
-}
-
-@media (max-width: 800px) {
-	.inputForNL {
-		width: 10rem;
-	}
-} */

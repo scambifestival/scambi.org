@@ -21,9 +21,7 @@ class NLSubscribe extends Component {
 							activities.
 						</div>
 						<div className='email-fields'>
-							<EmailValidation fileName='NLSubscribe'>
-								Subscribe
-							</EmailValidation>
+							<EmailValidation fileName='NLSubscribe' classes='flex flex-col items-stretch space-y-10 sm:flex-row sm:space-x-3 sm:space-y-0 '/>
 						</div>
 					</div>
 				</div>
