@@ -237,8 +237,8 @@ const Home = () => {
 				<NLSubscribe />
 			</div>
 
-			<div className='px-20 my-10'>
-				<h2 className='text-left py-5'>Explore Scambi Festival</h2>
+			<div className='mx-5 sm:mx-20 my-10'>
+				<h2 className='sm:text-left py-5 leading-tight'>Explore Scambi Festival</h2>
 				<Map />
 			</div>
 		</div>
