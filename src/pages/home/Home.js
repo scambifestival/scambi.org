@@ -200,9 +200,8 @@ const Home = () => {
 				<div className='flex flex-col justify-center mx-5 space-y-6 sm:mx-16 lg:space-x-5 lg:space-y-0 lg:flex-row xl:space-x-10 2xl:mx-32'>
 					{manifestoCards.map((card, index) => (
 						<Card
-							classes={`p-5 w-full h-fit lg:w-1/4 xl:w-1/5 ${
-								index % 2 === 0 ? 'yellow-pink-gradient' : 'bg-white'
-							}`}
+							classes={`p-5 w-full h-fit lg:w-1/4 xl:w-1/5 ${index % 2 === 0 ? 'yellow-pink-gradient' : 'bg-white'
+								}`}
 							key={`manifesto-${index}`}>
 							<h3 className='leading-loose'>{card.title}</h3>
 							<p className='leading-relaxed'>{card.description}</p>
@@ -213,11 +212,12 @@ const Home = () => {
 			</div>
 
 			<Flex
-				classes='w-full mx-auto space-y-10 px-5 my-1 sm:px-8 md:px-0 md:space-x-reverse md:space-x-20'
-				reverse={true}>
-				<div className='w-full flex flex-col text-center space-y-8 sm:w-4/5 md:text-left md:w-full'>
+				classes='w-full mx-auto space-y-10 px-5 my-1 sm:px-8 md:px-0 md:space-x-reverse md:space-x-20 xl:space-x-reverse xl:space-x-36'
+				reverse={true}
+			>
+				<div className='w-full flex flex-col text-center space-y-8 sm:w-4/5 md:text-left md:w-full xl:w-3/5 2xl:w-2/5'>
 					<h2 className='leading-tight lg:leading-normal'>Our Relations</h2>
-					<p className='mx-auto md:mx-0 w-full 2xl:w-4/5'>
+					<p>
 						Alone we would not have been able to concretize the magic of Scambi.
 						What makes our festival unique are the relationships and the bonds
 						with local and non-local bodies, the public administration of
@@ -228,7 +228,7 @@ const Home = () => {
 						<Button styleType='secondary'>Meet our partners</Button>
 					</div>
 				</div>
-				<div className='w-4/5 sm:w-3/5 xl:w-3/5'>
+				<div className='w-4/5 sm:w-3/5 xl:w-2/5 2xl:w-1/4'>
 					<img src={Sponsors} alt='' />
 				</div>
 			</Flex>
