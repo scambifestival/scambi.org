@@ -69,9 +69,10 @@ class FormComponent extends React.Component {
 					<button
 						onClick={() => this.onSubmit()}
 						className={
-							this.props.fileName === "Footer"
+							`active:brightness-95 
+							${this.props.fileName === "Footer"
 								? "purpledBtnNL"
-								: "submit-button"
+								: "submit-button"}`
 						}>
 						Subscribe
 					</button>
