@@ -1,11 +1,25 @@
 import Image from 'next/image';
 import { useTranslation } from 'next-i18next';
 
+import { subscribe } from '../../lib/communications';
+
 import SubscribeImg from '../../public/illustrations/subscribe.png';
 import Button from '../button';
+import { useState } from 'react';
 
 export default function Subscribe() {
 	const { t } = useTranslation('subscribe');
+	const [email, setEmail] = useState('');
+
+	const handleInput = (e) => {
+		setEmail(e.target.value);
+	};
+
+	const handleSubmit = (e) => {
+		e.preventDefault();
+		subscribe(email);
+	};
+
 	return (
 		<div className='flex rounded-[32px] bg-primary text-white mx-16 drop-shadow-2xl md:flex-row GalaxyFold:flex-col GalaxyFold:w-60 iPhoneSE:w-full'>
 			<Image

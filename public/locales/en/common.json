@@ -1,0 +1,18 @@
+{
+	"subscribe": {
+		"button": "Subscribe",
+		"input": "Enter your email"
+	},
+	"activities": [
+		{
+			"title": "Workshops",
+			"description": "Collective experiences led by specialists who will accompany us through a variety of fields with the objective of discovering new things and people in an original way, in order to develop new bonds and values.",
+			"link": ""
+		},
+		{
+			"title": "Mini Events",
+			"description": "Mini-events that come to life in La Pigna, including the reading of Poesie a Colazione, the secondhand clothing exchange Da Capo, innovative solutions for the storage of virtual data and much more.",
+			"link": ""
+		}
+	]
+}
