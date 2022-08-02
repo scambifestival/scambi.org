@@ -5,6 +5,8 @@ import Button from '../../components/button';
 import Card from '../../components/card';
 import { pinoli } from '../../assets/pinoli';
 import Carousel from '../../components/carousel';
+import SupportUs from '../../components/support-cards';
+import { getPinoli } from '../../lib/pinoli';
 
 export default function Pinoli() {
 	return (
@@ -44,11 +46,9 @@ export default function Pinoli() {
 				<Map />
   </div>*/}
 
-			{/*<div className='flex flex-wrap justify-center mx-10 lg:mx-20'>
-				{populate()}
-</div>*/}
+			<div className='grid grid-cols-1 lg:grid-cols-3 mx-10 lg:mx-20'></div>
 
-			<Flex classes='mx-auto'>
+			{/*<Flex classes='mx-auto'>
 				<h1>More Info Coming Soon!</h1>
 				<Image
 					src='/illustrations/rocket.png'
@@ -56,54 +56,19 @@ export default function Pinoli() {
 					width={382}
 					height={500}
 				/>
-			</Flex>
+</Flex>*/}
 
-			<div className='my-40'>
-				<h2 className='text-center mb-10'>Support Us Today</h2>
-				<div className='grid grid-cols-1 lg:grid-cols-3 lg:gap-x-10 px-10'>
-					<Card classes='bg-[#EEBDAD] text-center py-10 space-y-5'>
-						<h4>Volunteer with us</h4>
-						<p>Join us in the festivities and help from the inside!</p>
-						<div>
-							<Image
-								src='/illustrations/support1.png'
-								width={32}
-								height={88}
-								alt=''
-							/>
-						</div>
-						<Button>Volunteer</Button>
-					</Card>
-					<Card classes='bg-[#EDBBFF] text-center py-10 space-y-5'>
-						<h4>Join us Aug 25 - 28, 2022</h4>
-						<p>Celebrate with us this year, tickets are free of charge.</p>
-						<div>
-							<Image
-								src='/illustrations/support2.png'
-								width={32}
-								height={88}
-								alt=''
-							/>
-						</div>
-						<Button>Get Tickets</Button>
-					</Card>
-					<Card classes='bg-[#AAB4D6] text-center py-10 space-y-5'>
-						<h4>Donate Securely</h4>
-						<p>
-							Make a one-time or monthly donation to help run Scambi Festival.
-						</p>
-						<div>
-							<Image
-								src='/illustrations/support3.png'
-								width={32}
-								height={88}
-								alt=''
-							/>
-						</div>
-						<Button>Donate</Button>
-					</Card>
-				</div>
-			</div>
+			<SupportUs />
 		</section>
 	);
+}
+
+export async function getStaticProps() {
+	const pinoli = await getPinoli();
+
+	return {
+		props: {
+			pinoli,
+		},
+	};
 }
