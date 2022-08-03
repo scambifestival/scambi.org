@@ -12,7 +12,7 @@ export default function Labs({ labs }) {
 	const locale = router.locale;
 
 	return (
-		<section className='mt-48'>
+		<section>
 			<Flex classes='items-center mx-auto'>
 				<div className='text-left'>
 					<h2 className='font-semibold mb-3'>Labs</h2>

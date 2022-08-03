@@ -6,7 +6,7 @@ import { data } from '../assets/data';
 
 export default function FAQ() {
 	return (
-		<section className='mt-32'>
+		<section>
 			<div className='flex flex-col items-center lg:flex-row mx-auto justify-between'>
 				<h2 className='text-center lg:px-16'>Frequently Asked Questions</h2>
 				<Image src='/faq.png' alt='' width={660} height={500} />

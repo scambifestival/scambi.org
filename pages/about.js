@@ -9,7 +9,7 @@ import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 
 export default function About() {
 	return (
-		<section className='mt-32'>
+		<section>
 			<Flex classes='mx-auto my-10 GalaxyFold:p-6 md:flex-col lg:flex-row'>
 				<div className='xl:w-1/2 md:w-auto w-full'>
 					<h2 className='lg:mt-16 text-left'>About Scambi</h2>

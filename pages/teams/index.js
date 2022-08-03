@@ -7,7 +7,7 @@ import matter from 'gray-matter';
 
 export default function Teams({ teams }) {
 	return (
-		<section className='mt-40'>
+		<section>
 			<Flex classes='mx-auto justify-between'>
 				<div className='lg:w-1/2 mr-5'>
 					<h2>Our Teams</h2>
