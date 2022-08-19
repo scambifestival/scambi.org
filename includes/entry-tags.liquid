@@ -1,0 +1,10 @@
+<div class='flex'>
+	{% for tag in alltags -%}
+		{% for rawtag in tags -%}
+			{% capture postag -%}{{ rawtag | replace: '/', ' ' }}{% endcapture %}
+			{% if postag contains tag.title -%}
+				<span href='/category/{{ tag.title | replace: ' ', '-' | downcase }}' rel='tag' class='{{ tag.title | replace: ' ', '-' | downcase }} {{ size }} written button p-category'>{{ tag.title }}</span>
+			{% endif -%}
+		{% endfor -%}
+	{% endfor -%}
+</div>

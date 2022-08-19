@@ -1,0 +1,18 @@
+<section class='row' id='staff'>
+	<div class='half column'>
+		<h2>{% if lang == 'it' %}Lo{% else %}The{% endif %} staff</h2>
+		<p>{% if lang == 'it'%}Siamo una squadra di volontari <strong><em lang='en'>under-25</em></strong> provenienti da ogni angolo d’Europa. La nostra associazione è nata da un gruppo di amici che sentivano la necessità di creare occasioni di incontro orizzontale nel territorio sanremese, per stimolare curiosità e dialogo.</p>
+		<p>Siamo mattз, diversз, ambiziosз. Vi aspettiamo alla Pigna per conoscerci.{% else %}We are a group of under-25 friends coming from every corner of the world. Our association was born from our wish to value real and deep ties, horizointality and dialogue, curiosity and welcoming of the different.</p>
+		<p>We will be waiting for you in Sanremo, to introduce ourselves properly.{% endif %}</p>
+		<div class='flex'>
+			{% if lang == 'it' %}
+				<a class='button' href='mailto:staff@scambi.org?subject=Vorrei%20unirmi%20allo%20staff&text=Nome%3A%0ACognome%3A%0APerch%C3%A9%20vorrei%20unirmi%3A%0ACome%20ho%20scoperto%20Scambi%20Festival%3A%0AQuale%20ruolo%20mi%20interessa%3A' title='Unisciti!'>Unisciti a noi!</a>
+			{% else %}
+				<a class='button' href='mailto:staff@scambi.org?subject=I%20would%20like%20to%20join!&text=Name%3A%0ASurname%3A%0AHow%20did%20I%20find%20out%20about%20the%20Festival%3A%0AThe%20role%20I%20am%20interested%20in%3A' title='Join!'>Join!</a>
+			{% endif %}
+		</div>
+	</div>
+	<div class='half column'>
+		<img src='https://x.scambi.org/images/staff.webp' alt='{% if lang == 'it' %}Uno scatto dello staff davanti al pubblico dell’inaugurazione di Scambi 2022{% else %}A shot of the staff during the 2021 opening ceremony{% endif %}'>
+	</div>
+</section>

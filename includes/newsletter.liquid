@@ -1,0 +1,14 @@
+<section class='row yellow box' id='newsletter'>
+		<div class='one-third column'>
+			<img src='https://x.scambi.org/illustrations/press.webp'>
+		</div>
+		<div class='two-thirds column'>
+			<h2><cite>Scambi Epistolari</cite></h2>
+			<p>Leggendo la newsletter potrai rimanere aggiornatə su tutte le attività di Scambi, nonché esplorare più a fondo le tematiche trattate, con approfondimenti tematici, interviste esclusive e nostre riflessioni su quello che accade intorno a noi.</p>
+			<form action='https://buttondown.email/api/emails/embed-subscribe/scambi' method='post' class='flex'>
+				<input type='email' name='email' id='bd-email' placeholder='digita il tuo indirizzo email' />
+				<input type='submit' value='Iscriviti' class='purple' />
+				{% if lang == 'it' %}<input type='hidden' name='tag' value='Italian' />{% endif %}
+			</form>
+		</div>
+</section>

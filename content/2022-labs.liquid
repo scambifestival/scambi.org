@@ -1,0 +1,14 @@
+---
+title: Lab 2022
+class: gradient
+permalink: /2022/labs/
+redirect_from: ['/2022/lab/']
+---
+<section class='flex row' id='lab-list'>
+	{% for lab in 2022-labs %}
+		<a id='{{ lab.title | slugify}}' class='shrink box' href='/2022/lab/{{ forloop.index }}'>
+			<h3>{{ lab.title }}</h3>
+			<p>{{ lab.description | truncate: 200 }}</p>
+		</a>
+	{% endfor %}
+</section>

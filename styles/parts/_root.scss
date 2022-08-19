@@ -1,0 +1,32 @@
+:root {
+	--black-ish: #2A1532;
+	--white: #FBFBFB;
+	--dark-grey: #555;
+	--light-grey: #AAA;
+	--yellow: #FFD166;
+	--blue: #233FB9;
+	--dark-blue: #11305B;
+	--light-blue: #ADCFFF;
+	--red: #D00;
+	--green: #88D18A;
+	--razzmatazz: #EC0868;
+	--purple: #69088D;
+	--dark-purple: #480B5E;
+	--orange: #EF7D6E;
+	--darkmatazz: #D0031F;
+	--gradient: linear-gradient(98deg, #FFEDC4 0%, #E9AFFF 98.65%), var(--white);
+	--saturated-gradient: linear-gradient(-110deg, #FFD166 0%, #69088D 98.65%), var(--white);
+	--blue-gradient: linear-gradient(110deg, #233FB911, #EF7D6E44), #233FB911;
+	--blue-gradient-inverted: linear-gradient(#233FB911, #EF7D6E44), #233FB911;
+	--vertical-gradient: linear-gradient(180deg, #FFD16622, #EF7D6E33),#FFD16655;
+	--neat-orange-shadow: 3px 3px 0 var(--orange);
+	--neat-purple-shadow: 3px 3px 0 var(--purple);
+	
+	--invert: grayscale(.5) invert(.9) brightness(.95) hue-rotate(180deg);
+	--invert-dark: grayscale(.1) invert(1) brightness(1.1) hue-rotate(180deg);
+
+	--title-text-shadow-hover: none;
+
+	--font-main: Poppins, system-ui, -apple-system, Inter, Helvetica, sans-serif,'Apple Color Emoji','Segoe UI Emoji';
+	--font-heading: 'Londrina Solid', system-ui, -apple-system, sans-serif,'Apple Color Emoji','Segoe UI Emoji';
+}

@@ -1,0 +1,26 @@
+[
+	{
+		"title": "SquiLibristi",
+		"color": "#11305B",
+		"background": "linear-gradient(160deg, #FACC60, #FFD778)",
+		"description": "Letture squilibrate e intense. <cite>SquiLibristi</cite> è il gruppo di lettura di Scambi Festival."
+	},
+	{
+		"title": "Dissolvenze",
+		"color": "#FBFBFB",
+		"background": "linear-gradient(160deg, #580876, #223BAC)",
+		"description": "Narrazioni dal mondo del cinema che si intreccia con la vita di Scambi. Approfondimenti e riflessioni sulla magia del grande schermo."
+	},
+	{
+		"title": "Cartoline",
+		"color": "#11305B",
+		"background": "linear-gradient(160deg, #E77566, #FB8E80)",
+		"description": "Ricordi di cose belle da edizioni passate. Le cartoline raccontano i Lab delle edizioni precedenti del festival."
+	},
+	{
+		"title": "Intro",
+		"color": "#F5EAD7",
+		"background": "linear-gradient(160deg, #1B004D, #69088D)",
+		"description": "Presentazioni in prosa dello staff del festival."
+	}
+]
