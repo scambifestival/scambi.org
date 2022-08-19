@@ -13,8 +13,7 @@ layout: wrapper
 		</div>
 		<div class='half column' id='data'>
 			<strong>Location</strong>: {{ item.location }}<br>
-			<strong>Giorni</strong>: {{ item.days }}<br>
-			<strong>Orari</strong>: {{ item.start_times }}<br>
+			<strong>Quando</strong>:<br>{{ item.times | markdownify }}<br>
 			<strong>Host</strong>: <b class='color'>{{ item.host }}</b><br>
 			<figure><img src='{{ item.image }}' alt='{{ item.title }}'></figure>
 		</div>

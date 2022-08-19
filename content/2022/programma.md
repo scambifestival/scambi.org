@@ -6,102 +6,99 @@ layout: page
 permalink: /2022/programma/
 redirect_from: [/programma/]
 ---
+<div class='center'><strong>Iscrizioni aperte dal 20 agosto!</strong></div>
+
 ## Giovedì 25 agosto 2022
 
 - **9:30 - 18:00** <strong style='color:var(--orange)'>allestimento collettivo</strong>
-- **18:00 - 19:00** cerimonia di inaugurazione
-- **19:00 - 20:00** concerto di inaugurazione tenuto dall'orchestra *Note Libere*
-- **21:15 - 22:45** Cinema sotto le stelle: film "L'uomo che non c'era"
-- **22:15 - 22:30** osservazione del cielo stellato offerta dall'associazione Orbita
+- **18:00 - 19:00** cerimonia di inaugurazione di Scambi Festival 2022
+- **19:00 - 20:00** concerto della Giovane Orchestra <cite>Note Libere</cite>, in apertura all’edizione 2022 del festival
+- **21:15 - 23:15** Cinema sotto le stelle: proiezione del film <cite>L’uomo che non c’era</cite> in <u>Piazza Santa Brigida</u>
+- **23:00 - 24:00** Osservazione del cielo stellato, con l’associazione <cite>Orbita</cite>, dall’osservatorio astronomico di Perinaldo, presso i <u>Giardini Regina Elena</u>
 
 ---
 
-## Generdì 26 agosto 2022
+## Venerdì 26 agosto 2022
 
-- **9:00 - 10:00** SquiLibristi presso La Ciotola
-- **10:00 - 11:30** Dietro le quinte: laboratorio di fotografia presso Chiesa Santa Brigida
-- **10:00 - 12:00** Inside Out presso i Giardini Regina Elena
-- **10:00 - 11:00** Il sorriso, Squilibrio di Massa presso Piazza Cassini
-- **10:15 - 11:15** Nodi presso l'Oratorio San Costanzo
-- **10:30 - 12:00** Esperimenti squilibrati presso palazzo Nota (museo civico)
-- **10:45 - 11:30** Equilibrare il corpo attraverso lo sport in piazza Santa Brigida
-- **10:45 - 11:45** Squilibrio e ambiente presso Terrazza San Costanzo
-- **10:45 - 12:15** Kleckso-Art in Terrazza Santa Brigida
-- **15:00 - 17:00** Cineforum "Scambi in sala" presso Chiesa Santa Brigida
-- **16:00 - 17:30** Cambiare Scenario presso Piazza Cassini
-- **16:30 - 17:30** Squilibrio e ambiente presso Terrazza San Costanzo
-- **16:30 -18:30** Inside Out presso i Giardini Regina Elena
-- **17:00 - 18:30** Esperimenti squilibrati presso palazzo Nota (museo civico)
-- **17:00 - 18:30** Dietro le quinte: laboratorio di fotografia presso Piazzetta Santa Brigida
-- **17:00 - 18:15** I teatri degli squilibri presso Piazza San Costanzo
-- **17:15 - 17:35** Rassegna cortometraggi Dissolvenze presso Chiesa Santa Brigida
-- **17:30 - 18:30** Nodi presso Oratorio San Costanzo
-- **17:30 - 18:30** Il sorriso, squilibrio di massa presso Piazza Cassini
-- **17:30 - 18:30** Esperimenti squilibrati presso Palazzo Nota
-- **17:45 - 18:45** Tai Chi presso Terrazza Santa Brigida
-- **18:00 - 19:00** Game Boy Music Production presso Chiesa Santa Brigida
-- **18:00 - 19:00** [<cite>SanTo</cite> (Sanremo - Torino) ospita Christian Gullone e Stefano Michero](https://officinebrand.it/eventi/a-sanremo-il-santo-sanremo-torino-ospita-christian-gullone-e-stefano-michero) presso Palazzo Gentile
-- **21:00 - 22:00** DJ Set live presso Piazza Santa Brigida
-- **22:15 - 22:30** Live set di Internet Breakfast presso Piazza Santa Brigida
-- **22:45 - 23:30** Live set di Kenobit presso Piazza santa Brigida
-
+- **8:45 - 10:00** <cite>SquiLibristi</cite>, lettura di poesie e brani con *fugassa* e caffè; presso <u><cite>La Ciotola</cite>
+- **10:00 - 11:30** <strong class='blue'>Lab</strong> [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4);presso <u>Chiesa Santa Brigida</u>
+- **10:00 - 11:30** <strong class='blue'>Lab</strong> [<cite>Kleckso-Art</cite>](/2022/lab/13) in <u>Terrazza Santa Brigida</u>
+- **10:00 - 12:00** <strong class='blue'>Lab</strong> [<cite>Inside Out</cite>](/2022/lab/12) presso i <u>Giardini Regina Elena</u>
+- **10:15 - 11:15** <strong class='blue'>Lab</strong> [<cite>Nodi</cite>](/2022/lab/16), presso l’<u>Oratorio San Costanzo</u>
+- **10:30 - 12:00** <strong class='blue'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
+- **10:45 - 11:30** <strong class='blue'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/5) in <u>piazza Cisterna</u>
+- **10:00 - 12:00** <strong class='blue'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/17) presso <u>Terrazza San Costanzo</u>
+- **11:30 - 13:00** 🇬🇧 IN ENGLISH <strong class='blue'>Lab</strong> [<cite>Kleckso-Art</cite>](/2022/lab/13) in <u>Terrazza Santa Brigida</u>
+- **15:00 - 17:00** Cineforum **<cite>Scambi in sala</cite>** presso la <u>Chiesa di Santa Brigida</u>
+- **16:00 - 17:30** <strong class='blue'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
+- **17:00 - 19:00** <strong class='blue'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/17) presso <u>Terrazza San Costanzo</u>
+- **16:30 - 18:30** <strong class='blue'>Lab</strong> [<cite>Inside Out</cite>](/2022/lab/12) presso i <u>Giardini Regina Elena</u>
+- **17:00 - 18:30** <strong class='blue'>Lab</strong> [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4) presso <u>piazzetta Santa Brigida</u>
+- **17:00 - 18:15** <strong class='blue'>Lab</strong> [I teatri degli squilibri](/2022/lab/9) presso <u>piazza San Costanzo</u>
+- **17:15 - 17:35** Rassegna cortometraggi <cite>Dissolvenze</cite> presso <u>Chiesa Santa Brigida</u>
+- **17:30 - 18:30** <strong class='blue'>Lab</strong> [<cite>Nodi</cite>](/2022/lab/16), presso l’<u>Oratorio San Costanzo</u>
+- **17:30 - 19:00** <strong class='blue'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
+- **18:30 - 19:30** <strong class='blue'>Lab</strong> [<cite>Tai Chi</cite>](/2022/lab/18) presso <u>Giardini Regina Elena</u>
+- **18:00 - 19:00** [<cite>Game Boy Music Production</cite>](/2022/lab/8) presso <u>Chiesa Santa Brigida</u>
+- **18:00 - 21:00** [<cite>SanTo</cite> (Sanremo - Torino) ospita Christian Gullone e Stefano Michero](https://officinebrand.it/eventi/a-sanremo-il-santo-sanremo-torino-ospita-christian-gullone-e-stefano-michero) presso <u>Palazzo Gentile</u>
+- **21:30 - 24:00** Live set di <cite>Internet Breakfast</cite> e <cite>Kenobit</cite>
 ---
 
 ## Sabato 27 agosto 2022
 
-- **8:30-9:00** Squilibristi presso La Ciotola
-- **10:00 -11:30** Dietro le quinte: laboratorio di fotografia presso Chiesa di Santa Brigida
-- **10:00-12:00** Inside Out presso Giardini Regina Elena
-- **10:00 - 11:15** I teatri degli squilibri presso Piazza San Costanzo
-- **10:00 - 11:00** Il mio mare di parole presso Porta San Giuseppe
-- **10:30-12:00** Esperimenti squilibrati presso Palazzo Nota (museo civico)
-- **10:30 - 11:45** Fediverse Social Network Umani presso Terrazza Santa Brigida
-- **10:30 - 11:30** Attivismo a costo zero presso Via Tapoletti
-- **11:15-12:00** Equilibrare il corpo attraverso lo sport in piazza Santa Brigida
+- **8:45 - 10:00** <cite>SquiLibristi</cite>, lettura di poesie e brani con *fugassa* e caffè; presso <u><cite>La Ciotola</cite></u>
+- **10:00 - 11:30** <strong class='blue'>Lab</strong> [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4);presso <u>Chiesa Santa Brigida</u>
+- **10:00 - 12:00** <strong class='blue'>Lab</strong> [<cite>Inside Out</cite>](/2022/lab/12) presso i <u>Giardini Regina Elena</u>
+- **10:00 - 11:15** <strong class='blue'>Lab</strong> [<cite>I teatri degli squilibri</cite>](/2022/lab/9) presso <u>piazza San Costanzo</u>
+- **10:00 - 11:00** <strong class='blue'>Lab</strong> [<cite>Il mio mare di parole</cite>](/2022/lab/10) presso <u>porta San Giuseppe</u>
+- **10:30 - 12:00** <strong class='blue'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
+- **10:30 - 11:45** <strong class='blue'>Lab</strong> [<cite><em>Fediverse</em>: Social Network Umani</cite>](/2022/lab/7) presso <u>terrazza Santa Brigida</u>
+- **10:30 - 11:30** <strong class='blue'>Lab</strong> [<cite>Attivismo a costo zero</cite>](/2022/lab/1) presso <u>via Tapoletti</u>
+- **11:15 - 12:00** <strong class='blue'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/5) in <u>piazza Cisterna</u>
 - **11:45 - 12:15** Rassegna cortometraggi Dissolvenze presso Centro Risorse
-- **15:00 - 17:00** Cineforum "Scambi in sala" presso Chiesa Santa Brigida
-- **16:00 -18:00** Inside Out presso Giardini Regina Elena
-- **16:00 -18:00** Laboratalbero presso Giardini Regina Elena
-- **16:15 - 17:15** Cambiare Scenario presso Piazza Cassini
-- **16:30 - 18:30** Vado a mappare la Pigna su #OpenStreetMap partenza da Piazza Cassini
-- **16:30 - 17:30** Tai Chi presso PIazza Santa Brigida
-- **16:30 - 18:45** Attivismo a costo zero presso Via Tapoletti (due ripetizioni in italiano)
-- **17:00 - 18:00** Nodi presso Oratorio San Costanzo
-- **17:30 - 19:00** Dietro le quinte: laboratorio di fotografia presso Chiesa Santa Brigida
-- **17:30 - 19:00** Esperimenti squilibrati presso Palazzo Nota
-- **17:30 - 18:30** Il mio mare di parole presso Porta San Giuseppe
-- **17:30 - 18:30** Squilibrio e ambiente presso Terrazza San Costanzo
+- **15:00 - 16:00** <strong class='blue'>Lab</strong> [<cite>Vado a mappare la Pigna su #OpenStreetMap</cite>](/2022/lab/19); itinerante, a partire da <u>Piazza Cassini</u>
+- **15:00 - 17:00** Cineforum **<cite>Scambi in sala</cite>** presso il <u>Centro risorse, piazza Cassini</u>
+- **16:00 - 17:15** <strong class='blue'>Lab</strong> [<cite><em>Fediverse</em>: Social Network Umani</cite>](/2022/lab/7) presso <u>terrazza Santa Brigida</u>
+- **16:00 - 18:00** <strong class='blue'>Lab</strong> [<cite>Laboratalbero</cite>](/2022/lab/15) presso i <u>giardini Regina Elena</u>
+- **16:15 - 17:15** <strong class='blue'>Lab</strong> [<cite>Vado a mappare la Pigna su #OpenStreetMap</cite>](/2022/lab/19); itinerante, a partire da <u>Piazza Cassini</u>
+- **16:15 - 17:45** <strong class='blue'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
+- **17:00 - 18:00** <strong class='blue'>Lab</strong> [<cite>Nodi</cite>](/2022/lab/16), presso l’<u>Oratorio San Costanzo</u>
+- **17:00 - 19:00** <strong class='blue'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/17) presso <u>Terrazza San Costanzo</u>
+- **17:30 - 18:30** <strong class='blue'>Lab</strong> [<cite>Vado a mappare la Pigna su #OpenStreetMap</cite>](/2022/lab/19); itinerante, a partire da <u>Piazza Cassini</u>
+- **17:30 - 19:00** <strong class='blue'>Lab</strong> [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4);presso <u>Chiesa Santa Brigida</u>
+- **17:30 - 19:00** <strong class='blue'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
+- **17:30 - 18:30** <strong class='blue'>Lab</strong> [<cite>Il mio mare di parole</cite>](/2022/lab/10) presso <u>porta San Giuseppe</u>
+- **18:00 - 19:00** <strong class='blue'>Lab</strong> [<cite>Attivismo a costo zero</cite>](/2022/lab/1) presso <u>via Tapoletti</u>
+- **18:30 - 19:30** <strong class='blue'>Lab</strong> [<cite>Tai Chi</cite>](/2022/lab/18) presso <u>Giardini Regina Elena</u>
 - **18:00 - 19:00** Dialogo con Maricetta Lombardo presso Piazzetta dei ferri
-- **19:00 - 20:15** Corso di Balli Occitani presso Piazza Santa Brigida
-- **21:30 - 22:30** Concerto di <cite>Lu Barbalucou</cite> con Balli Occitani presso Piazza Santa Brigida
+- **19:00 - 20:15** <strong class='blue'>Lab</strong> [corso di Balli Occitani](/2022/lab/2) presso <u>piazza Santa Brigida</u>
+- **21:30 - 22:30** Concerto di <cite>Lu Barbalucou</cite> con Balli Occitani guidati da <cite>Balbosco D’Oc</cite>, presso <u>piazza Santa Brigida</u>
 
 ---
 
 ## Domenica 28 agosto 2022
 
-- **10:00-12:00** Inside Out presso Giardini Regina Elena
-- **10:00 - 11:00** Il sorriso, Squilibrio di Massa presso Piazza Cassini
-- **10:00 - 11:15** I teatri degli squilibri presso Piazza San Costanzo
-- **10:00 - 11:00** Squilibrio e ambiente presso Terrazza San Costanzo
-- **10:30 - 12:00** Dietro le quinte: laboratorio di fotografia presso Chiesa di Santa Brigida
-- **10:30 - 12:00** La finestra di Overton: realizzare l'utopia presso Oratorio San Costanzo
-- **10:30-12:00** Esperimenti squilibrati presso Palazzo Nota (museo civico)
-- **10:30 - 11:45** Fediverse Social Network Umani presso Terrazza Santa Brigida
-- **10:30 - 11:30** Attivismo a costo zero presso Via Tapoletti
-- **11:00 - 11:45** Cambiare scenario - la scelta dell'antimafia sociale presso Piazza Cassini
-- **11:00 - 12:00** Il mio mare di parole presso Porta San Giuseppe
-- **11:15 - 12:00** Equilibrare il corpo attraverso lo sport in piazza Santa Brigida
-- **15:00 - 17:00** Cineforum "Scambi in sala" presso Chiesa sconsacrata Santa Brigida
-- **16:00 -18:00** Laboratalbero presso Giardini Regina Elena
-- **16:00 -18:00** Inside Out presso Giardini Regina Elena
-- **16:15 - 18:30** Il sorriso, Squilibrio di Massa presso Piazza Cassini (17:30-18:30 ripetizione in lingua)
-- **16:30 - 18:00** La finestra di Overton: realizzare l'utopia presso Oratorio San Costanzo
-- **16:30 - 17:45** I teatri degli squilibri presso Piazza San Costanzo
-- **17:00 - 18:30** Esperimenti squilibrati presso Palazzo Nota (museo civico)
+- **8:45 - 10:00** <cite>SquiLibristi</cite>, lettura di poesie e brani con *fugassa* e caffè; presso piazzetta dei Ferri
+- **10:00 - 12:00** <strong class='blue'>Lab</strong> [<cite>Inside Out</cite>](/2022/lab/12) presso i <u>Giardini Regina Elena</u>
+- **10:00 - 11:00** <strong class='blue'>Lab</strong> [<cite>Il sorriso, Squilibrio di Massa</cite>](/2022/lab/11) in <u>piazza Cassini</u>
+- **10:00 - 11:15** <strong class='blue'>Lab</strong> [I teatri degli squilibri](/2022/lab/9) presso <u>piazza San Costanzo</u>
+- **10:00 - 12:00** <strong class='blue'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/17) presso <u>Terrazza San Costanzo</u>
+- **10:30 - 12:00**  [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4);presso <u>Chiesa Santa Brigida</u>
+- **10:30 - 12:00** <strong class='blue'>Lab</strong> [<cite>La finestra di Overton</cite>: realizzare l’utopia](/2022/lab/14) presso l’<u>Oratorio San Costanzo</u>
+- **10:30 - 12:00** <strong class='blue'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
+- **10:30 - 11:45** <strong class='blue'>Lab</strong> [<cite><em>Fediverse</em>: Social Network Umani</cite>](/2022/lab/7) presso <u>terrazza Santa Brigida</u>
+- **11:00 - 12:30** <strong class='blue'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
+- **11:15 - 12:00** <strong class='blue'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/5) in <u>piazza Cisterna</u>
+- **15:00 - 17:00** Cineforum **<cite>Scambi in sala</cite>** presso il <u>Centro risorse, piazza Cassini</u>
+- **16:00 - 18:00** <strong class='blue'>Lab</strong> [<cite>Laboratalbero</cite>](/2022/lab/15) presso i <u>giardini Regina Elena</u>
+- **16:00 - 18:00** <strong class='blue'>Lab</strong> [<cite>Inside Out</cite>](/2022/lab/12) presso i <u>Giardini Regina Elena</u>
+- **16:15 - 18:30** <strong class='blue'>Lab</strong> [<cite>Il sorriso, Squilibrio di Massa</cite>](/2022/lab/11) in <u>piazza Cassini</u> 
+- **16:30 - 18:00** <strong class='blue'>Lab</strong> [<cite>La finestra di Overton</cite>: realizzare l’utopia](/2022/lab/14) presso l’<u>Oratorio San Costanzo</u>
+- **16:30 - 17:45** <strong class='blue'>Lab</strong> [I teatri degli squilibri](/2022/lab/9) presso <u>piazza San Costanzo</u>
+- **17:00 - 19:00** <strong class='blue'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/17) presso <u>Terrazza San Costanzo</u>
 - **17:15 - 17:35** Rassegna cortometraggi Dissolvenze presso Chiesa sconsacrata di Santa Brigida
-- **17:30 - 18:30** Tai Chi presso Piazza Santa Brigida
-- **17:30 - 18:30** Il mio mare di parole presso Porta San Giuseppe
-- **17:30 - 18:30** Squilibrio e ambiente presso Terrazza San Costanzo
-- **17:30 - 19:45** Attivismo a costo zero presso Via Tapoletti (due ripetizioni in italiano)
-- **20:15 - 22:15** Premiazione Dissolvenze presso Piazza Santa Brigida
-- **22:30 - 23:30** Concerto di chiusura presso Piazza Santa Brigida
+- **17:30 - 18:30** <strong class='blue'>Lab</strong> [<cite>Il mio mare di parole</cite>](/2022/lab/10) presso <u>porta San Giuseppe</u>
+- **18:00 - 19:00** <strong class='blue'>Lab</strong> [<cite>Attivismo a costo zero</cite>](/2022/lab/1) presso <u>via Tapoletti</u>
+- **18:30 - 19:30** <strong class='blue'>Lab</strong> [<cite>Tai Chi</cite>](/2022/lab/18) presso <u>Giardini Regina Elena</u>
+- **21:15 - 22:15** Premiazione Dissolvenze presso <u>piazza Santa Brigida</u>
+- **22:30 - ∞** Concerto di chiusura presso Piazza <u>Santa Brigida</u>
