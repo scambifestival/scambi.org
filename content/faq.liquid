@@ -1,0 +1,11 @@
+---
+title: Domande frequenti
+redirect_from: [/domande/]
+layout: page
+image: https://x.scambi.org/images/faq.webp
+ref: faq
+---
+{% for q in faq.it %}
+<h3>{{ q.question | markdownify }}</h3>
+<p>{{ q.answer | markdownify }}</p>
+{% endfor %}

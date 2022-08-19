@@ -4,14 +4,14 @@ date: 2022-05-04T20:44:05+02:00
 author: Cristina Sponchiado
 tags: ['Dissolvenze']
 redirect_from: ['/come-blackkklansman-ci-incoraggia-a-fare-i-conti-con-lo-squilibrio/']
-image: https://pbs.twimg.com/media/D4YTmrBWsAEZ03A?format=webp&name=large
+image: https://x.scambi.org/images/BlacKkKlansman.webp
 keywords: ['Lee', 'Spike Lee', 'cinema', 'leggi razziali', 'denuncia', 'KKK', 'Ku Klux Klan', 'Trump']
 ---
 Quando si tratta di affrontare il tema dello squilibrio sociopolitico in maniera diretta, umoristica e piena di stile, **Spike Lee** nei propri film (o <q><em lang=’en’>joints</em></q>, come li definisce) non si tira di certo indietro.
 
 Stati Uniti, 1972: il poliziotto afroamericano Ron Stallworth si infiltra nel [Ku Klux Klan](https://it.wikipedia.org/wiki/Ku_Klux_Klan ’Ku Klux Klan su Wikipedia’) grazie a una telefonata in cui si finge un suprematista bianco che condivide le posizioni razziste, antisemite e omofobe del Klan. Quando i membri della cellula locale gli richiedono un incontro faccia a faccia, Ron è costretto a ricorrere all’aiuto del suo collega bianco di origini ebraiche Flip Zimmerman, i cui tratti somatici sono (ironicamente) più conformi all’ideologia della “superiorità ariana”. Così, i due detective indagano sui piani di terrorismo domestico del Klan fingendosi la stessa persona, Ron attraverso la cornetta del telefono e Flip sul campo.
 
-<figure><img src='https://pbs.twimg.com/media/D4YTmrBWsAEZ03A?format=webp&name=large' /></figure>
+<figure><img src='{{ image }}' /></figure>
 
 La premessa assurda della sceneggiatura di **<cite>BlacKkKlansman</cite>** (2018), sorprendentemente tratta dalla vera storia del detective Ron Stallworth e premiata agli Oscar 2019, viene bilanciata con maestria da Spike Lee: il tono del film è sempre in perfetto equilibrio tra momenti di comicità e scene drammatico-riflessive, tra finzione e fatto reale, tra passato e presente.
 

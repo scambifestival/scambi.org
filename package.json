@@ -1,7 +1,7 @@
 {
-  "name": "tommi.space",
+  "name": "scambi.org",
   "version": "1.0.0",
-  "description": "Tommi’s personal website",
+  "description": "Scambi Festival’s website",
   "scripts": {
     "watch:sass": "sass --watch --style=compressed styles:www",
     "build:sass": "sass --style=compressed styles/:www",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://codeberg.org/tommi/tommi.space.git"
+    "url": "git+https://github.com/scambifestival/scambi.org.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xplosionmind/tommi.space/issues"
+    "url": "https://github.com/scambifestival/scambi.org/issues"
   },
-  "homepage": "https://tommi.space",
+  "homepage": "https://scambiorg",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-img": "^2.0.0",

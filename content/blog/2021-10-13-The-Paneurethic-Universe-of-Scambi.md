@@ -4,7 +4,7 @@ date: 2021-10-13T18:59:30+01:00
 author: Margherita Moro
 tags: ['thinking']
 keywords: ['Paneurethic', 'Philosophy', 'ethics', 'pan', 'discover']
-image: https://x.scambi.org/images/paneurethico.jpg
+image: https://x.scambi.org/illustrations/paneuretico.webp
 redirect_from: ['/paneurethic/', '/en/the-paneurethic-universe-of-scambi/', '/the-paneurethic-universe-of-scambi/']
 lang: en
 ---

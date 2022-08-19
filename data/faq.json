@@ -1,0 +1,66 @@
+{
+	"it": [
+		{
+			"question": "Quando e dove sarà la prossima edizione di Scambi Festival?",
+			"answer": "Scambi Festival 2022 si terrà nel quartiere della Pigna, a Sanremo, dal 25 al 28 agosto 2022. Il tema sarà “squilibrio”."
+		},
+		{
+			"question": "So già di non riuscire ad essere a Sanremo dal 25 al 28 agosto 2022. Potrò seguire gli incontri in streaming?",
+			"answer": "Purtroppo, no. L’incontro virtuale è la negazione della filosofia di ciò che intendiamo realizzare. La fisicità è la chiave dello scambio umano e della crescita reciproca che intendiamo perseguire."
+		},
+		{
+			"question": "Non vedo l’ora di esserci! Posso ricevere ospitalità?",
+			"answer": "Fra staff e ospiti, abbiamo trovato una sistemazione <i lang='en'>low-cost</i> a 50 persone. Purtroppo, le nostre limitatissime risorse, nonché limitatissimi spazi e offerte sul territorio, non ci permettono di essere d’aiuto. Se sei proprio disperatə, prova a scriverci un’email a staff@scambi.org"
+		},
+		{
+			"question": "Quanto costa partecipare?",
+			"answer": "Nulla. Scambi intende essere accessibile a tutti, letteralmente: non ci sono costi obbligatori."
+		},
+		{
+			"question": "Vorrei dare una mano. Come posso fare?",
+			"answer": "Siamo sempre molto felici di accogliere nuovз volontariз! In [questa pagina](/unisciti) trovi tutte le informazioni che ti potrebbero servire."
+		},
+		{
+			"question": "Come faccio a non perdermi gli aggiornamenti sulle vostre iniziative?",
+			"answer": "Ci sono vari modi: puoi [iscriverti alla nostra newsletter](https://buttondown.email/scambi 'Scambi di parole'), seguire [le nostre pagine social](https://instagram.com/scambifestival 'Scambi Festival su Instagram'), o <a href='mailto:staff@scambi.org' target='_blank' title='Invia un’email a staff@scambi.org'>contattarci direttamente</a>."
+		},
+		{
+			"question": "Ho una domanda, ma non è fra queste!",
+			"answer": "Non rimarrai senza risposta. <a href='mailto:staff@scambi.org' target='_blank' title='Invia un’email a staff@scambi.org'>Scrivici un’email</a>, oppure mandaci un messaggio sui social media."
+		}
+	],
+	"en": [
+		{
+			"question": "When and where is the next edition of Scambi Festival taking place?",
+			"answer": "Scambi Festival 2022 is taking place in the neighborhood of Pigna, Sanremo, Italy, from the 25<sup>th</sup> to the 28<sup>th</sup> of August 2022."
+		},
+		{
+			"question": "I cannot be in Sanremo during the festival. Can I follow the meetings online?",
+			"answer": "Unfortunately, not. Virtual meetings deny the very definition of what we are working on. Presence and in-person experience are key factors in the human exchange and mutual growth we are pursuing."
+		},
+		{
+			"question": "Can’t wait to be there! Are there any accommodation solutions?",
+			"answer": "Including staff coming from abroad and lab hosts, we are hosting around 50 people. Unfortunately, our scarce resources and the city setting make it impossible for us to help you. If you are really desperate, <a href='mailto:staff@scambi.org?subject=Hosting%20help!' target='_blank' title='email us'>get in touch with us</a>, but we can’t promise you anything."
+		},
+		{
+			"question": "How much does the ticket cost?",
+			"answer": "Nothing. Scambi aims to be accessible to everyone, literally: there are no age limits, no activities inaccessible to people with disabilities, and, of course, there is no fee."
+		},
+		{
+			"question": "How cool! Can I work with you?",
+			"answer": "We are always thrilled to welcome new people in our team! To do so, start from [here](/about-us 'About Us')"
+		},
+		{
+			"question": "Are the festival events being translated in English, too?",
+			"answer": "Most of the activities are available also in languages different from Italian! To know which ones, check their info page."
+		},
+		{
+			"question": "How can I keep updated about your activities?",
+			"answer": "There are many ways: you can [subscribe to our newsletter](https://buttondown.email/scambi 'Scambi di Parole'), or [follow us on social media](https://instagram.com/scambifestival 'Scambi Festival on Instagram')."
+		},
+		{
+			"question": "I have a question I can’t find an answer to!",
+			"answer": "We are not as clever as Sheldon Cooper, but we promise to do our best to help you. Either <a href='mailto:staff@scambi.org' target='_blank' title='Send an email to staff@scambi.org'>write us an email</a>, or send us a message on social media."
+		}
+	]
+}

@@ -2,16 +2,10 @@
 	"title": "Scambi Festival",
 	"url": "https://scambi.org",
 	"domain": "scambi.org",
-	"author":{
-		"name": "Tommi",
-		"email": "tommi@scambi.org",
-		"avatar": "https://tommi.space/profile.webp",
-		"url": "https://tommi.space/about"
-	},
 	"primary": "#69088D",
 	"description": "Il Festival dei Laboratori Paneuretici",
 	"favicon": "https://x.scambi.org/favicon.ico",
-	"image": "/tommi.space.wip.png",
+	"image": "https://x.scambi.org/scambi.web",
 	"source": "https://github.com/scambifestival/scambi.org",
 	"booking_url": "FIX"
 }

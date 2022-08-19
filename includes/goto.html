@@ -1,6 +1,6 @@
-<aside id='goto' class='little red box'><div>
+<aside id='goto' class='orange box'><div>
 	<a class='button' href='#share' title='{% if lang == 'it' %}Condividi questa pagina'>Condividi{% else %}Share this page'>Share{% endif %}</a>
-	<a class='button' href='#comments' title='{% if lang == 'it' %}Commenti a questa pagina'>Commenti{% else %}Comments for this post'>Comments{% endif %}</a>
-	<a class='button' href='#backlinks' title='{% if lang == 'it' %}Pagine che portano a questa pagina{% else %}Other pages linking to this one{% endif %}'>Backlinks</a>
+	{% comment %}<a class='button' href='#comments' title='{% if lang == 'it' %}Commenti a questa pagina'>Commenti{% else %}Comments for this post'>Comments{% endif %}</a>
+	<a class='button' href='#backlinks' title='{% if lang == 'it' %}Pagine che portano a questa pagina{% else %}Other pages linking to this one{% endif %}'>Backlinks</a>{% endcomment %}
 	<a class='button' href='{{ source }}' title='{% if lang == 'it' %}Visualizza{% else %}View{% endif %} {{ title }} source code'>{% if lang == 'it' %}Sorgente{% else %}Source{% endif %}</a>
 </div></aside>

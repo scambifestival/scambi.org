@@ -1,16 +1,16 @@
 ---
-title: Zibaldone
-subtitle: Tutti gli articoli dal blog di tommi.space
-altUrl: https://tommi.space/zibaldone
-permalink: /zibaldone.xml
+title: Scambi di Parole
+subtitle: Aggiornamenti, approfondimenti, riflessioni e pazzie dall’universo paneuretico
+altUrl: https://scambi.org/blog
+permalink: /blog.xml
 ---
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom'>
   <title>{{ title }}</title>
   <subtitle>{{ subtitle }}</subtitle>
-  <link href='https://tommi.space{{ page.url }}' rel='self'/>
+  <link href='https://scambi.org{{ page.url }}' rel='self'/>
   <link href='{{ altUrl }}' rel='alternate' />
-  <updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <updated>{{ collections.blog | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ altUrl }}</id>
   <author>
     <name>{{ metadata.author.name }}</name>

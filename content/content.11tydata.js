@@ -8,7 +8,7 @@ module.exports = {
 	permalink: '/{{ page.fileSlug | replace: " ", "-" }}/',
 	lang: 'it',
 	layout: 'wrapper',
-	image: '/tommi.space.wip.png',
+	image: 'https://x.scambi.org/scambi.webp',
 	class: 'gradient-behind',
 	// Automatically generating titles, as explained in https://github.com/11ty/eleventy/discussions/2241#discussioncomment-2224265
 	eleventyComputed: {

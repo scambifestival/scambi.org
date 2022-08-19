@@ -25,7 +25,7 @@ sitemap:
 </div>
 
 <div class='flex row' id='blog'>
-	{% for entry in collections.posts %}
+	{% for entry in collections.blog %}
 		<div class='one-third'>
 			<a class='box' href='{{ entry.url }}' hreflang='{{ entry.data.lang }}' lang='{{ entry.data.lang }}'>
 				<div class='flex'><img src='{{ entry.data.image }}' alt='{{ entry.data.title }}' title='{{ entry.data.title }}'></div>
