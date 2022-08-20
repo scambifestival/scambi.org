@@ -2,6 +2,8 @@
 title: Manifesto
 layout: post
 class: gradient manifesto
+image: https://x.scambi.org/images/leo_jump.jpg
+ref: manifesto
 ---
 ## La Pigna, le radici
 
