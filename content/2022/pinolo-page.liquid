@@ -1,0 +1,31 @@
+---
+pagination:
+  data: 2022-pinoli
+  size: 1
+permalink: '/2022/pinolo/{{ pagination.pageNumber | plus: 1 }}/'
+layout: wrapper
+---
+{% for item in pagination.items %}
+	<h1>{{ item.title }}</h1>
+	<section class='row'>
+		<div class='half column'>
+			<p>{{ item.description | markdownify }}</p>
+		</div>
+		<div class='half column'>
+			<dl id='data'>
+				<dt>Location</dt>
+				<dd>{{ item.location }}</dd>
+
+				<dt>Giorni</dt>
+				<dd>{{ item.days }}</dd>
+
+				<dt>Host</dt>
+				<dd>{{ item.host }}</dd>
+			</dl>
+				<figure><img src='{{ item.image }}' alt='{{ item.title }}'></figure>
+		</div>
+	</section>
+{% endfor %}
+
+<h3>Non serve prenotare i pinoli!</h3>
+<p>Girate per la Pigna e li troverete.</p>

@@ -6,7 +6,11 @@ layout: page
 permalink: /2022/programma/
 redirect_from: [/programma/]
 ---
-<div class='center'><strong>Iscrizioni aperte dal 20 agosto!</strong></div>
+<div class='flex'>
+	<a class='blue button' href='{{ site.booking_url }}' target='_blank' title='Prenota qui tutte le attività!'>Prenota qui</a>
+	<a class='purple button' href='/2022/labs' title='Tutti i Lab di Scambi Festival 2022'>Labs 2022</a>
+	<a class='yellow button' href='/2022/pinoli' title='Tutti i Pinoli di Scambi Festival 2022'>Pinoli 2022</a>
+</div>
 
 ## Giovedì 25 agosto 2022
 
@@ -28,19 +32,19 @@ redirect_from: [/programma/]
 - **10:30** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
 - **10:45** - **11:30** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/5) in <u>piazza Cisterna</u>
 - **10:00** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/17) presso <u>Terrazza San Costanzo</u>
-- **11:30** - **13:00** <mark class='eng'>🇬🇧 in English</mark> <strong class='blue-shadow'>Lab</strong> [<cite>Kleckso-Art</cite>](/2022/lab/13) in <u>Terrazza Santa Brigida</u>
+- **11:30** - **13:00** <strong class='blue-shadow eng'>Lab</strong> [<cite>Kleckso-Art</cite>](/2022/lab/13) in <u>Terrazza Santa Brigida</u>
 - **15:00** - **17:00** Cineforum **<cite>Scambi in sala</cite>** presso la <u>Chiesa di Santa Brigida</u>
 - **16:00** - **17:30** <strong class='blue-shadow'>Lab</strong> [<cite>Cambiare scenario** - **la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
 - **17:00** - **19:00** <strong class='blue-shadow'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/17) presso <u>Terrazza San Costanzo</u>
 - **16:30** - **18:30** <strong class='blue-shadow'>Lab</strong> [<cite>Inside Out</cite>](/2022/lab/12) presso i <u>Giardini Regina Elena</u>
-- **17:00** - **18:30** <mark class='eng'>🇬🇧 in English</mark> <strong class='blue-shadow'>Lab</strong> [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4) presso <u>piazzetta Santa Brigida</u>
+- **17:00** - **18:30** <strong class='blue-shadow eng'>Lab</strong> [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4) presso <u>piazzetta Santa Brigida</u>
 - **17:00** - **18:15** <strong class='blue-shadow'>Lab</strong> [I teatri degli squilibri](/2022/lab/9) presso <u>piazza San Costanzo</u>
 - **17:15** - **17:35** Rassegna cortometraggi <cite>Dissolvenze</cite> presso <u>Chiesa Santa Brigida</u>
 - **17:30** - **18:30** <strong class='blue-shadow'>Lab</strong> [<cite>Nodi</cite>](/2022/lab/16), presso l’<u>Oratorio San Costanzo</u>
 - **17:30** - **19:00** <strong class='blue-shadow'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
 - **18:30** - **19:30** <strong class='blue-shadow'>Lab</strong> [<cite>Tai Chi</cite>](/2022/lab/18) presso <u>Giardini Regina Elena</u>
 - **18:00** - **19:00** [<cite>Game Boy Music Production</cite>](/2022/lab/8) presso <u>Chiesa Santa Brigida</u>
-- **18:00** - **21:00** [<cite>SanTo</cite> (Sanremo** - **Torino) ospita Christian Gullone e Stefano Michero](https://officinebrand.it/eventi/a-sanremo-il-santo-sanremo-torino-ospita-christian-gullone-e-stefano-michero) presso <u>Palazzo Gentile</u>
+- **18:00** - **21:00** [<cite>SanTo</cite> (Sanremo - Torino) ospita Christian Gullone e Stefano Michero](https://officinebrand.it/eventi/a-sanremo-il-santo-sanremo-torino-ospita-christian-gullone-e-stefano-michero) presso <u>Palazzo Gentile</u>
 - **21:30** - **24:00** Live set di <cite>Internet Breakfast</cite> e <cite>Kenobit</cite>
 ---
 
@@ -68,7 +72,7 @@ redirect_from: [/programma/]
 - **17:30** - **19:00** <strong class='blue-shadow'>Lab</strong> [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4);presso <u>Chiesa Santa Brigida</u>
 - **17:30** - **19:00** <strong class='blue-shadow'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
 - **17:30** - **18:30** <strong class='blue-shadow'>Lab</strong> [<cite>Il mio mare di parole</cite>](/2022/lab/10) presso <u>porta San Giuseppe</u>
-- **18:00** - **19:00** <strong class='blue-shadow'>Lab</strong> [<cite>Attivismo a costo zero</cite>](/2022/lab/1) presso <u>via Tapoletti</u>
+- **18:00** - **19:00** <strong class='blue-shadow eng'>Lab</strong> [<cite>Attivismo a costo zero</cite>](/2022/lab/1) presso <u>via Tapoletti</u>
 - **18:30** - **19:30** <strong class='blue-shadow'>Lab</strong> [<cite>Tai Chi</cite>](/2022/lab/18) presso <u>Giardini Regina Elena</u>
 - **18:00** - **19:00** Dialogo con Maricetta Lombardo presso Piazzetta dei ferri
 - **19:00** - **20:15** <strong class='blue-shadow'>Lab</strong> [corso di Balli Occitani](/2022/lab/2) presso <u>piazza Santa Brigida</u>
@@ -90,7 +94,7 @@ redirect_from: [/programma/]
 - **11:15** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/5) in <u>piazza Cisterna</u>
 - **15:00** - **17:00** Cineforum **<cite>Scambi in sala</cite>** presso il <u>Centro risorse, piazza Cassini</u>
 - **16:00** - **17:30** <strong class='blue-shadow'>Lab</strong> [<cite>La finestra di Overton</cite>: realizzare l’utopia](/2022/lab/14) presso l’<u>Oratorio San Costanzo</u>
-- **16:00** - **18:00** <strong class='blue-shadow'>Lab</strong> [<cite>Laboratalbero</cite>](/2022/lab/15) presso i <u>giardini Regina Elena</u>
+- **16:00** - **18:00** <strong class='blue-shadow eng'>Lab</strong> [<cite>Laboratalbero</cite>](/2022/lab/15) presso i <u>giardini Regina Elena</u>
 - **16:00** - **18:00** <strong class='blue-shadow'>Lab</strong> [<cite>Inside Out</cite>](/2022/lab/12) presso i <u>Giardini Regina Elena</u>
 - **17:00** - **18:00** <strong class='blue-shadow'>Lab</strong> [<cite>Il sorriso, Squilibrio di Massa</cite>](/2022/lab/11) in <u>piazza Cassini</u> 
 - **16:30** - **17:45** <strong class='blue-shadow'>Lab</strong> [I teatri degli squilibri](/2022/lab/9) presso <u>piazza San Costanzo</u>

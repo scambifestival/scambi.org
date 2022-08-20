@@ -226,7 +226,8 @@ input[type='email'] {
 		color: var(--other-grey);
 	}
 	& ~ .button {
-		margin-left: .5rem;
+		margin-left: $regular-less;
+		margin-right: $regular-less;
 	}
 }
 
@@ -612,6 +613,7 @@ u {
 }
 
 strong,
+dt,
 b {
 	font-weight: bolder;
 	text-shadow: 1px 1px 0 var(--yellow);
@@ -858,6 +860,10 @@ input[type='submit'] {
 	&:active {
 		box-shadow: var(--inner-shadow);
 	}
+	& ~ .button {
+		margin-left: $regular-less;
+		margin-right: $regular-less;
+	}
 }
 
 svg.button {
@@ -959,6 +965,11 @@ svg.button {
 		background: #FFF;
 		color: var(--blue);
 	}
+}
+
+.blue-shadow {
+	color: var(--orange);
+	text-shadow: 1.5px 1.5px 0 var(--blue);
 }
 
 .dark-blue {
@@ -1082,6 +1093,12 @@ svg.button {
 	}
 	.two-thirds {
 		padding: 2vw 5vw;
+	}
+}
+
+.lab {
+	figure img {
+		box-shadow: unset;
 	}
 }
 
@@ -1232,3 +1249,8 @@ svg.button {
 	}
 }
 
+.eng {
+	&::after {
+		content: 'IN ENGLISH 🇬🇧';
+	}
+}

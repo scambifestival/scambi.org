@@ -8,7 +8,7 @@ redirect_from: ['/2022/lab/']
 	{% for lab in 2022-labs %}
 		<a id='{{ lab.title | slugify}}' class='shrink box' href='/2022/lab/{{ forloop.index }}'>
 			<h3>{{ lab.title }}</h3>
-			<p>{{ lab.description | truncate: 200 }}</p>
+			<p>{{ lab.description | truncate: 200 | markdownify }}</p>
 		</a>
 	{% endfor %}
 </section>

@@ -1,0 +1,34 @@
+---
+pagination:
+  data: 2022-labs
+  size: 1
+permalink: '/2022/lab/{{ pagination.pageNumber | plus: 1 }}/'
+layout: wrapper
+class: gradient-behind lab
+---
+{% for item in pagination.items %}
+	<h1>{{ item.title }}</h1>
+	<section class='row'>
+		<div class='half column'>
+			<p>{{ item.description | markdownify }}</p>
+		</div>
+		<div class='half column'>
+			<dl id='data'>
+				<dt>Location</dt>
+				<dd>{{ item.location }}</dd>
+
+				{% assign times = item.times | split: '; ' %}
+				<dt>Quando</dt>
+				{% for time in times %}
+					<dd>{{ time | markdownify }}</dd>
+				{% endfor %}
+				
+				<dt>Host</dt>
+				<dd>{{ item.host }}</dd>
+			</dl>
+				<figure><img src='{{ item.image }}' alt='{{ item.title }}'></figure>
+		</div>
+	</section>
+{% endfor %}
+
+{% render 'prenota.liquid', lang: lang, url: page.url %}

@@ -25,6 +25,7 @@ image: https://x.scambi.org/images/index.webp
 		<p>La seconda edizione del festival si terrà dal 25 al 28 agosto 2022. Quest’anno, il tema che esploreremo da ogni possibile punto di vista è lo <strong><em>squilibrio</em></strong>. Che si tratti dei pasticci che accadono nella nostra testolina, o del caos che regna nel nostro mondo o nell’universo, lo squilibrio si manifesta ovunque e in ogni attimo. Vi aspettiamo per riequilibrarci insieme!</p>
 		<div class='center flex'>
 			<a href='/programma' class='yellow button'>Programma 2022</a>
+			<a href='/programma' class='purple button'>Prenota!</a>
 		</div>
 	</div>
 </section>
@@ -32,9 +33,9 @@ image: https://x.scambi.org/images/index.webp
 	<div class='half column'>
 		<h2 class='title'>Cosa vuol dire <em>Paneuretico</em>?</h2>
 		<p>Consapevoli del ruolo fondamentale dei termini che utilizziamo, abbiamo coniato un neologismo che riassume l’essenza di Scambi. L’aggettivo “Paneuretico” nasce dall’unione di tre parole greche: <em>pan</em> (tutto), <em>eurisko</em> (trovare, scoprire, incontrare), <em>ethos</em> (modo di vivere).</p>
-		<div class='center flex'>
+		{% comment %}FIX<div class='center flex'>
 			<a href='/paneuretico' class='orange button'>Leggi di più</a>
-		</div>
+		</div>{% endcomment %}
 	</div>
 	<div class='half column'>
 		<img src='https://x.scambi.org/illustrations/tabletalk.webp'>
@@ -60,56 +61,9 @@ image: https://x.scambi.org/images/index.webp
 		</a>
 	</div>
 </section>
-<section class='row'>
-	<h2>Immagini dalle puntate precedenti</h2>
-	<div class='box highlights-scroll'>
-		<div>
-			<img src='https://x.scambi.org/archive_images/DSCF7431.jpg'>
-			<img src='https://x.scambi.org/images/2021_drawing_cards.webp'>
-			<img src='https://x.scambi.org/archive_images/DSCF7509.jpg'>
-			<img src='https://x.scambi.org/archive_images/ballioccitani2.jpg'>
-			<img src='https://x.scambi.org/archive_images/XYZ00217.jpg'>
-			<img src='https://x.scambi.org/archive_images/DSCF7455.jpg'>
-			<img src='https://x.scambi.org/archive_images/XYZ00236.jpg'>
-		</div>
-	</div>
-</section>
-<section>
-	<h2 class='title'>Una volta dentro, non puoi smettere di parlarne!</h2>
-	<div class='one-third column'>
-		<div class='blue-gradient box'>
-			<h3>Anna</h3>
-			<h4>Presidente APS Oltre</h4>
-			<p><q>Scambi per me è il luogo in cui essere libera nel mio desiderio di futuro; in una realtà che sta divenendo così confusa e insicura abbiamo tuttз bisogno di tornare a concentrarci su cosa significhi realmente vivere insieme.</q></p>
-		</div>
-	</div>
-	<div class='one-third column'>
-		<div class='blue-gradient-inverted box'>
-			<h3>Lucilla</h3>
-			<h4>Team <cite>Dissolvenze</cite></h4>
-			<p><q>Ho deciso di partecipare a Scambi perché ho visto cosa la dedizione e l’impegno di tuttз hanno creato nella prima edizione, e vorrei tanto aiutare a creare la stessa magia anche nella prossima edizione</q></p>
-		</div>
-	</div>
-	<div class='one-third column'>
-		<div class='blue-gradient box'>
-			<h3>Luisa</h3>
-			<h4>Team leader <cite>Dissolvenze</cite></h4>
-			<p><q>Scambi mi piace perché è riuscito ad unire giovanз ragazzз provenienti da tutta Italia con lo scopo di inventare qualcosa di nuovo, di portare in un singolo posto musica, danza e tanta curiosità.</q></p>
-		</div>
-	</div>
-</section>
-<section class='row'>
-	<h2 class='title'>La ciurma di Scambi</h2>
-	<div class='half column'>
-		<p>Siamo 50+ di volontariз under-25 provenienti da ogni angolo d’Europa.</p>
-		<p>La nostra associazione è nata dal desiderio di valorizzare legami reali e profondi, orizzontalità e dialogo, curiosità e accoglienza del diverso. Dopo numerosissime videochiamate, mille dubbi e altrettante idee, la nostra ciurma sgangherata è diventata una famiglia colorata. Siamo orgogliosз della nostra eterogeneità e della nostra passione, entusiastз di condividere stimoli e di proporre senza tregua nuove prospettive.</p>
-		<p>Ti aspettiamo a Sanremo, dove potremo presentarci al meglio!</p>
-		<div class='flex'><a class='yellow button' href='/staff' title='Staff page'>Unisciti a noi!</a></div>
-	</div>
-	<div class='half column'>
-		<img src='https://x.scambi.org/images/staff.webp'>
-	</div>
-</section>
+
+{% render 'staff-quotes.liquid', lang: lang %}
+
 <section class='row'>
 	<div class='one column center quote'>
 		<hr>
