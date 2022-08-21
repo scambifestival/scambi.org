@@ -89,7 +89,6 @@ redirect_from: [/programma/]
 - **10:00** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/17) presso <u>Terrazza San Costanzo</u>
 - **10:30** - **12:00**  [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4) — seconda parte ; presso <u>Chiesa Santa Brigida</u>
 - **10:30** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
-- **10:30** - **11:45** <strong class='blue-shadow'>Lab</strong> [<cite><em>Fediverse</em>: Social Network Umani</cite>](/2022/lab/7) presso <u>terrazza Santa Brigida</u>
 - **11:00** - **12:30** <strong class='blue-shadow'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
 - **11:15** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/5) in <u>piazza Cisterna</u>
 - **15:00** - **17:00** Cineforum **<cite>Scambi in sala</cite>** presso il <u>Centro risorse, piazza Cassini</u>
