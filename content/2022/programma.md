@@ -74,7 +74,7 @@ redirect_from: [/programma/]
 - **17:30** - **18:30** <strong class='blue-shadow'>Lab</strong> [<cite>Il mio mare di parole</cite>](/2022/lab/10) presso <u>porta San Giuseppe</u>
 - **18:00** - **19:00** <strong class='blue-shadow eng'>Lab</strong> [<cite>Attivismo a costo zero</cite>](/2022/lab/1) presso <u>via Tapoletti</u>
 - **18:30** - **19:30** <strong class='blue-shadow'>Lab</strong> [<cite>Tai Chi</cite>](/2022/lab/18) presso <u>Giardini Regina Elena</u>
-- **18:00** - **19:00** Dialogo con Maricetta Lombardo presso Piazzetta dei ferri
+- **18:00** - **19:00** [Dialogo con Maricetta Lombardo](/2022/maricetta-lombardo) presso Piazzetta dei ferri
 - **19:00** - **20:15** <strong class='blue-shadow'>Lab</strong> [corso di Balli Occitani](/2022/lab/2) presso <u>piazza Santa Brigida</u>
 - **21:30** - **22:30** Concerto di <cite>Lu Barbalucou</cite> con Balli Occitani guidati da <cite>Balbosco D’Oc</cite>, presso <u>piazza Santa Brigida</u>
 
