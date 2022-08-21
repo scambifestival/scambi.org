@@ -28,7 +28,7 @@ layout: wrapper
 		</div>
 	</section>
 
-	{% render 'page-tags.html', tags: tags, site: site, size: 'smaller' %}
+	{% render 'page-tags.html', tags: tags, site: site %}
 	{% capture source %}{{ site.source }}/blob/main{{ page.inputPath | replace: './', '/' }}{% endcapture %}
 	{% render 'goto.html', lang: lang, path: page.inputPath, source: source %}
 
@@ -42,7 +42,7 @@ layout: wrapper
 
 	<div class='row'>
 		<div class='one column'>
-			<article class='e-content{% if serif %} serif{% endif %}'>
+			<article class='e-content'>
 				{{ content }}
 			</article>
 		</div>
@@ -52,7 +52,6 @@ layout: wrapper
 		<div class='one column'>
   			{% assign encoded_absolute_url = page.url | prepend: site.url | url_encode %}
 			{% render 'share.html', lang: lang, title: title, encoded_absolute_url: encoded_absolute_url %}
-			{% render 'backlinks.html', lang: lang, backlinks: backlinks %}
 		</div>
 	</div>
 </main>

@@ -750,6 +750,9 @@ h3 {
 		max-height: 30vh;
 		overflow: scroll;
 	}
+	.button {
+		margin: $small !important;
+	}
 }
 
 #lang-filter {
@@ -873,8 +876,7 @@ input[type='submit'] {
 		box-shadow: var(--inner-shadow);
 	}
 	& ~ .button {
-		margin-left: $regular-less;
-		margin-right: $regular-less;
+		margin: $regular-less;
 	}
 }
 
@@ -888,13 +890,6 @@ svg.button {
 	--text: var(--background);
 	color: var(--text);
 	background: var(--primary);
-}
-
-.smaller {
-	padding: $tiny $regular-less;
-	margin: $tiny;
-	font-size: $big;
-	border-radius: $radius-s;
 }
 
 .tiny {
@@ -963,7 +958,7 @@ svg.button {
 
 .purple {
 	color: #FFF;
-	background: linear-gradient(180deg,hsla(0,0%,100%,.2),hsla(0,0%,100%,0) 69.78%),#69088d;
+	background: linear-gradient(#0000, #2A15323E 75%), var(--purple);
 	border-color: var(--purple) !important;
 	--link: var(--yellow);
 }
@@ -994,7 +989,6 @@ svg.button {
 .yellow {
 	color: var(--black-ish);
 	background: var(--yellow);
-	border-color: var(--yellow) !important;
 	--link: var(--purple);
 	::selection {
 		background: var(--purple);
@@ -1268,6 +1262,8 @@ svg.button {
 
 .eng {
 	&::after {
-		content: 'IN ENGLISH 🇬🇧';
+		content: ' IN ENGLISH 🇬🇧';
+		color: var(--red);
+		box-shadow: none;
 	}
 }

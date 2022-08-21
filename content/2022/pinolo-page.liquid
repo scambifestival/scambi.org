@@ -14,18 +14,43 @@ layout: wrapper
 		<div class='half column'>
 			<dl id='data'>
 				<dt>Location</dt>
-				<dd>{{ item.location }}</dd>
+				<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='Le location di Scambi Festival 2022'>vedi mappa</a></dd>
 
-				<dt>Giorni</dt>
-				<dd>{{ item.days }}</dd>
-
+				{% assign days = item.days | split: ',' %}
+				<dt>Quando</dt>
+				<dd>
+					{% for day in days %}
+						{% unless forloop.last %}
+							{{ day }},
+						{% else %}
+							{{ day }}
+						{% endunless %}
+					{% endfor %}
+				</dd>
+				
 				<dt>Host</dt>
-				<dd>{{ item.host }}</dd>
+				{% if item.host != '""' %}
+					{% assign hosts = item.host | split: ',' %}
+					{% for host in hosts %}
+						<dd>{{ host }}</dd>
+					{% endfor %}
+				{% else %}
+					<dd>{{ item.leader }}</dd>
+				{% endif %}
 			</dl>
 				<figure><img src='{{ item.image }}' alt='{{ item.title }}'></figure>
 		</div>
 	</section>
+	{% comment %}<section class='yellow box row' style='margin: 3vw'>
+		<div class='half column'>
+			<h2>{{ item.host }}</h2>
+			<p>{{ item.host_bio }}</p>
+		</div>
+		<div class='half column'>
+			<img src='{{ item.host_image }}' alt='{{ item.host }}'>
+		</div>
+	</section>{% endcomment %}
 {% endfor %}
 
 <h3>Non serve prenotare i pinoli!</h3>
-<p>Girate per la Pigna e li troverete.</p>
+<p class='center'>Girate per la Pigna e li troverete.</p>

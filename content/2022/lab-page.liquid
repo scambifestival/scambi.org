@@ -36,7 +36,14 @@ class: gradient-behind lab
 				{% endfor %}
 				
 				<dt>Host</dt>
-				<dd>{{ item.host }}</dd>
+				{% if item.host != '""' %}
+					{% assign hosts = item.host | split: ',' %}
+					{% for host in hosts %}
+						<dd>{{ host }}</dd>
+					{% endfor %}
+				{% else %}
+					<dd>{{ item.leader }}</dd>
+				{% endif %}
 			</dl>
 				<figure><img src='{{ item.image }}' alt='{{ item.title }}'></figure>
 		</div>

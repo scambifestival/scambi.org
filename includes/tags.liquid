@@ -2,7 +2,7 @@
 	<h2 class='title'>Categories</h2>
 	<div class='flex'>
 		{% for tag in alltags -%}
-			<a href='/category/{{ forloop.index }}' rel='tag' class='smaller button {{ tag.title | replace: ' ', '-' | downcase }}' title='{{ tag.title | slug | replace: ' ', '-' | downcase }} tag'>{{ tag.title }}</a>
+			<a href='/category/{{ forloop.index }}' rel='tag' class='{{ tag.title | replace: ' ', '-' | downcase }} button ' title='{{ tag.title | slug | replace: ' ', '-' | downcase }} tag'>{{ tag.title }}</a>
 		{% endfor -%}
 	</div>
 </section>
