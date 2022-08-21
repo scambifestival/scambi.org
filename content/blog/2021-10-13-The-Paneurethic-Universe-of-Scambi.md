@@ -2,11 +2,13 @@
 title: The Paneurethic Universe of Scambi
 date: 2021-10-13T18:59:30+01:00
 author: Margherita Moro
-tags: ['thinking']
+tags: ['meta','thinking']
 keywords: ['Paneurethic', 'Philosophy', 'ethics', 'pan', 'discover']
+redirect_from: [/en/the-paneurethic-universe-of-scambi/,/the-paneurethic-universe-of-scambi/]
+permalink: /paneurethic/
 image: https://x.scambi.org/illustrations/paneuretico.webp
-redirect_from: ['/paneurethic/', '/en/the-paneurethic-universe-of-scambi/', '/the-paneurethic-universe-of-scambi/']
 lang: en
+ref: paneuretico
 ---
 When we talk, we use words to describe our experiences. Words are extremely important: not only they express what we encounter and what we do, but they constitute the “bridge” that links us to the world around us.   
 Sometimes words are not enough. We say <q>I’m speechless</q> if we are surprised, or we say <q>I can’t find the right words</q> when emotions are too strong, and we can’t enclose them in something as “finished” and <q>limited</q> as a group of letters.

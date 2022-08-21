@@ -64,6 +64,9 @@ header {
 		padding: 0;
 		li {
 			float: left;
+			ul {
+				border-radius: $radius-m;
+			}
 			a,
 			label {
 				display: block;

@@ -7,28 +7,25 @@ layout: wrapper
 		{% if subtitle %}
 			<h2>{{ subtitle }}</h2>
 		{% endif %}
-		<p class='metadata'>
-			{% if lang == 'it' %}
-				{% if location %}
-					{% for place in places %}
-						{% if place.name contains location %}
-							<a href='https://openstreetmap.org?mlat={{ place.lat }}&mlon={{ place.lon }}&zoom=18' title='{{ place.name }} su OpenStreetMap'>{{ place.name }}</a>, 
-						{% endif %}
-					{% endfor %}
+		<div class='flex'>
+			<p class='metadata'>
+				{% if lang == 'it' %}
+					{% if date %}<time class='dt-published' datetime='{{ date | date: '%Y-%m-%dT%H:%M:%S%:z' }}'>{% render 'date-it.html', date: date %}</time>{% endif %}
+				{% else %}
+					{% if date %}<time class='dt-published' datetime='{{ date | date: '%Y-%m-%dT%H:%M:%S%:z' }}'>{{ date | date: '%e %B %Y' }}</time>{% endif %}
 				{% endif %}
-				{% if date %}<time class='dt-published' datetime='{{ date | date: '%Y-%m-%dT%H:%M:%S%:z' }}'>{% render 'date-it.html', date: date %}</time>{% endif %}
-			{% else %}
-				{% if location %}
-					{% for place in places %}
-						{% if place.name contains location %}
-							<a href='https://openstreetmap.org?mlat={{ place.lat }}&mlon={{ place.lon }}&zoom=18' title='{{ place.name }} on OpenStreetMap'>{{ place.name }}</a>, 
-						{% endif %}
-					{% endfor %}
+			</p>
+			{% for person in people %}
+				{% assign author_data = | append: person.Nome | append: ' ' | append: person.Cognome %}
+				{% if author == author_data %}
+					<a rel='author' class='p-author h-card' href='{{ person.url }}'>
+						<img src='{{ person.image }}' >
+						<span>{{ author }}</span>
+					</a>
+					{% break %}
 				{% endif %}
-				{% if date %}<time class='dt-published' datetime='{{ date | date: '%Y-%m-%dT%H:%M:%S%:z' }}'>{{ date | date: '%e %B %Y' }}</time>{% endif %}
-			{% endif %}
-			<a rel='author' class='p-author h-card' href='https://tommi.space/about'>Tommi</a>
-		</p>
+			{% endfor %}
+		</div>
 	</section>
 
 	{% render 'page-tags.html', tags: tags, site: site, size: 'smaller' %}

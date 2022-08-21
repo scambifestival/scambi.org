@@ -15,12 +15,24 @@ class: gradient-behind lab
 		<div class='half column'>
 			<dl id='data'>
 				<dt>Location</dt>
-				<dd>{{ item.location }}</dd>
+				<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='Le location di Scambi Festival 2022'>vedi mappa</a></dd>
 
-				{% assign times = item.times | split: '; ' %}
+				{% assign days = item.times | split: '; ' %}
 				<dt>Quando</dt>
-				{% for time in times %}
-					<dd>{{ time | markdownify }}</dd>
+				{% for day in days %}
+					<dd>
+						{% assign timesday = day | split: ': ' %}
+						{% for timeday in timesday %}
+						 	{% assign times = timeday | split: ', ' %}
+							{% for time in times %}
+								{% if time contains '-' %}
+									<time>{{ time | markdownify }}</time>
+								{% else %}
+									{{ time | markdownify }}
+								{% endif %}
+							{% endfor %}
+						{% endfor %}
+					</dd>
 				{% endfor %}
 				
 				<dt>Host</dt>
@@ -31,4 +43,4 @@ class: gradient-behind lab
 	</section>
 {% endfor %}
 
-{% render 'prenota.liquid', lang: lang, url: page.url %}
+{% render 'prenota.liquid', lang: lang, url: page.url, booking_url: site.booking_url %}

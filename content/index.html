@@ -33,9 +33,9 @@ image: https://x.scambi.org/images/index.webp
 	<div class='half column'>
 		<h2 class='title'>Cosa vuol dire <em>Paneuretico</em>?</h2>
 		<p>Consapevoli del ruolo fondamentale dei termini che utilizziamo, abbiamo coniato un neologismo che riassume l’essenza di Scambi. L’aggettivo “Paneuretico” nasce dall’unione di tre parole greche: <em>pan</em> (tutto), <em>eurisko</em> (trovare, scoprire, incontrare), <em>ethos</em> (modo di vivere).</p>
-		{% comment %}FIX<div class='center flex'>
-			<a href='/paneuretico' class='orange button'>Leggi di più</a>
-		</div>{% endcomment %}
+		<div class='center flex'>
+			<a href='/paneuretico' title='L’universo Paneuretico di Scambi' class='orange button'>Leggi di più</a>
+		</div>
 	</div>
 	<div class='half column'>
 		<img src='https://x.scambi.org/illustrations/tabletalk.webp'>
@@ -78,7 +78,4 @@ image: https://x.scambi.org/images/index.webp
 
 {% render 'relations.liquid', lang: lang %}
 
-<section id='map' class='row full-width'>
-	<h2>Le location di Scambi</h2>
-	<iframe width='100%' height='500px' frameborder='0' allowfullscreen src='http://umap.openstreetmap.fr/en/map/scambi-2022_792002?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false'></iframe>
-</section>
+{% render 'map.liquid', lang: lang %}

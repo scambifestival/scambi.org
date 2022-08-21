@@ -598,7 +598,19 @@ figcaption {
 }
 
 .p-author {
-	display: none;
+	line-height: $mastodon;
+	img {
+		display: inline-block;
+		height: $mastodon;
+		border-radius: 999px;
+		border: 2px solid var(--primary);
+		box-shadow: var(--shadow);
+	}
+	span {
+		position: relative;
+		bottom: $big;
+		margin-left: $small;
+	}
 }
 
 p {
@@ -1047,6 +1059,11 @@ svg.button {
 #data {
 	figure {
 		margin-top: 2rem;
+	}
+	time {
+		padding: 0 $small;
+		border-radius: $radius-s;
+		background: var(--vertical-gradient);
 	}
 }
 

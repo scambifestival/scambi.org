@@ -1,0 +1,10 @@
+<section id='map' class='full-width row'>
+	<h2>
+		{% if lang == 'it' %}
+			Le location di Scambi
+		{% else %}
+			Scambi’s locations
+		{% endif %}
+	</h2>
+	<iframe width='100%' height='500px' frameborder='0' allowfullscreen src='{{ site.map }}?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false'></iframe>
+</section>
