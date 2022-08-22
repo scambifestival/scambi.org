@@ -43,7 +43,7 @@ redirect_from: [/programma/]
 - **17:30** - **18:30** <strong class='blue-shadow'>Lab</strong> [<cite>Nodi</cite>](/2022/lab/16), presso l’<u>Oratorio San Costanzo</u>
 - **17:30** - **19:00** <strong class='blue-shadow'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
 - **18:30** - **19:30** <strong class='blue-shadow'>Lab</strong> [<cite>Tai Chi</cite>](/2022/lab/18) presso <u>Giardini Regina Elena</u>
-- **18:00** - **19:00** [<cite>Game Boy Music Production</cite>](/2022/lab/8) presso <u>Chiesa Santa Brigida</u>
+- **18:00** - **19:00** <strong class='blue-shadow'>Lab</strong> [<cite>Game Boy Music Production</cite>](/2022/lab/8) presso <u>Chiesa Santa Brigida</u>
 - **18:00** - **21:00** [<cite>SanTo</cite> (Sanremo - Torino) ospita Christian Gullone e Stefano Michero](https://officinebrand.it/eventi/a-sanremo-il-santo-sanremo-torino-ospita-christian-gullone-e-stefano-michero) presso <u>Palazzo Gentile</u>
 - **21:30** - **24:00** Live set di <cite>Internet Breakfast</cite> e <cite>Kenobit</cite>
 ---
