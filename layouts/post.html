@@ -16,14 +16,15 @@ layout: wrapper
 				{% endif %}
 			</p>
 			{% for person in people %}
-				{% assign author_data = | append: person.Nome | append: ' ' | append: person.Cognome %}
-				{% if author == author_data %}
-					<a rel='author' class='p-author h-card' href='{{ person.url }}'>
-						<img src='{{ person.image }}' >
-						<span>{{ author }}</span>
-					</a>
-					{% break %}
-				{% endif %}
+				{% assign writer_data = | append: person.Nome | append: ' ' | append: person.Cognome %}
+				{% for writer in author %}
+					{% if writer == writer_data %}
+						<a rel='author' class='p-author h-card' href='{{ person.url }}'>
+							<img src='{{ person.image }}' >
+							<span>{{ person.Nome }} {{ person.Cognome }}</span>
+						</a>
+					{% endif %}
+				{% endfor %}
 			{% endfor %}
 		</div>
 	</section>
