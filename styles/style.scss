@@ -1266,8 +1266,16 @@ svg.button {
 
 .eng {
 	&::after {
-		content: ' IN ENGLISH 🇬🇧';
+		content: ' in English 🇬🇧';
 		color: var(--red);
 		box-shadow: none;
+		text-transform: uppercase;
+	}
+}
+
+#seeweb {
+	img {
+		margin: $small auto;
+		border-radius: 0;
 	}
 }
