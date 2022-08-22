@@ -14,9 +14,9 @@ redirect_from: [/programma/]
 
 ## Giovedì 25 agosto 2022
 
-- **9:30** - **18:00** <strong style='color:var(--orange)'>allestimento collettivo</strong>
-- **18:00** - **19:00** cerimonia di inaugurazione di Scambi Festival 2022
-- **19:00** - **20:00** concerto della Giovane Orchestra <cite>Note Libere</cite>, in apertura all’edizione 2022 del festival
+- **9:30** - **18:00** <strong style='color:var(--orange)'>allestimento collettivo</strong>, con ritrovo in <u>piazza Santa Brigida</u>
+- **18:00** - **19:00** cerimonia di inaugurazione di Scambi Festival 2022, in <u>piazza Cassini</u>
+- **19:00** - **20:00** concerto della Giovane Orchestra <cite>Note Libere</cite>, in apertura all’edizione 2022 del festival, in <u>piazza Cassini</u>
 - **21:15** - **23:15** Cinema sotto le stelle: proiezione del film <cite>L’uomo che non c’era</cite> in <u>Piazza Santa Brigida</u>
 - **23:00** - **24:00** Osservazione del cielo stellato, con l’associazione <cite>Orbita</cite>, dall’osservatorio astronomico di Perinaldo, presso i <u>Giardini Regina Elena</u>
 
@@ -87,7 +87,7 @@ redirect_from: [/programma/]
 - **10:00** - **11:00** <strong class='blue-shadow'>Lab</strong> [<cite>Il sorriso, Squilibrio di Massa</cite>](/2022/lab/10) in <u>piazza Cassini</u>
 - **10:00** - **11:15** <strong class='blue-shadow'>Lab</strong> [<cite>Il Teatro dello Squilibrio: I Teatri degli Squilibri</cite>](/2022/lab/9) presso <u>piazza San Costanzo</u>
 - **10:00** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/17) presso <u>Terrazza San Costanzo</u>
-- **10:30** - **12:00**  [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4) — seconda parte ; presso <u>Chiesa Santa Brigida</u>
+- **10:30** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Dietro le quinte</cite>: laboratorio di fotografia](/2022/lab/4) — seconda parte ; presso <u>Chiesa Santa Brigida</u>
 - **10:30** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/6) presso <u>Palazzo Nota (museo civico)</u>
 - **11:00** - **12:30** <strong class='blue-shadow'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
 - **11:15** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/5) in <u>piazza Cisterna</u>
@@ -103,4 +103,4 @@ redirect_from: [/programma/]
 - **18:00** - **19:00** <strong class='blue-shadow'>Lab</strong> [<cite>Attivismo a costo zero</cite>](/2022/lab/1) presso <u>via Tapoletti</u>
 - **18:00** - **19:30** <strong class='blue-shadow'>Lab</strong> [<cite>La finestra di Overton</cite>: realizzare l’utopia](/2022/lab/14) presso l’<u>Oratorio San Costanzo</u>
 - **21:15** - **22:15** Premiazione Dissolvenze presso <u>piazza Santa Brigida</u>
-- **22:30** - **∞** Concerto di chiusura presso Piazza <u>Santa Brigida</u>
+- **22:30** - **∞** Concerto di chiusura dei [**<cite>Perfect Sex Tales</cite>**](https://instagram.com/perfectsextales) presso Piazza <u>Santa Brigida</u>
