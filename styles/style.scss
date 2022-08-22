@@ -215,19 +215,23 @@ input[type='email'] {
 	border: none;
 	background: var(--background);
 	color: var(--text);
-	border-radius: $radius-m;
+	border-radius: $radius-l;
 	padding: $small $regular;
 	box-shadow: var(--inner-shadow);
 	font-size: $regular;
 	width: 20rem;
 	margin: $regular-less;
 	max-width: 100%;
+	border: 3px solid var(--purple);
 	&::placeholder {
 		color: var(--other-grey);
 	}
 	& ~ .button {
 		margin-left: $regular-less;
 		margin-right: $regular-less;
+	}
+	&:active {
+		outline: none !important;
 	}
 }
 
