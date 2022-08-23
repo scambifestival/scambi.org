@@ -31,7 +31,7 @@ todo: translation
 - **10:00** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Inside Out</cite>](/2022/lab/11) presso i <u>Giardini Regina Elena</u>
 - **10:15** - **11:15** <strong class='blue-shadow'>Lab</strong> [<cite>Nodi</cite>](/2022/lab/15), presso l’<u>Oratorio San Costanzo</u>
 - **10:30** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/5) presso <u>Palazzo Nota (museo civico)</u>
-- **10:45** - **11:30** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/4) in <u>piazza Cisterna</u>
+- **10:45** - **11:30** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/4) in <u>piazza Santa Brigida</u>
 - **10:00** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/16) presso <u>Terrazza San Costanzo</u>
 - **11:30** - **13:00** <strong class='blue-shadow eng'>Lab</strong> [<cite>Kleckso-Art</cite>](/2022/lab/12) in <u>Terrazza Santa Brigida</u>
 - **15:00** - **17:00** Cineforum **<cite>Scambi in sala</cite>** presso la <u>Chiesa di Santa Brigida</u>
@@ -58,7 +58,7 @@ todo: translation
 - **10:30** - **11:45** <strong class='blue-shadow'>Lab</strong> [<cite><em>Fediverse</em>: Social Network Umani</cite>](/2022/lab/6) presso <u>terrazza Santa Brigida</u>
 - **10:30** - **11:30** <strong class='blue-shadow'>Lab</strong> [<cite>Attivismo a costo zero</cite>](/2022/lab/1) presso <u>via Tapoletti</u>
 - **11:00** - **12:30** <strong class='blue-shadow'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
-- **11:15** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/4) in <u>piazza Cisterna</u>
+- **11:15** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/4) in <u>piazza Santa Brigida</u>
 - **11:45** - **12:15** Rassegna cortometraggi Dissolvenze presso Centro Risorse
 - **15:00** - **16:00** <strong class='blue-shadow'>Lab</strong> [<cite>Vado a mappare la Pigna su #OpenStreetMap</cite>](/2022/lab/18); itinerante, a partire da <u>Piazza Cassini</u>
 - **15:00** - **17:00** Cineforum **<cite>Scambi in sala</cite>** presso il <u>Centro risorse, piazza Cassini</u>
@@ -87,7 +87,7 @@ todo: translation
 - **10:00** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/16) presso <u>Terrazza San Costanzo</u>
 - **10:30** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/5) presso <u>Palazzo Nota (museo civico)</u>
 - **11:00** - **12:30** <strong class='blue-shadow'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
-- **11:15** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/4) in <u>piazza Cisterna</u>
+- **11:15** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/4) in <u>piazza Santa Brigida</u>
 - **15:00** - **17:00** Cineforum **<cite>Scambi in sala</cite>** presso il <u>Centro risorse, piazza Cassini</u>
 - **16:00** - **17:30** <strong class='blue-shadow'>Lab</strong> [<cite>La finestra di Overton</cite>: realizzare l’utopia](/2022/lab/13) presso l’<u>Oratorio San Costanzo</u>
 - **16:00** - **18:00** <strong class='blue-shadow eng'>Lab</strong> [<cite>Laboratalbero</cite>](/2022/lab/14) presso i <u>giardini Regina Elena</u>
