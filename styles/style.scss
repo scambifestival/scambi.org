@@ -845,7 +845,8 @@ audio,
 	border-radius: $radius-m;
 }
 
-#social {
+#social,
+#share {
 	svg,
 	img {
 		height: $bigger;
@@ -1131,6 +1132,16 @@ svg.button {
 	}
 }
 
+#goto {
+	padding: $small;
+	margin: $small;
+	.button {
+		color: var(--text);
+		background: var(--background);
+		margin: $small !important;
+	}
+}
+
 /* mobile display - responsive design */
 @media only screen and (max-width: 950px) {
 	.one,
@@ -1162,9 +1173,7 @@ svg.button {
 	#goto div {
 		display: flex;
 		overflow-x: scroll;
-		a {
-			margin-right: $small;
-		}
+		border-radius: $radius-l;
 	}
 	#help {
 		bottom: -15rem;
@@ -1254,11 +1263,9 @@ svg.button {
 	#goto {
 		position: fixed;
 		width: 16rem;
-		top: 30vh;
-		left: -17rem;
+		top: 35vh;
+		left: -15rem;
 		z-index: 8;
-		padding: $small;
-		margin: $small;
 		&:hover,
 		&:focus {
 			left: 0;
@@ -1268,6 +1275,12 @@ svg.button {
 			display: block;
 			color: var(--text);
 			background: var(--background);
+		}
+		&::after {
+			content: '→';
+			position: absolute;
+			top: 4rem;
+			right: $small;
 		}
 	}
 	footer {
