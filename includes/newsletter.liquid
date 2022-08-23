@@ -3,10 +3,16 @@
 			<img src='https://x.scambi.org/illustrations/press.webp'>
 		</div>
 		<div class='two-thirds column'>
-			<h2><cite>Scambi Epistolari</cite></h2>
-			<p>Leggendo la newsletter potrai rimanere aggiornatə su tutte le attività di Scambi, nonché esplorare più a fondo le tematiche trattate, con approfondimenti tematici, interviste esclusive e nostre riflessioni su quello che accade intorno a noi.</p>
+			<h2><cite lang='it'>Scambi Epistolari</cite></h2>
+			<p>
+				{% if lang == 'it' %}
+					Leggendo la newsletter potrai rimanere aggiornatə su tutte le attività di Scambi, nonché esplorare più a fondo le tematiche trattate, con approfondimenti tematici, interviste esclusive e nostre riflessioni su quello che accade intorno a noi.
+				{% else %}
+					By subscribing, you can keep up with all the news concerning <cite lang='it'>Scambi</cite> and deepening your knowledge of the topics addressed during the festival through exclusive interviews and thoughts concerning the world we live in.
+				{% endif %}
+			</p>
 			<form action='https://buttondown.email/api/emails/embed-subscribe/scambi' method='post' class='flex'>
-				<input type='email' name='email' id='bd-email' placeholder='digita il tuo indirizzo email' />
+				<input type='email' name='email' id='bd-email' placeholder='{% if lang == 'it' %}Digita qui il tuo indirizzo email{% else %}Type your email address here{% endif %}' />
 				<input type='submit' value='Iscriviti' class='purple' />
 				{% if lang == 'it' %}<input type='hidden' name='tag' value='Italian' />{% endif %}
 			</form>

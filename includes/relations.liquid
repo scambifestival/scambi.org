@@ -14,8 +14,12 @@
 			{% endif %}
 		</p>
 		<div class='flex'>
-			{% comment %}FIX<a class='button' href='/relazioni'>Le nostre relazioni</a>{% endcomment %}
-			<a class='button' href='mailto:staff@scambi.org?subject=Collaboriamo!'>Collabora con noi!</a>
+			{% if lang == 'it' %}
+				{% comment %}FIX<a class='button' href='/relazioni'>Le nostre relazioni</a>{% endcomment %}
+				<a class='orange button' href='mailto:staff@scambi.org?subject=Collaboriamo!'>Collabora con noi!</a>
+			{% else %}
+				<a class='orange button' href='mailto:staff@scambi.org?subject=Let%E2%80%99s%20connect%21'>Partner with us!</a>
+			{% endif %}
 		</div>
 	</div>
 </section>

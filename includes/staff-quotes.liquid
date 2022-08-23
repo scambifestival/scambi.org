@@ -1,36 +1,40 @@
 <section>
-	<h2 class='title'>Una volta dentro, non puoi smettere di parlarne!</h2>
+	<h2 class='title'>{% if lang == 'it' %}Una volta dentro, non puoi smettere di parlarne!{% else %}Once you’re in, you can’t stop thinking about it!{% endif %}</h2>
 	<div class='one-third column'>
 		<div class='blue-gradient box'>
 			<h3>Anna</h3>
-			<h4>Presidente APS Oltre</h4>
-			<p><q>Scambi per me è il luogo in cui essere libera nel mio desiderio di futuro; in una realtà che sta divenendo così confusa e insicura abbiamo tuttз bisogno di tornare a concentrarci su cosa significhi realmente vivere insieme.</q></p>
+			{% if lang == 'it' %}
+				<h4>Presidente APS Oltre</h4>
+				<p><q>Scambi per me è il luogo in cui essere libera nel mio desiderio di futuro; in una realtà che sta divenendo così confusa e insicura abbiamo tuttз bisogno di tornare a concentrarci su cosa significhi realmente vivere insieme.</q></p>
+			{% else %}
+				<h4>APS <cite lang='it'>Oltre</cite> President</h4>
+				<p><q>To me, Scambi is where I can be free and be hopeful for the future; in these confusing and uncertain times we all need to go back to focusing on what living together really means.</q></p>
+			{% endif %}
 		</div>
 	</div>
 	<div class='one-third column'>
 		<div class='blue-gradient-inverted box'>
 			<h3>Lucilla</h3>
-			<h4>Team <cite>Dissolvenze</cite></h4>
-			<p><q>Ho deciso di partecipare a Scambi perché ho visto cosa la dedizione e l’impegno di tuttз hanno creato nella prima edizione, e vorrei tanto aiutare a creare la stessa magia anche nella prossima edizione</q></p>
+			{% if lang == 'it' %}
+				<h4>Team <cite>Dissolvenze</cite></h4>
+				<p><q>Ho deciso di partecipare a Scambi perché ho visto cosa la dedizione e l’impegno di tuttз hanno creato nella prima edizione, e vorrei tanto aiutare a creare la stessa magia anche nella prossima edizione</q></p>
+			{% else %}
+				<h4><cite lang='it'>Dissolvenze</cite> Team</h4>
+				<p><q>I decided to join Scambi because I saw what last year the team was able to create thanks to everybodys dedication and commitment, and I would d love to help to recreate the same magic for the next edition of the festival.</q></p>
+			{% endif %}
 		</div>
 	</div>
 	<div class='one-third column'>
 		<div class='blue-gradient box'>
 			<h3>Luisa</h3>
-			<h4>Team leader <cite>Dissolvenze</cite></h4>
-			<p><q>Scambi mi piace perché è riuscito ad unire giovanз ragazzз provenienti da tutta Italia con lo scopo di inventare qualcosa di nuovo, di portare in un singolo posto musica, danza e tanta curiosità.</q></p>
+			{% if lang == 'it' %}
+				<h4>Team leader <cite>Dissolvenze</cite></h4>
+				<p><q>Scambi mi piace perché è riuscito ad unire giovanз ragazzз provenienti da tutta Italia con lo scopo di inventare qualcosa di nuovo, di portare in un singolo posto musica, danza e tanta curiosità.</q></p>
+			{% else %}
+				<h4><cite>Dissolvenze</cite> Team leader</h4>
+				<p><q>I like Scambi because it brought together young people from all over Italy with the goal of inventing something new, of combining music, dancing and a lot of curiosity.</q></p>
+			{% endif %}
 		</div>
 	</div>
 </section>
 <section class='row'>
-	<h2 class='title'>La ciurma di Scambi</h2>
-	<div class='half column'>
-		<p>Siamo 50+ di volontariз under-25 provenienti da ogni angolo d’Europa.</p>
-		<p>La nostra associazione è nata dal desiderio di valorizzare legami reali e profondi, orizzontalità e dialogo, curiosità e accoglienza del diverso. Dopo numerosissime videochiamate, mille dubbi e altrettante idee, la nostra ciurma sgangherata è diventata una famiglia colorata. Siamo orgogliosз della nostra eterogeneità e della nostra passione, entusiastз di condividere stimoli e di proporre senza tregua nuove prospettive.</p>
-		<p>Ti aspettiamo a Sanremo, dove potremo presentarci al meglio!</p>
-		<div class='flex'><a class='yellow button' href='/staff' title='Staff page'>Unisciti a noi!</a></div>
-	</div>
-	<div class='half column'>
-		<img src='https://x.scambi.org/images/staff.webp'>
-	</div>
-</section>

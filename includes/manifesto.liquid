@@ -2,27 +2,56 @@
 	<h2 class='title'>Il nostro manifesto</h2>
 	<div class='flex'>
 		<div class='shrink vertical-gradient box'>
-			<h3>La Pigna</h3>
-			<h4 class='color'>le radici</h4>
-			<p><em>Scambi</em> affonda le proprie radici nella Pigna, <u>il magico centro storico di Sanremo</u>. Perfetta allegoria dei valori alla base dei nostri intenti, la Pigna è <strong>uno scrigno colmo</strong> di carrugi in cui si respira una bellezza rovinata e resiliente.</p>
+			{% if lang == 'it' %}
+				<h3>La Pigna</h3>
+				<h4 class='color'>le radici</h4>
+				<p><em>Scambi</em> affonda le proprie radici nella Pigna, <u>il magico centro storico di Sanremo</u>. Perfetta allegoria dei valori alla base dei nostri intenti, la Pigna è <strong>uno scrigno colmo</strong> di carrugi in cui si respira una bellezza rovinata e resiliente.</p>
+			{% else %}
+				<h3><em lang='it'>La Pigna</em></h3>
+				<h4 class='color'>the roots</h4>
+				<p><em lang='it'>La Pigna</em> is the iconic and vibrant historic center of Sanremo welcomes us during the festival, we are committed to give it a new birth through a joint and collective cutural effort.</p>
+			{% endif %}
 		</div>
 		<div class='shrink vertical-gradient box'>
-			<h3>Accessibilità</h3>
-			<h4 class='color'>il tronco</h4>
-			<p>Il fusto che regge il nostro festival vuole essere accessibile. Per noi Accessibilità significa <u>credere e lavorare per la realizzazione di un mondo più giusto</u>, che possa abbracciare tuttɜ, al di là e <strong><em>attraverso</em> le differenze</strong>.</p>
+			{% if lang == 'it' %}
+				<h3>Accessibilità</h3>
+				<h4 class='color'>il tronco</h4>
+				<p>Il fusto che regge il nostro festival vuole essere accessibile. Per noi Accessibilità significa <u>credere e lavorare per la realizzazione di un mondo più giusto</u>, che possa abbracciare tuttɜ, al di là e <strong><em>attraverso</em> le differenze</strong>.</p>
+			{% else %}
+				<h3>Accessibility</h3>
+				<h4 class='color'>the trunk</h4>
+				<p>In a society echoing with <strong>you must</strong>, we say <strong>just be</strong>: we work hard to make sure that every festival activity available and <u>accessible to as many people as possible</u>, regardless of their age, political position, religious belief or phisical and cognitive condition.</p>
+			{% endif %}
 		</div>
 		<div class='shrink vertical-gradient box'>
-			<h3>Laboratori
-			<h4 class='color'>i rami</h4>
-			<p>Rigorosamente coinvolgenti e orizzontali, i Lab intendono creare relazioni fra chi li vive. Personalità perite nelle più diverse discipline propongono esperienze che aiutino ad allargare i propri orizzonti sperimentando con idee e cose.</p>
+			{% if lang == 'it' %}
+				<h3>Laboratori</h3>
+				<h4 class='color'>i rami</h4>
+				<p>Rigorosamente coinvolgenti e orizzontali, i Lab intendono creare relazioni fra chi li vive. Personalità perite nelle più diverse discipline propongono esperienze che aiutino ad allargare i propri orizzonti sperimentando con idee e cose.</p>
+			{% else %}
+				<h3>The Labs</h3>
+				<h4 class='color'>the branches</h4>
+				<p>Strictly <strong>involving</strong> and <strong>open</strong>, Labs are conceived to <u>establish special relations</u> among the ones who attend them. Experts in many different fields host the Labs guiding the participants through experiences aimes ad broadening your perspective with challenging experiments and ideas.</p>
+			{% endif %}
 		</div>
 		<div class='shrink vertical-gradient box'>
-			<h3><em>Paneuretico</em></h3>
-			<h4 class='color'>il frutto</h4>
-			<p>È paneuretico ciò che spinge a scoprire cose nuove, a rivolgersi ai più diversi ambiti, in modi originali. Questa ricerca non è priva di indirizzo, ciò che è paneuretico segue un’etica basata su valori vitali da costruire e condividere.</p>
+			{% if lang == 'it' %}
+				<h3><em>Paneuretico</em></h3>
+				<h4 class='color'>il frutto</h4>
+				<p>È paneuretico ciò che spinge a scoprire cose nuove, a rivolgersi ai più diversi ambiti, in modi originali. Questa ricerca non è priva di indirizzo, ciò che è paneuretico segue un’etica basata su valori vitali da costruire e condividere.</p>
+			{% else %}
+				<h3><em>Paneurethic</em></h3>
+				<h4 class='color'>the offspring</h4>
+				<p><em>Paneurethic</em> is a neologism we created so synthetize the deriving from the Greek <em>pan</em> (all), <em>eurisko</em> (discover) and <em>ethos</em> (living), because we wish to combine diverse realities that would never meet in their original contexts, while celebrating and respecting our differences, discovering and developing inspiring ideas.</p>
+			{% endif %}
 		</div>
 	</div>
 	<div class='flex'>
-		<a class='blue button' href='/manifesto' title='Il Manifesto di Scambi Festival'>Leggi il manifesto</a>
+		<a class='blue button'
+			{% if lang == 'it' %}
+				href='/manifesto' title='Il Manifesto di Scambi Festival'>Leggi il manifesto</a>
+			{% else %}
+				href='/en/manifesto' title='Scambi Festival’s manifesto'>Read the manifesto</a>
+			{% endif %}
 	</div>
 </section>
