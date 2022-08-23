@@ -30,7 +30,17 @@ sitemap:
 			<a class='box' href='{{ entry.url }}' hreflang='{{ entry.data.lang }}' lang='{{ entry.data.lang }}'>
 				<div class='flex'><img src='{{ entry.data.image }}' alt='{{ entry.data.title }}' title='{{ entry.data.title }}'></div>
 				<h2>{{ entry.data.title }}</h2>
-				<p class='center'><time class='dt-published' datetime='{{ entry.date | date: '%Y-%m-%dT%H:%M:%S%:z' }}'>{% render 'date-it.html', date: entry.date %}<time></p>
+				<div class='flex authors'>
+					<p>
+						di
+						{% for writer in entry.data.author %}
+							{{ writer }}
+						{% endfor %}
+					</p>
+					<p class='date'>
+						{% if entry.data.location %}{{ entry.data.location }}, {% endif %}<time class='dt-published' datetime='{{ entry.date | date: '%Y-%m-%dT%H:%M:%S%:z' }}'>{% render 'date-it.html', date: entry.date %}</time>
+					</p>
+				</div>
 				<cite class='excerpt'>
 					{% if entry.data.description %}
 						{{ entry.data.description | markdownify | strip_html }}

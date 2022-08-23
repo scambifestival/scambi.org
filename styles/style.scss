@@ -240,18 +240,6 @@ input[type='email'] {
 	cursor: not-allowed;
 }
 
-.embed-wrapper {
-	padding: 2rem 5%;
-	font-size: .8em;
-	background: var(--deep);
-	border-radius: $radius-l;
-	box-shadow: var(--inner-shadow);
-}
-
-.embed-title {
-	display: none;
-}
-
 .flex {
 	display: flex !important;
 	flex-wrap: wrap;
@@ -415,10 +403,10 @@ code {
 blockquote {
 	margin: 0 3vw;
 	padding: 0;
-	font: 1em var(--font-serif);
+	font: italic 1em var(--font-serif);
 	opacity: .9;
 	p {
-		line-height: 1.5em;
+		line-height: 1.3em;
 	}
 }
 
@@ -719,16 +707,21 @@ h3 {
 
 #blog {
 	.box {
-		max-height: 99vh;
-		overflow: scroll;
+		padding: $small;
 	}
 	img {
-		max-height: 12rem;
-		width: auto;
-		border-radius: $radius-m;
+		max-height: 20rem;
 	}
 	h2 {
+		margin: $regular-less 0;
 		font-size: 2rem;
+	}
+	p {
+		line-height: 1;
+		margin: $small 0;
+	}
+	.authors.flex {
+		justify-content: space-between;
 	}
 }
 
@@ -911,6 +904,28 @@ svg.button {
 		article & {
 			border-radius: $radius-l !important;
 		}
+	}
+}
+
+.embed-container {
+	--video--width: 1920;
+	--video--height: 1080;
+
+	position: relative;
+	padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);
+	overflow: hidden;
+	max-width: 100%;
+	background: transparent;
+	border-radius: $radius-l;
+	box-shadow: var(--shadow);
+	iframe,
+	object,
+	embed {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
 	}
 }
 

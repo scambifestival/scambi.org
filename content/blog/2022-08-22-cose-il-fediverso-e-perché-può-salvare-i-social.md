@@ -41,7 +41,7 @@ Per esempio: ognunə di noi, per farne parte, è obbligato a creare un account s
 
 Questa è solo la punta dell’iceberg delle caratteristiche e delle potenzialità che i social network self-hostati e federati hanno. A livello individuale, la federazione permette alla persona di scegliere a quale comunità appartenere e con quali comunità dialogare, riscoprendo il concetto, prima sconosciuto o imposto dall’alto, di auto-determinazione dei propri spazi virtuali.
 
-Nel Lab di Scambi 2022 [<cite>Fediverse: social network umani</cite>](https://scambi.org/2022/lab/7), esplorerete più a fondo questo concentto e le sue implicazioni, nonché le ripercussioni sul singolo e sulla società. Il team di Etica Digitale vi aspetta per eplorare nuovi mondi, anzi, nuovi universi, insieme.
+Nel Lab di Scambi 2022 [<cite>Fediverse: social network umani</cite>](https://scambi.org/2022/lab/7), esplorerete più a fondo questo concetto e le sue implicazioni, nonché le ripercussioni sul singolo e sulla società. Il team di Etica Digitale vi aspetta per eplorare nuovi mondi, anzi, nuovi universi, insieme.
 
 
 ## L’aiuto di *Seeweb*
