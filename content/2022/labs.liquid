@@ -5,7 +5,7 @@ permalink: /2022/labs/
 redirect_from: ['/2022/lab/']
 ---
 <section class='flex row' id='lab-list'>
-	{% assign labs = 2022-program | where: 'what', 'lab' %}
+	{% assign labs = 2022-labs | where: 'what', 'lab' %}
 	{% for lab in labs %}
 		<a id='{{ lab.title | slugify}}' class='shrink box' href='/2022/lab/{{ forloop.index }}'>
 			<h3>{{ lab.title }}</h3>

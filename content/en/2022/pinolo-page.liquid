@@ -1,11 +1,11 @@
 ---
 pagination:
-  data: 2022-program
+  data: 2022-pinoli
   size: 1
 permalink: '/en/2022/pinolo/{{ pagination.pageNumber | plus: 1 }}/'
 layout: wrapper
 ---
-{% for item in pagination.items | where: item.what, 'pinolo' %}
+{% for item in pagination.items %}
 	<h1>{{ item.title }}</h1>
 	<section class='row'>
 		<div class='half column'>
@@ -35,7 +35,7 @@ layout: wrapper
 						<dd>{{ host }}</dd>
 					{% endfor %}
 				{% else %}
-					<dd>{{ item.leader }}</dd>
+					<dd>{{ item.host_name }}</dd>
 				{% endif %}
 			</dl>
 				<figure><img src='{{ item.image }}' alt='{{ item.title }}'></figure>

@@ -4,7 +4,7 @@ class: gradient
 permalink: /en/2022/pinoli/
 ---
 <section class='flex row' id='pinoli-list'>
-	{% assign pinoli = 2022-program | where: 'what', 'pinolo' %}
+	{% assign pinoli = 2022-labs | where: 'what', 'pinolo' %}
 	{% for pinolo in pinoli %}
 		<a id='{{ pinolo.title | slugify }}' class='shrink box' href='/2022/pinolo/{{ forloop.index }}'>
 			<h3>{{ pinolo.title }}</h3>
