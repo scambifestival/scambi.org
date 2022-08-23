@@ -2,7 +2,7 @@
 pagination:
   data: 2022-program
   size: 1
-permalink: '/2022/lab/{{ pagination.pageNumber | plus: 1 }}/'
+permalink: '/en/2022/lab/{{ pagination.pageNumber | plus: 1 }}/'
 layout: wrapper
 class: gradient-behind lab
 ---
@@ -16,7 +16,7 @@ class: gradient-behind lab
 			<div class='half column'>
 				<dl id='data'>
 					<dt>Location</dt>
-					<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='Le location di Scambi Festival 2022'>vedi mappa</a></dd>
+					<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='Le location di Scambi Festival 2022'>view map mappa</a></dd>
 
 					{% assign days = item.times | split: '; ' %}
 					<dt>Quando</dt>
@@ -35,6 +35,7 @@ class: gradient-behind lab
 							{% endfor %}
 						</dd>
 					{% endfor %}
+						
 					<dt>Host</dt>
 					{% if item.host != '""' %}
 						{% assign hosts = item.host | split: ',' %}

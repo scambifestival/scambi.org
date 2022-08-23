@@ -1,0 +1,56 @@
+---
+pagination:
+  data: 2022-program
+  size: 1
+permalink: '/en/2022/pinolo/{{ pagination.pageNumber | plus: 1 }}/'
+layout: wrapper
+---
+{% for item in pagination.items | where: item.what, 'pinolo' %}
+	<h1>{{ item.title }}</h1>
+	<section class='row'>
+		<div class='half column'>
+			<p>{{ item.description | markdownify }}</p>
+		</div>
+		<div class='half column'>
+			<dl id='data'>
+				<dt>Location</dt>
+				<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='The locations of Scambi Festival 2022'>view the map</a></dd>
+
+				{% assign days = item.days | split: ',' %}
+				<dt>Quando</dt>
+				<dd>
+					{% for day in days %}
+						{% unless forloop.last %}
+							{{ day }},
+						{% else %}
+							{{ day }}
+						{% endunless %}
+					{% endfor %}
+				</dd>
+				
+				<dt>Host</dt>
+				{% if item.host != '""' %}
+					{% assign hosts = item.host | split: ',' %}
+					{% for host in hosts %}
+						<dd>{{ host }}</dd>
+					{% endfor %}
+				{% else %}
+					<dd>{{ item.leader }}</dd>
+				{% endif %}
+			</dl>
+				<figure><img src='{{ item.image }}' alt='{{ item.title }}'></figure>
+		</div>
+	</section>
+	{% comment %}<section class='yellow box row' style='margin: 3vw'>
+		<div class='half column'>
+			<h2>{{ item.host }}</h2>
+			<p>{{ item.host_bio }}</p>
+		</div>
+		<div class='half column'>
+			<img src='{{ item.host_image }}' alt='{{ item.host }}'>
+		</div>
+	</section>{% endcomment %}
+{% endfor %}
+
+<h3>No need to book <em lang='it'>Pinoli</em>!</h3>
+<p class='center'>Wander around La Pigna and you’ll stumble upon them.</p>
