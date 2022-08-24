@@ -50,7 +50,7 @@ class: gradient-behind lab
 	<section class='yellow box row' style='margin: 3vw'>
 		<div class='half column'>
 			<h2>{{ item.host }}</h2>
-			<p>{{ item.host_bio }}</p>
+			<p>{{ item.host_bio | markdownify }}</p>
 		</div>
 		<div class='half column'>
 			<img src='{{ item.host_image }}' alt='{{ item.host }}'>
