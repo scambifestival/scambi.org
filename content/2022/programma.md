@@ -10,7 +10,13 @@ ref: 2022program
 <div class='flex'>
 	<a class='blue button' href='{{ site.booking_url }}' target='_blank' title='Prenota qui tutte le attività!'>Prenota qui</a>
 	<a class='purple button' href='/2022/labs' title='Tutti i Lab di Scambi Festival 2022'>Labs 2022</a>
-	<a class='yellow button' href='/2022/pinoli' title='Tutti i Pinoli di Scambi Festival 2022'>Pinoli 2022</a>
+</div>
+
+<div class='blue box'>
+	<p>Non tutto quello che accade a Scambi appare nel programma, ci sono molte cose favolose che non hanno orario, come i Pinoli. Non perdeteveli!</p>
+	<div class='flex'>
+		<a class='yellow button' href='/2022/pinoli' title='Tutti i Pinoli di Scambi Festival 2022'>Pinoli 2022</a>
+	</div>
 </div>
 
 ## Giovedì 25 agosto 2022
@@ -71,7 +77,7 @@ ref: 2022program
 - **17:30** - **18:30** <strong class='blue-shadow'>Lab</strong> [<cite>Il mio mare di parole</cite>](/2022/lab/8) presso <u>porta San Giuseppe</u>
 - **18:00** - **19:00** <strong class='blue-shadow eng'>Lab</strong> [<cite>Attivismo a costo zero</cite>](/2022/lab/1) presso <u>via Tapoletti</u>
 - **18:30** - **19:30** <strong class='blue-shadow'>Lab</strong> [<cite>Tai Chi</cite>](/2022/lab/17) presso <u>Giardini Regina Elena</u>
-- **18:00** - **19:00** [Dialogo con Maricetta Lombardo](/2022/maricetta-lombardo) presso Piazzetta dei ferri
+- **18:00** - **19:00** [**Dialogo con Maricetta Lombardo**](/2022/maricetta-lombardo) presso Piazzetta dei Ferri
 - **19:00** - **20:15** <strong class='blue-shadow'>Lab</strong> [corso di Balli Occitani](/2022/lab/2) presso <u>piazza Santa Brigida</u>
 - **21:30** - **22:30** Concerto di <cite>Lu Barbalucou</cite> con Balli Occitani guidati da <cite>Balbosco D’Oc</cite>, presso <u>piazza Santa Brigida</u>
 
