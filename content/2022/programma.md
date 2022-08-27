@@ -62,12 +62,12 @@ ref: 2022program
 - **10:30** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/5) presso <u>Palazzo Nota (museo civico)</u>
 - **10:30** - **11:45** <strong class='blue-shadow'>Lab</strong> [<cite><em>Fediverse</em>: Social Network Umani</cite>](/2022/lab/6) presso <u>terrazza Santa Brigida</u>
 - **10:30** - **11:30** <strong class='blue-shadow'>Lab</strong> [<cite>Attivismo a costo zero</cite>](/2022/lab/1) presso <u>via Tapoletti</u>
-- **11:00** - **12:30** <strong class='blue-shadow'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
 - **11:15** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/4) in <u>piazza Santa Brigida</u>
 - **11:45** - **12:15** Rassegna cortometraggi Dissolvenze presso la chiesa di Santa Brigida
 - **15:00** - **16:00** <strong class='blue-shadow'>Lab</strong> [<cite>Vado a mappare la Pigna su #OpenStreetMap</cite>](/2022/lab/18); itinerante, a partire da <u>Piazza Cassini</u>
 - **15:00** - **17:00** Cineforum **<cite>Scambi in sala</cite>** presso la <u>chiesa di Santa Brigida</u>
 - **16:00** - **17:15** <strong class='blue-shadow'>Lab</strong> [<cite><em>Fediverse</em>: Social Network Umani</cite>](/2022/lab/6) presso <u>terrazza Santa Brigida</u>
+- **16:00** - **17:30** <strong class='blue-shadow'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
 - **16:00** - **18:00** <strong class='blue-shadow'>Lab</strong> [<cite>Laboratalbero</cite>](/2022/lab/14) presso i <u>giardini Regina Elena</u>
 - **16:15** - **17:15** <strong class='blue-shadow'>Lab</strong> [<cite>Vado a mappare la Pigna su #OpenStreetMap</cite>](/2022/lab/18); itinerante, a partire da <u>Piazza Cassini</u>
 - **17:00** - **18:00** <strong class='blue-shadow'>Lab</strong> [<cite>Nodi</cite>](/2022/lab/15), presso l’<u>Oratorio San Costanzo</u>
