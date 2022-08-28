@@ -91,9 +91,9 @@ ref: 2022program
 - **10:00** - **11:15** <strong class='blue-shadow'>Lab</strong> [<cite>Il Teatro dello Squilibrio: I Teatri degli Squilibri</cite>](/2022/lab/10) presso <u>piazza San Costanzo</u>
 - **10:00** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Squilibrio e ambiente</cite>](/2022/lab/16) presso <u>Terrazza San Costanzo</u>
 - **10:30** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Esperimenti squilibrati</cite>](/2022/lab/5) presso <u>Palazzo Nota (museo civico)</u>
-- **11:00** - **12:30** <strong class='blue-shadow'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
 - **11:15** - **12:00** <strong class='blue-shadow'>Lab</strong> [<cite>Equilibrare il corpo attraverso lo sport</cite>](/2022/lab/4) in <u>piazza Santa Brigida</u>
 - **15:00** - **17:00** Cineforum **<cite>Scambi in sala</cite>** presso il <u>chiesa di Santa Brigida</u>
+- **16:00** - **17:30** <strong class='blue-shadow'>Lab</strong> [<cite>Cambiare scenario - la scelta nell’antimafia sociale</cite>](/2022/lab/3) presso <u>piazza Cassini</u>
 - **16:00** - **17:30** <strong class='blue-shadow'>Lab</strong> [<cite>La finestra di Overton</cite>: realizzare l’utopia](/2022/lab/13) presso l’<u>Oratorio San Costanzo</u>
 - **16:00** - **18:00** <strong class='blue-shadow eng'>Lab</strong> [<cite>Laboratalbero</cite>](/2022/lab/14) presso i <u>giardini Regina Elena</u>
 - **16:00** - **18:00** <strong class='blue-shadow'>Lab</strong> [<cite>Inside Out</cite>](/2022/lab/11) presso i <u>Giardini Regina Elena</u>
