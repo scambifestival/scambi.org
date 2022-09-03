@@ -223,6 +223,7 @@ input[type='email'] {
 	margin: $regular-less;
 	max-width: 100%;
 	border: 3px solid var(--purple);
+	outline: none !important;
 	&::placeholder {
 		color: var(--other-grey);
 	}
@@ -1134,6 +1135,10 @@ svg.button {
 	}
 }
 
+#pan {
+	margin: 1vw 3vw;
+}
+
 #intro-video {
 	margin: 0;
 	padding: 0;
@@ -1242,12 +1247,6 @@ svg.button {
 @media only screen and (min-width: 950px) {
 	.post article {
 		padding: 8vh 12vw 15vh;
-	}
-	.box .column {
-		p,
-		li {
-			margin: $regular 10%;
-		}
 	}
 	ul.two,
 	ol.two {
