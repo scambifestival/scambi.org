@@ -2,11 +2,10 @@
 title: Il grande Gatsby
 date: 2022-03-31T14:38:14+01:00
 author: Margherita Moro
-category: ['SquiLibristi']
+tags: ['SquiLibristi']
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Celestial_eyes-The_Great_Gatsby_cover-Francis_Cugat-1925.tif/lossy-page1-800px-Celestial_eyes-The_Great_Gatsby_cover-Francis_Cugat-1925.tif.jpg
 redirect_from: ['/gdl-il-grande-gatsby/']
 ---
-
 <cite lang='en'>The Great Gatsby</cite>, romanzo di **F. Scott Fitzgerald**, esce nel 1925. Il titolo italiano suona <cite>Il Grande Gatsby</cite>, in una traduzione che evita di perdere l’allitterazione gutturale originale (a differenza del primo tentativo di traduzione, <cite>Gatsby il magnifico</cite>). La storia raccontata da Fitzgerald è oggi considerata un classico della letteratura inglese, diventato familiare al grande pubblico grazie alla [trasposizione cinematografica più recente](https://it.wikipedia.org/wiki/Il_grande_Gatsby_(film_2013) 'Il grande Gatsby su Wikipedia'), con protagonista Leonardo DiCaprio.
 
 Emblema letterario dell’età del jazz, <cite>Il Grande Gatsby</cite> parla di **felicità**, ma non la raggiunge mai, forse perché non trova la strada giusta per farlo. Quindi, è una storia che *cerca* la felicità, e finisce aspettandola, un romanzo che, per quanto cerchi di allontanare la malinconia, resta profondamente <em lang='en'>blue</em>, proprio come la sua copertina originale.

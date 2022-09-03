@@ -1,3 +1,11 @@
+---
+title: Le reti di Marghe
+date: 2021-06-24T15:00:00+02:00
+permalink: /le-reti-di-marghe/
+tags: ['Intro']
+image: https://x.scambi.org/illustrations/Margherita.webp
+author: Margherita Moro
+---
 Ciao a tutti! Io sono Margherita, e vorrei raccontarvi perché studiare filosofia e interessarsi di fisica allo stesso tempo non è da pazzi (o forse lo è, ma si può fare). *Filosofia o fisica*… *fisica o filosofia*… questo dilemma mi ronzava in testa nel periodo in cui ho dovuto decidere a quale facoltà iscrivermi, ma perché scegliere? Questi due ambiti del sapere, considerati lontanissimi tra loro, addirittura agli antipodi della conoscenza, hanno in realtà molto in comune.
 
 La filosofia è un po’ la “nonna” di tutte le scienze, di tutte le discipline. Ha fatto la furba, però, cambiando nome nel tempo, trasformandosi e declinandosi in più ambiti, che si sono poi separati dall’unico nucleo iniziale. La filosofia (etimologicamente “amore per il sapere”) corrispondeva per i primissimi pensatori di cui abbiamo notizia, vissuti tra Asia Minore e Grecia a partire dal VII secolo a.C., a quella che oggi noi chiameremmo fisica. Sorprendente? Basti pensare che **gente come** **Parmenide, Eraclito e Anassimandro andava in cerca della *physis****.* Con questa parola, i primissimi “filosofi naturali” (con “filosofia naturale” ci si riferisce a quel tipo di filosofia che si è poi evoluto nella fisica) intendevano la “natura”, ovvero la verità ultima, il costituente fondamentale della realtà.
@@ -12,6 +20,6 @@ L’idea fondamentale è che il mondo, tanto a piccolissima scala (quella degli 
 
 La realtà, anche agli occhi dei signori che lavorano con matematica e tecnologie avanzatissime, è allora un reticolo di informazioni di cui noi e le nostre vite facciamo parte. **Scambi vuole far congiungere più nodi possibile** **attraverso questa rete, e crearne di nuovi**. Cosa c’è di meglio dell’*incontro* e dello *scambio*, per arricchire noi stessi e il mondo in cui viviamo? Mettere in relazione idee, cose, esperienze, persone, per conoscerci sempre meglio ed ampliare i nostri limiti, aumentando il nostro raggio d’azione su questi meravigliosi tessuti che costituiscono la vita.
 
-A Scambi ho cercato di portare la mia passione, occupandomi soprattutto dei [laboratori](https://scambi.org/) di argomento scientifico, insieme a [Fiammetta](https://scambi.org/2021/05/27/la-scienza-di-fiammi/): stiamo preparando sorprese *spaziali*. Una parola basta ad anticiparne una: **CERN di Ginevra**, il luogo magico dove scienziati di ogni provenienza e cultura si ritrovano per indagare la materia di cui siamo fatti, quella di cui sono fatte le stelle, le galassie e tutto quello che ci circonda. Un po’ come gli antichi filosofi greci, anche loro indagano la natura, per trovarne le parti più minuscole e scoprirne i comportamenti grazie a macchinari giganteschi. CERN: il luogo di dialogo e relazione costruttiva per eccellenza… curiosi? Venite alla Pigna per scoprire di più!
+A Scambi ho cercato di portare la mia passione, occupandomi soprattutto dei [laboratori](/labs/) di argomento scientifico, insieme a [Fiammetta](/la-scienza-di-fiammi/): stiamo preparando sorprese *spaziali*. Una parola basta ad anticiparne una: **CERN di Ginevra**, il luogo magico dove scienziati di ogni provenienza e cultura si ritrovano per indagare la materia di cui siamo fatti, quella di cui sono fatte le stelle, le galassie e tutto quello che ci circonda. Un po’ come gli antichi filosofi greci, anche loro indagano la natura, per trovarne le parti più minuscole e scoprirne i comportamenti grazie a macchinari giganteschi. CERN: il luogo di dialogo e relazione costruttiva per eccellenza… curiosi? Venite alla Pigna per scoprire di più!
 
-P.S. se l'argomento vi incuriosisce, vi consiglio di leggere "Helgoland", l'ultimo mitico libro di Rovelli!
+P.S. se l'argomento vi incuriosisce, vi consiglio di leggere <cite>Helgoland</cite>, l’ultimo mitico libro di Rovelli!

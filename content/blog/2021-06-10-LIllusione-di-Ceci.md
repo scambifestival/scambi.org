@@ -1,3 +1,13 @@
+---
+title: L’Illusione di Ceci
+date: 2021-06-10T15:00:00+02:00
+tags: ['Intro']
+author: Cecilia Massa
+permalink: /lillusione-di-ceci/
+image: https://x.scambi.org/illustrations/Ceci.webp
+description: |
+  Vogliamo ripensare tutte quelle interconnessioni che ci uniscono, creando uno spazio che permetta di guardarsi davvero negli occhi senza opinioni infondate e superstizioni.Vogliamo dare voce a tutti coloro che hanno qualcosa da dire e permettere agli altri di ascoltarli lontano dai rumori e le distrazioni della vita quotidiana.
+---
 In quanto esseri umani, siamo inconsapevolmente avvolti da un'infinità di relazioni sociali, che pezzo per pezzo ci definiscono. Chi siamo, da dove veniamo, che cibo troviamo in tavola la sera, se e come abbiamo studiato sono punti cruciali della nostra identità, i cui meriti (o colpe) non dipendono quasi mai da noi.
 
 Tante delle cose in cui ci identifichiamo hanno origini ben più antiche e più remote di quanto si creda. A scuola ci insegnano che il caffè, i pomodori, le arance sono arrivati nel nostro continente attraverso rotte commerciali, ma con loro viaggiavano anche innovazioni, conoscenza e credenze religiose. Fanno parte di una serie interminabile di scambi le cui tracce rimangono nella cultura, nella lingua, nei pregiudizi che definiscono prima di noi ciò che è bene o male. Ci aiutano a concepire tutta la complessità che esiste nel mondo, fornendoci contenitori già pronti in cui classificarla. Ma fidarsi ciecamente di queste semplificazioni è pericoloso.

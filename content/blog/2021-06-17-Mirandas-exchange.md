@@ -1,4 +1,14 @@
-<a href="https://scambi.org/2021/06/17/lo-scambio-di-miranda/" data-type="URL" data-id="https://scambi.org/2021/06/17/lo-scambio-di-miranda/">Leggi l'articolo in italiano</a>
+---
+title: Miranda’s exchange
+date: 2021-06-17T11:53:00+02:00
+permalink: /mirandas-exchange/
+image: https://x.scambi.org/illustrations/Miranda.webp
+tags: ['Intro']
+ref: mirandasexchange
+lang: en
+author: Miranda Gebhardt
+---
+<div class='flex'><a class='purple button' href='/lo-scambio-di-miranda/' lang='it' hreflang='it'>Leggi questo articolo in italiano</a></div>
 
 Erasmus+ has always signified exchange for me. In these projects I have found some source of sharing information and experiences with other young people from and around Europe. It is only fitting that for our festival I had the opportunity to attend an **Erasmus+ Training course in Armenia**.
 

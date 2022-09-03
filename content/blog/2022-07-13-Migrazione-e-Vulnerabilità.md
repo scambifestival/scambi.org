@@ -1,3 +1,11 @@
+---
+title: Migrazione e vulnerabilità
+date: 2022-07-13T12:31:00+02:00
+redirect_from: [/migrazione-e-vulnerabilitaa/]
+tags: ['Cartoline']
+author: Diego De Nardo
+image: https://images.tommi.space/i?/uploads/j/b/u/jbuqxznr00//2021/08/28/20210828173750-3941ee77-me.jpg
+---
 Mentre il governo polacco continua ad accogliere milioni di migranti ucraini, a pochi chilometri di distanza chi fugge da altre guerre continua ad essere respinto. E a morire.
 
 Il primo luglio la Polonia ha finito il suo muro Anti-migrante, alto 5.5 metri e dotato di telecamere, costruito lungo il confine con la Bielorussia (circa 186km).
@@ -29,3 +37,7 @@ L’ipocrisia europea sta nel sperare che queste persone muoiano nel silenzio ma
 E questo fa schifo.
 
 Il confine tra Bielorussia e Polonia è solo uno dei tanti punti “caldi” per i migranti. Nel laboratorio di Scambi dell’edizione precedente, **Migrazione e Vulnerabilità**, abbiamo affrontato la questione: il video riassunto del laboratorio lo travate sul nostro profilo Instagram, uscito in contemporanea con questo articolo. Il laboratorio è stato tenuto da Christian Papini, direttore della Caritas Intemelia di Ventiglia e Simone Alteriso, coordinatore di Diaconia Valdese.
+
+---
+
+Questo articolo è parte di una serie di “**Cartoline**” che racconteranno i laboratori di [Scambi 2021](/2021 'Edizione 2021'). Se vuoi saperne di più e rimanere aggiornato, segui il nostro [Blog](/blog 'Scambi di Parole - il blog di Scambi Festival') e le nostre [pagine social](https://instagram.com/scambifestival '@scambifestival su Instagram'), oppure <a href='mailto:staff@scambi.org' target='_blank' title='Scrivici un’email'>scrivici</a>!

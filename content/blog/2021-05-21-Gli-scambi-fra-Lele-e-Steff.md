@@ -3,6 +3,8 @@ title: Gli Scambi fra Lele e Steff
 date: 2021-05-21T15:25:00+02:00
 tags: ['Intro']
 image: https://x.scambi.org/illustrations/lele-steff.webp
+author: ['Stefania Ilie','Elena Pasquali']
+permalink: /gli-scambi-tra-lele-steff/
 ---
 Come gestire un’associazione senza alcuna esperienza?
 

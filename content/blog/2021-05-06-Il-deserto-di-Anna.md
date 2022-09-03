@@ -1,7 +1,10 @@
 ---
 title: Il deserto di Anna
-date: 2021-05-06
+date: 2021-05-06T15:00:00+02:00
 image: https://x.scambi.org/illustrations/deserto-anna.webp
+author: Anna Mastrantuono
+permalink: /il-deserto-di-anna/
+tags: ['Intro']
 ---
 Un giorno di qualche mese fa ho sognato un deserto.  
 Ho sognato di camminare ondeggiando tra le dune e scivolando con i fantasmi.  
@@ -21,7 +24,7 @@ La vita è uno Scambio.
 Se ciascuno si tiene per se ciò che ha, non potrà mai avere null’altro.  
 Questo è il motivo per cui credo fortemente in questo progetto. Perché ho capito che vivere veramente significa dare e ricevere in un continuo gioco di doni e meraviglia.  
   
-Alla prima [riunione](/oltre/) di preparazione al festival è risultato chiaro a tutti quale dovesse essere il tema. Ciascuno di noi, che pure siamo diversi, sentiva dentro di sé che il problema dell’incontro era la base di ogni fatica e insofferenza. Non sono serviti dibattiti e votazioni, abbiamo tutti scelto assieme perché ancora prima della Pandemia il tocco umano di un’altra anima era distante e ricercato.  
+Alla prima riunione di preparazione al festival è risultato chiaro a tutti quale dovesse essere il tema. Ciascuno di noi, che pure siamo diversi, sentiva dentro di sé che il problema dell’incontro era la base di ogni fatica e insofferenza. Non sono serviti dibattiti e votazioni, abbiamo tutti scelto assieme perché ancora prima della Pandemia il tocco umano di un’altra anima era distante e ricercato.  
 Siamo tutti alla disperata ricerca di pace, di comprensione, di unione.  
 Il difficile è partire, faticare, nel tentare di ottenerla. Ma soprattutto la cosa più difficile da fare è comprendere che anche l’altro sia nella nostra stessa situazione. L’ empatia è sicuramente una dei più interessanti doni che la natura abbia creato (e lo dice una studentessa di veterinaria che fin da piccola guardava a quel mondo selvaggio come alla più incredibile delle scoperte) , ma non è abbastanza.  
 La conoscenza dell'altro è quel “più” che permette all’empatia di diventare solidarietà e poi alla solidarietà di creare legame, un legame indissolubile che fa si che le singole case diventino città e la città diventi [Comunità](/partecipa/).  

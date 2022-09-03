@@ -4,6 +4,8 @@ date: 2021-04-26T11:59:00+02:00
 redirect_from: [/genesi-di-scambi/]
 permalink: /genesi/
 author: Tommaso Marmo
+image: https://tommi.space/tommi-exploding.webp
+tags: ['Intro']
 ---
 Non sappiamo cosa accadrà quest’estate.  
 Anche chi ne ha una vaga idea deve ammettere che si tratta di una scommessa, fatta nell’illusione di essere in grado di programmare il proprio futuro.

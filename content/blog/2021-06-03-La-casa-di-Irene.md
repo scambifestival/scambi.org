@@ -1,9 +1,12 @@
 ---
 title: La Casa di Irene
-date: 2021-06-03
+date: 2021-06-03T15:00:00+02:00
 image: https://x.scambi.org/illustrations/Irene.webp
 author: Irene Segone
 tags: ['Intro']
+permalink: /la-casa-di-irene/
+description: |
+  Come possono i nomadi costruirsi una casa? Ho vissuto in vari paesi, traslocando di qua e di là, e ho pensato a questa domanda molte volte. Nonostante io mi senta una nomade, non sono riuscita a trovare una risposta. Forse era la domanda ad essere sbagliata.
 ---
 I **nomadi**, persone che non si stabiliscono mai in nessun luogo e continuano a spostarsi senza metter giù radici, possono sembrare incomprensibili. Come possono i nomadi costruirsi una **casa**? Ho vissuto in vari paesi, traslocando di qua e di là, e ho pensato a questa domanda molte volte. Nonostante io mi senta una nomade, non sono riuscita a trovare una risposta. Forse era la domanda ad essere sbagliata. Forse bisognerebbe chiedersi invece: “ma casa **cos’è**, casa dov’è?” come fanno Selton e Dardust nella loro *<a href="https://www.youtube.com/watch?v=FLs7BjARXK8" rel="noreferrer noopener" data-type="URL" data-id="https://www.youtube.com/watch?v=FLs7BjARXK8" target="_blank">Cercasi Casa</a>*.
 
