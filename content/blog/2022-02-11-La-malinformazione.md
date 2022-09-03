@@ -1,12 +1,14 @@
 ---
 title: La malinformazione
 date: 2022-02-11T20:50:11+01:00
-tags: ['cartoline']
+tags: ['Cartoline']
 image: https://images.tommi.space/i?/uploads/j/b/u/jbuqxznr00//2021/08/29/20210829184741-f23905b1-me.jpg
 author: Fiammetta Bernardi
 redirect_from: ['/la-mal-informazione/']
 keywords: ['CICAP', 'Lab', 'disinformazione']
 ---
+
+
 Viviamo *circondati dall’informazione*. Ogni giorno siamo bombardati da notizie di ogni genere, nelle nostre chat e nei nostri Direct troviamo video, foto, e meme. Siamo capaci di leggere una notizia online sull’ennesimo bombardamento in Siria, per poi passare a video di gatti che si spaventano davanti ad un cetriolo. Il nostro dito corre quasi due maratone all’anno sullo schermo dei nostri dispositivi, che sono ormai diventati parte integrante delle nostre vite.
 
 Se in passato l’informazione era riservata a “pochi” ora è **dominio di tutti**: basta ricercare qualsiasi cosa sulla grande G per sentirsi padroni della conoscenza. Non sai che medicinale prendere per il mal di testa? Internet ha la risposta che fa per te. I dispositivi elettronici hanno quasi sostituito i giornali, ormai in mano ai nostalgici o agli amanti della carta.
@@ -28,3 +30,7 @@ La prossima volta che vi troverete davanti ad una notizia di dubbia provenienza,
 Ricordate il prezioso fondamento del CICAP:
 
 > Il **<q>valore dei fatti</q>**, ovvero la necessità che le diverse affermazioni, teorie e ipotesi di spiegazione che vengono immesse nel dibattito pubblico siano adeguatamente supportate da evidenze che le sostengono.
+
+---
+
+Questo articolo è parte di una serie di “**Cartoline**” che racconteranno i laboratori di [Scambi 2021](/2021 'Edizione 2021'). Se vuoi saperne di più e rimanere aggiornato, segui il nostro [Blog](/blog 'Scambi di Parole - il blog di Scambi Festival') e le nostre [pagine social](https://instagram.com/scambifestival '@scambifestival su Instagram'), oppure <a href='mailto:staff@scambi.org' target='_blank' title='Scrivici un’email'>scrivici</a>!

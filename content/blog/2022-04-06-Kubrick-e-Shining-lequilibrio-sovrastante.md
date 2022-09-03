@@ -6,11 +6,11 @@ author: Salvatore Gucciardo
 image: https://www.eyefilm.nl/uploads/images/programme-item/production/_2048x1152_crop_center-center_none/289541/the-shining-eye-filmmuseum_1.webp
 tags: ['Dissolvenze']
 ---
-> *Fu vera gloria? Ai posteri L’ardua sentenza: nui*  
-> *Chiniam la fronte al Massimo*  
-> *Fattor, che volle in lui*  
-> *Del creator suo spirito*  
-> *Più vasta orma stampar*
+> Fu vera gloria? Ai posteri L’ardua sentenza: nui  
+> Chiniam la fronte al Massimo  
+> Fattor, che volle in lui  
+> Del creator suo spirito  
+> Più vasta orma stampar
 
 <p class='cite'>Alessandro Manzoni, <cite>5 maggio</cite></p>
 

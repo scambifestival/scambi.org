@@ -5,7 +5,7 @@ permalink: /il-maestro-e-margherita/
 redirect_from: [/gdl-il-maestro-e-margherita/]
 image: https://www.libreriafrassati.it/images/2020/Maestro%20e%20Margherita%209788817105453_1.png
 author: Lea Fabiani
-tags: ['Dissolvenze']
+tags: ['SquiLibristi']
 keywords: ['classici','letteratura','Bulgakov','Russia','Letteratura russa']
 ---
 Come iniziare una riflessione, per quanto minima e limitata, su uno dei libri più belli e complessi della storia della letteratura? Ci sono.

@@ -1,0 +1,13 @@
+---
+date: 2022-07-17
+title: Giochi quantistici
+redirect_from: [/giochi-quantisticii/]
+image: https://x.scambi.org/images/giochi-quantistici.webp
+author: Margherita Moro
+tags: ['Cartoline']
+---
+Giocando si impara. Figuriamoci, poi, se il gioco è quantistico. Sono proprio alcuni Giochi Quantistici ad essere stati al centro di uno dei laboratori di Scambi 2021. Gli insegnanti italiani di fisica e matematica dell’[Italian Teacher Programme,](https://teacher-programmes.web.cern.ch/italian-teacher-programme) formati al CERN di Ginevra con l’obiettivo di portare la fisica delle particelle nelle classi dei più giovani, hanno raccontato a partecipanti di tutte le età la magia della ricerca scientifica contemporanea. Insieme a loro, Claudio Bortolin, ingegnere presso il CERN e divulgatore scientifico: con le sue pagine social e gli eventi che organizza nelle scuole italiane, si impegna a trasmettere la passione per la scienza attraverso incontri straordinari, riuscendoci. Cos’è il Modello Standard? E il bosone di Higgs? Perché sono così importanti? Ma soprattutto, cosa si fa al CERN di Ginevra? Come si scoprono nuove particelle elementari? A queste ed altre domande ha potuto approcciarsi chi si è cimentato in \#GiochiQuantistici, e l’ha fatto in pieno stile paneuretico, tramite piccole esperienze e strumenti che richiamano le attività degli scienziati di oggi. Ma quello che, più di tutto, ha rappresentato lo spirito di Scambi in questo laboratorio è stato l’incontro tra un tema spesso etichettato come lontano e complesso e i partecipanti de festival. La fisica delle particelle è sorprendente, affascinante, e ci riguarda da vicinissimo. È grazie al tramite della passione per la ricerca e per l’educazione di progetti come quello dell’ITP che questi incontri sono possibili. Il progetto sarà con noi anche questo agosto, per un percorso di esperimenti che riguardano lo squilibrio in vari ambiti della fisica. Si preannunciano effetti speciali! No spoiler, ma tanto meritato hype.
+
+---
+
+Questo articolo è parte di una serie di “**Cartoline**” che racconteranno i laboratori di [Scambi 2021](/2021 'Edizione 2021'). Se vuoi saperne di più e rimanere aggiornato, segui il nostro [Blog](/blog 'Scambi di Parole - il blog di Scambi Festival') e le nostre [pagine social](https://instagram.com/scambifestival '@scambifestival su Instagram'), oppure <a href='mailto:staff@scambi.org' target='_blank' title='Scrivici un’email'>scrivici</a>!
