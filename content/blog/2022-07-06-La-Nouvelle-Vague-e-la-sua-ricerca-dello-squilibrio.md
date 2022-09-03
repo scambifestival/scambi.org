@@ -3,9 +3,9 @@ title: La Nouvelle Vague e la sua ricerca dello squilibrio
 date: 2022-07-06T18:09:00+02:00
 author: Luisa Riccardi
 tags: ['Dissolvenze']
-image: http://ovelhamag.com/wp-content/uploads/2016/02/1998.jpg
+image: https://ovelhamag.com/wp-content/uploads/2016/02/1998.jpg
 ---
-<figure><img src='http://ovelhamag.com/wp-content/uploads/2016/02/1998.jpg' alt='due persone che si baciano in un film'></figure>
+<figure><img src='https://ovelhamag.com/wp-content/uploads/2016/02/1998.jpg' alt='due persone che si baciano in un film'></figure>
 Ognunǝ di noi concepisce lo squilibrio in maniera diversa in particolar modo nel mondo del cinema, possono essere le inquadrature, le storie o nel mio caso una nuova ondata che interessò il cinema francese alla fine degli anni '50.
 
 Quando penso alla parola squilibrio non può quindi che venirmi in mente la <em lang='fr'>Nouvelle Vague</em>, una nuova corrente cinematografica frutto della voglia di giovani cineastз di uscire fuori dagli schemi, infrangere le regole per trovare la loro personale concezione di arte. Per lз giovani registз della <em lang='fr'>Nouvelle Vague</em> il cinema esistente in Francia doveva essere demolito, era necessaria un’azione di rinnovamento che partisse proprio dalle giovani menti francesi.  

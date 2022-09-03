@@ -46,8 +46,8 @@ Nel Lab di Scambi 2022 [<cite>Fediverse: social network umani</cite>](https://sc
 
 ## L’aiuto di *Seeweb*
 
-Avremmo voluto tenerla una sorpresa, ma non possiamo resistere: in occasione di Scambi Festival 2022, creeremo l’istanza [social.scambi.org](http://social.scambi.org)! Chiunque lo desiderasse, potrà iscriversi e sperimentare la potenza del Fediverso. Chi prenderà parte al Lab, scriverà il Code of Conduct della nostra piattaforma.
+Avremmo voluto tenerla una sorpresa, ma non possiamo resistere: in occasione di Scambi Festival 2022, creeremo l’istanza [social.scambi.org](https://social.scambi.org)! Chiunque lo desiderasse, potrà iscriversi e sperimentare la potenza del Fediverso. Chi prenderà parte al Lab, scriverà il Code of Conduct della nostra piattaforma.
 
 Il nostro social utilizzerà il software [Mastodon](https://github.com/mastodon/mastodon) e sarà ospitato dai server di [*Seeweb*](https://seeweb.it), alimentati completamente da energia rinnovabile. Tutto lo staff di Scambi è riconoscente e siamo tuttз super gasatз di avviare questo squilibrato esperimento.
 
-(Nota: come potrete notare, [social.scambi.org](http://social.scambi.org) ancora non esiste. Rimanete connessi per scoprire di più!)
+(Nota: come potrete notare, [social.scambi.org](https://social.scambi.org) ancora non esiste. Rimanete connessi per scoprire di più!)
