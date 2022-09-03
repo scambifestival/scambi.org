@@ -1,7 +1,7 @@
 ---
 title: Dialogo con Maricetta Lombardo
-permalink: /2022/maricetta-lombardo/
-redirect_from: [/maricetta-lombardo/]
+permalink: /2022/maricetta/
+redirect_from: [/maricetta-lombardo/,/2022/maricetta-lombardo/,/maricetta/]
 image: https://x.scambi.org/profile_pics/Maricetta_Lombardo.jpg
 ---
 Spesso noi spettatori dimentichiamo dei “tecnici” nel mondo del cinema. Intrappolati nella individuazione francese dell’autore/regista come l’artista del film, prendiamo sotto gamba le parti tecniche che costituiscono le fondamenta di un buon film. Il **sonoro** sta tra questi “dimenticati”, pur essendo uno degli elementi più rivoluzionari nella storia del cinema.
