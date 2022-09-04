@@ -2,11 +2,11 @@
 	"it": [
 		{
 			"question": "Quando e dove sarà la prossima edizione di Scambi Festival?",
-			"answer": "Scambi Festival 2022 si terrà nel quartiere della Pigna, a Sanremo, dal 25 al 28 agosto 2022. Il tema sarà “squilibrio”."
+			"answer": "La terza edizione di Scambi Festival si terrà durante l’ultima settimana di agosto 2023. Le date precise sono ancora da definire, ma probabilmente organizzeremo qualcosa prima di agosto! Rimanete connessз."
 		},
 		{
-			"question": "So già di non riuscire ad essere a Sanremo dal 25 al 28 agosto 2022. Potrò seguire gli incontri in streaming?",
-			"answer": "Purtroppo, no. L’incontro virtuale è la negazione della filosofia di ciò che intendiamo realizzare. La fisicità è la chiave dello scambio umano e della crescita reciproca che intendiamo perseguire."
+			"question": "Non sono riuscito ad essere a Sanremo durante il festival. Posso rivedere gli incontri in streaming?",
+			"answer": "Purtroppo, no. L’incontro virtuale è la negazione della filosofia di ciò che intendiamo realizzare. La fisicità è la chiave dello scambio umano e della crescita reciproca che intendiamo perseguire. Nonostante questo, proviamo a registrare e salvare i pochi incontri frontali che teniamo; si trovano [sul nostro canale PeerTube](https://peertube.uno/c/scambifestival/videos 'Canale PeerTube di Scambi Festival')"
 		},
 		{
 			"question": "Non vedo l’ora di esserci! Posso ricevere ospitalità?",
@@ -14,11 +14,11 @@
 		},
 		{
 			"question": "Quanto costa partecipare?",
-			"answer": "Nulla. Scambi intende essere accessibile a tutti, letteralmente: non ci sono costi obbligatori."
+			"answer": "**Nulla**. Scambi intende essere accessibile a tutti, letteralmente: non ci sono costi obbligatori."
 		},
 		{
 			"question": "Vorrei dare una mano. Come posso fare?",
-			"answer": "Siamo sempre molto felici di accogliere nuovз volontariз! In [questa pagina](/unisciti) trovi tutte le informazioni che ti potrebbero servire."
+			"answer": "Siamo sempre molto felici di accogliere nuovз volontariз! In [questa pagina](/staff 'Lo staff di Scambi Festival') trovi tutte le informazioni che ti potrebbero servire.<br>Se intendi entrare nello staff, invece, suggeriamo di leggere [il nostro manuale](https://manuale.scambi.org 'Manuale di Scambiologia')"
 		},
 		{
 			"question": "Come faccio a non perdermi gli aggiornamenti sulle vostre iniziative?",
@@ -32,10 +32,10 @@
 	"en": [
 		{
 			"question": "When and where is the next edition of Scambi Festival taking place?",
-			"answer": "Scambi Festival 2022 is taking place in the neighborhood of Pigna, Sanremo, Italy, from the 25<sup>th</sup> to the 28<sup>th</sup> of August 2022."
+			"answer": "The third edition of Scambi Festival is taking place during the last week of August 2023. We are still defining the specific dates. Nevertheless, we might be organizing some other event in the next months. Stay tuned!"
 		},
 		{
-			"question": "I cannot be in Sanremo during the festival. Can I follow the meetings online?",
+			"question": "I could not be in Sanremo during the festival. Can I watch the meetings online?",
 			"answer": "Unfortunately, not. Virtual meetings deny the very definition of what we are working on. Presence and in-person experience are key factors in the human exchange and mutual growth we are pursuing."
 		},
 		{
@@ -44,7 +44,7 @@
 		},
 		{
 			"question": "How much does the ticket cost?",
-			"answer": "Nothing. Scambi aims to be accessible to everyone, literally: there are no age limits, no activities inaccessible to people with disabilities, and, of course, there is no fee."
+			"answer": "**Nothing**. Scambi aims to be accessible to everyone, literally: there are no age limits, no activities inaccessible to people with disabilities, and, of course, there is no fee."
 		},
 		{
 			"question": "How cool! Can I work with you?",
