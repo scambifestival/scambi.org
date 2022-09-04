@@ -1,0 +1,22 @@
+---
+title: Le edizioni di Scambi Festival
+total_title: Le edizioni di Scambi Festival
+description: Tutte le edizioni e gli incontri di Scambi, il Festival dei Laboratori Paneuretici
+layout: page
+image: https://x.scambi.org/illustrations/edizioni.webp
+---
+<p>Di seguito, un’anteprima di tutte le edizioni e gli incontri di Scambi, il Festival dei Laboratori Paneuretici.</p>
+
+{% for edition in editions %}
+	<div id='editions'>
+		<section class='row'>
+			<h2 class='title'>{{ edition.title }}</h2>
+			<h3>{{ edition.tema }}</h3>
+			<figure><img src='https://x.scambi.org/posters/{{ edition.slug }}.webp' alt='Locandina di {{ edition.title }}'></figure>
+			<div class='flex'>
+				{% if edition.labs %}<a class='purple button' href='/{{ edition.slug }}/labs' title='Labs {{ edition.slug | replace: '-', ' ' }}'>Labs</a>{% endif %}
+				{% if edition.pinoli %}<a class='yellow button' href='/{{ edition.slug }}/pinoli' title='Pinoli {{ edition.slug | replace: '-', ' ' }}'>Pinoli</a>{% endif %}
+			</div>
+		</section>
+	</div>
+{% endfor %}

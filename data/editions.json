@@ -1,0 +1,35 @@
+[
+	{
+		"title": "Scambi Festival 2022",
+		"start": "2022-08-25T09:30:00+02:00",
+		"end": "2022-08-28T24:00:00+02:00",
+		"slug": "2022",
+		"media": "",
+		"video": "",
+		"labs": 18,
+		"tema": "squilibrio",
+		"theme": "disequilibrium"
+	},
+	{
+		"title": "Scambi Present(a) 2022",
+		"start": "2022-02-26T15:30:00+01:00",
+		"end": "2022-02-26T20:00:00+01:00",
+		"slug": "2022-presenta",
+		"media": "",
+		"video": "https://peertube.uno/w/rM6ZPyzPTLig951YCbw9Ji",
+		"tema": "squilibrio",
+		"theme": "disequilibrium"
+	},
+	{
+		"title": "Scambi Festival 2021",
+		"start": "2021-08-26T19:00:00+02:00",
+		"end": "2021-08-29T24:00:00+02:00",
+		"slug": "2021",
+		"media": "https://web.cubbit.io/link/#899edd5d-5607-4ee7-8d9b-39449a4a6ee9!yRmFfFIS10mXNNuIRvOD4Tjz8V/43RHEzJXxERKlO0c!MB0wCdFf1eWv0GTHcKkcIg",
+		"video": "https://peertube.uno/w/uXDN9mggHtyvoJwhGeacJe",
+		"labs": "",
+		"peertube_embed": "ea85150a-31ab-4028-94f6-6d825bb6f955",
+		"tema": "incontro",
+		"theme": "meeting"
+	}
+]

@@ -1151,6 +1151,31 @@ svg.button {
 	}
 }
 
+#editions {
+	.row {
+		position: relative;
+	}
+	h2 {
+		margin-top: $mastodon;
+	}
+	h3 {
+		position: absolute;
+		z-index: 4;
+		top: 7.5rem;
+		right: 10%;
+		transform: rotate(6deg);
+		color: var(--primary);
+		text-shadow: 2px 2px 0 var(--yellow);
+		&::before {
+			content: 'tema ';
+			color: var(--black-ish);
+		}
+	}
+	figure {
+		margin-bottom: $regular-less;
+	}
+}
+
 /* mobile display - responsive design */
 @media only screen and (max-width: 950px) {
 	.one,
