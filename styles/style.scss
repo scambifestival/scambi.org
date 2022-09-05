@@ -1151,6 +1151,30 @@ svg.button {
 	}
 }
 
+#editions {
+	.row {
+		position: relative;
+	}
+	h2 {
+		margin-top: $mastodon;
+	}
+	h3 {
+		position: absolute;
+		z-index: 4;
+		top: 6rem;
+		right: 10%;
+		transform: rotate(-4deg);
+		color: var(--primary);
+		text-shadow: 2px 2px 0 var(--yellow);
+		span {
+			color: var(--text);
+		}
+	}
+	figure {
+		margin-bottom: $regular-less;
+	}
+}
+
 /* mobile display - responsive design */
 @media only screen and (max-width: 950px) {
 	.one,
@@ -1241,6 +1265,9 @@ svg.button {
 	}
 	#intro-video {
 		top: 9vw;
+	}
+	#editions h3 {
+		top: 8rem;
 	}
 }
 

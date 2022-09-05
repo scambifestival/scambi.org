@@ -1,0 +1,27 @@
+---
+title: Le edizioni di Scambi Festival
+total_title: Le edizioni di Scambi Festival
+description: Tutte le edizioni e gli incontri di Scambi, il Festival dei Laboratori Paneuretici
+layout: page
+image: https://x.scambi.org/illustrations/edizioni.webp
+toc: true
+ref: editions
+---
+<p>Di seguito l’elenco di tutte le edizioni e gli incontri di Scambi, il Festival dei Laboratori Paneuretici.</p>
+
+{% for edition in editions %}
+	<div id='editions'>
+		<section class='row'>
+			<h2 class='title' id='{{ edition.slug }}'>{{ edition.title }}</h2>
+			<h3><span>Tema</span> {{ edition.tema }}</h3>
+			<p>{{ edition.descrizione | markdownify }}</p>
+			<figure><img src='https://x.scambi.org/posters/{{ edition.slug }}.webp' alt='Locandina di {{ edition.title }}'></figure>
+			<div class='flex'>
+				{% if edition.labs %}<a class='purple button' href='/{{ edition.slug }}/labs' title='Labs {{ edition.slug | replace: '-', ' ' }}'>Labs</a>{% endif %}
+				{% if edition.pinoli %}<a class='yellow button' href='/{{ edition.slug }}/pinoli' title='Pinoli {{ edition.slug | replace: '-', ' ' }}'>Pinoli</a>{% endif %}
+				{% if edition.media %}<a class='blue button' href='{{ edition.media }}' title='Immagini {{ edition.slug | replace: '-', ' ' }}'>Immagini</a>{% endif %}
+				{% if edition.video %}<a class='orange button' href='{{ edition.video }}' title='Documentario di {{ edition.slug | replace: '-', ' ' }}'>Documentario</a>{% endif %}
+			</div>
+		</section>
+	</div>
+{% endfor %}

@@ -1,0 +1,29 @@
+---
+title: Scambi Festival’s editions
+total_title: Scambi Festival’s editions
+description: All of the editions and meetings of Scambi, The Festival of Paneurethic Labs
+permalink: /editions/
+redirect_from: [/en/editions/]
+layout: page
+image: https://x.scambi.org/illustrations/editions.webp
+toc: true
+ref: editions
+---
+<p>This page lists all of the editions that make <cite lang='it'>Scambi</cite>, The Festival of Paneurethic Labs.</p>
+
+{% for edition in editions %}
+	<div id='editions'>
+		<section class='row'>
+			<h2 class='title' id='{{ edition.slug }}'>{{ edition.title }}</h2>
+			<h3><span>Theme</span> {{ edition.theme }}</h3>
+			<p>{{ edition.description | markdownify }}</p>
+			<figure><img src='https://x.scambi.org/posters/{{ edition.slug }}.webp' alt='{{ edition.title }}’s Poster'></figure>
+			<div class='flex'>
+				{% if edition.labs %}<a class='purple button' href='/en/{{ edition.slug }}/labs' title='{{ edition.slug | replace: '-', ' ' }} Labs'>Labs</a>{% endif %}
+				{% if edition.pinoli %}<a class='yellow button' href='/en/{{ edition.slug }}/pinoli' title='{{ edition.slug | replace: '-', ' ' }} Pinoli'>Pinoli</a>{% endif %}
+				{% if edition.media %}<a class='blue button' href='{{ edition.media }}' title='{{ edition.slug | replace: '-', ' ' }} Images'>Images</a>{% endif %}
+				{% if edition.video %}<a class='orange button' href='{{ edition.video }}' title='{{ edition.slug | replace: '-', ' ' }} Documentary'>Documentary</a>{% endif %}
+			</div>
+		</section>
+	</div>
+{% endfor %}

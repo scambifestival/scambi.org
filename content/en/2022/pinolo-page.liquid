@@ -9,7 +9,7 @@ layout: wrapper
 	<h1>{{ item.title }}</h1>
 	<section class='row'>
 		<div class='half column'>
-			<p>{{ item.description | markdownify }}</p>
+			<p>{{ item.description_en | markdownify }}</p>
 		</div>
 		<div class='half column'>
 			<dl id='data'>
@@ -17,7 +17,7 @@ layout: wrapper
 				<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='The locations of Scambi Festival 2022'>view the map</a></dd>
 
 				{% assign days = item.days | split: ',' %}
-				<dt>Quando</dt>
+				<dt>When</dt>
 				<dd>
 					{% for day in days %}
 						{% unless forloop.last %}

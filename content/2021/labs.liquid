@@ -1,0 +1,19 @@
+---
+title: Lab 2022
+class: gradient
+permalink: /2021/labs/
+redirect_from: ['/2021/lab/']
+description: Tutti i Lab di Scambi Festival 2021
+ref: 2021-labs
+---
+<h1>Lab 2021</h1>
+<p class='center'>Tutti i Lab di Scambi Festival 2021. Dai un’occhiata anche al <a href='/2021/programma' title='Programma 2021'>programma</a> e ai <a href='/2021/pinoli' title='Pinoli 2021'>Pinoli</a>!</p>
+<section class='flex row' id='lab-list'>
+	{% assign labs = 2021-labs %}
+	{% for lab in labs %}
+		<a id='{{ lab.title | slugify}}' class='shrink box' href='/2021/lab/{{ forloop.index }}'>
+			<h3>{{ lab.title }}</h3>
+			<p>{{ lab.description | truncate: 200 | markdownify }}</p>
+		</a>
+	{% endfor %}
+</section>

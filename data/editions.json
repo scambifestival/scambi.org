@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Scambi Festival 2022",
+		"descrizione": "La seconda edizione di Scambi Festival è stata un po’ come il secondo album di un artista emergente: grandi aspettative e la necessità di provare che non si tratta di un fuoco di paglia. Ce l’abbiamo fatta; abbiamo coinvolto più di cinquanta ospiti dall’Italia e oltre, che hanno realizzato 18 Labs e 13 pinoli.",
+		"description": "<cite lang='it'>Scambi</cite>’s second edition has been like the second album of an indie artist: great expectations and the need to <u>prove that we are **here to stay**</u>. We did it: we brought together more than fifty guests from all over Europe, who organized 18 Labs and 13 <em lang='it'>Pinoli</em>.",
+		"start": "2022-08-25T09:30:00+02:00",
+		"end": "2022-08-28T24:00:00+02:00",
+		"slug": "2022",
+		"video": "",
+		"labs": 18,
+		"pinoli": 13,
+		"tema": "squilibrio",
+		"theme": "disequilibrium"
+	},
+	{
+		"title": "Scambi Present(a) 2022",
+		"descrizione": "<cite>Scambi Present(a)</cite> è stata l’occasione per lanciare il tema di Scambi Festival 2022: **squilibrio**. Ci siamo trovatз in piazza Santa Brigida insieme a tante altre belle realtà e artisti dei dintorni,per celebrare insieme un carnevale squilibratissimo.",
+		"description": "<cite lang='it'>Scambi Present(a)</cite> has been the occasion to launch 2022 Scambi’s theme: **disequilibrium**. We gathered in Santa Brigida square, together with many awesome people and artists from all around, to celebrate together an unique carnival.",
+		"start": "2022-02-26T15:30:00+01:00",
+		"end": "2022-02-26T20:00:00+01:00",
+		"slug": "2022-presenta",
+		"media": "https://images.tommi.space/index?/category/scambi-presenta",
+		"video": "https://peertube.uno/w/rM6ZPyzPTLig951YCbw9Ji",
+		"tema": "squilibrio",
+		"theme": "disequilibrium"
+	},
+	{
+		"title": "Scambi Festival 2021",
+		"descrizione": "La prima edizione è stata speciale ed indimenticabile. Senza sapere veramente cosa stessimo facendo, abbiamo coinvolto persone squisite che ci hanno proposto 13 Lab che passeranno alla storia come quelli che hanno dato vita a Scambi Festival.",
+		"description": "The first edition has been special and unforgettable. Without really knowing what we were doing, we involved in our ambitious project a lot of wonderful people, who brought us 13 Labs that will be forever remembered as the ones that started <cite lang='it'>Scambi Festival</cite>",
+		"start": "2021-08-26T19:00:00+02:00",
+		"end": "2021-08-29T24:00:00+02:00",
+		"slug": "2021",
+		"media": "https://images.tommi.space/index?/category/scambi-2021",
+		"video": "https://peertube.uno/w/uXDN9mggHtyvoJwhGeacJe",
+		"labs": 13,
+		"pinoli": 7,
+		"peertube_embed": "ea85150a-31ab-4028-94f6-6d825bb6f955",
+		"tema": "incontro",
+		"theme": "meeting"
+	}
+]

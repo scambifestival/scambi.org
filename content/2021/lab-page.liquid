@@ -1,0 +1,34 @@
+---
+pagination:
+  data: 2021-labs
+  size: 1
+permalink: '/2021/lab/{{ pagination.pageNumber | plus: 1 }}/'
+layout: wrapper
+class: gradient-behind lab
+---
+{% for item in pagination.items %}
+	<h1>{{ item.title }}</h1>
+	<section class='row'>
+		<div class='half column'>
+			<p>{{ item.description | markdownify }}</p>
+		</div>
+		<div class='half column'>
+			<dl id='data'>
+				<dt>Location</dt>
+				<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='Le location di Scambi Festival 2021'>vedi mappa</a></dd>
+
+				<dt>Host</dt>
+				{% if item.host != '""' %}
+					{% assign hosts = item.host | split: ',' %}
+					{% for host in hosts %}
+						<dd>{{ host }}</dd>
+					{% endfor %}
+				{% else %}
+					<dd>{{ item.host_name }}</dd>
+				{% endif %}
+			</dl>
+		</div>
+	</section>
+{% endfor %}
+
+{% render 'prenota.liquid', lang: lang, url: page.url, booking_url: site.booking_url %}
