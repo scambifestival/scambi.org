@@ -550,7 +550,8 @@ figcaption {
 }
 
 .remarkable {
-	background: bottom #FBFBFB22 url('https://x.scambi.org/images/dances.jpg');
+	background: center #FBFBFB22 url('https://x.scambi.org/images/2022-balli-occitani.webp');
+	background-size: cover;
 	height: 90vh;
 	p {
 		color: var(--white);
