@@ -1161,14 +1161,13 @@ svg.button {
 	h3 {
 		position: absolute;
 		z-index: 4;
-		top: 7.5rem;
+		top: 6rem;
 		right: 10%;
-		transform: rotate(6deg);
+		transform: rotate(-4deg);
 		color: var(--primary);
 		text-shadow: 2px 2px 0 var(--yellow);
-		&::before {
-			content: 'tema ';
-			color: var(--black-ish);
+		span {
+			color: var(--text);
 		}
 	}
 	figure {
@@ -1266,6 +1265,9 @@ svg.button {
 	}
 	#intro-video {
 		top: 9vw;
+	}
+	#editions h3 {
+		top: 8rem;
 	}
 }
 

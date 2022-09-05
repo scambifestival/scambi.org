@@ -10,7 +10,7 @@ class: gradient-behind lab
 	<h1>{{ item.title }}</h1>
 	<section class='row'>
 		<div class='half column'>
-			<p>{{ item.description | markdownify }}</p>
+			<p>{{ item.description_en | markdownify }}</p>
 		</div>
 		<div class='half column'>
 			<dl id='data'>
@@ -18,7 +18,7 @@ class: gradient-behind lab
 				<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='Le location di Scambi Festival 2022'>view map mappa</a></dd>
 
 				{% assign days = item.times | split: '; ' %}
-				<dt>Quando</dt>
+				<dt>When</dt>
 				{% for day in days %}
 					<dd>
 						{% assign timesday = day | split: ': ' %}

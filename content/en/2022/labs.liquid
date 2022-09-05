@@ -1,15 +1,19 @@
 ---
-title: Lab 2022
+title: 2022 Labs
 class: gradient
 permalink: /en/2022/labs/
 redirect_from: ['/en/2022/lab/']
+description: All of Scambi Festival 2022 Labs
+ref: 2022-labs
 ---
+<h1>Labs 2022</h1>
+<p class='center'>All of the Labs making Scambi Festival 2022. Take a look also to <a href='/2022/program' title='2022 Program'>program</a> and to <a href='/en/2022/pinoli' title='2022 Pinoli'><em lang='it'>Pinoli</em></a>!</p>
 <section class='flex row' id='lab-list'>
 	{% assign labs = 2022-labs %}
 	{% for lab in labs %}
 		<a id='{{ lab.title | slugify}}' class='shrink box' href='/en/2022/lab/{{ forloop.index }}'>
 			<h3>{{ lab.title }}</h3>
-			<p>{{ lab.description | truncate: 200 | markdownify }}</p>
+			<p>{{ lab.description_en | truncate: 200 | markdownify }}</p>
 		</a>
 	{% endfor %}
 </section>
