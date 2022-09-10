@@ -46,7 +46,7 @@ module.exports = function(eleventyConfig) {
 
 	// Collections //
 	eleventyConfig.addCollection('blog', function(collection) {
-		return collection.getFilteredByGlob('content/blog/*').sort((a, b) => {
+		return collection.getFilteredByGlob('scambi.org/blog/*').sort((a, b) => {
 			return b.date - a.date; // sort by date - descending
 		});
 	});
