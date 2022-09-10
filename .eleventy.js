@@ -50,21 +50,6 @@ module.exports = function(eleventyConfig) {
 			return b.date - a.date; // sort by date - descending
 		});
 	});
-	eleventyConfig.addCollection('jam', function(collection) {
-		return collection.getFilteredByGlob('content/notes/public/*').sort((a, b) => {
-			return b.date - a.date;
-		});
-	});
-	eleventyConfig.addCollection('poetry', function(collection) {
-		return collection.getFilteredByGlob('content/poetry/*').sort((a, b) => {
-			return b.date - a.date;
-		});
-	});
-	eleventyConfig.addCollection('sconnesso', function(collection) {
-		return collection.getFilteredByGlob('content/sconnesso/*').sort((a, b) => {
-			return b.date - a.date;
-		});
-	});
 	// Multilingual sitemap collection. See https://github.com/quasibit/eleventy-plugin-sitemap#create-a-multilingual-sitemap
 	eleventyConfig.addCollection('sitemap', function(collectionApi) {
 		return collectionApi
