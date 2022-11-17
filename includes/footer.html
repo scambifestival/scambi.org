@@ -29,50 +29,52 @@
 
 		</div>
 		{% if lang == 'it' %}
-			<p><a href='https://visits.scambi.org' target='_blank' title='Statistiche visitatori'>Visitatori</a></p>
+			<p><a href='https://visits.scambi.org' title='Statistiche visitatori'>Visitatori</a></p>
 		{% else %}
-			<p><a href='https://visits.scambi.org' target='_blank' title='Visitors stats'>Visitors</a></p>
+			<p><a href='https://visits.scambi.org' title='Visitors stats'>Visitors</a></p>
 		{% endif %}
 	</div>
-	<div class='row' style='margin-top: 2vw'>
-		<div class='half column center' style='padding: 0 3vw'>
-			{% if lang == 'it' %}
-				<p>Eccetto dove diversamente specificato, il codice sorgente e tutti i contenuti originali in questo sito sono protetti dalla licenza <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/deed.it' target='_blank'>Creative Commons Attribution-ShareAlike 4.0 International</a>.</p>
-			{% else %}
-				<p>This website’s source code and all of its original contents are licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0' target='_blank'>Creative Commons Attribution-ShareAlike 4.0 International License</a>, except where otherwise specified.</p>
-			{% endif %}
-		</div>
-		<div class='half column'>
+	<div class='flex row'>
+		<div class='two-thirds column purple border box' lang='it'>
 			<h3>A.P.S. <cite>Oltre</cite></h3>
-			<div class='half column'>
-				<h4>Sede legale</h4>
-				<p style='margin-top:0'>Palazzo Gentile Spinola<br>
+			<address>
+				<div class='half column'>
+					<h4>Sede legale</h4>
+					<p>Palazzo Gentile Spinola<br>
 					Piazza Oratorio dei Dolori, 7<br>
 					18038, La Pigna, Sanremo (IM), Italia</p>
-			</div>
-			<div class='half column'>
-				<p>
-					<strong>email</strong>: <a href='mailto:staff@scambi.org' target='_blank' title='{% if lang == 'it' %}Inviaci un’email{% else %}Send us an email{% endif %}'>staff@scambi.org</a><br>
-					<strong>Codice Fiscale</strong>: 90098410088<br>
-					<strong>IBAN</strong>: IT63E0501801400000016986952
-				</p>
-			</div>
+				</div>
+				<div class='half column'>
+					<p>
+						<strong>email</strong>: <a href='mailto:staff@scambi.org' target='_blank' title='{% if lang == 'it' %}Inviaci un’email{% else %}Send us an email{% endif %}'>staff@scambi.org</a><br>
+						<strong>Codice Fiscale</strong>: 90098410088<br>
+						<strong>IBAN</strong>: IT63E0501801400000016986952
+					</p>
+				</div>
+			</address>
+		</div>
+		<div class='one-third column center'>
+			<p id='seeweb'>{% if lang == 'it'%}
+				L’<em lang='en'>hosting</em> di questo sito e dell’intera infrastruttura digitale di Scambi Festival è offerto dal nostro favoloso sponsor
+				<a href='https://seeweb.it'title='sito ufficiale di Seeweb'>
+					<img src='https://www.seeweb.it/assets/images/logo-seeweb.svg' aria-label='Seeweb' alt='Seeweb logo'>
+				</a>
+				<a href='/fediverso' target='_blank' title='Cos’è il Fediverso e perché può salvare i social'>Scopri di più</a>
+			{% else %}
+				The hosting of this website and the whole Scambi Festival’s infrastructure is offered by our wonderful sponsor
+				<a href='https://seeweb.it' title='Seeweb official website'>
+					<img src='https://www.seeweb.it/assets/images/logo-seeweb.svg' aria-label='Seeweb' alt='Seeweb logo'>
+				</a>
+				<a href='/fediverso/' hreflang='it' target='_blank' title='Cos’è il Fediverso e perché può salvare i social'>Know more</a>
+			{% endif %}</p>
 		</div>
 	</div>
-	<section class='row'>
-		<p id='seeweb' class='center'>{% if lang == 'it'%}
-			L’<em lang='en'>hosting</em> di questo sito e dell’intera infrastruttura digitale di Scambi Festival è offerto dal nostro favoloso sponsor
-			<a href='https://seeweb.it' target='_blank' title='sito ufficiale di Seeweb'>
-				<img src='https://www.seeweb.it/assets/images/logo-seeweb.svg' aria-label='Seeweb' alt='Seeweb logo'>
-			</a>
-			<a href='/fediverso/' target='_blank' title='Cos’è il Fediverso e perché può salvare i social'>Scopri di più</a>
-		{% else %}
-			The hosting of this website and the whole Scambi Festival’s infrastructure is offered by our wonderful sponsor
-			<a href='https://seeweb.it' target='_blank' title='Seeweb official website'>
-				<img src='https://www.seeweb.it/assets/images/logo-seeweb.svg' aria-label='Seeweb' alt='Seeweb logo'>
-			</a>
-			<a href='/fediverso/' hreflang='it' target='_blank' title='Cos’è il Fediverso e perché può salvare i social'>Know more</a>
-		{% endif %}</p>
+	<section class='center row'>
+		{% if lang == 'it' %}
+			<p>Eccetto dove diversamente specificato, il codice sorgente e tutti i contenuti originali in questo sito sono protetti dalla licenza <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/deed.it' target='_blank'>Creative Commons Attribution-ShareAlike 4.0 International</a>.</p>
+			{% else %}
+			<p>This website’s source code and all of its original contents are licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0' target='_blank'>Creative Commons Attribution-ShareAlike 4.0 International License</a>, except where otherwise specified.</p>
+		{% endif %}
 	</section>
 </footer>
 
