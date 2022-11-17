@@ -816,7 +816,7 @@ h3 {
 
 footer {
 	background: var(--background);
-	padding: $big;
+	padding: $big 10vw;
 	margin: $twice 3%;
 	border-radius: $radius-l;
 	box-shadow: var(--shadow);
@@ -837,6 +837,12 @@ footer {
 	}
 	> .row {
 		justify-content: space-between;
+	}
+}
+
+address {
+	p {
+		margin-top: 0;
 	}
 }
 
@@ -890,6 +896,9 @@ svg.button {
 	--text: var(--background);
 	color: var(--text);
 	background: var(--primary);
+	&.newsletter {
+		margin-bottom: $bigger;
+	}
 }
 
 .tiny {
@@ -1219,6 +1228,7 @@ svg.button {
 		}
 	}
 	footer {
+		padding: $big;
 		& > .row {
 			justify-content: center;
 		}
@@ -1318,9 +1328,13 @@ svg.button {
 		}
 	}
 	footer {
-		h3,
 		h4 {
 			text-align: left;
+		}
+		.box {
+			margin: 0 $regular 0 0;
+			padding: $regular-less $bigger;
+			width: calc(100% / 3 * 2 - $regular-more);
 		}
 	}
 }
