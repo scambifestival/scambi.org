@@ -27,40 +27,6 @@ $radius-l: 2rem;
 $trans: .5s ease-out;
 $quicktrans: .1s ease-in-out;
 
-html {
-	scroll-behavior: smooth;
-	background: var(--gradient);
-	cursor: url(/cursor.svg) 16 16, crosshair;
-}
-
-/* DARK THEME */
-/* body {
-	color-scheme: dark;
-	background: var(--black-ish);
-	color: var(--text);
-
-	--background: var(--black-ish);
-	--text: var(--white);
-	--deep: var(--dark-blue);
-	--link: var(--primary);
-	--primary: var(--yellow);
-	--secondary: var(--blue);
-	--slight: var(--light-blue);
-	--grey: var(--dark-grey);
-	--other-grey: var(--light-grey);
-	--transp-text: #FFF4;
-	--shadow: 5px 5px 20px #0009, -5px -5px 20px #FFF3CC22; 
-	--opposite-shadow: -5px -5px 20px #0001, 5px 5px 20px #FFFC;
-	--little-shadow: 2px 2px 3px #000000EF, -2px -2px 3px #FFF3CC22;
-	--tool-shadow: 3px 3px 8px #000A, -3px -3px 8px #FFF3CC11;
-	--button-shadow: inset 2px 2px 4px #FFF3CC88, inset -2px -2px 4px #0008;
-	--inner-shadow: inset 3px 3px 5px #0008, inset -3px -3px 5px #FFF3CC22;
-	--inner-little-shadow: inset 2px 2px 4px #0008, inset -2px -2px 3px #FFF3CC11;
-
-	transition: $trans;
-
-}*/
-
 /* LIGHT THEME */
 body {
 	color: var(--black-ish);
@@ -88,6 +54,41 @@ body {
 	--inner-little-shadow: inset 2px 2px 3px #480B5E22, inset -2px -2px 3px #FFF3;
 
 	transition: $trans;
+}
+
+/* DARK THEME */
+@media screen and (prefers-color-scheme: dark) {
+	body {
+		--gradient: var(--dark-gradient);
+		color: var(--white);
+		--scambi-shadow: 3px 3px 0 var(--yellow);
+		--background: var(--dark-blue);
+		background: var(--background);
+		--text: var(--white);
+		--deep: #FFF;
+		--link: var(--primary);
+		--primary: var(--yellow);
+		--secondary: var(--orange);
+		--slight: var(--);
+		--grey: var(--dark-grey);
+		--other-grey: var(--light-grey);
+		--transp-text: #EBB4FF33;
+		--shadow: 5px 5px 20px #480B5E22, -5px -5px 20px #FFF3CC22;
+		--opposite-shadow: -5px -5px 20px #480B5E66, 5px 5px 20px #FFF8;
+		--little-shadow: 1px 1px 4px #480B5E33, -2px -2px 3px #FFF8;
+		--button-shadow: inset 2px 2px 4px #FFF8, inset -2px -2px 4px #480B5E88, 0 3px 5px #480B5E77;
+		--tool-shadow: 3px 3px 8px #480B5E55, -3px -3px 8px #FFF9;
+		--inner-shadow: inset 3px 3px 5px #480B5E55, inset -3px -3px 5px #FFF5;
+		--inner-little-shadow: inset 2px 2px 3px #480B5E22, inset -2px -2px 3px #FFF3;
+
+		transition: $trans;
+	}
+}
+
+html {
+	scroll-behavior: smooth;
+	background: var(--gradient);
+	cursor: url(/cursor.svg) 16 16, crosshair;
 }
 
 .gradient-behind {
