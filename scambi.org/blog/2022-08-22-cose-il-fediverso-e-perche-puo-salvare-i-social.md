@@ -51,3 +51,7 @@ Avremmo voluto tenerla una sorpresa, ma non possiamo resistere: in occasione di 
 Il nostro social utilizzerà il software [Mastodon](https://github.com/mastodon/mastodon) e sarà ospitato dai server di [*Seeweb*](https://seeweb.it), alimentati completamente da energia rinnovabile. Tutto lo staff di Scambi è riconoscente e siamo tuttз super gasatз di avviare questo squilibrato esperimento.
 
 (Nota: come potrete notare, [social.scambi.org](https://social.scambi.org) ancora non esiste. Rimanete connessi per scoprire di più!)
+
+### Aggiornamento
+
+Abbiamo finito la fase di sperimentazione: [social.scambi.org](https://social.scambi.org) è stato dismesso, <cite>Pan</cite> si trova ora su un proprio server definitivo e con un proprio dominio di primo livello: [pan.rent](https://pan.rent 'Pan')
