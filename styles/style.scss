@@ -60,16 +60,16 @@ body {
 @media screen and (prefers-color-scheme: dark) {
 	body {
 		--gradient: var(--dark-gradient);
-		color: var(--white);
+		color: #FFF;
 		--scambi-shadow: 3px 3px 0 var(--yellow);
 		--background: var(--dark-blue);
 		background: var(--background);
 		--text: var(--white);
-		--deep: #FFF;
+		--deep: #000;
 		--link: var(--primary);
 		--primary: var(--yellow);
 		--secondary: var(--orange);
-		--slight: var(--);
+		--slight: #ffe2a3;
 		--grey: var(--dark-grey);
 		--other-grey: var(--light-grey);
 		--transp-text: #EBB4FF33;
