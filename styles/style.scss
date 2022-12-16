@@ -45,6 +45,7 @@ body {
 	--grey: var(--light-grey);
 	--other-grey: var(--dark-grey);
 	--transp-text: #480B5E33;
+	--strong-shadow: var(--yellow);
 	--shadow: 5px 5px 20px #480B5E22, -5px -5px 20px #FFF3CC22;
 	--opposite-shadow: -5px -5px 20px #480B5E66, 5px 5px 20px #FFF8;
 	--little-shadow: 1px 1px 4px #480B5E33, -2px -2px 3px #FFF8;
@@ -58,8 +59,10 @@ body {
 
 /* DARK THEME */
 @media screen and (prefers-color-scheme: dark) {
+	html {
+		--gradient: var(--dark-gradient) !important;
+	}
 	body {
-		--gradient: var(--dark-gradient);
 		color: #FFF;
 		--scambi-shadow: 3px 3px 0 var(--yellow);
 		--background: var(--dark-blue);
@@ -73,6 +76,7 @@ body {
 		--grey: var(--dark-grey);
 		--other-grey: var(--light-grey);
 		--transp-text: #EBB4FF33;
+		--strong-shadow: var(--purple);
 		--shadow: 5px 5px 20px #480B5E22, -5px -5px 20px #FFF3CC22;
 		--opposite-shadow: -5px -5px 20px #480B5E66, 5px 5px 20px #FFF8;
 		--little-shadow: 1px 1px 4px #480B5E33, -2px -2px 3px #FFF8;
@@ -82,6 +86,9 @@ body {
 		--inner-little-shadow: inset 2px 2px 3px #480B5E22, inset -2px -2px 3px #FFF3;
 
 		transition: $trans;
+	}
+	#scambi {
+		--shadow: var(--orange);
 	}
 }
 
@@ -99,7 +106,7 @@ html {
 
 * {
 	transition: $trans, transform $quicktrans, box-shadow $quicktrans, text-shadow $quicktrans, border $quicktrans;
-	scrollbar-color: var(--purple) transparent;
+	scrollbar-color: var(--primary) transparent;
 }
 
 #menutoggle,
@@ -142,7 +149,7 @@ span.citation {
 }
 
 ::selection {
-	color: var(--black-ish);
+	color: var(--dark-blue);
 	background: var(--yellow);
 }
 
@@ -151,7 +158,7 @@ span.citation {
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: var(--red);
+	background-color: var(--primary);
 }
 
 .dim {
@@ -223,7 +230,7 @@ input[type='email'] {
 	width: 20rem;
 	margin: $regular-less;
 	max-width: 100%;
-	border: 3px solid var(--purple);
+	border: 3px solid var(--primary);
 	outline: none !important;
 	&::placeholder {
 		color: var(--other-grey);
@@ -623,7 +630,7 @@ strong,
 dt,
 b {
 	font-weight: bolder;
-	text-shadow: 1px 1px 0 var(--yellow);
+	text-shadow: 1px 1px 0 var(--strong-shadow);
 }
 
 article {
@@ -1037,7 +1044,7 @@ svg.button {
 .border {
 	color: var(--text) !important;
 	background: var(--background) !important;
-	border: 5px solid var(--text);
+	border: 5px solid var(--slight);
 	--link: var(--primary) !important;
 }
 
@@ -1140,9 +1147,8 @@ svg.button {
 }
 
 #seeweb {
-	img {
-		margin: $small auto;
-		border-radius: 0;
+	a {
+		display: block;
 	}
 }
 
@@ -1176,7 +1182,7 @@ svg.button {
 		right: 10%;
 		transform: rotate(-4deg);
 		color: var(--primary);
-		text-shadow: 2px 2px 0 var(--yellow);
+		text-shadow: 2px 2px 0 var(--strong-shadow);
 		span {
 			color: var(--text);
 		}

@@ -37,6 +37,7 @@ header {
 	padding: 0 $small 0 $big;
 	line-height: $height; 
 	font-size: $bigger;
+	--shadow: var(--yellow);
 	svg {
 		padding: .5rem 1rem;
 		height: 3.5rem;
@@ -44,9 +45,7 @@ header {
 	}
 	&:hover,
 	&:focus {
-		svg {
-			--purple: var(--blue) !important;
-		}
+		transform: scale(1.1);
 	}
 	&:target {
 		color: var(--primary);
@@ -150,7 +149,7 @@ header {
 		width: 12rem;
 		top: -22rem;
 		right: 0;
-		background: var(--black-ish);
+		background: var(--background);
 		z-index: 9;
 		border-left: 5px solid var(--background);
 		border-bottom: 5px solid var(--background);
@@ -167,11 +166,11 @@ header {
 				background: var(--gradient);
 			}
 			&:nth-child(even) {
-				background: var(--white);
+				background: var(--background);
 			}
 			a,
 			label {
-				color: var(--black-ish) !important;
+				color: var(--text) !important;
 				padding: 0 $regular-more;
 				line-height: $height;
 				height: $height;
