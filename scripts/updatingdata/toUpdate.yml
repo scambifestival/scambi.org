@@ -1,2 +1,2 @@
 tables:
-  - relations
+  - relations: "relations.csv"
