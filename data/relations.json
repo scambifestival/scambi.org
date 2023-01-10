@@ -7,7 +7,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Cecilia"
+        "referente": "Cecilia",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 22,
@@ -17,7 +24,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Fiammetta"
+        "referente": "Fiammetta",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 84,
@@ -27,7 +41,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Fiammetta"
+        "referente": "Fiammetta",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     },
     {
         "id": 3,
@@ -37,7 +58,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Sabrina"
+        "referente": "Sabrina",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 97,
@@ -47,7 +75,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     },
     {
         "id": 107,
@@ -57,7 +92,14 @@
         "cosa": "Dissolvenze giuria",
         "stato": "confermato",
         "note": "",
-        "referente": "Salvatore"
+        "referente": "Salvatore",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 20,
@@ -67,7 +109,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Giulia"
+        "referente": "Giulia",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 232,
@@ -77,7 +126,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 90,
@@ -87,7 +143,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     },
     {
         "id": 109,
@@ -97,7 +160,14 @@
         "cosa": "Dissolvenze giuria",
         "stato": "confermato",
         "note": "",
-        "referente": "Luisa"
+        "referente": "Luisa",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 94,
@@ -107,7 +177,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Irene"
+        "referente": "Irene",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     },
     {
         "id": 19,
@@ -117,7 +194,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Gabriela"
+        "referente": "Gabriela",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 259,
@@ -127,7 +211,14 @@
         "cosa": "serata",
         "stato": "confermato",
         "note": "",
-        "referente": "Alessandro"
+        "referente": "Alessandro",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 54,
@@ -137,7 +228,14 @@
         "cosa": "sponsor",
         "stato": "confermato",
         "note": "",
-        "referente": "Fabio"
+        "referente": "Fabio",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 226,
@@ -147,7 +245,14 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 73,
@@ -157,7 +262,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Eleonora"
+        "referente": "Eleonora",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 78,
@@ -167,7 +279,19 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            },
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 74,
@@ -177,7 +301,19 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Gabriela"
+        "referente": "Gabriela",
+        "edizione": [
+            {
+                "id": 1505,
+                "value": "Presenta 2022",
+                "color": "light-gray"
+            },
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 92,
@@ -187,7 +323,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     },
     {
         "id": 93,
@@ -197,7 +340,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Fiammetta"
+        "referente": "Fiammetta",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     },
     {
         "id": 228,
@@ -207,7 +357,14 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 261,
@@ -217,7 +374,19 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "20 posti x 6\u20ac panino/piadina+bibita+caff\u00e8",
-        "referente": "Stefania"
+        "referente": "Stefania",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            },
+            {
+                "id": 1507,
+                "value": "2023",
+                "color": "dark-green"
+            }
+        ]
     },
     {
         "id": 212,
@@ -227,7 +396,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Leonardo"
+        "referente": "Leonardo",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 85,
@@ -237,7 +413,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Irene"
+        "referente": "Irene",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     },
     {
         "id": 220,
@@ -247,7 +430,14 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "10 buoni pasto",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 65,
@@ -257,7 +447,19 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "sconto su spesa",
-        "referente": "Eleonora"
+        "referente": "Eleonora",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            },
+            {
+                "id": 1507,
+                "value": "2023",
+                "color": "dark-green"
+            }
+        ]
     },
     {
         "id": 187,
@@ -267,7 +469,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 10,
@@ -277,7 +486,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Margherita"
+        "referente": "Margherita",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 227,
@@ -287,7 +503,19 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "",
-        "referente": "Luisa"
+        "referente": "Luisa",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            },
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 241,
@@ -297,7 +525,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Cecilia"
+        "referente": "Cecilia",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 175,
@@ -307,7 +542,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 230,
@@ -317,7 +559,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Marta"
+        "referente": "Marta",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 98,
@@ -327,7 +576,19 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Margherita"
+        "referente": "Margherita",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            },
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 238,
@@ -337,7 +598,14 @@
         "cosa": "serata",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 95,
@@ -347,7 +615,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Chiara"
+        "referente": "Chiara",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     },
     {
         "id": 181,
@@ -357,7 +632,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "Vegano; gli basta solo rimborso spese purch\u00e9 ci sia un bel service potente",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 75,
@@ -367,7 +649,19 @@
         "cosa": "collab",
         "stato": "confermato",
         "note": "",
-        "referente": "Giacomo"
+        "referente": "Giacomo",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            },
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 123,
@@ -377,7 +671,14 @@
         "cosa": "media collab",
         "stato": "confermato",
         "note": "info@gazzettafilosofica.net",
-        "referente": []
+        "referente": [],
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 207,
@@ -387,7 +688,19 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "10/15 posti x 10\u20ac piadina+bibita+caff\u00e8",
-        "referente": []
+        "referente": [],
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            },
+            {
+                "id": 1507,
+                "value": "2023",
+                "color": "dark-green"
+            }
+        ]
     },
     {
         "id": 269,
@@ -397,7 +710,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 140,
@@ -407,7 +727,14 @@
         "cosa": "serata",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 127,
@@ -417,7 +744,14 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     },
     {
         "id": 233,
@@ -427,7 +761,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "2 persone del team sono vegane",
-        "referente": "Leonardo"
+        "referente": "Leonardo",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 260,
@@ -437,7 +778,14 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "10 posti x 10\u20ac piatto+bibita+caff\u00e8",
-        "referente": "Stefania"
+        "referente": "Stefania",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 76,
@@ -447,7 +795,19 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Gabriela"
+        "referente": "Gabriela",
+        "edizione": [
+            {
+                "id": 1505,
+                "value": "Presenta 2022",
+                "color": "light-gray"
+            },
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 267,
@@ -457,7 +817,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 268,
@@ -467,7 +834,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 25,
@@ -477,7 +851,14 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 136,
@@ -487,7 +868,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 218,
@@ -497,7 +885,14 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "10 posti x 12\u20ac una scelta tra due primi e due secondi+bibita",
-        "referente": "Paola"
+        "referente": "Paola",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 14,
@@ -507,7 +902,19 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Margherita"
+        "referente": "Margherita",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            },
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 80,
@@ -517,7 +924,14 @@
         "cosa": "serata",
         "stato": "confermato",
         "note": "",
-        "referente": "Giacomo"
+        "referente": "Giacomo",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 134,
@@ -527,7 +941,19 @@
         "cosa": "collab",
         "stato": "confermato",
         "note": "da comunicare come ente \u201cco-organizzatore\u201d 2022",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            },
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 100,
@@ -537,7 +963,19 @@
         "cosa": "collab",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            },
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 96,
@@ -547,7 +985,14 @@
         "cosa": "serata",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     },
     {
         "id": 270,
@@ -557,7 +1002,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 86,
@@ -567,7 +1019,24 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            },
+            {
+                "id": 1505,
+                "value": "Presenta 2022",
+                "color": "light-gray"
+            },
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 271,
@@ -577,7 +1046,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 266,
@@ -587,7 +1063,14 @@
         "cosa": "pinolo",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 216,
@@ -597,7 +1080,19 @@
         "cosa": "sponsor tecnico",
         "stato": "confermato",
         "note": "8/10 posti x 13\u20ac 1 primo/secondo+bibita+caff\u00e8",
-        "referente": []
+        "referente": [],
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            },
+            {
+                "id": 1507,
+                "value": "2023",
+                "color": "dark-green"
+            }
+        ]
     },
     {
         "id": 240,
@@ -607,7 +1102,14 @@
         "cosa": "collab",
         "stato": "confermato",
         "note": "",
-        "referente": "Tommaso"
+        "referente": "Tommaso",
+        "edizione": [
+            {
+                "id": 1506,
+                "value": "2022",
+                "color": "blue"
+            }
+        ]
     },
     {
         "id": 91,
@@ -617,6 +1119,13 @@
         "cosa": "lab",
         "stato": "confermato",
         "note": "",
-        "referente": "Irene"
+        "referente": "Irene",
+        "edizione": [
+            {
+                "id": 1504,
+                "value": "2021",
+                "color": "light-gray"
+            }
+        ]
     }
 ]
