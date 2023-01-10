@@ -8,13 +8,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Cecilia",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 22,
@@ -25,13 +19,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Fiammetta",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 84,
@@ -42,13 +30,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Fiammetta",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 3,
@@ -59,13 +41,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Sabrina",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 97,
@@ -76,13 +52,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 107,
@@ -93,13 +63,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Salvatore",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 20,
@@ -110,13 +74,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Giulia",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 232,
@@ -127,13 +85,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 90,
@@ -144,13 +96,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 109,
@@ -161,13 +107,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Luisa",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 94,
@@ -178,13 +118,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Irene",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 19,
@@ -195,13 +129,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Gabriela",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 259,
@@ -212,13 +140,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Alessandro",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 54,
@@ -229,13 +151,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Fabio",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 226,
@@ -246,13 +162,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 73,
@@ -263,13 +173,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Eleonora",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 78,
@@ -280,18 +184,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            },
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 74,
@@ -302,18 +195,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Gabriela",
-        "edizione": [
-            {
-                "id": 1505,
-                "value": "Presenta 2022",
-                "color": "light-gray"
-            },
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "Presenta 2022"
     },
     {
         "id": 92,
@@ -324,13 +206,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 93,
@@ -341,13 +217,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Fiammetta",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 228,
@@ -358,13 +228,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 261,
@@ -375,18 +239,7 @@
         "stato": "confermato",
         "note": "20 posti x 6\u20ac panino/piadina+bibita+caff\u00e8",
         "referente": "Stefania",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            },
-            {
-                "id": 1507,
-                "value": "2023",
-                "color": "dark-green"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 212,
@@ -397,13 +250,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Leonardo",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 85,
@@ -414,13 +261,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Irene",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 220,
@@ -431,13 +272,7 @@
         "stato": "confermato",
         "note": "10 buoni pasto",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 65,
@@ -448,18 +283,7 @@
         "stato": "confermato",
         "note": "sconto su spesa",
         "referente": "Eleonora",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            },
-            {
-                "id": 1507,
-                "value": "2023",
-                "color": "dark-green"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 187,
@@ -470,13 +294,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 10,
@@ -487,13 +305,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Margherita",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 227,
@@ -504,18 +316,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Luisa",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            },
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 241,
@@ -526,13 +327,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Cecilia",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 175,
@@ -543,13 +338,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 230,
@@ -560,13 +349,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Marta",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 98,
@@ -577,18 +360,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Margherita",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            },
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 238,
@@ -599,13 +371,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 95,
@@ -616,13 +382,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Chiara",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 181,
@@ -633,13 +393,7 @@
         "stato": "confermato",
         "note": "Vegano; gli basta solo rimborso spese purch\u00e9 ci sia un bel service potente",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 75,
@@ -650,18 +404,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Giacomo",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            },
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 123,
@@ -672,13 +415,7 @@
         "stato": "confermato",
         "note": "info@gazzettafilosofica.net",
         "referente": [],
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 207,
@@ -689,18 +426,7 @@
         "stato": "confermato",
         "note": "10/15 posti x 10\u20ac piadina+bibita+caff\u00e8",
         "referente": [],
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            },
-            {
-                "id": 1507,
-                "value": "2023",
-                "color": "dark-green"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 269,
@@ -711,13 +437,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 140,
@@ -728,13 +448,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 127,
@@ -745,13 +459,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 233,
@@ -762,13 +470,7 @@
         "stato": "confermato",
         "note": "2 persone del team sono vegane",
         "referente": "Leonardo",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 260,
@@ -779,13 +481,7 @@
         "stato": "confermato",
         "note": "10 posti x 10\u20ac piatto+bibita+caff\u00e8",
         "referente": "Stefania",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 76,
@@ -796,18 +492,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Gabriela",
-        "edizione": [
-            {
-                "id": 1505,
-                "value": "Presenta 2022",
-                "color": "light-gray"
-            },
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "Presenta 2022"
     },
     {
         "id": 267,
@@ -818,13 +503,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 268,
@@ -835,13 +514,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 25,
@@ -852,13 +525,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 136,
@@ -869,13 +536,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 218,
@@ -886,13 +547,7 @@
         "stato": "confermato",
         "note": "10 posti x 12\u20ac una scelta tra due primi e due secondi+bibita",
         "referente": "Paola",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 14,
@@ -903,18 +558,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Margherita",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            },
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 80,
@@ -925,13 +569,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Giacomo",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 134,
@@ -942,18 +580,7 @@
         "stato": "confermato",
         "note": "da comunicare come ente \u201cco-organizzatore\u201d 2022",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            },
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 100,
@@ -964,18 +591,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            },
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 96,
@@ -986,13 +602,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 270,
@@ -1003,13 +613,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 86,
@@ -1020,23 +624,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            },
-            {
-                "id": 1505,
-                "value": "Presenta 2022",
-                "color": "light-gray"
-            },
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2021"
     },
     {
         "id": 271,
@@ -1047,13 +635,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 266,
@@ -1064,13 +646,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 216,
@@ -1081,18 +657,7 @@
         "stato": "confermato",
         "note": "8/10 posti x 13\u20ac 1 primo/secondo+bibita+caff\u00e8",
         "referente": [],
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            },
-            {
-                "id": 1507,
-                "value": "2023",
-                "color": "dark-green"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 240,
@@ -1103,13 +668,7 @@
         "stato": "confermato",
         "note": "",
         "referente": "Tommaso",
-        "edizione": [
-            {
-                "id": 1506,
-                "value": "2022",
-                "color": "blue"
-            }
-        ]
+        "edizione": "2022"
     },
     {
         "id": 91,
@@ -1120,12 +679,6 @@
         "stato": "confermato",
         "note": "",
         "referente": "Irene",
-        "edizione": [
-            {
-                "id": 1504,
-                "value": "2021",
-                "color": "light-gray"
-            }
-        ]
+        "edizione": "2021"
     }
 ]
