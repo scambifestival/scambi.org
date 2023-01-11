@@ -1,2 +1,3 @@
 tables:
   - relations: ""
+  - 2021-labs: "2021-labs.csv"
