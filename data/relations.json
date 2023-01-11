@@ -150,6 +150,16 @@
         "edizione": "2022"
     },
     {
+        "Ente": "Asganaway",
+        "Nome": "Davide",
+        "Cognome": "Zappia",
+        "cosa": "serata",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "Late Night nello ScambiVerso"
+    },
+    {
         "Ente": "BACA",
         "Nome": "Icedoc",
         "Cognome": "",
@@ -500,6 +510,16 @@
         "edizione": "2022"
     },
     {
+        "Ente": "Overload",
+        "Nome": "Valentino",
+        "Cognome": "Ricci",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Alessandro",
+        "edizione": "2021"
+    },
+    {
         "Ente": "Passione Scienza",
         "Nome": "Claudio",
         "Cognome": "Bortolin",
@@ -558,6 +578,16 @@
         "note": "",
         "referente": "Tommaso",
         "edizione": "2022"
+    },
+    {
+        "Ente": "Radioimmaginaria",
+        "Nome": "Ludovica",
+        "Cognome": "Azzali",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2021"
     },
     {
         "Ente": "Staff Scambi",
