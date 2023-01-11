@@ -16,7 +16,7 @@ tables:
     id: 325
     view_id: 0
     inlcuded: "title,host,loc,descrizione"
-    filters: ""
+    filters: "filter__cosa__pinolo"
   2022-labs:
     name: "2022 Program"
     id: 313
