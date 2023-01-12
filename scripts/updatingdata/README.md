@@ -53,7 +53,8 @@ configurazione, in modo da limitare l'intervento manuale._
 > Lo script tenta comunque di creare un file `.json`; se è già presente un file omonimo, lo script usa il file già presente come file di riferimento.
 3. Qualora sia specificato un file in formato diverso da quello del file presente nella repository:
 > Se il formato del file indicato è `.csv`, ma è presente un omonimo file `.json`, lo script tenta di creare un nuovo file `.json` ma, accorgendosi del duplicato,
-> devia dalla sua creazione per usare semplicemente il file `.json` già presente all'interno della repository.
+> devia dalla sua creazione per usare semplicemente il file `.json` già presente all'interno della repository. Se il formato indicato è `.json` ma, nella repository, 
+> è presente un file `.csv` con lo stesso nome, lo script ignora il `.csv` e crea un nuovo `.json`.
 4. Qualora venga usato un `nome_riferimento_tabella` non presente all'interno di `tablesInfos`:
 > Il relativo file non viene aggiornato.
 
@@ -106,7 +107,7 @@ Qualora di desideri usare il campo _filters_, ecco le cose da sapere:
 Per conoscere tali informazioni, si faccia riferimento alla [documentazione della API di Pino](https://pino.scambi.org/api-docs/database/61).
 
 Nota: _lo script non è in grado di gestire filtri che coninvolgono matrici o tipi di dato differenti da stringhe o interi._  
-Nota: _se il filtro non possiede una sintessa corretta, viene ignorato._
+Nota: _se il filtro non possiede una sintassi corretta, viene ignorato._
 
 #### Gestione degli errori
 1. Qualora uno dei campi _name_, _id_, _view_id_, _included_ e _filters_ dovesse essere omesso nel file di configurazione:
