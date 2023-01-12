@@ -43,7 +43,7 @@ Qualora il file sia in formato `.csv`, è comunque possibile inserirlo all'inter
 >`- nome_riferimento_tabella#1: "nome_file_da_aggiornare#1.csv"` (il file `.csv` verrà, poi, rimosso e sostituito con un file `.json`)
 
 Nota: _la scrittura di `toUpdate` è parzialmente automatizzata: se un file viene aggiornato, il nome di tale file viene aggiunto, al posto del precedente, nel file di 
-configurazione, in modo da limitare l'intervento munuale._
+configurazione, in modo da limitare l'intervento manuale._
 
 #### Gestione degli errori
 
@@ -94,7 +94,7 @@ L'unico valore obbligatorio è l'ID della tabella di riferimento.
 #### Il campo _filters_
 
 Il campo _filters_ contiene ulteriori eventuali filtri da applicare (se non già applicati all'interno della view indicata). Personalmente, sconsiglio di usare 
-questo campo e applicare tutti i filtri desiderati all'interno di una view creata _ad hoc_ dall'interfaccia di Baserow.
+questo campo e consiglio di applicare tutti i filtri desiderati all'interno di una view creata _ad hoc_ dall'interfaccia di Baserow.
 
 Qualora di desideri usare il campo _filters_, ecco le cose da sapere:
 1. Tale campo è una stringa contente uno o più filtri, separati da una virgola.
