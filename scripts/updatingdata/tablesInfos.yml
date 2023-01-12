@@ -10,13 +10,13 @@ tables:
     id: 325
     view_id: 0
     included: "title,host,cosa,giorni,loc,descrizione"
-    filters: "filter__2809__contains=1545"
+    filters: "filter__field_2809__contains=1545"
   2021-pinoli:
     name: "2021 Program"
     id: 325
     view_id: 0
     included: "title,host,cosa,loc,descrizione"
-    filters: "filter__2809__contains=1546"
+    filters: "filter__field_2809__contains=1546"
   2022-labs:
     name: "2022 Program"
     id: 313
