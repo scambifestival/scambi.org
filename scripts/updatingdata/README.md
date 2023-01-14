@@ -1,5 +1,5 @@
 # Cosa fa questo script
-`updatingdata.py` è in grado di aggiorare automaticamente i file esportati da Pino in formato `.json` sulla base di alcuni semplici file di configurazione.
+`updatingdata.py` è in grado di aggiorare automaticamente i file esportati da Pino in formato `JSON` sulla base di alcuni semplici file di configurazione.
 
 ## Come usare questo script
 Il corretto funzionamento di questo script è strettamente determinato dalla corretta formattazione dei file di configurazione `toUpdate.yml` e `tablesInfos.yml`, 
@@ -21,6 +21,10 @@ Prima di procedere, lo script avvisa l'utente di ciò che verrà eseguito in fas
 - se un file è indicato come presente nella repository (ovvero se il suo nome è specifiato in `toUpdate`), **quest'ultimo verrà aggiornato**; 
 - se, invece, il file non è indicato come presente (ovvero se il suo nome non è specificato in `toUpdate`), **ne verrà creato uno nuovo**.
 
+Nota: _durante l'esecuzione, lo script cerca eventuali file CSV non indicati nel file di configurazione ma che possiedono lo stesso nome. Ad 
+esempio, se nel file di configurazione è indicato `file1.json`, lo script cerca anche un eventuale file `file1.csv` e, se lo trova, chiede 
+all'utente se rimuoverlo dalla repository._
+
 `toUpdate` è così formattato:
 
 >tables:  
@@ -38,23 +42,27 @@ Qualora un file non sia presente all'interno della repository, è possibile lasc
 
 >`- nome_riferimento_tabella: ""`
 
-Qualora il file sia in formato `.csv`, è comunque possibile inserirlo all'interno del relativo campo, come segue:
+Un nuovo file `nome_riferimento_tabella.json` verrà creato _ex novo_.
 
->`- nome_riferimento_tabella#1: "nome_file_da_aggiornare#1.csv"` (il file `.csv` verrà, poi, rimosso e sostituito con un file `.json`)
+Qualora il file sia in formato `CSV`, è comunque possibile inserirlo all'interno del relativo campo, come segue:
 
-Nota: _la scrittura di `toUpdate` è parzialmente automatizzata: se un file viene aggiornato, il nome di tale file viene aggiunto, al posto del precedente, nel file di 
+>`- nome_riferimento_tabella#1: "nome_file_da_aggiornare#1.csv"` 
+
+Il file `CSV` verrà, poi, rimosso e sostituito con un file `JSON`.
+
+Nota: _la scrittura di `toUpdate` è parzialmente automatizzata: se un file viene aggiornato (o creato), il nome di tale file viene aggiunto, al posto della stringa precedente, nel file di 
 configurazione, in modo da limitare l'intervento manuale._
 
 #### Gestione degli errori
 
 1. Qualora un file venga indicato come presente ma non lo sia effettivamente nella repository:
-> Lo script tenta di reperire comunque il file indicato in `toUpdate`; se tale file non viene trovato, lo script procederà alla creazione di un nuovo file `.json`.
+> Lo script tenta di reperire comunque il file indicato in `toUpdate`; se tale file non viene trovato, lo script procederà alla creazione di un nuovo file `JSON`.
 2. Qualora un file venga indicato come non presente ma sia, in realtà, presente nella repository:
-> Lo script tenta comunque di creare un file `.json`; se è già presente un file omonimo, lo script usa il file già presente come file di riferimento.
+> Lo script tenta comunque di creare un file `JSON`; se è già presente un file omonimo, lo script usa il file già presente come file di riferimento.
 3. Qualora sia specificato un file in formato diverso da quello del file presente nella repository:
-> Se il formato del file indicato è `.csv`, ma è presente un omonimo file `.json`, lo script tenta di creare un nuovo file `.json` ma, accorgendosi del duplicato,
+> Se il formato del file indicato è `CSV`, ma è presente un omonimo file `JSON`, lo script tenta di creare un nuovo file `JSON` ma, accorgendosi del duplicato,
 > devia dalla sua creazione per usare semplicemente il file `.json` già presente all'interno della repository. Se il formato indicato è `.json` ma, nella repository, 
-> è presente un file `.csv` con lo stesso nome, lo script ignora il `.csv` e crea un nuovo `.json`.
+> è presente un file `CSV` con lo stesso nome, lo script ignora il `CSV` e crea un nuovo `JSON`.
 4. Qualora venga usato un `nome_riferimento_tabella` non presente all'interno di `tablesInfos`:
 > Il relativo file non viene aggiornato.
 
