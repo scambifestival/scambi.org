@@ -17,9 +17,7 @@ Le opzioni di scelta della modalità sono poste all'inizio dell'esecuzione dello
 
 ### _toUpdate.yml_
 Qualora venga scelta la modalità automatica, lo script farà riferimento a questo file di configurazione, che contiene i nomi dei file da aggiornare.
-Prima di procedere, lo script avvisa l'utente di ciò che verrà eseguito in fase di aggiornamento:
-- se un file è indicato come presente nella repository (ovvero se il suo nome è specifiato in `toUpdate`), **quest'ultimo verrà aggiornato**; 
-- se, invece, il file non è indicato come presente (ovvero se il suo nome non è specificato in `toUpdate`), **ne verrà creato uno nuovo**.
+Lo script usa i nomi dei file indicati in `toUpdate` per operare. Ad ogni file è associata una tabella, identificata da un nome di riferimento.
 
 Nota: _durante l'esecuzione, lo script cerca eventuali file `CSV` non indicati nel file di configurazione ma che possiedono lo stesso nome. Ad 
 esempio, se nel file di configurazione è indicato `file1.json`, lo script cerca anche un eventuale file `file1.csv` e, se lo trova, chiede 
@@ -36,6 +34,10 @@ Se una riga associata ad un file da aggiornare non viene aggiunta a `toUpdate`, 
 
 I nomi di riferimento sono arbitrari; l'unico vincolo è che essi siano i medesimi su entrambi i file di configurazione, per cui ci si riferisce ad una tabella 
 usando **lo stesso** riferimento sia su `toUpdate` che su `tablesInfos`.
+
+Prima di procedere, lo script avvisa l'utente di ciò che verrà eseguito in fase di aggiornamento:
+- se un file è indicato come presente nella repository (ovvero se il suo nome è specifiato in `toUpdate`), **quest'ultimo verrà aggiornato**; 
+- se, invece, il file non è indicato come presente (ovvero se il suo nome non è specificato in `toUpdate`), **ne verrà creato uno nuovo**.
 
 #### **Circostanze particolari**
 Qualora un file non sia presente all'interno della repository, è possibile lasciare il relativo campo vuoto, come segue:
