@@ -21,7 +21,7 @@ Prima di procedere, lo script avvisa l'utente di ciò che verrà eseguito in fas
 - se un file è indicato come presente nella repository (ovvero se il suo nome è specifiato in `toUpdate`), **quest'ultimo verrà aggiornato**; 
 - se, invece, il file non è indicato come presente (ovvero se il suo nome non è specificato in `toUpdate`), **ne verrà creato uno nuovo**.
 
-Nota: _durante l'esecuzione, lo script cerca eventuali file CSV non indicati nel file di configurazione ma che possiedono lo stesso nome. Ad 
+Nota: _durante l'esecuzione, lo script cerca eventuali file `CSV` non indicati nel file di configurazione ma che possiedono lo stesso nome. Ad 
 esempio, se nel file di configurazione è indicato `file1.json`, lo script cerca anche un eventuale file `file1.csv` e, se lo trova, chiede 
 all'utente se rimuoverlo dalla repository._
 
