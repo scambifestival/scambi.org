@@ -61,7 +61,7 @@ configurazione, in modo da limitare l'intervento manuale._
 > Lo script tenta comunque di creare un file `JSON`; se è già presente un file omonimo, lo script usa il file già presente come file di riferimento.
 3. Qualora sia specificato un file in formato diverso da quello del file presente nella repository:
 > Se il formato del file indicato è `CSV`, ma è presente un omonimo file `JSON`, lo script tenta di creare un nuovo file `JSON` ma, accorgendosi del duplicato,
-> devia dalla sua creazione per usare semplicemente il file `.json` già presente all'interno della repository. Se il formato indicato è `.json` ma, nella repository, 
+> devia dalla sua creazione per usare semplicemente il file `JSON` già presente all'interno della repository. Se il formato indicato è `JSON` ma, nella repository, 
 > è presente un file `CSV` con lo stesso nome, lo script chiede se rimuovere il `CSV` dalla repository e crea un nuovo file `JSON`.
 4. Qualora venga usato un `nome_riferimento_tabella` non presente all'interno di `tablesInfos`:
 > Il relativo file non viene aggiornato.
