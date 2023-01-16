@@ -1,1 +1,2 @@
 tables:
+  - relations: "relations.json"
