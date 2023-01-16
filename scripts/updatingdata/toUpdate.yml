@@ -1,4 +1,4 @@
 tables:
-	- relations: "relations.json"
-	- 2021-labs: ""
-	- 2021-pinoli: "2021-pinoli.csv"
+  - relations: "relations.json"
+  - 2021-labs: ""
+  - 2021-pinoli: "2021-pinoli.csv"
