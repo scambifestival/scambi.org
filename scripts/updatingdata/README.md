@@ -70,7 +70,20 @@ configurazione, in modo da limitare l'intervento manuale._
 
 ### Modalità manuale
 
-Da definire.
+Lo script offre due modalità di aggiornamento manuale:
+1. **Lista di nomi**: l'utente indica una lista di file da aggiornare nel formato `nomefile#1,nomefile#2,...`;
+2. **Lista di numeri**: l'utente visualizza un elenco numerato di file disponibili e indica una lista di numeri, ognuno corrispondente ad un file all'interno 
+dell'elenco, nel formato `#1 #2 ...`.
+
+Nessuna delle due modalità manuali consente la creazione di file _ex novo_, per cui l'unico modo per creare file è sfruttare la modalità automatica.
+
+Nel caso della lista di nomi, essi devono anche contenere le estensioni. Qualora una (o più) di esse sia stata omessa o digitata scorrettamente, lo script 
+chiede all'utente di riscrivere il nome completo del file in questione.
+
+Lo script deve sapere a quali tabelle su Baserow fare riferimento per aggiornare i file indicati; per questo, per ogni file in fsse di aggiornamento 
+va indicata una delle tabelle specificate nel file di configurazione `tablesInfos.yml` nelle modalità proposte dallo script stesso.
+
+
 
 ### _tablesInfos.yml_
 
