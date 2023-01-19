@@ -18,6 +18,7 @@ Le opzioni di scelta della modalità sono poste all'inizio dell'esecuzione dello
 ### _toUpdate.yml_
 Qualora venga scelta la modalità automatica, lo script farà riferimento a questo file di configurazione, che contiene i nomi dei file da aggiornare.
 Lo script usa i nomi dei file indicati in `toUpdate.yml` per operare. Ad ogni file è associata una tabella su Baserow, identificata da un nome di riferimento.
+I nomi di referimento sono quelli indicati nel file di configurazione `tablesInfos.yml`.
 
 `toUpdate` è così formattato:
 
