@@ -56,7 +56,7 @@ all'utente se rimuoverlo dalla repository._
 ### _Auto-modifica_ del file di configurazione
 La modifica di `toUpdate.yml` è parzialmente automatizzata: ogni volta che un file viene aggiornato o creato, sia usando la modalità manuale che la modalità automatica, lo script confronta il contenuto attuale del file di configurazione coi nomi dei file aggiornati/creati; se risulta qualche differenza, lo script aggiorna `toUpdate.yml` da sé, senza richiedere l'intervento umano.
 
-Nota: qualora `toUpdate.yml` contenga un elenco di file non aggiornato all'interno della repository, lo script si comporta come descritto nel paragrafo successivo (non viene, quindi, compromesso il suo funzionamento), a patto che la sua formattazione (vedi sopra) sia corretta.
+Nota: qualora `toUpdate.yml` contenga un elenco di file non aggiornato rispetto al contenuto attuale della repository, lo script si comporta come descritto nel paragrafo successivo (non viene, quindi, compromesso il suo funzionamento), a patto che la sua formattazione (vedi sopra) sia corretta.
 
 #### Gestione degli errori
 
