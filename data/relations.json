@@ -1,1 +1,662 @@
-f975ca63a2c8ed097b995953ee875a21221bfd29
+[
+    {
+        "Ente": "",
+        "Nome": "Giampiero",
+        "Cognome": "Cane",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Cecilia",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "",
+        "Nome": "Giovanni",
+        "Cognome": "De Mattia",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Fiammetta",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "",
+        "Nome": "Silvano",
+        "Cognome": "Fuso",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Fiammetta",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "",
+        "Nome": "Jennifer",
+        "Cognome": "Guerra",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Sabrina",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "",
+        "Nome": "Jacopo",
+        "Cognome": "Gugliotta",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "",
+        "Nome": "Maricetta",
+        "Cognome": "Lombardo",
+        "cosa": "Dissolvenze giuria",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Salvatore",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "",
+        "Nome": "Alessandro",
+        "Cognome": "Sahebi",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Giulia",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "",
+        "Nome": "Vittorio",
+        "Cognome": "Toesca",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "",
+        "Nome": "Leonardo",
+        "Cognome": "Venturi",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "AIFA",
+        "Nome": "Monica",
+        "Cognome": "Conversano",
+        "cosa": "Dissolvenze giuria",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Luisa",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "ASCS",
+        "Nome": "Jonas",
+        "Cognome": "Donazzolo",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Irene",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "ASD Liberalamente",
+        "Nome": "Rossella",
+        "Cognome": "Piccinelli",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Gabriela",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "AleLntr",
+        "Nome": "Alessandro",
+        "Cognome": "Lanteri",
+        "cosa": "serata",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Alessandro",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Amer",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "sponsor",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Fabio",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Art Atèlier",
+        "Nome": "Valentino",
+        "Cognome": "Sabatini",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Asganaway",
+        "Nome": "Davide",
+        "Cognome": "Zappia",
+        "cosa": "serata",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "Late Night nello ScambiVerso"
+    },
+    {
+        "Ente": "BACA",
+        "Nome": "Icedoc",
+        "Cognome": "",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Eleonora",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Balbosco",
+        "Nome": "Teresa",
+        "Cognome": "De Grandis",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Barrio Buidlers",
+        "Nome": "Miriam",
+        "Cognome": "Tinarelli",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Gabriela",
+        "edizione": "Presenta 2022"
+    },
+    {
+        "Ente": "Birrificio Nadir",
+        "Nome": "Gabriele",
+        "Cognome": "Genduso",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "CICAP Cuneo",
+        "Nome": "Sofia",
+        "Cognome": "Lincos",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Fiammetta",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "CSV Polis",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Caffè Carruggio",
+        "Nome": "Salvatore",
+        "Cognome": "Grupico",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "20 posti x 6€ panino/piadina+bibita+caffè",
+        "referente": "Stefania",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Caketussy",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Leonardo",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Caritas Intemelia",
+        "Nome": "Christian",
+        "Cognome": "Papini",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Irene",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Claynuts",
+        "Nome": "Antonio",
+        "Cognome": "Macaluso",
+        "cosa": "serata",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "Late Night nello ScambiVerso"
+    },
+    {
+        "Ente": "Cocoon",
+        "Nome": "Mauro",
+        "Cognome": "",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "10 buoni pasto",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Conad",
+        "Nome": "Daniele",
+        "Cognome": "Campagnani",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "sconto su spesa",
+        "referente": "Eleonora",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Etica Digitale",
+        "Nome": "Ciro",
+        "Cognome": "Ogliastro",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Extintion Rebellion (XR)",
+        "Nome": "Ilaria",
+        "Cognome": "Giora",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Margherita",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Foto Video Renata Roccavione",
+        "Nome": "Sergio",
+        "Cognome": "Coloretti",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Luisa",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Fridays For Future Ventimiglia",
+        "Nome": "Pietro",
+        "Cognome": "Pizzo",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Cecilia",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Goldwire",
+        "Nome": "Beppe",
+        "Cognome": "Assenou",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Homebox",
+        "Nome": "Elena",
+        "Cognome": "Ricagno",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Marta",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "ITP CERN",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Margherita",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Internet Breakfast",
+        "Nome": "Marco",
+        "Cognome": "Saruppi",
+        "cosa": "serata",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Interpreti LIS",
+        "Nome": "Chiara",
+        "Cognome": "Mallozzi",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Chiara",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Kenobit",
+        "Nome": "Fabio",
+        "Cognome": "Bortolotti",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "Vegano; gli basta solo rimborso spese purché ci sia un bel service potente",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "LIBERA Imperia",
+        "Nome": "Maura",
+        "Cognome": "Orengo",
+        "cosa": "collab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Giacomo",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "La Gazzetta Filosofica",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "media collab",
+        "stato": "confermato",
+        "note": "info@gazzettafilosofica.net",
+        "referente": "",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "La Salsamenteria",
+        "Nome": "Olmo",
+        "Cognome": "",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "10/15 posti x 10€ piadina+bibita+caffè",
+        "referente": "",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Leideebs & Kunf3",
+        "Nome": "Beatrice",
+        "Cognome": "De Nicola",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Lu Barbalocou",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "serata",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Mail Boxes Etc.",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Malegaleco",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "2 persone del team sono vegane",
+        "referente": "Leonardo",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Mamma Maty",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "10 posti x 10€ piatto+bibita+caffè",
+        "referente": "Stefania",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "O.d’A.d’A.",
+        "Nome": "Valerio",
+        "Cognome": "Amadeo",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Gabriela",
+        "edizione": "Presenta 2022"
+    },
+    {
+        "Ente": "OfficineBrand",
+        "Nome": "Domenico",
+        "Cognome": "Graglia",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Omas Seifen",
+        "Nome": "Alessia",
+        "Cognome": "Curti",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Orbita",
+        "Nome": "Lorenzo",
+        "Cognome": "Sicignano",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Orchestra Note Libere",
+        "Nome": "Cristina",
+        "Cognome": "Orvieto",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Osteria Camelot",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "10 posti x 12€ una scelta tra due primi e due secondi+bibita",
+        "referente": "Paola",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Overload",
+        "Nome": "Valentino",
+        "Cognome": "Ricci",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Alessandro",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Passione Scienza",
+        "Nome": "Claudio",
+        "Cognome": "Bortolin",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Margherita",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Perfect Sex Tales",
+        "Nome": "Giacomo",
+        "Cognome": "Persico",
+        "cosa": "serata",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Giacomo",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Pigna Mon Amour",
+        "Nome": "Chicca",
+        "Cognome": "Dedali",
+        "cosa": "collab",
+        "stato": "confermato",
+        "note": "da comunicare come ente “co-organizzatore” 2022",
+        "referente": "Tommaso",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Piña Social Club",
+        "Nome": "Francesco",
+        "Cognome": "Scalarandis",
+        "cosa": "collab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Ponente Folk Legacy",
+        "Nome": "Luca",
+        "Cognome": "Schiappacasse",
+        "cosa": "serata",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Project OSAN",
+        "Nome": "Andrea",
+        "Cognome": "Ramello",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Radioimmaginaria",
+        "Nome": "Ludovica",
+        "Cognome": "Azzali",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "Staff Scambi",
+        "Nome": "Tommaso",
+        "Cognome": "Marmo",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2021"
+    },
+    {
+        "Ente": "The Daisy Folk",
+        "Nome": "Gilda",
+        "Cognome": "Iannoni",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Understanding Europe",
+        "Nome": "Daniela",
+        "Cognome": "Cappuccio",
+        "cosa": "pinolo",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Urbicia Vivas",
+        "Nome": "Nadia",
+        "Cognome": "Paonessa",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "8/10 posti x 13€ 1 primo/secondo+bibita+caffè",
+        "referente": "",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "Villa Citera + altre cose",
+        "Nome": "Christian",
+        "Cognome": "Gullone",
+        "cosa": "collab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
+        "Ente": "WeWorld",
+        "Nome": "Jacopo",
+        "Cognome": "Colomba",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Irene",
+        "edizione": "2021"
+    }
+]
