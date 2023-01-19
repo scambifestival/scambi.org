@@ -62,7 +62,7 @@ Nota: qualora `toUpdate.yml` contenga un elenco di file non aggiornato rispetto 
 
 1. Qualora un file venga indicato come presente ma non lo sia effettivamente nella repository:
 > Lo script tenta di reperire comunque il file indicato in `toUpdate.yml`; se tale file non viene trovato, lo script procederà alla creazione di 
-> `nome_riferimento_tabella.JSON`, usando la tabella col nome di riferimento indicato.
+> `nome_riferimento_tabella.json`, usando la tabella col nome di riferimento indicato.
 2. Qualora un file venga indicato come non presente ma sia, in realtà, presente nella repository:
 > Lo script tenta comunque di creare un file `JSON`; se è già presente un file omonimo, lo script usa il file già presente come file di riferimento.
 3. Qualora sia specificato un file in formato diverso da quello del file presente nella repository:
