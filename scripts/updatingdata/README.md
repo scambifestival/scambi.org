@@ -31,7 +31,7 @@ Se una riga associata ad un file da aggiornare non viene aggiunta a `toUpdate.ym
 I nomi di riferimento delle tabelle sono arbitrari; l'unico vincolo è che essi siano i medesimi su entrambi i file di configurazione, per cui ci si riferisce ad una tabella usando **lo stesso** riferimento sia su `toUpdate.yml` che su `tablesInfos.yml`.
 
 Prima di procedere, lo script avvisa l'utente di ciò che verrà eseguito in fase di aggiornamento:
-- se `nome_file_da_aggiornare` è una stringa vuota (`""`), verrà creato un nuovo file `JSON` col `nome_riferimento_tabella` indicato
+- se `nome_file_da_aggiornare` è una stringa vuota (`""`), verrà creato un nuovo file `JSON` con la tabella indicata tramite `nome_riferimento_tabella` corrispondente;
 - se `nome_file_da_aggiornare` non è una stringa vuota, lo script lavora col file indicato:
 > - se esso è in formato `CSV`, lo sostituirà con un omonimo file JSON;
 > - se esso è in formato `JSON`, lo aggiornerà.
