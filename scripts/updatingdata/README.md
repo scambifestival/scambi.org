@@ -79,7 +79,7 @@ Nota: qualora `toUpdate.yml` contenga un elenco di file non aggiornato rispetto 
 #### Modalità manuale
 
 Lo script offre due modalità di aggiornamento manuale:
-1. **Lista di nomi**: l'utente indica una lista di file da aggiornare nel formato `nomeRiferimentoTabella#1:nomeFile#1,nomeRiferimentoTabella#1:nomeFile#2,...`;
+1. **Lista di nomi**: l'utente indica una lista di file da aggiornare nel formato `nomeRiferimentoTabella#1:nomeFile#1,nomeRiferimentoTabella#2:nomeFile#2,...`;
 2. **Lista di numeri**: l'utente visualizza un elenco numerato di file disponibili e indica una lista di numeri, ognuno corrispondente ad un file all'interno 
 dell'elenco, nel formato `#1 #2 ...`.
 
