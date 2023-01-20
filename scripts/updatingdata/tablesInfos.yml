@@ -9,7 +9,7 @@ tables:
     name: "2022 People"
     id: 315
     view_id: 0
-    inlcuded: "Name,Surname,Role,belonging,cosa,Hosting,days,nights,referente,diete/intolleranze,Notes,check-in,check-out,Maglietta"
+    included: "Name,Surname,Role,belonging,cosa,Hosting,days,nights,referente,diete/intolleranze,Notes,check-in,check-out,Maglietta"
     filters: ""
   2021-labs:
     name: "2021 Program"
