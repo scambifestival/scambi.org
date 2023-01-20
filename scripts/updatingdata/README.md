@@ -17,7 +17,7 @@ Le opzioni di scelta della modalità sono poste all'inizio dell'esecuzione dello
 
 #### Modalità automatica: _toUpdate.yml_
 L'esecuzione della modalità automatica è richiesta tramite pressione del tasto INVIO all'interno del menù principale (o qualora lo script lo consenta).
-Lo script avvia la procedura automatica facendo riferimento a `toUpdate.yml` che contiene i nomi dei file da aggiornare.
+Lo script avvia la procedura automatica facendo riferimento a `toUpdate.yml`, che contiene i nomi dei file da aggiornare.
 
 `toUpdate` è così formattato:
 
@@ -26,7 +26,7 @@ Lo script avvia la procedura automatica facendo riferimento a `toUpdate.yml` che
 >>– nome_riferimento_tabella#2: "nome_file_da_aggiornare#2"  
 >>...  
 
-Lo script usa il contenuto attuale della tabella col nome di riferimento indicato per aggiornare il file associato; se una riga associata ad un file da aggiornare non viene aggiunta a `toUpdate.yml`, tale file non verrà aggiornato.
+Lo script usa il contenuto attuale della tabella su Pino col nome di riferimento indicato per aggiornare il file associato; se una riga associata ad un file da aggiornare non viene aggiunta a `toUpdate.yml`, tale file non verrà aggiornato.
 
 Lo script associa al nome di riferimento una tabella su Pino, grazie ai riferimenti indicati su `tablesInfos.yml`.
 
