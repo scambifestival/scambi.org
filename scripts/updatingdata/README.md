@@ -68,7 +68,7 @@ Nota: qualora `toUpdate.yml` contenga un elenco di file non aggiornato rispetto 
 2. Qualora un file venga indicato come non presente ma sia, in realtà, presente nella repository:
 > Lo script tenta comunque di creare un file `nome_riferimento_tabella.json`; se è già presente un file omonimo, lo script usa il file già presente come file di riferimento.
 
-> Nota: se il file già presente nella repository ha un nome diverso da `nome_riferimento_tabella` , verrà ignorato.
+> Nota: se il file già presente nella repository ha un nome diverso da `nome_riferimento_tabella.json` , verrà ignorato.
 3. Qualora sia specificato un file in formato diverso da quello del file presente nella repository:
 > Se il formato del file indicato è `CSV`, ma è presente un omonimo file `JSON`, lo script tenta di creare un nuovo file `JSON` ma, accorgendosi del duplicato,
 > devia dalla sua creazione per usare semplicemente il file `JSON` già presente all'interno della repository. Se il formato indicato è `JSON` ma, nella repository, 
