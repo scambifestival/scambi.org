@@ -7,6 +7,12 @@ i quali non devono essere spostati dalla loro attuale posizione nella directory.
 
 `toUpdate.yml` contiene un elenco dei file da aggiornare, mentre `tablesInfos.yml` contiene le informazioni delle tabelle su Pino cui lo script fa riferimento.
 
+### Installazione
+Lo script richiede alcuni moduli esterni per essere esguito. Per installare tali moduli, è sufficiente usare:  
+> pip install -r requirements.txt  
+all'interno dell'ambiente virtuale eventualmente creato, oppure nel sistema.
+Nota: _è consigliabile usare un ambiente virtuale per eseguire qualsiasi script, dacché potrebbero crearsi conflitti con versioni di Python successive a quella adoperata per programmare questo script (Python 3.11.1)_.
+
 ### Modalità di esecuzione
 
 Lo script offre due possibilità di esecuzione:
