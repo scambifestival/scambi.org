@@ -10,6 +10,7 @@ i quali non devono essere spostati dalla loro attuale posizione nella directory.
 ### Installazione
 Lo script richiede alcuni moduli esterni per essere esguito. Per installare tali moduli, è sufficiente usare:  
 > pip install -r requirements.txt  
+
 all'interno dell'ambiente virtuale eventualmente creato, oppure nel sistema.
 Nota: _è consigliabile usare un ambiente virtuale per eseguire qualsiasi script, dacché potrebbero crearsi conflitti con versioni di Python successive a quella adoperata per programmare questo script (Python 3.11.1)_.
 
