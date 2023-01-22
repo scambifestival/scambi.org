@@ -12,6 +12,7 @@ Lo script richiede alcuni moduli esterni per essere esguito. Per installare tali
 > pip install -r requirements.txt  
 
 all'interno dell'ambiente virtuale eventualmente creato, oppure nel sistema.
+
 Nota: _è consigliabile usare un ambiente virtuale per eseguire questo script, dacché potrebbero crearsi conflitti con versioni di Python successive a quella adoperata per programmarlo (Python 3.11.1)_.
 
 #### Hint: creare un ambiente virtuale (Linux/MacOS)
