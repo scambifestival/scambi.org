@@ -12,7 +12,25 @@ Lo script richiede alcuni moduli esterni per essere esguito. Per installare tali
 > pip install -r requirements.txt  
 
 all'interno dell'ambiente virtuale eventualmente creato, oppure nel sistema.
-Nota: _è consigliabile usare un ambiente virtuale per eseguire qualsiasi script, dacché potrebbero crearsi conflitti con versioni di Python successive a quella adoperata per programmare questo script (Python 3.11.1)_.
+Nota: _è consigliabile usare un ambiente virtuale per eseguire questo script, dacché potrebbero crearsi conflitti con versioni di Python successive a quella adoperata per programmarlo (Python 3.11.1)_.
+
+#### Hint: creare un ambiente virtuale (Linux/MacOS)
+
+Aprire una command line e entrare nella cartella dove si desidera creare l'ambiente virtuale.
+Usare il comando
+> python3.11 -m venv <_nomeAmbiente_>
+
+_nomeAmbiente_ è il nome dell'ambiente virtuale ed è arbitrario.
+Nota: _siccome questo script è stato progettato con Python v3.11.1 è consigliabile avere questa versione_.
+
+Creato l'ambiente virtuale, è necessario attivarlo, in questo modo (senza spostarsi dalla directory attuale):
+
+> source <_nomeAmbiente_>/bin/activate
+
+Attivato l'ambiente virtuale, sarà possibile installare tutti i moduli esterni, senza modificare nulla all'interno del sistema e avviare lo script con più garanzia.
+Per disattuvare l'ambiente virtuale, è sufficiente usare:
+
+> deactivate
 
 ### Modalità di esecuzione
 
