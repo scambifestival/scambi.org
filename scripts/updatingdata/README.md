@@ -29,7 +29,7 @@ Creato l'ambiente virtuale, è necessario attivarlo, in questo modo (senza spost
 
 > source <_nomeAmbiente_>/bin/activate
 
-Attivato l'ambiente virtuale, sarà possibile installare tutti i moduli esterni, senza modificare nulla all'interno del sistema e avviare lo script con più garanzia.
+Attivato l'ambiente virtuale, sarà possibile installare tutti i moduli esterni, senza modificare nulla all'interno del sistema e avviare lo script con più garanzie sul suo corretto funzionamento.
 Per disattuvare l'ambiente virtuale, è sufficiente usare:
 
 > deactivate
