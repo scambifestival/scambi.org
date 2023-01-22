@@ -21,6 +21,7 @@ Usare il comando
 > python3.11 -m venv <_nomeAmbiente_>
 
 _nomeAmbiente_ è il nome dell'ambiente virtuale ed è arbitrario.
+
 Nota: _siccome questo script è stato progettato con Python v3.11.1 è consigliabile avere questa versione_.
 
 Creato l'ambiente virtuale, è necessario attivarlo, in questo modo (senza spostarsi dalla directory attuale):
