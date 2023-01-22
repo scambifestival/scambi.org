@@ -8,20 +8,17 @@ i quali non devono essere spostati dalla loro attuale posizione nella directory.
 `toUpdate.yml` contiene un elenco dei file da aggiornare, mentre `tablesInfos.yml` contiene le informazioni delle tabelle su Pino cui lo script fa riferimento.
 
 ### Installazione
-Lo script richiede alcuni moduli esterni per essere esguito. Per installare tali moduli, è sufficiente usare:  
-> pip install -r requirements.txt  
-
-all'interno dell'ambiente virtuale eventualmente creato, oppure nel sistema.
-
-Nota: _è consigliabile usare un ambiente virtuale per eseguire questo script, dacché potrebbero crearsi conflitti con versioni di Python successive a quella adoperata per programmarlo (Python 3.11.1)_.
+È consigliabile usare un ambiente virtuale per eseguire questo script, dacché potrebbero crearsi conflitti con versioni di Python successive a quella adoperata per programmarlo.
 
 #### Hint: creare un ambiente virtuale (Linux/MacOS)
-
 Aprire una command line e entrare nella cartella dove si desidera creare l'ambiente virtuale.
-Usare il comando
-> python3.11 -m venv <_nomeAmbiente_>
 
-_nomeAmbiente_ è il nome dell'ambiente virtuale ed è arbitrario.
+Usare il comando:
+> python<_x_> -m venv <_nomeAmbiente_>
+
+dove:
+- `<x>` sono i primi due gradi (`#.#(#)`, es.: `3.11` o `3.8`) della versione dell'interprete Python (presente nel sistema) con cui si vuole creare l'ambiente (es.: `python3.11` or `python3.8`);
+- `<nomeAmbiente>` è il nome dell'ambiente virtuale ed è arbitrario.
 
 Nota: _siccome questo script è stato progettato con Python v3.11.1 è consigliabile avere questa versione_.
 
@@ -29,12 +26,24 @@ Creato l'ambiente virtuale, è necessario attivarlo, in questo modo (senza spost
 
 > source <_nomeAmbiente_>/bin/activate
 
-Attivato l'ambiente virtuale, sarà possibile installare tutti i moduli esterni, senza modificare nulla all'interno del sistema e avviare lo script con più garanzie sul suo corretto funzionamento.
-Per disattuvare l'ambiente virtuale, è sufficiente usare:
+Attivato l'ambiente virtuale, sarà possibile installare tutti i moduli esterni (si veda il paragrafo successivo), senza rischi di creare conflitti.
+Per disattivare l'ambiente virtuale, è sufficiente usare:
 
 > deactivate
 
+all'interno dell'ambiente virtuale attivo.
+
+#### Installazione dei requisiti
+Lo script richiede alcuni moduli esterni per essere esguito. Per installare tali moduli, è sufficiente usare:  
+> pip install -r requirements.txt  
+
+Nota: _qualore si abbia creato un ambiente virtuale, tale comando va eseguito all'interno di tale ambiente (dopo averlo attivato)._
+
 ### Modalità di esecuzione
+Eseguire lo script usando:
+>python<_x_> main.py (es: `python3.11 main.py` o ``)
+
+all'interno della cartella dove si trova `main.py`.
 
 Lo script offre due possibilità di esecuzione:
 1. **Automatica**: viene usato come riferimento il file `toUpdate.yml` per determinare i file da aggiornare;
