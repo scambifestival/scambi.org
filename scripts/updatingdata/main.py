@@ -24,8 +24,8 @@ def main():
     tables_infos = get_tables_infos()
     if type(tables_infos) is not dict:
         return
-    # Following infos should be hidden
-    git = github_log(user="2ale2", psw="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")
+    
+    git = github_log(user=<USERNAME>, psw=<ACCESSTOKEN>)
     menu_prompter(git, tables_infos)
 
     print("\nProcess done. Bye!")
@@ -466,7 +466,7 @@ def relations(tables_infos: dict, file_to_update: str, new_file_name: str,  git:
 
     req = requests.get(
         url=url,
-        headers={"Authorization": "Token x9Fc1pCqmmKaDDWf8haWNOkRbhANILMU"},
+        headers={"Authorization": "Token TOKEN"},
         params=params
     )
 
