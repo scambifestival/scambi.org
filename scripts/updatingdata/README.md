@@ -41,7 +41,7 @@ Nota: _qualore si abbia creato un ambiente virtuale, tale comando va eseguito al
 
 ### Modalità di esecuzione
 Eseguire lo script usando:
->python<_x_> main.py (es: `python3.11 main.py` o ``)
+>python<_x_> main.py (es: `python3.11 main.py` o `python3.8 main.py`)
 
 all'interno della cartella dove si trova `main.py`.
 
@@ -55,28 +55,24 @@ Le opzioni di scelta della modalità sono poste all'inizio dell'esecuzione dello
 L'esecuzione della modalità automatica è richiesta tramite pressione del tasto INVIO all'interno del menù principale (o qualora lo script lo consenta).
 Lo script avvia la procedura automatica facendo riferimento a `toUpdate.yml`, che contiene i nomi dei file da aggiornare.
 
-`toUpdate` è così formattato:
+`toUpdate.yml` è così formattato:
 
 >tables:  
 >>– nome_riferimento_tabella#1: "nome_file_da_aggiornare#1"  
 >>– nome_riferimento_tabella#2: "nome_file_da_aggiornare#2"  
 >>...  
 
-Lo script usa il contenuto attuale della tabella su Pino col nome di riferimento indicato per aggiornare il file associato; se una riga associata ad un file da aggiornare non viene aggiunta a `toUpdate.yml`, tale file non verrà aggiornato.
+Lo script usa il contenuto attuale della tabella su Pino col nome di riferimento indicato, per aggiornare il file associato; se una riga associata ad un file da aggiornare non viene aggiunta a `toUpdate.yml`, tale file non verrà aggiornato.
 
-Lo script associa al nome di riferimento una tabella su Pino, grazie ai riferimenti indicati su `tablesInfos.yml`.
+Lo script associa, al nome della tabella indicata su `toUpdate.yml`, una tabella su Pino, grazie ai riferimenti indicati su `tablesInfos.yml`.
 
 I nomi di riferimento delle tabelle sono arbitrari; l'unico vincolo è che essi siano i medesimi su entrambi i file di configurazione, per cui ci si riferisce ad una tabella usando **lo stesso** riferimento sia su `toUpdate.yml` che su `tablesInfos.yml`.
 
 Prima di procedere, lo script avvisa l'utente di ciò che verrà eseguito in fase di aggiornamento:
-- se `nome_file_da_aggiornare` è una stringa vuota (`""`), verrà creato un nuovo file `JSON` con la tabella indicata tramite il `nome_riferimento_tabella` corrispondente;
-- se `nome_file_da_aggiornare` non è una stringa vuota, lo script lavora col file indicato:
-> - se esso è in formato `CSV`, lo sostituirà con un omonimo file JSON;
-> - se esso è in formato `JSON`, lo aggiornerà.
+> 1. Crea i file `JSON` qualora non presenti;
+> 2. Aggiorna i file `JSON` già presenti.
 
-Nota: _durante l'esecuzione, lo script cerca eventuali file `CSV` non indicati nel file di configurazione ma che possiedono lo stesso nome. Ad 
-esempio, se nel file di configurazione è indicato `file1.json`, lo script cerca anche un eventuale file `file1.csv` e, se lo trova, chiede 
-all'utente se rimuoverlo dalla repository._
+Si legga attentamente il paragrafo successivo.
 
 ##### **Circostanze particolari**
 Qualora un file non sia presente all'interno della repository, è possibile lasciare il relativo campo vuoto, come segue:
@@ -90,6 +86,12 @@ Qualora il file sia in formato `CSV`, è comunque possibile inserirlo all'intern
 >`- nome_riferimento_tabella: "nome_file_da_aggiornare.csv"` 
 
 Il file `CSV` verrà, poi, rimosso e sostituito con un file `JSON`.
+
+Che sia vuota oppure contenente il nome di un file, a fianco di ogni nome di riferimento deve esserci una stringa.
+
+Nota: _durante l'esecuzione, lo script cerca eventuali file `CSV` non indicati nel file di configurazione ma che possiedono lo stesso nome. Ad 
+esempio, se nel file di configurazione è indicato `file1.json`, lo script cerca anche un eventuale file `file1.csv` e, se lo trova, chiede 
+all'utente se rimuoverlo dalla repository._
 
 #### _Auto-modifica_ del file di configurazione
 La modifica di `toUpdate.yml` è parzialmente automatizzata: ogni volta che un file viene aggiornato o creato, sia usando la modalità manuale che la modalità automatica, lo script confronta il contenuto attuale del file di configurazione coi nomi dei file aggiornati/creati; se risulta qualche differenza, lo script aggiorna `toUpdate.yml` da sé, senza richiedere l'intervento umano.
