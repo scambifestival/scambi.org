@@ -37,7 +37,7 @@ all'interno dell'ambiente virtuale attivo.
 Lo script richiede alcuni moduli esterni per essere esguito. Per installare tali moduli, è sufficiente usare:  
 > pip install -r requirements.txt  
 
-Nota: _qualore si abbia creato un ambiente virtuale, tale comando va eseguito all'interno di tale ambiente (dopo averlo attivato)._
+Nota: _qualora si abbia creato un ambiente virtuale, tale comando va eseguito all'interno di tale ambiente (dopo averlo attivato)._
 
 ### Modalità di esecuzione
 Eseguire lo script usando:
@@ -126,8 +126,8 @@ Nessuna delle modalità manuali consente la creazione di file _ex novo_, per cui
 ##### Lista di nomi - Gestione degli errori e funzionamento
 Lo script riconosce la lista di nomi se al suo interno è presente il carattere `:`.
 
-1. Se il `nomeRiferimentoTabella` non esiste, lo script richiede all'utente di scriverne uno esistente (viene mostrata un lista di nomi di riferimento disponibili).
-2. Se `nomeFile` non contiene l'estensione (o la contiene, ma non è corretta), lo script richiede all'utente di riscrivere il nome del file indicando anche la sua estensione.
+1. Se il `nomeRiferimentoTabella` di un elemento nella lista indicata non esiste, lo script richiede all'utente di scriverne uno esistente (viene mostrata un lista di nomi di riferimento disponibili).
+2. Se il `nomeFile` di un elemento della lista non contiene l'estensione (o la contiene, ma non è `.json` o `.csv`), lo script richiede all'utente di riscrivere il nome del file indicando anche la sua estensione.
 3. Se la lista indicata non è formattata correttamente (più di un `:` o nessun `:` per elemento della lista, primo e/o secondo argomento di un elemento della lista non specificato), lo script richiede all'utente di riscrivere l'elemento nella formattazione prevista.
 
 Dopo la correzione di eventuali errori, lo script rimuove dalla lista eventuali elementi duplicati (un elemento è duplicato se esiste già un altro elemento con entrambi gli argomenti uguali al precedente).
