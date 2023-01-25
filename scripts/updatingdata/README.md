@@ -130,7 +130,7 @@ Lo script riconosce la lista di nomi se al suo interno è presente il carattere 
 2. Se il `nomeFile` di un elemento della lista non contiene l'estensione (o la contiene, ma non è `.json` o `.csv`), lo script richiede all'utente di riscrivere il nome del file indicando anche la sua estensione.
 3. Se la lista indicata non è formattata correttamente (più di un `:` o nessun `:` per elemento della lista, primo e/o secondo argomento di un elemento della lista non specificato), lo script richiede all'utente di riscrivere l'elemento nella formattazione prevista.
 
-Dopo la correzione di eventuali errori, lo script rimuove dalla lista eventuali elementi duplicati (un elemento è duplicato se esiste già un altro elemento con entrambi gli argomenti uguali al precedente).
+Dopo la correzione di eventuali errori, lo script rimuove dalla lista eventuali elementi duplicati (un elemento è duplicato se possiede entrambi gli argomenti uguali ad un altro già presente).
 
 Prima di procedere, lo script chiede all'utente se i file indicati sono corretti; qualora non lo siano, l'utente può eventualmente tornare al menu principale.
 
