@@ -1,0 +1,302 @@
+[
+    {
+        "Name": "Alessandro",
+        "Surname": "Lanteri",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Alessandro",
+        "cosa": ""
+    },
+    {
+        "Name": "Anna",
+        "Surname": "Mastrantuono",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Anna",
+        "cosa": ""
+    },
+    {
+        "Name": "Cecilia",
+        "Surname": "Massa",
+        "Role": "staff",
+        "Hosting": "Casa di Ceci (Via Dante)",
+        "days": "all",
+        "nights": "all",
+        "referente": "Cecilia",
+        "cosa": ""
+    },
+    {
+        "Name": "Chiara",
+        "Surname": "Mallozzi",
+        "Role": "staff",
+        "Hosting": "",
+        "days": "all",
+        "nights": "24",
+        "referente": "Ilaria",
+        "cosa": ""
+    },
+    {
+        "Name": "Eleonora",
+        "Surname": "Vitale",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Eleonora",
+        "cosa": ""
+    },
+    {
+        "Name": "Fiammetta",
+        "Surname": "Bernardi",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Fiammetta",
+        "cosa": ""
+    },
+    {
+        "Name": "Fieke",
+        "Surname": "Bijker",
+        "Role": "staff",
+        "Hosting": "Casa di Ceci (Via Dante)",
+        "days": "all",
+        "nights": "all",
+        "referente": "Cecilia",
+        "cosa": ""
+    },
+    {
+        "Name": "Francesca",
+        "Surname": "Brai",
+        "Role": "staff",
+        "Hosting": "casa Gek",
+        "days": "25",
+        "nights": "25",
+        "referente": "Francesca",
+        "cosa": ""
+    },
+    {
+        "Name": "Gabriela",
+        "Surname": "Grasmane",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Gabriela",
+        "cosa": ""
+    },
+    {
+        "Name": "Giulia",
+        "Surname": "Ierardi",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Giulia",
+        "cosa": ""
+    },
+    {
+        "Name": "Giulia",
+        "Surname": "Cavallo",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Giulia",
+        "cosa": ""
+    },
+    {
+        "Name": "Giulia",
+        "Surname": "Riceputi",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Giulia",
+        "cosa": ""
+    },
+    {
+        "Name": "Hasnae",
+        "Surname": "Rahnmia",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "",
+        "nights": "22",
+        "referente": "Hasnae",
+        "cosa": ""
+    },
+    {
+        "Name": "Ilaria",
+        "Surname": "Montalto",
+        "Role": "staff",
+        "Hosting": "Appartamento 4",
+        "days": "all",
+        "nights": "24",
+        "referente": "Chiara",
+        "cosa": ""
+    },
+    {
+        "Name": "Irene",
+        "Surname": "Siccardi",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Irene",
+        "cosa": ""
+    },
+    {
+        "Name": "Jolanda",
+        "Surname": "Dekker",
+        "Role": "staff",
+        "Hosting": "Appartamento AKVO",
+        "days": "23",
+        "nights": "23",
+        "referente": "Jolanda",
+        "cosa": ""
+    },
+    {
+        "Name": "Katerina",
+        "Surname": "Shvalyuk",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "25",
+        "nights": "all",
+        "referente": "Ekaterina",
+        "cosa": ""
+    },
+    {
+        "Name": "Lea",
+        "Surname": "Fabiani",
+        "Role": "staff",
+        "Hosting": "casa Gek",
+        "days": "all",
+        "nights": "all",
+        "referente": "Lea",
+        "cosa": ""
+    },
+    {
+        "Name": "Letizia",
+        "Surname": "Ruggenenti",
+        "Role": "staff",
+        "Hosting": "Campagna di Ceci",
+        "days": "24",
+        "nights": "24",
+        "referente": "",
+        "cosa": ""
+    },
+    {
+        "Name": "Luisa",
+        "Surname": "Riccardi",
+        "Role": "staff",
+        "Hosting": "Appartamento AKVO",
+        "days": "23",
+        "nights": "24",
+        "referente": "Luisa",
+        "cosa": ""
+    },
+    {
+        "Name": "Marco",
+        "Surname": "Mamprin",
+        "Role": "staff",
+        "Hosting": "Campagna di Ceci",
+        "days": "24",
+        "nights": "24",
+        "referente": "Luisa",
+        "cosa": ""
+    },
+    {
+        "Name": "Margherita",
+        "Surname": "Moro",
+        "Role": "staff",
+        "Hosting": "Casa di Tommi",
+        "days": "all",
+        "nights": "all",
+        "referente": "Margherita",
+        "cosa": ""
+    },
+    {
+        "Name": "Miranda",
+        "Surname": "Gebhardt",
+        "Role": "staff",
+        "Hosting": "Appartamento AKVO",
+        "days": "23",
+        "nights": "23",
+        "referente": "Miranda",
+        "cosa": ""
+    },
+    {
+        "Name": "Paola",
+        "Surname": "Almerighi",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "",
+        "nights": "all",
+        "referente": "Paola",
+        "cosa": ""
+    },
+    {
+        "Name": "Raffaele",
+        "Surname": "Scagliarini",
+        "Role": "staff",
+        "Hosting": "",
+        "days": "all",
+        "nights": "28",
+        "referente": "Raffaele",
+        "cosa": ""
+    },
+    {
+        "Name": "Salvatore",
+        "Surname": "Gucciardo",
+        "Role": "staff",
+        "Hosting": "Casa di Tommi",
+        "days": "25",
+        "nights": "25",
+        "referente": "Salvatore",
+        "cosa": ""
+    },
+    {
+        "Name": "Sara",
+        "Surname": "Mascarello",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Sara",
+        "cosa": ""
+    },
+    {
+        "Name": "Simone",
+        "Surname": "Marchetti",
+        "Role": "staff",
+        "Hosting": "Campagna di Ceci",
+        "days": "24",
+        "nights": "24",
+        "referente": "",
+        "cosa": ""
+    },
+    {
+        "Name": "Stefania",
+        "Surname": "Ilie",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Stefania",
+        "cosa": ""
+    },
+    {
+        "Name": "Tommaso",
+        "Surname": "Marmo",
+        "Role": "staff",
+        "Hosting": "Home sweet home",
+        "days": "all",
+        "nights": "all",
+        "referente": "Tommaso",
+        "cosa": "Cerimonia di apertura"
+    }
+]
