@@ -1,3 +1,4 @@
 tables:
-  - 2022-people: "2022-people.json"
+  - 2021-labs: "2021-labs.csv"
+  - 2021-pinoli: ""
   - relations: "relations.json"
