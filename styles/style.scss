@@ -741,7 +741,7 @@ h3 {
 	}
 	h3 {
 		margin-top: 0;
-		color: var(--text);
+		color: var(--blue);
 	}
 }
 
@@ -1242,9 +1242,7 @@ svg.button {
 	}
 	#toc,
 	#goto {
-		position: relative;
-		z-index: 5;
-		margin: 5vh 3vw -$big;
+		margin: 5vh 3vw 0;
 	}
 	#latest-post h2.button {
 		top: 10rem;
