@@ -607,6 +607,17 @@ figcaption {
 		border-radius: 999px;
 		border: 2px solid var(--primary);
 		box-shadow: var(--shadow);
+		&::before {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			background: var(--purple);
+			z-index: -1;
+			border-radius: 1rem .2rem .8rem 1.8rem;
+			transform: rotate(47deg) scale(1.2);
+		}
 	}
 	span {
 		position: relative;
