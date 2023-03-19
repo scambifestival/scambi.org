@@ -1,48 +1,27 @@
-const fs = require('fs');
-const miniHtml = require('html-minifier');
-const _ = require('lodash');
-const pluginRss = require('@11ty/eleventy-plugin-rss');
-
 // Markdown //
-function wikilinkSlugifier(pageName) {
-	pageName = pageName.trim()
-	pageName = pageName.split('/').map(require('sanitize-filename')).join('/')
-	pageName = pageName.replace(/\s+/, '-')
-	return pageName
-}
 const markdownIt = require('markdown-it');
 const md = markdownIt({
 	html: true,
-	fence: false
+	typographer: true
 })
-.use(require('markdown-it-wikilinks')({
-	uriSuffix: '',
-	makeAllLinksAbsolute: true,
-	class: 'wikilink',
-	postProcessPageName: wikilinkSlugifier
-})).disable('code')
-.use(require('markdown-it-attrs'))
-.use(require('markdown-it-anchor'))
+.use(require('markdown-it-anchor'), {
+	permalink: require('markdown-it-anchor').permalink.headerLink(),
+})
 .use(require('markdown-it-footnote'))
-.use(require('markdown-it-sup'))
-.use(require('markdown-it-sub'))
-.use(require('markdown-it-ins'))
 .use(require('markdown-it-mark'))
-.use(require('markdown-it-task-lists'))
-.use(require('markdown-it-container'), 'box')
-.use(require('markdown-it-collapsible'))
-.use(require('markdown-it-abbr'))
-.use(require('markdown-it-mathjax3'));
+.use(require('markdown-it-task-lists'));
 
 module.exports = function(eleventyConfig) {
 	// General //
 	eleventyConfig.setLibrary('md', md);
-	eleventyConfig.setFrontMatterParsingOptions({
-		permalink: '/{{ page.fileSlug }}/',
-	});
 	eleventyConfig.addDataExtension('csv', contents => require('csv-parse/sync').parse(contents, {columns: true, skip_empty_lines: true}));
-	eleventyConfig.setFrontMatterParsingOptions({ excerpt: true, excerpt_separator: '<!--excerpt-->'});
-	eleventyConfig.setQuietMode(true);
+
+	eleventyConfig.addGlobalData('permalink', () => {
+		return (data) => slugify(`${data.page.fileSlug}`, {
+			remove: /'/g,
+			lower: true
+		}).concat('/');
+	});
 
 	// Collections //
 	eleventyConfig.addCollection('blog', function(collection) {
@@ -79,15 +58,20 @@ module.exports = function(eleventyConfig) {
 
 
 	// Scss //
-	eleventyConfig.addWatchTarget('styles');
-	eleventyConfig.addPassthroughCopy({'styles': '/'});
 	eleventyConfig.addPassthroughCopy({'svg': '/'});
-	eleventyConfig.addPassthroughCopy('js');
 	eleventyConfig.addPassthroughCopy('fonts');
 
 	// Plugins //
-	eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-directory-output'));
-	eleventyConfig.addPlugin(require('eleventy-plugin-find'));
+	eleventyConfig.addPlugin(require('eleventy-sass'), {
+		compileOptions: {
+			permalink: function(contents, inputPath) {
+				return (data) => data.page.filePathStem.replace(/^\/styles\//, '/') + '.css';
+			}
+		},
+		sass: {
+			style: 'compressed'
+		}
+	});
 	eleventyConfig.addPlugin(require('@quasibit/eleventy-plugin-schema'));
 	eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'));
 	eleventyConfig.addPlugin(require('@aloskutov/eleventy-plugin-external-links'), {
@@ -128,7 +112,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPlugin(require('eleventy-plugin-toc'), {
 		ul: true,
 	});
-	eleventyConfig.addPlugin(pluginRss);
+	eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-rss'));
 	eleventyConfig.addPlugin(require('@quasibit/eleventy-plugin-sitemap'), {
 		sitemap: {
 			hostname: 'https://scambi.org'
@@ -145,15 +129,15 @@ module.exports = function(eleventyConfig) {
 		return md.renderInline(str);
 	});
 	// RSS Filters //
-	eleventyConfig.addFilter('dateToRfc3339', pluginRss.dateToRfc3339);
-	eleventyConfig.addFilter('getNewestCollectionItemDate', pluginRss.getNewestCollectionItemDate);
-	eleventyConfig.addFilter('absoluteUrl', pluginRss.absoluteUrl);
-	eleventyConfig.addFilter('convertHtmlToAbsoluteUrls', pluginRss.convertHtmlToAbsoluteUrls);
+	eleventyConfig.addFilter('dateToRfc3339', require('@11ty/eleventy-plugin-rss').dateToRfc3339);
+	eleventyConfig.addFilter('getNewestCollectionItemDate', require('@11ty/eleventy-plugin-rss').getNewestCollectionItemDate);
+	eleventyConfig.addFilter('absoluteUrl', require('@11ty/eleventy-plugin-rss').absoluteUrl);
+	eleventyConfig.addFilter('convertHtmlToAbsoluteUrls', require('@11ty/eleventy-plugin-rss').convertHtmlToAbsoluteUrls);
 
 	 // Minify output //
 	eleventyConfig.addTransform('miniHtml', function(content, outputPath) {
 		if( this.outputPath && this.outputPath.endsWith('.html') ) {
-			let minified = miniHtml.minify(content, {
+			let minified = require('html-minifier').minify(content, {
 				useShortDoctype: true,
 				removeComments: true,
 				collapseWhitespace: true,
@@ -166,20 +150,6 @@ module.exports = function(eleventyConfig) {
 		return content;
 	});
 
-	// 404 //
-	eleventyConfig.setBrowserSyncConfig({
-		callbacks: {
-			ready: function(err, bs) {
-				bs.addMiddleware('*', (req, res) => {
-					const content_404 = fs.readFileSync('www/404.html');
-					res.writeHead(404, { 'Content-Type': 'text/html; charset=UTF-8' });
-					res.write(content_404);
-					res.end();
-				});
-			}
-		}
-	});
-
 	return {
 		dir: {
 			includes: 'includes',
@@ -187,5 +157,5 @@ module.exports = function(eleventyConfig) {
 			data: 'data',
 			output: 'www'
 		}
-	}; // there should never be anything after the “return” function
+	};
 };
