@@ -250,6 +250,16 @@
         "edizione": "2021"
     },
     {
+        "Ente": "Claudia Zonghetti",
+        "Nome": "Claudia",
+        "Cognome": "Zonghetti",
+        "cosa": "media collab",
+        "stato": "confermato",
+        "note": "Traduttrice per la live del GLD.",
+        "referente": "Lea",
+        "edizione": "2023"
+    },
+    {
         "Ente": "Claynuts",
         "Nome": "Antonio",
         "Cognome": "Macaluso",
@@ -280,6 +290,16 @@
         "edizione": "2022"
     },
     {
+        "Ente": "Costa Ligure",
+        "Nome": "Alessandro",
+        "Cognome": "Viale",
+        "cosa": "sponsor",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Vittoria",
+        "edizione": "2021"
+    },
+    {
         "Ente": "Etica Digitale",
         "Nome": "Ciro",
         "Cognome": "Ogliastro",
@@ -298,6 +318,26 @@
         "note": "",
         "referente": "Margherita",
         "edizione": "2022"
+    },
+    {
+        "Ente": "Filippo Reggiani",
+        "Nome": "Filippo",
+        "Cognome": "Reggiani",
+        "cosa": "media collab",
+        "stato": "confermato",
+        "note": "Poeta per la live del GDL",
+        "referente": "Lea",
+        "edizione": "2023"
+    },
+    {
+        "Ente": "Filò",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "Filò è un’associazione,che propone alla cittadinanza occasioni formative e laboratoriali per praticare il dialogo filosofico",
+        "referente": "Marta",
+        "edizione": "2023"
     },
     {
         "Ente": "Foto Video Renata Roccavione",
@@ -410,6 +450,16 @@
         "edizione": "2022"
     },
     {
+        "Ente": "Lab sul multiverso con Creative Technologist",
+        "Nome": "Leonardo",
+        "Cognome": "Scarcarin",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Leonardo",
+        "edizione": "2023"
+    },
+    {
         "Ente": "Leideebs & Kunf3",
         "Nome": "Beatrice",
         "Cognome": "De Nicola",
@@ -418,6 +468,16 @@
         "note": "",
         "referente": "Tommaso",
         "edizione": "2022"
+    },
+    {
+        "Ente": "Leonardo Sinopoli",
+        "Nome": "Leonardo",
+        "Cognome": "Sinopoli",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "Ballerino e performance artist",
+        "referente": "Leonardo",
+        "edizione": "2023"
     },
     {
         "Ente": "Lu Barbalocou",
@@ -560,16 +620,6 @@
         "edizione": "2021"
     },
     {
-        "Ente": "Piña Social Club",
-        "Nome": "Francesco",
-        "Cognome": "Scalarandis",
-        "cosa": "collab",
-        "stato": "confermato",
-        "note": "",
-        "referente": "Tommaso",
-        "edizione": "2021"
-    },
-    {
         "Ente": "Ponente Folk Legacy",
         "Nome": "Luca",
         "Cognome": "Schiappacasse",
@@ -600,6 +650,16 @@
         "edizione": "2021"
     },
     {
+        "Ente": "Seeweb",
+        "Nome": "Chiara",
+        "Cognome": "Grande",
+        "cosa": "sponsor tecnico",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Tommaso",
+        "edizione": "2022"
+    },
+    {
         "Ente": "Staff Scambi",
         "Nome": "Tommaso",
         "Cognome": "Marmo",
@@ -618,6 +678,16 @@
         "note": "",
         "referente": "Tommaso",
         "edizione": "2022"
+    },
+    {
+        "Ente": "Ti Leggiamo Una Femminista",
+        "Nome": "",
+        "Cognome": "",
+        "cosa": "media collab",
+        "stato": "confermato",
+        "note": "Pagina Femminista per la live del GDL",
+        "referente": "Sabrina",
+        "edizione": "2023"
     },
     {
         "Ente": "Understanding Europe",
@@ -648,6 +718,16 @@
         "note": "",
         "referente": "Tommaso",
         "edizione": "2022"
+    },
+    {
+        "Ente": "Walter Lazzarin",
+        "Nome": "Walter",
+        "Cognome": "Lazzarin",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "“attraverso le parole” scrittore di strada con un’identità di scrittura molto interessante e particolare.",
+        "referente": "Valeria",
+        "edizione": "2023"
     },
     {
         "Ente": "WeWorld",
