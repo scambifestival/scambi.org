@@ -2,6 +2,7 @@
 title: Squilibrio
 date: 2022-02-05T17:47:00+01:00
 author: Sabrina Pipitone
+redirect_from: /2022/tema/
 image: https://www.adoxa.info/wp-content/uploads/2021/10/1633844687_Strappare-Lungo-i-Bordi-Date-pour-la-serie-televisee.jpg
 ---
 Era un normale giorno di liceo quando la professoressa di Scienze ci disse che la stabilità con cui i corpi e le particelle ci sembrano coesistere è, in realtà, una finzione: tutto vive in una perpetua tensione caotica.
