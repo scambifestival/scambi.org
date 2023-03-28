@@ -20,7 +20,7 @@
 	},
 	"homepage": "https://scambi.org",
 	"devDependencies": {
-		"@11ty/eleventy": "^2.0.0",
+		"@11ty/eleventy": "^2.0.1",
 		"@11ty/eleventy-img": "^2.0.0",
 		"@11ty/eleventy-plugin-directory-output": "^1.0.1",
 		"@11ty/eleventy-plugin-rss": "^1.1.2",
@@ -172,6 +172,7 @@
 		"has-flag": "^5.0.1",
 		"has-symbols": "^1.0.3",
 		"has-tostringtag": "^1.0.0",
+		"html-minifier": "^4.0.0",
 		"http-errors": "^2.0.0",
 		"http-proxy": "^1.18.1",
 		"iconv-lite": "^0.6.3",
