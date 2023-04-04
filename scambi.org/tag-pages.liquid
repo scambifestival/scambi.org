@@ -1,20 +1,29 @@
 ---
+title: Tags
 pagination:
   data: scambiTags
   size: 1
-permalink: '/category/{{ pagination.pageNumber | plus: 1 }}/'
+  alias: label
+permalink: '/tag/{{ label.title | slugify }}/'
 layout: wrapper
 ---
 {% for item in pagination.items %}
 	<h1>{{ item.title }}</h1>
-	<p class='one column center'>{{ item.description }}</p>
+	<p class='one column center'>{{ label.description | markdownify }}</p>
 	<section class='flex row' id='blog'>
 		{% for entry in collections.blog %}
 			{% for rawtag in entry.data.tags %}
 				{% if rawtag == item.title %}
 					<div class='one-third'>
-						<a class='box' href='{{ entry.url }}' hreflang='{{ entry.data.lang }}' lang='{{ entry.data.lang }}'>
-							<div class='flex'><img src='{{ entry.data.image }}' alt='{{ entry.data.title }}' title='{{ entry.data.title }}'></div>
+						<a
+							class='box'
+							href='{{ entry.url }}'
+							hreflang='{{ entry.data.lang }}'
+							lang='{{ entry.data.lang }}'>
+							<div class='flex'><img
+									src='{{ entry.data.image }}'
+									alt='{{ entry.data.title }}'
+									title='{{ entry.data.title }}'></div>
 							<h2>{{ entry.data.title }}</h2>
 							<cite class='excerpt'>
 								{% if entry.data.description %}
