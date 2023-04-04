@@ -1,7 +1,7 @@
 ---
 title: The Manifesto
 permalink: /en/manifesto/
-image: https://x.scambi.org/images/leo_jump.jpg
+image: https://x.scambi.org/images/2021/leo_jump.webp
 layout: post
 class: gradient manifesto
 ref: manifesto

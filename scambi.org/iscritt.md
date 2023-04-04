@@ -1,6 +1,6 @@
 ---
 title: Sei iscrittə!
-image: https://x.scambi.org/images/leo_jump.jpg
+image: https://x.scambi.org/images/2021/leo_jump.webp
 òayout: full
 permalink: /iscritt/
 ---

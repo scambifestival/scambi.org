@@ -2,7 +2,7 @@
 title: Siate Squilibristi
 date: 2022-08-25T18:00:00+02:00
 author: Leonardo Venturi
-image: https://x.scambi.org/images/leo_jump.jpg
+image: https://x.scambi.org/images/2021/leo_jump.webp
 tags: ['2022', 'Squilibrio']
 keywords: ['coraggio','salto''inaugurazione','vita']
 redirect_from: ['/inaugurazione-2022/']
