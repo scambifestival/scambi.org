@@ -2,7 +2,8 @@
 pagination:
   data: 2022-pinoli
   size: 1
-permalink: '/2022/pinolo/{{ pagination.pageNumber | plus: 1 }}/'
+  alias: pinolo
+permalink: '/2022/pinolo/{{ pinolo.title | slugify }}/'
 layout: wrapper
 ---
 {% for item in pagination.items %}

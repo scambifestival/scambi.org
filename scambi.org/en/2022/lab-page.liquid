@@ -2,12 +2,13 @@
 pagination:
   data: 2022-labs
   size: 1
-permalink: '/en/2022/lab/{{ pagination.pageNumber | plus: 1 }}/'
+  alias: lab
+permalink: '/en/2022/lab/{{ lab.title | slugify }}/'
 layout: wrapper
 class: gradient-behind lab
 ---
 {% for item in pagination.items %}
-	<h1>{{ item.title }}</h1>
+	<h1>{{ lab.title }}</h1>
 	<section class='row'>
 		<div class='half column'>
 			<p>{{ item.description_en | markdownify }}</p>
@@ -49,5 +50,3 @@ class: gradient-behind lab
 		</div>
 	</section>
 {% endfor %}
-
-{% render 'prenota.liquid', lang: lang, url: page.url, booking_url: site.booking_url %}

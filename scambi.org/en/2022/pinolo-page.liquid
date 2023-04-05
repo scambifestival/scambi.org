@@ -2,11 +2,12 @@
 pagination:
   data: 2022-pinoli
   size: 1
-permalink: '/en/2022/pinolo/{{ pagination.pageNumber | plus: 1 }}/'
+  alias: pinolo
+permalink: '/en/2022/pinolo/{{ pinolo.title | slugify }}/'
 layout: wrapper
 ---
 {% for item in pagination.items %}
-	<h1>{{ item.title }}</h1>
+	<h1>{{ pinolo.title }}</h1>
 	<section class='row'>
 		<div class='half column'>
 			<p>{{ item.description_en | markdownify }}</p>

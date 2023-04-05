@@ -10,7 +10,7 @@ ref: 2022-pinoli
 <section class='flex row' id='pinoli-list'>
 	{% assign pinoli = 2022-pinoli %}
 	{% for pinolo in pinoli %}
-		<a id='{{ pinolo.title | slugify }}' class='shrink box' href='/2022/pinolo/{{ forloop.index }}'>
+		<a id='{{ pinolo.title | slugify }}' class='shrink box' href='/2022/pinolo/{{ pinolo.title | slugify }}'>
 			<h3>{{ pinolo.title }}</h3>
 			<p>{{ pinolo.description | truncate: 200 | markdownify }}</p>
 		</a>

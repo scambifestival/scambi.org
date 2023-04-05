@@ -34,51 +34,51 @@ ore **9**–**10**
 #### **Porta San Giuseppe** (Via Palma)
 
 ore **10**–**12** e **16**–**18**  
-[LIS_cambi](/2021/lab/3): comunicare senza parole è possibile, con questo laboratorio puoi entrare in un mondo nuovo e poco conosciuto: la lingua dei segni
+[LIS_cambi](/2021/lab/lis-cambi): comunicare senza parole è possibile, con questo laboratorio puoi entrare in un mondo nuovo e poco conosciuto: la lingua dei segni
 
 #### Piazza Santa Brigida
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**  
-<cite>[Scambi Sounds Lab](/2021/lab/14)</cite>: aiutato dai ragazzi di [Overload](https://instagram.com/_overload), prendi parte alla composizione di un brano musicale con i suoni che saprà produrre il tuo corpo.  
-<cite>[The Green Defender](/2021/lab/12)</cite>: improvvisati avvocato di una specie a rischio, in diretta radio, guidato dai ragazzi di [Radioimmaginaria](https://radioimmaginaria.it).
+<cite>[Scambi Sounds Lab](/2021/lab/scambi-sounds-lab)</cite>: aiutato dai ragazzi di [Overload](https://instagram.com/_overload), prendi parte alla composizione di un brano musicale con i suoni che saprà produrre il tuo corpo.  
+<cite>[The Green Defender](/2021/lab/the-green-defender)</cite>: improvvisati avvocato di una specie a rischio, in diretta radio, guidato dai ragazzi di [Radioimmaginaria](https://radioimmaginaria.it).
 
 dalle **19 alle 20:30**  
-<cite>[Incontro con l’occitano](/2021/lab/1)</cite>: corso di balli occitani tenuto dal gruppo Balbosco.
+<cite>[Incontro con l’occitano](/2021/lab/incontro-con-l-occitano)</cite>: corso di balli occitani tenuto dal gruppo Balbosco.
 
 dalle **21 a mezzanotte**  
-serata musicale sulle note dei [Ponente Folk Legacy](https://www.facebook.com/PonenteFolkLegacy) con balli occitani guidati dal gruppo Balbosco.
+serata musicale sulle note dei [Ponente Folk Legacy](https://facebook.com/PonenteFolkLegacy) con balli occitani guidati dal gruppo Balbosco.
 
 #### Piazza Cassini
 
 ore **18:30-20**  
-<cite>[**Il Luminare**](/il-luminare)</cite>: Odv Caritas Intemelia presenta Teatro abusivo &amp; TrioScampato+1+1 diretto da Davide Barella in collaborazione con [Scuola MusicArte Camporosso](http://www.scuolamusicartecamporosso.it).
+<cite>[**Il Luminare**](/il-luminare)</cite>: Odv Caritas Intemelia presenta Teatro abusivo &amp; TrioScampato+1+1 diretto da Davide Barella in collaborazione con [Scuola MusicArte Camporosso](http://scuolamusicartecamporosso.it).
 
 #### Centro Risorse, piazza Cassini
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**  
-[Giochi quantistici](/2021/lab/7): due giochi sulla meccanica quantistica e l’incontro dell’invisibile tenuti da Claudio Bortolin del [CERN](https://home.cern) di Ginevra e professori dell’ITP.  
-Da piazza Nota sarà anche possibile intraprendere il percorso ideato dal [FAI giovani](https://fondoambiente.it/luoghi/rete-fai/gruppo-fai-giovani-di-imperia): <cite>[A caccia di incontri](/2021/lab/15)</cite></a>.
+[Giochi quantistici](/2021/lab/giochi-quantistici): due giochi sulla meccanica quantistica e l’incontro dell’invisibile tenuti da Claudio Bortolin del [CERN](https://home.cern) di Ginevra e professori dell’ITP.  
+Da piazza Nota sarà anche possibile intraprendere il percorso ideato dal [FAI giovani](https://fondoambiente.it/luoghi/rete-fai/gruppo-fai-giovani-di-imperia): <cite>[A caccia di incontri](/2021/lab/a-caccia-di-incontri)</cite></a>.
 
 #### Terrazza San Costanzo
 
 ore **10-12** e poi **16-18**  
-<cite>[The Game](/2021/lab/4)</cite>: gioco di ruolo in cui avrai modo di metterti nelle scarpe dei migranti e muoverti nello scacchiere di un’Europa Orientale densa di confini, trafficanti e scelte difficili da prendere tenuto da [Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://ascs.it).</a>  
-<cite>[Rifugiato per un giorno](/2021/lab/5)</cite>: Entra anche tu nei panni di un rifugiato, inizia un cammino al buio e scopri dove la strada ti porterà aiutato dall’[Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://www.ascs.it/).
+<cite>[The Game](/2021/lab/the-game)</cite>: gioco di ruolo in cui avrai modo di metterti nelle scarpe dei migranti e muoverti nello scacchiere di un’Europa Orientale densa di confini, trafficanti e scelte difficili da prendere tenuto da [Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://ascs.it).</a>  
+<cite>[Rifugiato per un giorno](/2021/lab/rifugiato-per-un-giorno)</cite>: Entra anche tu nei panni di un rifugiato, inizia un cammino al buio e scopri dove la strada ti porterà aiutato dall’[Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://ascs.it/).
 
 #### Giardini Regina Elena
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**  
-<cite>[Capire la mafia](/2021/lab/13)</cite> gioco di ruolo sulla criminalità organizzata guidato da Francesca Gamba e Issey Baravian, con la collaborazione di Francesca Del Bianchi.
+<cite>[Capire la mafia](/2021/lab/capire-la-mafia)</cite> gioco di ruolo sulla criminalità organizzata guidato da Francesca Gamba e Issey Baravian, con la collaborazione di Francesca Del Bianchi.
 
 #### **Via Tapoletti, terrazza dietro San Costanzo**
 
 ore **10-11**, **11:30-12:30**, **16-17**  
-[Richiedere asilo in Italia? Come e perché](/2021/lab/9): esperienza interattiva sulla procedura di richiesta di asilo in Italia, con la testimonianza di Jacopo Colomba, consulente per [WeWorld Onlus](https://weworld-gvc.it).
+[Richiedere asilo in Italia? Come e perché](/2021/lab/richiedere-asilo-in-italia): esperienza interattiva sulla procedura di richiesta di asilo in Italia, con la testimonianza di Jacopo Colomba, consulente per [WeWorld Onlus](https://weworld-gvc.it).
 
 #### **Via Tapoletti, incrocio con via Porte Santa Maria**
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**  
-<cite lang='en'>[The Human Thread](/2021/lab/10)</cite>: laboratorio sulla scoperta sensoriale, sull’ascolto e la condivisione, guidato da Leonardo Venturi.
+<cite lang='en'>[The Human Thread](/2021/lab/the-human-thread)</cite>: laboratorio sulla scoperta sensoriale, sull’ascolto e la condivisione, guidato da Leonardo Venturi.
 
 ---
 
@@ -92,13 +92,13 @@ ore **9**–**10**
 #### **Porta San Giuseppe** (Via Palma)
 
 ore **10**–**12** e **16**–**18**  
-[LIS_cambi](/2021/lab/3): comunicare senza parole è possibile, con questo laboratorio puoi entrare in un mondo nuovo e poco conosciuto: la lingua dei segni
+[LIS_cambi](/2021/lab/lis-cambi): comunicare senza parole è possibile, con questo laboratorio puoi entrare in un mondo nuovo e poco conosciuto: la lingua dei segni
 
 #### Piazza Santa Brigida
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**
-<cite>[Scambi Sounds Lab](/2021/lab/14)</cite>: aiutato dai ragazzi di [Overload](https://instagram.com/_overload), prendi parte alla composizione di un brano musicale con i suoni che saprà produrre il tuo corpo.  
-<cite>[Scambi aerei](/2021/lab/8)</cite>: il [birrificio NADIR](https://www.facebook.com/BirrificioNadir 'Pagina Facebook del Birrificio NADIR') presenta l’<cite>Air-Hopping</cite>, tecnica produttiva inventata e brevettata dal mastro birraio Gabriele Genduso, che sfrutta la natura volatile degli olii essenziali per caratterizzare in modo unico la birra.
+<cite>[Scambi Sounds Lab](/2021/lab/scambi-sounds-lab)</cite>: aiutato dai ragazzi di [Overload](https://instagram.com/_overload), prendi parte alla composizione di un brano musicale con i suoni che saprà produrre il tuo corpo.  
+<cite>[Scambi aerei](/2021/lab/scambi-aerei)</cite>: il [birrificio NADIR](https://facebook.com/BirrificioNadir 'Pagina Facebook del Birrificio NADIR') presenta l’<cite>Air-Hopping</cite>, tecnica produttiva inventata e brevettata dal mastro birraio Gabriele Genduso, che sfrutta la natura volatile degli olii essenziali per caratterizzare in modo unico la birra.
 
 #### Piña Social Club
 
@@ -108,61 +108,61 @@ dalle **21:00** a **mezzanotte**
 #### **Piazza dei Ferri**
 
 ore **10-11** e **11:30-12:30**  
-<cite>[La voglia di agire, come fare?](/2021/lab/2)</cite>: dialogo sul tema del volontariato diretto da Christian Papini, direttore della Caritas Intemelia di Ventimiglia.
+<cite>[La voglia di agire, come fare?](/2021/lab/la-voglia-di-agire-come-fare)</cite>: dialogo sul tema del volontariato diretto da Christian Papini, direttore della Caritas Intemelia di Ventimiglia.
 
 ore **16-17** e **17:30-18:30**  
-<cite>[Migrazione e vulnerabilità](/2021/lab/11)</cite>: dialogo sul tema dell’aiuto ai migranti guidato diretto da Christian Papini, direttore della Caritas Intemelia, e da Simone Alterisio, di Valconia Valdese.
+<cite>[Migrazione e vulnerabilità](/2021/lab/migrazione-e-vulnerabilita)</cite>: dialogo sul tema dell’aiuto ai migranti guidato diretto da Christian Papini, direttore della Caritas Intemelia, e da Simone Alterisio, di Valconia Valdese.
 
 #### Centro Risorse, piazza Cassini
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**  
-[Giochi quantistici](/2021/lab/7): due giochi sulla meccanica quantistica e l’incontro dell’invisibile tenuti da Claudio Bortolin del [CERN](https://home.cern) di Ginevra e professori dell’ITP.  
-Da piazza Nota sarà anche possibile intraprendere il percorso ideato dal [FAI giovani](https://fondoambiente.it/luoghi/rete-fai/gruppo-fai-giovani-di-imperia): <cite>[A caccia di incontri](/2021/lab/15)</cite></a>.
+[Giochi quantistici](/2021/lab/giochi-quantistici): due giochi sulla meccanica quantistica e l’incontro dell’invisibile tenuti da Claudio Bortolin del [CERN](https://home.cern) di Ginevra e professori dell’ITP.  
+Da piazza Nota sarà anche possibile intraprendere il percorso ideato dal [FAI giovani](https://fondoambiente.it/luoghi/rete-fai/gruppo-fai-giovani-di-imperia): <cite>[A caccia di incontri](/2021/lab/a-caccia-di-incontri)</cite></a>.
 
 #### Terrazza San Costanzo
 
 ore **10-12** e poi **16-18**  
-<cite>[The Game](/2021/lab/4)</cite>: gioco di ruolo in cui avrai modo di metterti nelle scarpe dei migranti e muoverti nello scacchiere di un’Europa Orientale densa di confini, trafficanti e scelte difficili da prendere tenuto da [Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://ascs.it).</a>
-<cite>[Rifugiato per un giorno](/2021/lab/5)</cite>: Entra anche tu nei panni di un rifugiato, inizia un cammino al buio e scopri dove la strada ti porterà aiutato dall’[Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://www.ascs.it/).
+<cite>[The Game](/2021/lab/the-game)</cite>: gioco di ruolo in cui avrai modo di metterti nelle scarpe dei migranti e muoverti nello scacchiere di un’Europa Orientale densa di confini, trafficanti e scelte difficili da prendere tenuto da [Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://ascs.it).</a>
+<cite>[Rifugiato per un giorno](/2021/lab/rifugiato-per-un-giorno)</cite>: Entra anche tu nei panni di un rifugiato, inizia un cammino al buio e scopri dove la strada ti porterà aiutato dall’[Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://ascs.it/).
 
 #### Giardini Regina Elena
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**  
-<cite>[Capire la mafia](/2021/lab/13)</cite> gioco di ruolo sulla criminalità organizzata guidato da Francesca Gamba e Issey Baravian, con la collaborazione di Francesca Del Bianchi.
+<cite>[Capire la mafia](/2021/lab/capire-la-mafia)</cite> gioco di ruolo sulla criminalità organizzata guidato da Francesca Gamba e Issey Baravian, con la collaborazione di Francesca Del Bianchi.
 
 #### **Via Tapoletti, terrazza dietro San Costanzo**
 
 ore **10-11**, **11:30-12:30**, **16-17**  
-[Richiedere asilo in Italia? Come e perché](/2021/lab/9): esperienza interattiva sulla procedura di richiesta di asilo in Italia, con la testimonianza di Jacopo Colomba, consulente per [WeWorld Onlus](https://weworld-gvc.it).
+[Richiedere asilo in Italia? Come e perché](/2021/lab/richiedere-asilo-in-italia): esperienza interattiva sulla procedura di richiesta di asilo in Italia, con la testimonianza di Jacopo Colomba, consulente per [WeWorld Onlus](https://weworld-gvc.it).
 
 #### **Via Tapoletti, incrocio con via Porte Santa Maria**
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**
-<cite lang='en'>[The Human Thread](/2021/lab/10)</cite>: laboratorio sulla scoperta sensoriale, sull’ascolto e la condivisione, guidato da Leonardo Venturi.
+<cite lang='en'>[The Human Thread](/2021/lab/the-human-thread)</cite>: laboratorio sulla scoperta sensoriale, sull’ascolto e la condivisione, guidato da Leonardo Venturi.
 
 ## 29 AGOSTO
 
 #### **Porta San Giuseppe** (Via Palma)
 
 ore **10**–**12** e **16**–**18**  
-[LIS_cambi](/2021/lab/3): comunicare senza parole è possibile, con questo laboratorio puoi entrare in un mondo nuovo e poco conosciuto: la lingua dei segni
+[LIS_cambi](/2021/lab/lis-cambi): comunicare senza parole è possibile, con questo laboratorio puoi entrare in un mondo nuovo e poco conosciuto: la lingua dei segni
 
 #### Piazza Santa Brigida
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**  
-<cite>[Scambi Sounds Lab](/2021/lab/14)</cite>: aiutato dai ragazzi di [Overload](https://instagram.com/_overload), prendi parte alla composizione di un brano musicale con i suoni che saprà produrre il tuo corpo.  
-<cite>[Scambi aerei](/2021/lab/8)</cite>: il [birrificio NADIR](https://www.facebook.com/BirrificioNadir 'Pagina Facebook del Birrificio NADIR') presenta l’<cite>Air-Hopping</cite>, tecnica produttiva inventata e brevettata dal mastro birraio Gabriele Genduso, che sfrutta la natura volatile degli olii essenziali per caratterizzare in modo unico la birra.
+<cite>[Scambi Sounds Lab](/2021/lab/scambi-sounds-lab)</cite>: aiutato dai ragazzi di [Overload](https://instagram.com/_overload), prendi parte alla composizione di un brano musicale con i suoni che saprà produrre il tuo corpo.  
+<cite>[Scambi aerei](/2021/lab/scambi-aerei)</cite>: il [birrificio NADIR](https://facebook.com/BirrificioNadir 'Pagina Facebook del Birrificio NADIR') presenta l’<cite>Air-Hopping</cite>, tecnica produttiva inventata e brevettata dal mastro birraio Gabriele Genduso, che sfrutta la natura volatile degli olii essenziali per caratterizzare in modo unico la birra.
 
 dalle **20:30** a **mezzanotte**  
-Visione e premiazione dei [cortometraggi vincitori](https://www.instagram.com/p/CSrzsFQNiQE/) del concorso <cite>[**Dissolvenze**](/dissolvenze)</cite></a>  
+Visione e premiazione dei [cortometraggi vincitori](https://instagram.com/p/CSrzsFQNiQE/) del concorso <cite>[**Dissolvenze**](/dissolvenze)</cite></a>  
 Chiusura ufficiale del Festival e ringraziamenti  
-Chiusura con DJ set di [Overload](https://instagram.com/_overload), con parte delle musiche prodotte nel corso dei tre giorni di <cite>[Scambi Sounds Lab](/2021/lab/14)</cite>.
+Chiusura con DJ set di [Overload](https://instagram.com/_overload), con parte delle musiche prodotte nel corso dei tre giorni di <cite>[Scambi Sounds Lab](/2021/lab/scambi-sounds-lab)</cite>.
 
 #### Centro Risorse, piazza Cassini
 
 ore **10-12:30** e **16-18:30**
 
-Da Palazzo Nota sarà anche possibile intraprendere il percorso ideato dal [FAI giovani](https://www.fondoambiente.it/luoghi/rete-fai/gruppo-fai-giovani-di-imperia): <a href="https://scambi.org/a-caccia-di-incontri/" data-type="URL" data-id="https://scambi.org/a-caccia-di-incontri/"><em>A caccia di incontri</em></a>.
+Da Palazzo Nota sarà anche possibile intraprendere il percorso ideato dal [FAI giovani](https://fondoambiente.it/luoghi/rete-fai/gruppo-fai-giovani-di-imperia): <a href="https://scambi.org/a-caccia-di-incontri/" data-type="URL" data-id="https://scambi.org/a-caccia-di-incontri/"><em>A caccia di incontri</em></a>.
 
 ore **10-11** e **11:30-12:30**  
 [Giochi quantistici](https://scambi.org/giochi-quantistici): due giochi sulla meccanica quantistica e l’incontro dell’invisibile tenuti da Claudio Bortolin del [CERN](https://home.cern/) di Ginevra e professori dell’ITP.
@@ -171,23 +171,23 @@ ore **10-11** e **11:30-12:30**
 
 ore **10, 11:30, 16 e 17:30.**
 
-<cite>[La Malinformazione](/2021/lab/6)</cite>: confronto sulla storia delle *fake news* e su come smontarle guidato giornalisti del [CICAP](https://cicap.org/n/articolo.php?id=272433).
+<cite>[La Malinformazione](/2021/lab/la-malinformazione)</cite>: confronto sulla storia delle *fake news* e su come smontarle guidato giornalisti del [CICAP](https://cicap.org/n/articolo.php?id=272433).
 
 #### Terrazza San Costanzo
 
 ore **10-12** e poi **16-18**  
-<cite>[The Game](/2021/lab/4)</cite>: gioco di ruolo in cui avrai modo di metterti nelle scarpe dei migranti e muoverti nello scacchiere di un’Europa Orientale densa di confini, trafficanti e scelte difficili da prendere tenuto da [Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://ascs.it).</a>
-<cite>[Rifugiato per un giorno](/2021/lab/5)</cite>: Entra anche tu nei panni di un rifugiato, inizia un cammino al buio e scopri dove la strada ti porterà aiutato dall’[Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://www.ascs.it/).
+<cite>[The Game](/2021/lab/the-game)</cite>: gioco di ruolo in cui avrai modo di metterti nelle scarpe dei migranti e muoverti nello scacchiere di un’Europa Orientale densa di confini, trafficanti e scelte difficili da prendere tenuto da [Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://ascs.it).</a>
+<cite>[Rifugiato per un giorno](/2021/lab/rifugiato-per-un-giorno)</cite>: Entra anche tu nei panni di un rifugiato, inizia un cammino al buio e scopri dove la strada ti porterà aiutato dall’[Agenzia Scalabriniana per la Cooperazione allo Sviluppo](https://ascs.it).
 
 #### Giardini Regina Elena
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**  
-<cite>[Capire la mafia](/2021/lab/13)</cite> gioco di ruolo sulla criminalità organizzata guidato da Francesca Gamba e Issey Baravian, con la collaborazione di Francesca Del Bianchi.
+<cite>[Capire la mafia](/2021/lab/capire-la-mafia)</cite> gioco di ruolo sulla criminalità organizzata guidato da Francesca Gamba e Issey Baravian, con la collaborazione di Francesca Del Bianchi.
 
 #### **Via Tapoletti, terrazza dietro San Costanzo**
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**
-<cite lang='en'>[The Human Thread](/2021/lab/10)</cite>: laboratorio sulla scoperta sensoriale, sull’ascolto e la condivisione, guidato da Leonardo Venturi.
+<cite lang='en'>[The Human Thread](/2021/lab/the-human-thread)</cite>: laboratorio sulla scoperta sensoriale, sull’ascolto e la condivisione, guidato da Leonardo Venturi.
 
 ---
 
