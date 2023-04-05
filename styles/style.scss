@@ -833,6 +833,22 @@ h3 {
 	margin-top: $height;
 }
 
+.pagination nav {
+	li {
+		margin: $small $tiny;
+		list-style-type: none;
+	}
+	a {
+		padding: $small $regular-less;
+		background: var(--background);
+		&[aria-current] {
+			background: var(--primary);
+			color: var(--background);
+			box-shadow: none;
+		}
+	}
+}
+
 footer {
 	background: var(--background);
 	padding: $big 10vw;

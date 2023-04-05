@@ -1,14 +1,18 @@
 ---
 title: Blog
-lang: en
+lang: it
 ref: blog
-permalink: /en/blog/
-description: News, thoughts, and craziness from the Paneurethic Universe of Scambi.
+description: Aggiornamenti, approfondimenti, riflessioni e pazzie dall’universo paneuretico di Scambi Festival.
 type: CollectionPage
 class: gradient
+pagination:
+  data: collections.blog
+  size: 6
+  alias: posts
+permalink: '/blog/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber | plus: 1 }}/{% endif %}'
 sitemap:
   priority: 0.8
-	changefreq: monthly
+  changefreq: monthly
 ---
 <section class='center row'>
 	<h1>{{ title }}</h1>
@@ -17,15 +21,25 @@ sitemap:
 
 <div class='row'>
 	<div class='two-thirds column'>
-		{% render 'tags.liquid', alltags: scambiTags %}
+		{% render 'tags.liquid', lang: lang, alltags: scambiTags %}
 	</div>
 	<div class='one-third column'>
 		{% render 'lang-filter.html', lang: lang %}
 	</div>
 </div>
 
+<div class='pagination row'>
+	<div class='one column'>
+		<nav class='pagination flex'>
+			{% for pagPage in pagination.pages %}
+				<li><a class='button' href='{{ pagination.hrefs[ forloop.index0 ] }}'{% if page.url == pagination.hrefs[ forloop.index0 ] %} aria-current='page'{% endif %}>{{ forloop.index }}</a></li>
+			{% endfor %}
+		</nav>
+	</div>
+</div>
+
 <div class='flex row' id='blog'>
-	{% for entry in collections.blog %}
+	{% for entry in posts %}
 		<div class='one-third'>
 			<a class='box' href='{{ entry.url }}' hreflang='{{ entry.data.lang }}' lang='{{ entry.data.lang }}'>
 				<div class='flex'><img src='{{ entry.data.image }}' alt='{{ entry.data.title }}' title='{{ entry.data.title }}'></div>
@@ -50,4 +64,14 @@ sitemap:
 			</a>
 		</div>
 	{% endfor %}
+</div>
+
+<div class='pagination row'>
+	<div class='one column'>
+		<nav class='pagination flex'>
+			{% for pagPage in pagination.pages %}
+				<li><a class='button' href='{{ pagination.hrefs[ forloop.index0 ] }}'{% if page.url == pagination.hrefs[ forloop.index0 ] %} aria-current='page'{% endif %}>{{ forloop.index }}</a></li>
+			{% endfor %}
+		</nav>
+	</div>
 </div>
