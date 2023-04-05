@@ -19,10 +19,10 @@ ref: editions
 			<p>{{ edition.description | markdownify }}</p>
 			<figure><img src='https://x.scambi.org/posters/{{ edition.slug }}.webp' alt='{{ edition.title }}’s Poster'></figure>
 			<div class='flex'>
-				{% if edition.labs %}<a class='purple button' href='/en/{{ edition.slug }}/labs' title='{{ edition.slug | replace: '-', ' ' }} Labs'>Labs</a>{% endif %}
-				{% if edition.pinoli %}<a class='yellow button' href='/en/{{ edition.slug }}/pinoli' title='{{ edition.slug | replace: '-', ' ' }} Pinoli'>Pinoli</a>{% endif %}
-				{% if edition.media %}<a class='blue button' href='{{ edition.media }}' title='{{ edition.slug | replace: '-', ' ' }} Images'>Images</a>{% endif %}
-				{% if edition.video %}<a class='orange button' href='{{ edition.video }}' title='{{ edition.slug | replace: '-', ' ' }} Documentary'>Documentary</a>{% endif %}
+				{% if edition.labs %}<a class='purple button' href='/en/{{ edition.slug }}/labs' title='{{ edition.title }} Labs'>Labs</a>{% endif %}
+				{% if edition.pinoli %}<a class='yellow button' href='/en/{{ edition.slug }}/pinoli' title='{{ edition.title }} Pinoli'>Pinoli</a>{% endif %}
+				{% if edition.media %}<a class='blue button' href='{{ edition.media }}' title='{{ edition.title }} images'>Images</a>{% endif %}
+				{% if edition.video %}<a class='orange button' href='{{ edition.video }}' title='{{ edition.title }} documentary'>Documentary</a>{% endif %}
 			</div>
 		</section>
 	</div>

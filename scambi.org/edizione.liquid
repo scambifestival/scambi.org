@@ -1,0 +1,20 @@
+---
+layout: page
+pagination:
+  data: editions
+  size: 1
+  alias: edition
+permalink: '/{{ edition.slug }}/'
+---
+{% for e in pagination.items %}
+	<h2 class='title' id='{{ e.slug }}'>{{ e.title }}</h2>
+	<h3><span>Tema</span> {{ e.tema }}</h3>
+	<p>{{ e.descrizione | markdownify }}</p>
+	<figure><img src='https://x.scambi.org/posters/{{ e.slug }}.webp' alt='Locandina di {{ e.title }}'></figure>
+	<div class='flex'>
+		{% if e.labs %}<a class='purple button' href='/{{ e.slug }}/labs' title='Labs {{ e.title }}'>Labs</a>{% endif %}
+		{% if e.pinoli %}<a class='yellow button' href='/{{ e.slug }}/pinoli' title='Pinoli {{ e.title }}'>Pinoli</a>{% endif %}
+		{% if e.media %}<a class='blue button' href='{{ e.media }}' title='Immagini {{ e.title }}'>Immagini</a>{% endif %}
+		{% if e.video %}<a class='orange button' href='{{ e.video }}' title='Documentario di {{ e.title }}'>Documentario</a>{% endif %}
+	</div>
+{% endfor %}
