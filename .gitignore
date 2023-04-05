@@ -6,6 +6,9 @@ cache
 .cache
 www
 
+#Python env
+pinosync
+
 # Local Netlify folder
 .netlify
 
