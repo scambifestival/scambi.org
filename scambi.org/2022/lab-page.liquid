@@ -1,8 +1,10 @@
 ---
+title: Lab
 pagination:
   data: 2022-labs
   size: 1
-permalink: '/2022/lab/{{ pagination.pageNumber | plus: 1 }}/'
+  alias: lab
+permalink: '/2022/lab/{{ lab.title | slugify }}/'
 layout: wrapper
 class: gradient-behind lab
 ---

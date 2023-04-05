@@ -11,7 +11,7 @@ ref: 2021-labs
 <section class='flex row' id='lab-list'>
 	{% assign labs = 2021-labs %}
 	{% for lab in labs %}
-		<a id='{{ lab.title | slugify}}' class='shrink box' href='/2021/lab/{{ forloop.index }}'>
+		<a id='{{ lab.title | slugify}}' class='shrink box' href='/2021/lab/{{ lab.title | slugify }}'>
 			<h3>{{ lab.title }}</h3>
 			<p>{{ lab.description | truncate: 200 | markdownify }}</p>
 		</a>
