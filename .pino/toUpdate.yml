@@ -1,6 +1,6 @@
 tables:
-  - 2021-labs: '2021-labs.csv'
-  - 2021-pinoli: '2021-pinoli.csv'
-  - 2022-labs: '2022-labs.csv'
-  - 2022-pinoli: '2022-pinoli.csv'
-  - people: 'people.csv'
+  - 2021-labs: '2021-labs.json'
+  - 2021-pinoli: '2021-pinoli.json'
+  - 2022-labs: '2022-labs.json'
+  - 2022-pinoli: '2022-pinoli.json'
+  - people: 'people.json'
