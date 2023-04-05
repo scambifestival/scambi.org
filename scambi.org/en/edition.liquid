@@ -4,6 +4,8 @@ pagination:
   data: editions
   size: 1
   alias: edition
+eleventyComputed:
+  title: '{{ edition.title }}'
 permalink: '/en/{{ edition.slug }}/'
 ---
 {% for e in pagination.items %}

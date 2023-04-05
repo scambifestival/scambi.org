@@ -3,6 +3,8 @@ pagination:
   data: 2022-pinoli
   size: 1
   alias: pinolo
+eleventyComputed:
+  title: '{{ pinolo.title }}'
 permalink: '/2022/pinolo/{{ pinolo.title | slugify }}/'
 layout: wrapper
 ---

@@ -3,6 +3,8 @@ pagination:
   data: 2022-labs
   size: 1
   alias: lab
+eleventyComputed:
+  title: '{{ lab.title }}'
 permalink: '/en/2022/lab/{{ lab.title | slugify }}/'
 layout: wrapper
 class: gradient-behind lab

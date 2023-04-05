@@ -4,6 +4,8 @@ pagination:
   data: scambiTags
   size: 1
   alias: label
+eleventyComputed:
+  title: '{{ label.title }}'
 permalink: '/tag/{{ label.title | slugify }}/'
 layout: wrapper
 ---
