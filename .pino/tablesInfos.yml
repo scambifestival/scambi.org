@@ -21,7 +21,7 @@ tables:
     name: '2022 Program'
     id: 313
     view_id: 1230
-    included: 'title,host,location,days,description'
+    included: 'title,host,location,what,days,description'
     filters: 'filter__field_2615__single_select_equal=1393'
   people:
     name: 'Libro Soci'
