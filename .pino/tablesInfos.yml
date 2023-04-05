@@ -1,55 +1,31 @@
 tables:
-  relations:
-    name: "Relations"
-    id: 320
-    view_id: 1233
-    included: "Ente,Nome,Cognome,stato,cosa,referente,edizione,note"
-    filters: ""
-  2022-people:
-    name: "2022 People"
-    id: 315
-    view_id: 1249
-    included: "Name,Surname,Role,cosa,Hosting,days,nights,referente"
-    filters: ""
   2021-labs:
-    name: "2021 Program"
+    name: '2021 Program'
     id: 325
     view_id: 0
-    included: "title,host,cosa,giorni,loc,descrizione"
-    filters: ""
+    included: 'title,host,cosa,giorni,loc,descrizione'
+    filters: 'filter__field_2809__single_select_equal=1545'
   2021-pinoli:
-    name: "2021 Program"
+    name: '2021 Program'
     id: 325
     view_id: 0
-    included: "title,host,cosa,loc,descrizione"
-    filters: ""
+    included: 'title,host,cosa,loc,descrizione'
+    filters: 'filter__field_2809__single_select_equal=1546'
   2022-labs:
-    name: "2022 Program"
-    id: 313
-    view_id: 1237
-    included: "title,host,host_name,location,what,days,times"
-    filters: ""
-  2022-pinoli:
-    name: "2022 Program"
-    id: 313
-    view_id: 1232
-    included: "title,host,location,days,description"
-    filters: ""
-  2022-program:
-    name: "2022 Program"
+    name: '2022 Program'
     id: 313
     view_id: 1230
-    included: "title,host,host_name,location,what,ways,times,description,description_en,video,image,host_logo,host_bio,host_bio_en.host_image"
-    filters: ""
-  accounts:
-    name: "Silicon"
-    id: 324
-    view_id: 0
-    included: "name,what,software,status,self-hosted,notes"
-    filters: ""
+    included: 'title,host,host_name,location,what,days,times'
+    filters: 'filter__field_2615__single_select_equal=1390'
+  2022-pinoli:
+    name: '2022 Program'
+    id: 313
+    view_id: 1230
+    included: 'title,host,location,days,description'
+    filters: 'filter__field_2615__single_select_equal=1393'
   people:
-    name: "Libro Soci"
+    name: 'Libro Soci'
     id: 323
     view_id: 1229
-    included: "Nome,Cognome,Team,role,image,url"
-    filters: ""
+    included: 'Nome,Cognome,Team,role,image,url'
+    filters: ''
