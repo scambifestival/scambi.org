@@ -63,7 +63,7 @@
         "Ente": "",
         "Nome": "Alessandro",
         "Cognome": "Sahebi",
-        "cosa": "lab",
+        "cosa": "media collab",
         "stato": "confermato",
         "note": "",
         "referente": "Giulia",
@@ -128,6 +128,16 @@
         "note": "",
         "referente": "Alessandro",
         "edizione": "2022"
+    },
+    {
+        "Ente": "AltraQualità",
+        "Nome": "David",
+        "Cognome": "",
+        "cosa": "collab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Eleonora",
+        "edizione": "2023"
     },
     {
         "Ente": "Amer",
@@ -320,6 +330,16 @@
         "edizione": "2022"
     },
     {
+        "Ente": "FestiValori",
+        "Nome": "Claudia",
+        "Cognome": "Vago",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "probabilmente noi andremo ospiti da loro e loro faranno un Lab da noi",
+        "referente": "Tommaso",
+        "edizione": "2023"
+    },
+    {
         "Ente": "Filippo Reggiani",
         "Nome": "Filippo",
         "Cognome": "Reggiani",
@@ -335,7 +355,7 @@
         "Cognome": "",
         "cosa": "lab",
         "stato": "confermato",
-        "note": "Filò è un’associazione,che propone alla cittadinanza occasioni formative e laboratoriali per praticare il dialogo filosofico",
+        "note": "Filò è un’associazione che propone alla cittadinanza occasioni formative e laboratoriali per praticare il dialogo filosofico",
         "referente": "Marta",
         "edizione": "2023"
     },
@@ -390,6 +410,16 @@
         "edizione": "2021"
     },
     {
+        "Ente": "Incontro Migranti",
+        "Nome": "Elena",
+        "Cognome": "Ballerini",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Giulia",
+        "edizione": "2023"
+    },
+    {
         "Ente": "Internet Breakfast",
         "Nome": "Marco",
         "Cognome": "Saruppi",
@@ -408,6 +438,16 @@
         "note": "",
         "referente": "Chiara",
         "edizione": "2021"
+    },
+    {
+        "Ente": "Italo Calvino",
+        "Nome": "Martina",
+        "Cognome": "D'Amore",
+        "cosa": "lab",
+        "stato": "confermato",
+        "note": "",
+        "referente": "Sabrina",
+        "edizione": "2023"
     },
     {
         "Ente": "Kenobit",
