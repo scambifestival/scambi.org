@@ -8,3 +8,6 @@ tables:
   2022-labs:
     file: 2022-labs.json
     format: JSON
+  2022-pinoli:
+    file: 2022-pinoli.csv
+    format: CSV
