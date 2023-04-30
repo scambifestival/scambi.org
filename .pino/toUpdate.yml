@@ -5,6 +5,3 @@ tables:
   2021-pinoli:
     file: 2021-pinoli.json
     format: JSON
-  2022-people:
-    file: 2022-people.json
-    format: JSON
