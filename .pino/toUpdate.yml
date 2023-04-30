@@ -5,3 +5,6 @@ tables:
   2021-pinoli:
     file: 2021-pinoli.json
     format: JSON
+  2022-labs:
+    file: ''
+    format: JSON
