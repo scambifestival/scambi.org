@@ -1,6 +1,13 @@
 tables:
-  - 2021-labs: '2021-labs.json'
-  - 2021-pinoli: '2021-pinoli.json'
-  - 2022-labs: '2022-labs.json'
-  - 2022-pinoli: '2022-pinoli.json'
-  - people: 'people.json'
+  2021-pinoli:
+    file: "2021-pinoli.json"
+    format: "JSON"
+  2022-people:
+    file: "2022-people.json"
+    format: "JSON"
+  relations:
+    file: "relations.json"
+    format: "JSON"
+  2021-labs:
+    file: "2021-labs.json"
+    format: "JSON"
