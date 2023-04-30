@@ -11,3 +11,6 @@ tables:
   2022-pinoli:
     file: 2022-pinoli.csv
     format: CSV
+  people:
+    file: people.csv
+    format: CSV
