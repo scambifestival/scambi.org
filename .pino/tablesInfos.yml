@@ -1,31 +1,31 @@
 tables:
   2021-labs:
-    name: '2021 Program'
-    id: 325
-    view_id: 0
-    included: 'title,host,cosa,giorni,loc,descrizione'
-    filters: 'filter__field_2809__single_select_equal=1545'
-  2021-pinoli:
-    name: '2021 Program'
-    id: 325
-    view_id: 0
-    included: 'title,host,cosa,loc,descrizione'
-    filters: 'filter__field_2809__single_select_equal=1546'
-  2022-labs:
-    name: '2022 Program'
-    id: 313
-    view_id: 1230
-    included: 'title,host,host_name,location,what,days,times'
-    filters: 'filter__field_2615__single_select_equal=1390'
-  2022-pinoli:
-    name: '2022 Program'
-    id: 313
-    view_id: 1230
-    included: 'title,host,location,what,days,description'
-    filters: 'filter__field_2615__single_select_equal=1393'
-  people:
-    name: 'Libro Soci'
-    id: 323
-    view_id: 1229
-    included: 'Nome,Cognome,Team,role,image,url'
     filters: ''
+    id: '325'
+    included: ''
+    name: 2021-labs
+    view_id: '2549'
+  2021-pinoli:
+    filters: filter__field_2809__single_select_equal=1546
+    id: 325
+    included: title,host,cosa,loc,descrizione
+    name: 2021 Program
+    view_id: 0
+  2022-labs:
+    filters: filter__field_2615__single_select_equal=1390
+    id: 313
+    included: title,host,host_name,location,what,days,times
+    name: 2022 Program
+    view_id: 1230
+  2022-pinoli:
+    filters: filter__field_2615__single_select_equal=1393
+    id: 313
+    included: title,host,location,what,days,description
+    name: 2022 Program
+    view_id: 1230
+  people:
+    filters: ''
+    id: 323
+    included: Nome,Cognome,Team,role,image,url
+    name: Libro Soci
+    view_id: 1229
