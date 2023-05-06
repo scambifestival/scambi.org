@@ -29,3 +29,9 @@ tables:
     included: ''
     name: people
     view_id: '2551'
+  staff:
+    filters: ''
+    id: 323
+    included: ''
+    name: staff
+    view_id: 2552
