@@ -6,11 +6,11 @@ tables:
     name: 2021-labs
     view_id: '2549'
   2021-pinoli:
-    filters: filter__field_2809__single_select_equal=1546
-    id: 325
-    included: title,host,cosa,loc,descrizione
-    name: 2021 Program
-    view_id: 0
+    filters: '0'
+    id: '325'
+    included: ''
+    name: 2021-pinoli
+    view_id: '2550'
   2022-labs:
     filters: filter__field_2615__single_select_equal=1390
     id: 313
