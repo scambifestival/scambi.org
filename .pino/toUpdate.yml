@@ -14,3 +14,6 @@ tables:
   people:
     file: people.csv
     format: CSV
+  staff:
+    file: staff.csv
+    format: CSV
