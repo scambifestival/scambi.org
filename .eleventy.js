@@ -72,7 +72,6 @@ module.exports = function(eleventyConfig) {
 			style: 'compressed'
 		}
 	});
-	eleventyConfig.addPlugin(require('@quasibit/eleventy-plugin-schema'));
 	eleventyConfig.addPlugin(require('@11ty/eleventy-plugin-syntaxhighlight'));
 	eleventyConfig.addPlugin(require('@aloskutov/eleventy-plugin-external-links'), {
 		url: 'https://scambi.org',
