@@ -1,16 +1,16 @@
 tables:
   2021-labs:
     filters: ''
-    id: '325'
+    id: 325
     included: ''
     name: 2021-labs
-    view_id: '2549'
+    view_id: 2549
   2021-pinoli:
     filters: ''
-    id: '325'
+    id: 325
     included: ''
     name: 2021-pinoli
-    view_id: '2550'
+    view_id: 2550
   2022-labs:
     filters: filter__field_2615__single_select_equal=1390
     id: 313
@@ -25,10 +25,10 @@ tables:
     view_id: 1230
   people:
     filters: ''
-    id: '323'
+    id: 323
     included: ''
     name: people
-    view_id: '2551'
+    view_id: 2551
   staff:
     filters: ''
     id: 323
