@@ -6,7 +6,7 @@ tables:
     name: 2021-labs
     view_id: '2549'
   2021-pinoli:
-    filters: '0'
+    filters: ''
     id: '325'
     included: ''
     name: 2021-pinoli
