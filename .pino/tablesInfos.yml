@@ -25,7 +25,7 @@ tables:
     view_id: 1230
   people:
     filters: ''
-    id: 323
-    included: Nome,Cognome,Team,role,image,url
-    name: Libro Soci
-    view_id: 1229
+    id: '323'
+    included: ''
+    name: people
+    view_id: '2551'
