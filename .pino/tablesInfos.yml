@@ -1,10 +1,10 @@
 tables:
   2021-labs:
     filters: ''
-    id: 325
+    id: '325'
     included: ''
     name: 2021-labs
-    view_id: 2549
+    view_id: '2549'
   2021-pinoli:
     filters: ''
     id: 325
