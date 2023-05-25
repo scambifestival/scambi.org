@@ -1,0 +1,19 @@
+tables:
+  2021-labs:
+    file: 2021-labs.csv
+    format: CSV
+  2021-pinoli:
+    file: 2021-pinoli.csv
+    format: CSV
+  2022-labs:
+    file: 2022-labs.csv
+    format: CSV
+  2022-pinoli:
+    file: 2022-pinoli.csv
+    format: CSV
+  people:
+    file: people.csv
+    format: CSV
+  staff:
+    file: staff.csv
+    format: CSV
