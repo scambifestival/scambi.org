@@ -3,7 +3,7 @@ tables:
     excluded: ''
     filters: ''
     id: '325'
-    included: props,Title,host,location,cosa,giorni
+    included: props,title,host,location,cosa,giorni
     name: 2021-labs
     view_id: '2549'
   2021-pinoli:
