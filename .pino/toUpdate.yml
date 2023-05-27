@@ -1,16 +1,16 @@
 tables:
   2021-labs:
-    file: 2021-labs.csv
-    format: CSV
+    file: 2021-labs.json
+    format: JSON
   2021-pinoli:
-    file: 2021-pinoli.csv
-    format: CSV
+    file: 2021-pinoli.json
+    format: JSON
   2022-labs:
-    file: 2022-labs.csv
-    format: CSV
+    file: 2022-labs.json
+    format: JSON
   2022-pinoli:
-    file: 2022-pinoli.csv
-    format: CSV
+    file: 2022-pinoli.json
+    format: JSON
   people:
     file: people.csv
     format: CSV
