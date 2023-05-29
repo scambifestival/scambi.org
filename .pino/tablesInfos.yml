@@ -15,19 +15,19 @@ tables:
     name: 2021-pinoli
     view_id: '2550'
   2022-labs:
-    filters: filter__field_2615__single_select_equal=1390
+    filters: ''
     id: 313
-    included: title,host,host_name,location,what,days,times
+    included: ''
     excluded: ''
     name: 2022 Program
-    view_id: 1230
+    view_id: 1237
   2022-pinoli:
-    filters: filter__field_2615__single_select_equal=1393
+    filters: ''
     id: 313
-    included: title,host,location,what,days,description
+    included: ''
     excluded: ''
     name: 2022 Program
-    view_id: 1230
+    view_id: 1232
   people:
     filters: ''
     id: 323
