@@ -5,19 +5,19 @@ pagination:
   alias: pinolo
 eleventyComputed:
   title: '{{ pinolo.title }}'
-permalink: '/2021/pinolo/{{ pinolo.title | slugify }}/'
+permalink: '/en/2021/pinolo/{{ pinolo.title | slugify }}/'
 layout: wrapper
 ---
 {% for item in pagination.items %}
 	<h1>{{ pinolo.title }}</h1>
 	<section class='row'>
 		<div class='half column'>
-			<p>{{ item.descrizione | markdownify }}</p>
+			<p>{{ item.description | markdownify }}</p>
 		</div>
 		<div class='half column'>
 			<dl id='data'>
 				<dt>Location</dt>
-				<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='Le location di Scambi Festival 2021'>vedi mappa</a></dd>
+				<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='Scambi Festival 2021’s map'>view map</a></dd>
 
 				<dt>Host</dt>
 				{% if item.host != '""' %}
@@ -33,5 +33,5 @@ layout: wrapper
 	</section>
 {% endfor %}
 
-<h3>Non serve prenotare i pinoli!</h3>
-<p class='center'>Girate per la Pigna e li troverete.</p>
+<h3>No need to book <em>Pinoli</em>!</h3>
+<p class='center'>Just wander around the neighborhood and you will be stumbling upon them 👀</p>

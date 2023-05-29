@@ -1,5 +1,5 @@
 ---
-title: Lab 2022
+title: Lab 2021
 class: gradient
 permalink: /2021/labs/
 redirect_from: ['/2021/lab/']
@@ -13,7 +13,7 @@ ref: 2021-labs
 	{% for lab in labs %}
 		<a id='{{ lab.title | slugify}}' class='shrink box' href='/2021/lab/{{ lab.title | slugify }}'>
 			<h3>{{ lab.title }}</h3>
-			<p>{{ lab.description | truncate: 200 | markdownify }}</p>
+			<p>{{ lab.descrizione | truncate: 200 | markdownify }}</p>
 		</a>
 	{% endfor %}
 </section>

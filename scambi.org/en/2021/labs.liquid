@@ -1,0 +1,19 @@
+---
+title: 2021 Labs
+class: gradient
+permalink: /en/2021/labs/
+redirect_from: ['/en/2021/lab/']
+description: All the Labs of Scambi Festival 2021
+ref: 2021-labs
+---
+<h1>2021 Labs</h1>
+<p class='center'>All the Labs of Scambi Festival 2021. Go and take a look to <a href='/2021/programma' title='Programma 2021' hreflang='it'>the program</a> and to the <a href='/en/2021/pinoli' title='Pinoli Pinoli'><em lang='it'>Pinoli</em></a>!</p>
+<section class='flex row' id='lab-list'>
+	{% assign labs = 2021-labs %}
+	{% for lab in labs %}
+		<a id='{{ lab.title | slugify}}' class='shrink box' href='/2021/lab/{{ lab.title | slugify }}'>
+			<h3>{{ lab.title }}</h3>
+			<p>{{ lab.description | truncate: 200 | markdownify }}</p>
+		</a>
+	{% endfor %}
+</section>
