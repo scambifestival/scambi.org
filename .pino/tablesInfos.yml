@@ -23,10 +23,10 @@ tables:
   2022-pinoli:
     excluded: ''
     filters: filter__field_2615__single_select_equal=1393
-    id: 313
+    id: '313'
     included: title,host,location,what,days,description
-    name: 2022 Program
-    view_id: 1230
+    name: 2022-pinoli
+    view_id: '1232'
   people:
     excluded: ''
     filters: ''
