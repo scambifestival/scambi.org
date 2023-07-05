@@ -1,0 +1,802 @@
+[
+    {
+        "Nome": "Alessandro",
+        "Cognome": "Lanteri",
+        "role": "socio",
+        "Team": "Silicon",
+        "bio": "Alessandro (Ale, per gli amici) è uno studente di Ingegneria Informatica al Politecnico di Torino. Amante dei viaggi e della musica, per venti minuti al giorno riesce addirittura a fare la persona seria. È sufficiente metterlo a suo agio per abbattere la sua timidezza. Nell'ambito del nostro progetto, si occupa di gestire il nostro sito da ogni suo punto di vista.",
+        "bio_en": "Alessandro (Ale for friends) studies Computer Engineering at the Politecnico of Turin. He’s a travel and music lover, and he’s also able to be a serious person for twenty minutes a day. Making him feel comfortable is enough to break down his shyness. Within our project, he manages our website in its every aspect.",
+        "image": "https://x.scambi.org/profile_pics/Alessandro_Lanteri.jpg",
+        "url": "https://instagram.com/_2ale"
+    },
+    {
+        "Nome": "Alessandro",
+        "Cognome": "Rossi",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Andrea",
+        "Cognome": "Pittelli",
+        "role": "socio",
+        "Team": "Silicon",
+        "bio": "Andrea è una persona che fatica ad autodefinirsi, come in questa descrizione.  Sta cercando di mettere insieme i mondi di musica e informatica (senza successo) e fare attivismo su temi come privacy, autodeterminazione, rispetto e riscatto delle persone nella tecnologia con Etica Digitale. Nessuno è mai riuscito a fargli una foto seria. Collabora allo sviluppo degli strumenti digitali di Scambi con il gruppo Silicon.",
+        "bio_en": "Andrea is a person who struggles to define himself, as in this description. He is trying to bring together the worlds of music and information technology (unsuccessfully) and activism on issues such as privacy, self-determination, respect and redemption of people in technology with Digital Ethics. No one has ever managed to take a serious picture of him. He collaborates in the development of the digital exchange tools with the Silicon group.",
+        "image": "https://x.scambi.org/profile_pics/Andrea_Pittelli.jpg",
+        "url": "https://pan.rent/@Pitte"
+    },
+    {
+        "Nome": "Angela",
+        "Cognome": "De Luca",
+        "role": "socio",
+        "Team": "Libellule",
+        "bio": "Angela è una delle nuove risorse del team di Scambi. Ne pensa una e ne combina mille. Divisa con il cuore a Valencia, ma testa tra Verona e Treviso, è sempre in viaggio e riesce comunque a trovare un po' di tempo per rilassarsi al mare.  Studia economia aziendale e management, con le altre libellule nel team di Scambi si occupa della gestione dei Social Media.",
+        "bio_en": "Angela is one of the new resources in the Scambi team. She thinks one and combines a thousand. She divides her heart in Valencia, but she heads between Verona and Treviso, she is always on the go and she still manages to find some time to relax by the sea. She studies business economics and management, with the other dragonflies in Scambi she deals with the management of Social Media.",
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Anika",
+        "Cognome": "Mazza",
+        "role": "tirocinante",
+        "Team": "Libellule",
+        "bio": "",
+        "bio_en": "",
+        "image": "",
+        "url": "https://www.instagram.com/anikajole"
+    },
+    {
+        "Nome": "Anna",
+        "Cognome": "Filipozzi",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "",
+        "bio_en": null,
+        "image": "",
+        "url": "https://instagram.com/_annafilipozzi_"
+    },
+    {
+        "Nome": "Anna",
+        "Cognome": "Mastrantuono",
+        "role": "socio simpatizzante",
+        "Team": "",
+        "bio": "Ad Anna piacciono il rumore del mare la sera, passare lentamente la mano sulla testa dei cani e poggiare la testa sulle gambe delle persone a cui vuole bene. Anna crede che un mondo perfetto sia fatto di parole e sentimenti aperti, di curiosità e meraviglia continui, rispetto e desiderio. Anna lotta con gesti quotidiani tentando di contribuire al benessere della Vita, che sia umana, animale, vegetale. Studentessa di veterinaria durante il giorno, sognatrice ad occhi aperti la notte (perché fare il contrario le era impossibile).",
+        "bio_en": "Anna likes the sound of the sea in the evening, caressing dogs’ heads and laying her head on the legs of people she loves. Anna believes that a perfect world is made of open words and feelings, continuous curiosity and wonder, respect and desire. Anna fights with everyday gestures to contribute to the wellbeing of Life, be it humans, animals or plants. A Veterinary student during the day, a dreamer during the night (because doing the opposite was impossible).",
+        "image": "https://x.scambi.org/profile_pics/Anna_Mastrantuono.jpg",
+        "url": "https://instagram.com/anna_m_o_bene"
+    },
+    {
+        "Nome": "Anna Maria",
+        "Cognome": "Graziano",
+        "role": "ex socio",
+        "Team": "Libellule",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Annachiara",
+        "Cognome": "Gallon",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": "https://instagram.com/fka.ac"
+    },
+    {
+        "Nome": "Benedetta",
+        "Cognome": "Bellizzi",
+        "role": "tirocinante",
+        "Team": "Stambecchi",
+        "bio": "",
+        "bio_en": "",
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Bianca",
+        "Cognome": "Chailloux",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Bianca",
+        "Cognome": "Fabbri",
+        "role": "socio",
+        "Team": "Stambecchi",
+        "bio": "Bianca è  la gnoma logorroica e testarda arrivata in scambi da poco, e forse la cosa più difficile per lei è riuscire a definirsi. Ama guardare all'infinito serie TV dalle mille stagioni, i noodles e scrivere: di cosa pensa, del mondo che la circonda, delle cose che vorrebbe vivere ma non vive, del mondo dove si vorrebbe rifugiare. Adora Madrid, dove sogna di trasferirsi per studiare e probabilmente anche dire le cose quando non dovrebbe e successivamente pentirsi di averlo fatto, ma non lo ammetterà mai",
+        "bio_en": "Bianca is the talkative and stubborn gnome who has recently arrived in exchanges, and perhaps the most difficult thing for her is being able to define herself. She loves endlessly watching TV series with a thousand seasons, noodles and writing: what she thinks about, the world around her, the things she would like to experience but she doesn't experience, the world where she would like to take refuge. She adores Madrid, where she dreams of moving to study and probably even saying things when she shouldn't and later regretting it, but she will never admit it",
+        "image": "",
+        "url": "https://www.instagram.com/bibs.xoxo"
+    },
+    {
+        "Nome": "Bruno",
+        "Cognome": "Paolino",
+        "role": "socio onorario",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Carolina",
+        "Cognome": "Terzi",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Carolina ha 17 anni, studia al Liceo Scientifico ed è una ragazza un po’ timida. Ama lo sport e viaggiare: non riesce mai a stare ferma.",
+        "bio_en": "Carolina is 17, studies scientific subjects in high school and is a fairly shy girl. A sports and travel lover, she can never stay still.",
+        "image": "https://x.scambi.org/profile_pics/Carolina_Terzi.jpg",
+        "url": ""
+    },
+    {
+        "Nome": "Cecilia",
+        "Cognome": "Massa",
+        "role": "socio",
+        "Team": "Stambecchi",
+        "bio": "Cecilia è un’incostante e troppo critica sanremese in Olanda. Appena laureata da International Studies, si occupa delle attività internazionali di Scambi e non sa mai cosa cucinare per cena. È sempre in ritardo ed è interessata a tutto quello che riguarda la sostenibilità, perché condivide questo pianeta con un sacco di belle persone ed è sicura che le prossime generazioni si meritino almeno una possibilità di essere ancora meglio.",
+        "bio_en": "Cecilia is an erratic and overly critical Sanremese living in the Netherlands. Just graduated in International Studies, she takes care of Scambi’s international activities and never knows what to cook for dinner. She’s always late and is interested in all that concerns sustainability, because she shares this planet with lots of beautiful people and is certain that the future generations deserve at least a chance to be even better.",
+        "image": "https://x.scambi.org/profile_pics/Cecilia_Massa.jpg",
+        "url": "https://instagram.com/cecinestpas__"
+    },
+    {
+        "Nome": "Chiara",
+        "Cognome": "Mallozzi",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Chiara è nata nello stesso giorno della rivoluzione russa, solo nel 1995. Pensa che scambi-arsi storie ed esperienze sia il miglior modo per vivere. Interprete LIS, creatrice di storie su fogli volanti, cultrice del pane croccante, grillo salterino delle feste di piazza, giocatrice d’azzardo di sguardi. Ama il mare d’inverno, il vento tra i vestiti e l’amore.",
+        "bio_en": "Chiara was born the same day of the Russian Revolution, but in 1995. She thinks that exchanging stories and experiences is the best way to go. LIS interpreter, creator of stories on loose paper sheets, crispy bread enthusiast, a fan of town parties, an eye contact gambler. She loves the sea in the winter, the wind through the clothes and love.",
+        "image": "https://x.scambi.org/profile_pics/Chiara_Mallozzi.jpg",
+        "url": "https://instagram.com/chiarablue"
+    },
+    {
+        "Nome": "Ciro",
+        "Cognome": "Ogliastro",
+        "role": "socio",
+        "Team": "Silicon",
+        "bio": "Ciro studia informatica e fa l'attivista per Etica Digitale. Gli piace leggere, scrivere, smanettare con accrocchi digitali e iniziare cose di cui non ha mai il tempo di finire.",
+        "bio_en": "Ciro studies computer science and he is an activist for Etica Digitale.",
+        "image": "https://x.scambi.org/profile_pics/Ciro_Ogliastro.jpg",
+        "url": "https://www.instagram.com/m0kassin0"
+    },
+    {
+        "Nome": "Claudio",
+        "Cognome": "Faoro",
+        "role": "socio",
+        "Team": "Silicon",
+        "bio": null,
+        "bio_en": null,
+        "image": "https://claudiofaoro.com/assets/images/me.jpg",
+        "url": ""
+    },
+    {
+        "Nome": "Cristina",
+        "Cognome": "Spochiando",
+        "role": "socio",
+        "Team": "Dissolvenze",
+        "bio": "Cristina funziona a sole e caffè, e ama l'arancione. Di giorno studia Tecniche Artistiche e dello Spettacolo a Venezia, ma di notte scrive. Preferisce le cose quando hanno a che fare con la magia, perché spera sempre che la vita, in fondo, sia come nelle grandi storie.",
+        "bio_en": "Cristina functions thanks to the sun and coffee, and loves the color orange. During the day she studies Artistic and Performance Techniques in Venice, but during the night she writes. She prefers things when magic is involved, in the hope that life, really, is as in the well-known tales.",
+        "image": "https://x.scambi.org/profile_pics/Cristina_Sponchiado.jpg",
+        "url": "https://instagram.com/cristinasponk"
+    },
+    {
+        "Nome": "Diego",
+        "Cognome": "De Nardo",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Diego studia Cinema, Televisione e Nuovi Media a Roma e nel tempo libero compra più libri di quanti riesce effettivamente a leggere.",
+        "bio_en": "Diego studies Cinema, Television and New Media in Rome and in his free time buys more books than he can actually read.",
+        "image": "https://x.scambi.org/profile_pics/Diego_De_Nardo.jpg",
+        "url": "https://instagram.com/diegodenardo99"
+    },
+    {
+        "Nome": "Echo",
+        "Cognome": "Ranzoni",
+        "role": "socio simpatizzante",
+        "Team": "",
+        "bio": "",
+        "bio_en": "",
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Ekaterina",
+        "Cognome": "Shvalyuk",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Kath è un'amante della natura, ha manie di buona educazione, ama aiutare le persone e scoprire cose nuove, si interessa a studi di tantissime cose diverse e può tenere conversazioni in qualsiasi sfera. Ogni tanto fa fatica a finire i progetti e può sparire dalle vite delle persone. Ha buon gusto ed è ossessionata dalla moda. Viene dalla Russia e vive da 9 anni in Italia, studia al Liceo Linguistico Cassini a Sanremo.",
+        "bio_en": "Kath is a nature lover, obsessed with good manners. She loves helping people and discovering new things, is interested in many different subjects of study and can handle any topic of conversation. Sometimes she struggles to finish projects and can disappear from people’s lives. She has good taste and is obsessed with fashion. She comes from Russia, has lived in Italy for 9 years and studies linguistic subjects at the Cassini high school in Sanremo.",
+        "image": "https://x.scambi.org/profile_pics/Katerina_Shvalyuk.jpg",
+        "url": "https://instagram.com/kathynshx"
+    },
+    {
+        "Nome": "Elena",
+        "Cognome": "Bogliolo",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Elena",
+        "Cognome": "Pasquali",
+        "role": "socio simpatizzante",
+        "Team": "",
+        "bio": "",
+        "bio_en": "",
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Eleonora",
+        "Cognome": "Vitale",
+        "role": "consigliere",
+        "Team": "Api",
+        "bio": "Eleonora ha 18 anni e frequenta l’ultimo anno del linguistico al Cassini. Adora la fotografia, i videogiochi, gli sport motoristici e ha una particolare passione per le moto.  Empatica e riflessiva, si ritrova molto spesso a fare da psicologa ai suoi amici per aiutarli in qualsiasi ambito (specialmente quello amoroso che rimane per lei un’incognita manco le X in matematica). Uno dei suoi obiettivi nella vita è laurearsi in economia e finanza in modo tale da poter trovare un lavoro ben retribuito e aiutare persone meno fortunate.  All'interno di Scambi è un’ape e si occupa di logistica.",
+        "bio_en": "Eleonora is 18 and attends the last year of linguistic at Cassini. She loves photography, videogames, motor sports and she has a particular passion for motorbikes.  Empathetic and reflective, she finds herself to be a psychologist to her friends to help them in any area very often (especially the love one which remains an unknown for her as the variables in maths).  One of her goals in life is to get a degree in economics and finance in order to find a well-paying job and help less fortunate people. In Scambi she is a bee and takes care of logistics.",
+        "image": "https://x.scambi.org/profile_pics/Eleonora_Vitale.webp",
+        "url": "https://instagram.com/ele_vitale27"
+    },
+    {
+        "Nome": "Etica",
+        "Cognome": "Digitale",
+        "role": "blog",
+        "Team": "",
+        "bio": "",
+        "bio_en": "",
+        "image": "https://x.scambi.org/others_logos/Etica_Digitale.svg",
+        "url": "https://eticadigitale.org"
+    },
+    {
+        "Nome": "Fabio",
+        "Cognome": "Boldrini",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Fabio ha 22 anni e frequenta la Magistrale a Torino in Direzione d'impresa e Marketing.",
+        "bio_en": "Fabio is 22 and he is studying in Turin for his Master degree in Business and Marketing.",
+        "image": "https://x.scambi.org/profile_pics/Fabio_Boldrini.jpg",
+        "url": "https://instagram.com/fa_bold"
+    },
+    {
+        "Nome": "Fiammetta",
+        "Cognome": "Bernardi",
+        "role": "socio simpatizzante",
+        "Team": "Libellule",
+        "bio": "Fiammetta (che sotto la pioggia non si spegne) è nata nel 1999, studia farmacia nella prima capitale d’Italia, è un’aspirante ricercatrice e cintura marrone di karate (oltre che di insicurezza) ed una sognatrice ad occhi aperti. Sempre pronta a mettersi in gioco per imparare e scambiare esperienze e storie con gli altri. Ha il countdown del Natale installato 24/7 sul telefono, è affascinata dalla cultura giapponese, amante del buon cibo e affamata del mondo.",
+        "bio_en": "Fiammetta was born in 1999 and studies Pharmacy in the first capital of Italy. She is an aspiring researcher, a brown belt in karate (as well as in insecurity) and a daydreamer. Always ready to challenge herself to learn and exchange experiences and stories with others. She has the Christmas countdown downloaded 24/7 on her phone, is fascinated by Japanese culture, a foodie and hungry for the world.",
+        "image": "https://x.scambi.org/profile_pics/Fiammetta_Bernardi.jpg",
+        "url": "https://instagram.com/fiammetta_bernardi"
+    },
+    {
+        "Nome": "Fieke",
+        "Cognome": "Bijker",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": "https://instagram.com/fiekebijker"
+    },
+    {
+        "Nome": "Filip",
+        "Cognome": "Kujawa",
+        "role": "ex socio",
+        "Team": "Balene",
+        "bio": "",
+        "bio_en": "",
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Francesca",
+        "Cognome": "Gamba",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Francesca",
+        "Cognome": "Brai",
+        "role": "socio simpatizzante",
+        "Team": "Ghiandaie",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": "https://instagram.com/fran.cibee"
+    },
+    {
+        "Nome": "Gabriela",
+        "Cognome": "Grasmane",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Non mi va di abbellire la mia immagine o trasmettere un’idea sbagliata di me. Mi soffermo a dire che conduco con tanto amore la mia esistenza e osservo con altrettanto amore quella a me esterna. Mi si impara a conoscere se lo decido io o attraverso la mia arte molto umile.",
+        "bio_en": "I am not willing to embellish my image or transmit the wrong idea of me. I’ll just say that I lead my existence with lots of love and observe the existence around me with just as much love. You get to know me if I decide so or through my very humble art.",
+        "image": "https://x.scambi.org/profile_pics/Gabriela_Grasmane.jpg",
+        "url": ""
+    },
+    {
+        "Nome": "Gaia",
+        "Cognome": "Parisi",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Gaia Francesca",
+        "Cognome": "Pezzi",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Giacomo",
+        "Cognome": "Persico",
+        "role": "ex socio",
+        "Team": "Stambecchi",
+        "bio": "Gek, che si pronuncia come Jack ma con la e chiusa, è un ragazzo di quinta liceo classico che tiene più alla chitarra che alla sua stessa vita. Oltre che per lo smalto sempre presente, si riconosce per i suoi discorsi noiosi e sconclusionati e per il trappellino (crasi fra trap e cappellino) sempre al collo o in testa. Nella scorsa edizione è stato coinvolto come membro dell’ufficio stampa del Liceo Cassini, mentre quest’anno, data la pendenza dei caruggi della Pigna, ha deciso di diventare uno stambecco.",
+        "bio_en": "Gek, pronounced like Jack but with a checked “e”, is a boy studying in the last grade of classical high school who is more fond of his guitar than his own life. He’s characterised by the constantly present nail polish, his boring and rambling speeches and the bucket hat that is always on his head or hanging on the neck. He was involved in Scambi 2021 as a member of the Cassini high school’s press office, while this year he’s decided to become part of the Steinbock group to walk more easily through the sloping streets of the Old Town.",
+        "image": "https://x.scambi.org/profile_pics/Giacomo_Persico.jpg",
+        "url": "https://instagram.com/percygekson_"
+    },
+    {
+        "Nome": "Giorgia",
+        "Cognome": "Coletta",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Giorgia è una problem solver nata, la sua testa viaggia dieci volte più veloce della media quando si tratta trovare soluzioni a problemi concreti, ma non parlatele di filosofia e cose astratte. A volte fa finta di non sognare, ma lo fa. Basta guardarla e ascoltarla qualche secondo per capire che studia architettura, probabilmente si occuperà di progettare le prime città su Marte.",
+        "bio_en": "Giorgia is a talented problem solver: her head travels ten times faster than average when it comes to finding solutions to concrete problems, but don’t talk to her about philosophy and the abstract. Sometimes she pretends that she does not daydream, but she does. You also only need a moment listening to her to understand that she studies architecture, and will probably design the first cities on Mars.",
+        "image": "https://x.scambi.org/profile_pics/Giorgia_Coletta.jpg",
+        "url": "https://instagram.com/giorgiacoletta"
+    },
+    {
+        "Nome": "Giulia",
+        "Cognome": "Cavallo",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Giulia è una 17enne solare, timidina e con tanti sogni nel cassetto. Studia al Liceo Scientifico di Sanremo e immagina la sua vita da universitaria all’estero. Ama mettersi in gioco e fare nuove esperienze: è proprio per questo si è buttata in Scambi. Adora l’estate, i tramonti, il profumo del mare e guardare film di Natale nonostante fuori ci siano 35 gradi.",
+        "bio_en": "Giulia is a radiant 17-year-old, a little shy and with lots of dreams. She studies scientific subjects at the Cassini high school in Sanremo, and imagines her university life to be abroad. She loves challenging herself and making new experiences – exactly why she got into Scambi. She loves summer, sunsets, the smell of sea and watching Christmas movies even if it’s 35 degrees outside.",
+        "image": "https://x.scambi.org/profile_pics/Giulia_Cavallo.jpg",
+        "url": ""
+    },
+    {
+        "Nome": "Giulia",
+        "Cognome": "Riceputi",
+        "role": "consigliere",
+        "Team": "Api",
+        "bio": "Giulia e Paola sono un'entità unica, incapaci di fare qualcosa da sole, persino questa presentazione. Sono due ragazze di sedici anni, un po' pazzerelle, ma soprattutto, stanno zitte solo quando mangiano. Non sono gemelle siamesi, ma le vedrete sempre appiccicate. Il primo anno Giulia e Paola hanno partecipato a Scambi in qualità di inviate dell'ufficio stampa del Liceo Cassini, e da quest'anno si occupano di amministrazione e logistica interna.",
+        "bio_en": "Giulia and Paola are a single entity, unable to do anything alone – even this introduction. They are two sixteen-year-old girls, a little quirky, but, most importantly, they only shut up when eating. They aren’t siamese twins, but you’ll always see them together. The first time, Giulia and Paola participated in Scambi as correspondents of the Cassini press office, and from this year they manage the festival’s administration and internal logistics.",
+        "image": "https://x.scambi.org/profile_pics/Giulia_Riceputi.jpg",
+        "url": "https://instagram.com/giuliaa.riceputi"
+    },
+    {
+        "Nome": "Giulia",
+        "Cognome": "Ierardi",
+        "role": "socio",
+        "Team": "Stambecchi",
+        "bio": "Giulia si sposta troppo spesso avanti e indietro da Torino, dove studia Psicologia, a Sanremo, dove invece lavora come istruttrice di vela. Profondamente innamorata del mare, dello sport, dei cagnetti e soprattutto del cibo. Nel magnifico team di Scambi sì occupa delle attività internazionali insieme alle altre Rondini.",
+        "bio_en": "Giulia moves back and worth too often between Turin, where she studies Psychology, and Sanremo, where she works as a sailing instructor.",
+        "image": "https://x.scambi.org/profile_pics/Giulia_Ierardi.webp",
+        "url": "https://instagram.com/giulierardi"
+    },
+    {
+        "Nome": "Giulia",
+        "Cognome": "Saccone",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Giulia, classe '98, dopo aver inspiegabilmente conseguito una laurea in Lingua e Cultura Giapponese a Venezia è attualmente impegnata ad affrontare una laurea in Asian Studies presso l'Università di Lund, Svezia. L'obiettivo generale sarebbe quello di portare avanti una ricerca in Cyberdiplomacy e riparare ai danni che il giornalismo italiano ha fatto nella divulgazione dell'immagine del grande, formidabile, surreale Giappone. Appassionata di oriente, cinema, ICT Law, pennichelle, lingue straniere e maestra nella passivo-aggressività, è membro del Team Libellule di Scambi Festival e scrive per Zasshin.",
+        "bio_en": "Giulia, born in 1998, after inexplicably getting a degree in Japanese Language and Culture in Venice, is currently undertaking Asian Studies in Lund University in Sweden. Her general goal is to carry on the research in Cyberdiplomacy and repair the damage done by Italian journalism, which has spread the image of a big, formidable and surreal Japan. Fond of the East, cinema, ICT Law, naps, foreign languages and an expert in passive-aggressiveness, she’s a member of the Dragonflies team in Scambi and writes for Zasshin.",
+        "image": "https://x.scambi.org/profile_pics/Giulia_Saccone.jpg",
+        "url": "https://instagram.com/eos_o_"
+    },
+    {
+        "Nome": "Hasnae",
+        "Cognome": "Rahnmia",
+        "role": "socio",
+        "Team": "Api",
+        "bio": "Has ha 16 anni, studia nel liceo classico della città di Sanremo e può mandarti video alle 4:23 a.m. dove si sta tagliando la frangia con le forbici da sarta. Cammina perennemente guardandosi i piedi, è una Serpeverde affezionata (troppo), e il verde è il colore che la rappresenta. È un'assidua frequentatrice di parchi e, tutti i sabato mattina, in ogni stagione, puoi trovarla al mercato annonario in cerca di fichi freschi.",
+        "bio_en": "Has is 16, studies in classical high school in Sanremo and may send you videos at 4:23 am of her cutting her bangs with scissors that are not meant for cutting bangs. She constantly walks staring at her feet, she’s an affectionate Slytherin, and green is her representative color. She diligently goes to parks, and every Saturday morning, any season, you can find her at the supplies market looking for fresh figs.",
+        "image": "https://x.scambi.org/profile_pics/Hasnae_Rhanmia.jpg",
+        "url": "https://instagram.com/hasnae_rh"
+    },
+    {
+        "Nome": "Ilaria",
+        "Cognome": "Montalto",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": "https://instagram.com/merpetromelbe"
+    },
+    {
+        "Nome": "Irene",
+        "Cognome": "Segone",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Irene",
+        "Cognome": "Siccardi",
+        "role": "socio",
+        "Team": "Api",
+        "bio": "Irene è una studentessa del liceo classico di Sanremo (ma adora la matematica) e fa parte del team libellule di Scambi Festival. Superata la sua timidezza iniziale può diventare estremamente affettuosa e abbracciarti h24. Ama leggere, viaggiare, l’estate e giocare a carte (quando la sua competitività raggiunge l’apice).",
+        "bio_en": "Irene is a student at Sanremo’s classical high school (but she loves maths) and is part of Scambi’s Dragonflies team. Overcome her initial shyness she can become extremely affectionate and hug you 24/7. She loves books, travel, summer and playing cards (at the peak of her competitiveness).",
+        "image": "https://x.scambi.org/profile_pics/Irene_Siccardi.jpg",
+        "url": "https://instagram.com/ire_siccardi_"
+    },
+    {
+        "Nome": "Issey",
+        "Cognome": "Baravian",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Jana",
+        "Cognome": "Morgagni",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Jana ha un volto sorridente, trasporta un bagaglio immenso di serena dolcezza, che sembra non pesarle per niente. Adora sfidare pareti di roccia scalandole ed immortalare attimi di vita con la sua fotocamera, rigorosamente analogica. Ha studiato al liceo linguistico, poi vissuto in Scozia per un anno ed ora frequenta Philosophy, International Studies and Economics a Venezia. Per Scambi, è la responsabile della comunicazione.",
+        "bio_en": "Jana has a smiling face and she carries a bag full of calm sweetness, which seems not to weigh her at all. She loves challenging rock walls by climbing them and immortalising bits of life with her film camera. She has studied languages in high school, lived in Scotland for a year and now studies Philosophy, International Studies and Economics in Venice. In Scambi she’s responsible for communication.",
+        "image": "https://x.scambi.org/profile_pics/Jana_Morgagni.jpg",
+        "url": "https://instagram.com/carefulwiththataxeeugene"
+    },
+    {
+        "Nome": "Jolanda",
+        "Cognome": "Dekker",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Jolanda attualmente studia Illustrazione a Rotterdam, nei Paesi Bassi. Cresciuta in Austria, Jolanda si è trasferita da sola a 17 anni in Germania per finire il liceo. In seguito ha fatto volontariato in Polonia per un anno. Al momento fa freelance nel campo dell’illustrazione e crea design di poster, magliette, sticker e altro su richiesta.",
+        "bio_en": "Jolanda currently studies illustration in Rotterdam, the Netherlands. Growing up in Austria, Jolanda moved out on her own at 17 to finish High School in Germany. After that she did a voluntary service for a year in Poland. Right now she is actively freelancing in the field of illustration and creates things such as Posters, T-Shirt designs, stickers and more for clients.",
+        "image": "https://x.scambi.org/profile_pics/Jolanda_Dekker.jpg",
+        "url": "https://instagram.com/joudraws"
+    },
+    {
+        "Nome": "Lea",
+        "Cognome": "Fabiani",
+        "role": "socio",
+        "Team": "Chiocciole",
+        "bio": "Lea ha 18 anni e vive a Fano, una piccola città marchigiana bagnata dal mar Adriatico. Il suo tempo lo passa al cinema, ad ascoltare musica, a piangere davanti a qualche quadro casuale , a scrivere o (soprattutto) a leggere libri scritti per lo più durante il diciannovesimo secolo. Da questi ultimi ha imparato una cosa: “la bellezza salverà il mondo”.",
+        "bio_en": "Lea is 18 and lives in Fano, a small town in Marche on the Adriatic sea. She spends her time at the cinema, listening to music, crying in front of a random painting, writing or, above all, reading books mainly written in the 19th century. From these books she’s learnt one thing – “beauty will save the world”.",
+        "image": "https://x.scambi.org/profile_pics/Lea_Fabiani.jpg",
+        "url": "https://instagram.com/memoriedalsoprassuolo"
+    },
+    {
+        "Nome": "Leonardo",
+        "Cognome": "Venturi",
+        "role": "socio",
+        "Team": "Stambecchi",
+        "bio": "Leonardo Venturi è una fonte inesauribile di energia e l'attivatore creativo di Scambi. Studente di \"Performing Arts\" presso la \"De Montfort University\" di Leicester in Inghilterra, è un appassionato di arte e comunicazione a 360°, ama i caldi abbracci e stare a contatto con le persone, creando continuamente nuove esperienze da sottoporre a tuttə coloro che lo circondano.​ Crede fortemente che in ogni avvenimento ci sia sempre un punto di vista diverso ed innovativo da considerare e che il cambiamento sia spesso necessario: non bisogna aver paura di perdere tutto ciò che si è costruito per (ri)trovare o (ri)costruire la propria libertà espressiva.",
+        "bio_en": "Leonardo Venturi is an infinite source of energy and Scambi’s creative initiator. A Performing Arts student at the De Montfort University in Leicester, UK, he’s an unconditional art and communication devotee, he loves warm hugs and being in contact with people, endlessly creating new experiences to subject to those around him. He firmly believes that in every event there is always a different and innovative point of view to consider and that change is often necessary: we don’t need to be scared of losing all that we’ve built to (re)claim or (re)build our freedom of expression.",
+        "image": "https://x.scambi.org/profile_pics/Leonardo_Venturi.jpg",
+        "url": "https://instagram.com/venturileonardo"
+    },
+    {
+        "Nome": "Letizia",
+        "Cognome": "Ruggenenti",
+        "role": "socio onorario",
+        "Team": "Bradipi",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Luca",
+        "Cognome": "Nucifora",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Lucilla",
+        "Cognome": "Luprano",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Lucilla è romana, ma la sua curiosità l’ha portata a vivere in 5 paesi diversi. Ciononostante, ancora odia i traslochi, forse perché a causa del ADHD non li sa organizzare. Ora è ad Edimburgo, dove studia Scandinavian Studies and Politics. Nel tempo libero si dedica ad imparare e a perdersi nel cinema e capire come renderlo più accessibile, infatti da tempo collabora con il Edinburgh International Film Festival, come membro dello Youth Team e come selezionatrice. In Scambi si occupa del concorso “Dissolvenze”.",
+        "bio_en": "Lucilla is Roman, but her curiosity has brought her to live in five different countries. However, she still hates moving, perhaps because she can’t plan it due to ADHD. Right now she’s in Edinborough, where she’s learning Scandinavian Studies and Politics. She uses her free time to learn, lose herself in cinema and think of ways to make it more accessible – that’s why she has been collaborating with the Edinborough International Film Festival, as a member of the Youth Team and selector. In Scambi she takes care of the Dissolvenze short movie contest.",
+        "image": "https://x.scambi.org/profile_pics/Lucilla_Luprano.jpg",
+        "url": "https://instagram.com/mynameislucilla"
+    },
+    {
+        "Nome": "Luisa",
+        "Cognome": "Riccardi",
+        "role": "socio",
+        "Team": "Dissolvenze",
+        "bio": "Luisa vive nella calda e soleggiata Catania e frequenta il corso di audio/video e multimedia all'Accademia di Belle Arti a Palermo. La sua più grande aspirazione è quella di diventare una regista e il suo motto «vivo la mia vita una commedia romantica alla volta» lo conferma. Nello strambo mondo di Scambi si dedica al suo concorso per cortometraggi “Dissolvenze” e a tutto quello che va dal cinema verso l’infinito e oltre.",
+        "bio_en": "Luisa lives in the hot and sunny Catania and studies Audio/Video and Multimedia in Palermo’s Fine Arts Academy. Her biggest aspiration is to become a movie director and her motto “I live my life one rom-com at a time” confirms that. In Scambi’s weird world her role supports its short movie contest Dissolvenze and all that has to do with cinema and beyond.",
+        "image": "https://x.scambi.org/profile_pics/Luisa_Riccardi.jpg",
+        "url": "https://instagram.com/louivse"
+    },
+    {
+        "Nome": "Marco",
+        "Cognome": "Donatiello",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Marco",
+        "Cognome": "Mamprin",
+        "role": "socio onorario",
+        "Team": "Bradipi",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Margherita",
+        "Cognome": "Moro",
+        "role": "socio simpatizzante",
+        "Team": "Chiocciole",
+        "bio": "Margherita legge di fisica quantistica, ma studia filosofia. Ama guardare le stelle e i fiori, ballare e bere il caffè. Ricorda spesso i migliori momenti trascorsi con il suo gruppo scout. Se si potesse essere scritti, invece che partoriti, vorrebbe essere una poesia di Baudelaire. A Scambi aiuta nella sezione scientifica e nella comunicazione.",
+        "bio_en": "Margherita reads about quantum physics but studies philosophy. She loves stargazing and flowers, dancing and drinking coffee. She often reminisces about her best moments with her Scouts group. If she could’ve been written instead of being given birth to, she would like to be a piece of Baudelaire’s poetry. In Scambi she helps in the scientific and communication section.",
+        "image": "https://x.scambi.org/profile_pics/Margherita_Moro.jpg",
+        "url": "https://mondomarghe.jimdofree.com"
+    },
+    {
+        "Nome": "Maria Sole",
+        "Cognome": "Falcomer",
+        "role": "socio",
+        "Team": "Libellule",
+        "bio": "",
+        "bio_en": "",
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Marta",
+        "Cognome": "Depetris",
+        "role": "socio",
+        "Team": "Stambecchi",
+        "bio": "Marta vive a Bologna, città che le ha rapito il cuore e le ha insegnato ad osservare ciò che la circonda con stupore, curiosità e interesse.  Laureata al DAMS e in Arti Visive, rincorre l'arte in tutte le sue forme e lotta affinché essa possa diventare sempre più inclusiva e accessibile a tutti. A volte è troppo sensibile e si commuove guardando i bambini e gli anziani. All'interno di Scambi si occupa di organizzare e gestire le attività di laboratorio.",
+        "bio_en": "Marta lives in Bologna, a city that stole her heart and taught her to observe her surroundings with wonder, curiosity and interest.",
+        "image": "https://x.scambi.org/profile_pics/Marta_Depetris.webp",
+        "url": "https://instagram.com/martadepetris"
+    },
+    {
+        "Nome": "Martina",
+        "Cognome": "Mariano",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Martina è un’intraprendente e instancabile studentessa, affettuosa e insaziabilmente curiosa. Fa parte della limitatissima schiera di abitanti del pianeta Terra ad essere una sognatrce pragmatica. Quando non è in giro per il mondo a fare cose fighissime, studia Philosophy, International Studies and Economics a Venezia.",
+        "bio_en": "Martina is an enterprising and tireless student, affectionate and unsatiably curious. She’s one of the very rare inhabitants of planet Earth to be a pragmatic dreamer. When she isn’t moving around the world doing the dopest things, she studies Philosophy, International Studies and Economics in Venice.",
+        "image": "https://x.scambi.org/profile_pics/Martina_Mariano.jpg",
+        "url": "https://instagram.com/marti_mariano"
+    },
+    {
+        "Nome": "Miranda",
+        "Cognome": "Gebhardt",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Miranda studia Philosophy, International Studies and Economics a Venezia e trascorre il suo tempo libero a disegnare. È nata in Germania, dove ha studiato design fino alle superiori. Ha partecipato a diversi corsi di formazione internazionale in graphic design per associazioni di lavoro giovanile e per diverse ONG. Ha vissuto in Francia, Armenia ed Israele.",
+        "bio_en": "Miranda studies Philosophy, International Studies and Economics in Venice and uses her free time to draw. She was born in Germany, where she studied design up until high school. She has attended multiple training courses in graphic design for youth work associations and different ONGs. She has lived in France, Armenia and Israel.",
+        "image": "https://x.scambi.org/profile_pics/Miranda_Gebhardt.jpg",
+        "url": "https://instagram.com/prosperoskind"
+    },
+    {
+        "Nome": "Morna",
+        "Cognome": "Rometsch",
+        "role": "socio simpatizzante",
+        "Team": "",
+        "bio": "",
+        "bio_en": "",
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Paola",
+        "Cognome": "Almerighi",
+        "role": "consigliere",
+        "Team": "Libellule",
+        "bio": "Giulia e Paola sono un'entità unica, incapaci di fare qualcosa da sole, persino questa presentazione. Sono due ragazze di sedici anni, un po' pazzerelle, ma soprattutto, stanno zitte solo quando mangiano. Non sono gemelle siamesi, ma le vedrete sempre appiccicate. Il primo anno Giulia e Paola hanno partecipato a Scambi in qualità di inviate dell'ufficio stampa del Liceo Cassini, e da quest'anno si occupano di amministrazione e logistica interna.",
+        "bio_en": "Giulia and Paola are a single entity, unable to do anything alone – even this introduction. They are two sixteen-year-old girls, a little quirky, but, most importantly, they only shut up when eating. They aren’t siamese twins, but you’ll always see them together. The first time, Giulia and Paola participated in Scambi as correspondents of the Cassini press office, and from this year they manage the festival’s administration and internal logistics.",
+        "image": "https://x.scambi.org/profile_pics/Paola_Almerighi.jpg",
+        "url": "https://instagram.com/paola.alme"
+    },
+    {
+        "Nome": "Raffaele",
+        "Cognome": "Scagliarini",
+        "role": "ex socio",
+        "Team": "Palanche",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": "https://instagram.com/_rapa.el_"
+    },
+    {
+        "Nome": "Ramona",
+        "Cognome": "Dal Mas",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": "https://instagram.com/ramonadalmas"
+    },
+    {
+        "Nome": "Rebecca",
+        "Cognome": "Scuderi",
+        "role": "tirocinante",
+        "Team": "Libellule",
+        "bio": "Rebecca ama lavorare in team e socializzare conoscendo nuovi mondi. Amante dei viaggi e di esperienze sempre nuove, è partita per un anno di erasmus in Francia a Grenoble. Studentessa di Scienze della Comunicazione a Bergamo si occupa della gestione dei social media per rendere sempre più attivo il mondo di scambi.",
+        "bio_en": "Rebecca loves to work in team and socialize getting to know new worlds. Lover of travel and always new experiences, she left for a year of Erasmus in France in Grenoble. She is a student of Communication Sciences in Bergamo and she deals with the management of social media to make the world of Scambi more and more active.",
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Remo",
+        "Cognome": "Marmo",
+        "role": "socio onorario",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Sabrina",
+        "Cognome": "Pipitone",
+        "role": "socio",
+        "Team": "Chiocciole",
+        "bio": "Sabrina è introversa, ma ama stare con le persone, soprattutto quando si tratta dei suoi amichettu del cuore. Nel tempo libero legge tanto, trova nuovi modi per arrabbiarsi contro il Capitalismo e il Patriarcato, e pensa decisamente troppo a cosa avrebbe potuto dire diversamente nelle sue goffe interazioni sociali. Ah, e come dimenticare: le sue radici si affondano nella Pianura Veneta, luogo d'amore e d'odio, dove studia Philosophy, International and Economics Studies all'università Ca' Foscari di Venezia.",
+        "bio_en": "Sabrina is an introvert, but loves being with people, especially when it comes to her best friends. In her spare time she reads a lot, she finds new ways to get angry at Capitalism and Patriarchy, and she thinks way too much about what she might have said differently in her awkward social interactions. Ah, and how can we forget: her roots go deep into the Venetian plain, a place of love and hate, where she studies Philosophy, International and Economics Studies at the Ca' Foscari University of Venice.",
+        "image": "https://x.scambi.org/profile_pics/Sabrina_Pipitone.jpg",
+        "url": "https://instagram.com/pipitonesabrina"
+    },
+    {
+        "Nome": "Salvatore",
+        "Cognome": "Gucciardo",
+        "role": "socio",
+        "Team": "Dissolvenze",
+        "bio": "Salvatore siciliano fuggitivo ma nostalgico. Studia, con rabbia, filosofia e storia ma vive per altro. Quel piccolo altro è il cinema di cui ne ha compreso l'immensità all'età di 8 anni con Shining. Pallone e macchina fotografica gli permettono di staccare da un mondo che ama e che  vorrebbe amare sempre di più. \"Neanche si faceva di droghe, si faceva di gente, pallone e film\"",
+        "bio_en": "Salvatore is a fugitive but nostalgic Sicilian. He studies Philosophy and History with rage but lives for something else. That small something else is cinema, the vastness of which he grasped at age 8 watching The Shining. A football and a camera help him detach from a world he loves and wants to love even more. “He didn’t do drugs, and instead it was people, a football and movies”.",
+        "image": "",
+        "url": "https://instagram.com/gucciardovskij"
+    },
+    {
+        "Nome": "Sara",
+        "Cognome": "Brusco",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Sara",
+        "Cognome": "Mastrantuono",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Una ragazza bipolare e cocciuta. Vorrebbe fare la cantante, ma, purtroppo, frequenta l’Università a Genova. Stravede per i dolci e per sua sorella. Non vede l’ora di salire sulla giostra di Scambi in cui nulla è facile, ma tutto è “nostro”.",
+        "bio_en": "Bipolar and stubborn. She wants to be a singer but, unfortunately, studies at the University of Genoa. She adores sweets and her sister. She can’t wait to get on the carousel that is Scambi where nothing is easy, but everything is “ours”.",
+        "image": "https://x.scambi.org/profile_pics/Sara_Mastrantuono.jpg",
+        "url": "https://instagram.com/_saramastrantuono"
+    },
+    {
+        "Nome": "Sara",
+        "Cognome": "Mascarello",
+        "role": "ex socio",
+        "Team": "",
+        "bio": "Sara studia al liceo classico di Sanremo. È una ragazza timida ma estroversa di 15 anni, ama il rumore del mare, i tulipani, Cesare Cremonini e Parigi. Ha abitudini ossessive che col tempo inizieranno a sembrarti normali, come aspettare con ansia le 22:22 del 22/02/2022, fotografare le 50 special rosse in giro per la città, riguardare un film cento volte per poi commuoversi tutte e cento.",
+        "bio_en": "Sara studies at classical high school in Sanremo. She’s a shy but extroverted 15-year-old, she loves the sound of the sea, tulips, Cesare Cremonini and Paris. She has obsessive habits which in time will start looking normal – like anxiously waiting for 22:22 of the 22/02/2022, taking pictures of the red 50cc scooters around town, or watching the same movie a hundred times to end up crying every single one.",
+        "image": "https://x.scambi.org/profile_pics/Sara_Mascarello.jpg",
+        "url": "https://instagram.com/sara.mascarello"
+    },
+    {
+        "Nome": "Simone",
+        "Cognome": "Marchetti",
+        "role": "socio onorario",
+        "Team": "Bradipi",
+        "bio": "",
+        "bio_en": "",
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Stefania",
+        "Cognome": "Ilie",
+        "role": "vice presidente",
+        "Team": "Api",
+        "bio": "Stefania è un ragazza determinata, che non si tira indietro davanti a nessuna opportunità. Scambi è per lei l’occasione per entrare a contatto con nuove diversità e per condividere esperienze vissute. Studia Infermieristica all'Università degli Studi di Milano Bicocca. Ha un grande senso del dovere, è affidabile, ambiziosa e disponibile verso gli altri. Nell’associazione si occupa di logistica interna ed amministrazione.",
+        "bio_en": "Stefania is determined, and she doesn’t withdraw from any opportunity. Scambi for her is the chance to get to know new diversities and share experiences. She studies Nursing at the University of Milano-Bicocca. She has a strong sense of duty, is reliable, ambitious and available for others. Within the organisation she deals with internal logistics and administration.",
+        "image": "https://x.scambi.org/profile_pics/Stefania_Ilie.jpg",
+        "url": "https://instagram.com/ily.steff"
+    },
+    {
+        "Nome": "Tommaso",
+        "Cognome": "Marmo",
+        "role": "presidente",
+        "Team": "Camaleonti",
+        "bio": "Tommi è il pazzo saltellante e logorroico che ha ideato Scambi. Parla sempre con tutti di tutto, ma non perde mai l’occasione per raccontare la propria scelta di abbandonare i Social. Con grande orgoglio è capo scout e studia Philosophy International and Economic Studies a Venezia, dove vive.",
+        "bio_en": "Tommi is the hopping and verbous madman that has thought up Scambi. He always talks about anything with anyone, but never misses the chance to talk about his decision to give up social media. He is a proud Scoutmaster and studies Philosophy, International and Economic Studies in Venice, where he lives.",
+        "image": "https://x.scambi.org/profile_pics/Tommaso_Marmo.jpg",
+        "url": "https://tommi.space"
+    },
+    {
+        "Nome": "Valentino",
+        "Cognome": "Ricci",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Valeria",
+        "Cognome": "Contarini",
+        "role": "socio",
+        "Team": "Stambecchi",
+        "bio": "Valeria di Venezia (o dintorni) in ricerca continua di cose da fare a causa del suo horror vacui, si rifugia a Verona per studiare filosofia e fare lunghe camminate.  Frequenta un Accademia di danza contemporanea, le piace leggere, il cinema “quello vecchio” e la musica con qualcosa da dire. In Scambi scambia pareri e idee all’interno del gruppo degli Stambecchi e chiacchera di cinema nel gruppo Dissolvenze.",
+        "bio_en": "Valeria of Venice (or surroundings) in continuous search of things to do because of her horror vacui, takes refuge in Verona to study philosophy and take long walks. She attends an Academy of contemporary dance, likes to read, “old” cinema and music that has something to say. In Scambi she exchanges opinions and ideas within the Stambecchi group and chats about cinema and movies in Dissolvenze.",
+        "image": "https://x.scambi.org/profile_pics/Valeria_Contarini.jpg",
+        "url": "https://www.instagram.com/valeria.contarini"
+    },
+    {
+        "Nome": "Valeria",
+        "Cognome": "Ronchi",
+        "role": "socio",
+        "Team": "Peacocks",
+        "bio": "",
+        "bio_en": "",
+        "image": "",
+        "url": ""
+    },
+    {
+        "Nome": "Vittoria",
+        "Cognome": "Viale",
+        "role": "socio",
+        "Team": "Peacocks",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": "https://instagram.com/vttoriav"
+    },
+    {
+        "Nome": "Vladimir",
+        "Cognome": "Marchetti Dyatlov",
+        "role": "ex socio",
+        "Team": "",
+        "bio": null,
+        "bio_en": null,
+        "image": "",
+        "url": ""
+    }
+]
