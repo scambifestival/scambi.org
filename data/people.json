@@ -43,7 +43,10 @@
         "Nome": "Anika",
         "Cognome": "Mazza",
         "role": "tirocinante",
-        "Team": "Libellule",
+        "Team": [
+            "Libellule",
+            "Api"
+        ],
         "bio": "",
         "bio_en": "",
         "image": "",
@@ -183,7 +186,10 @@
         "Nome": "Cristina",
         "Cognome": "Spochiando",
         "role": "socio",
-        "Team": "Dissolvenze",
+        "Team": [
+            "Dissolvenze",
+            "Chiocciole"
+        ],
         "bio": "Cristina funziona a sole e caffè, e ama l'arancione. Di giorno studia Tecniche Artistiche e dello Spettacolo a Venezia, ma di notte scrive. Preferisce le cose quando hanno a che fare con la magia, perché spera sempre che la vita, in fondo, sia come nelle grandi storie.",
         "bio_en": "Cristina functions thanks to the sun and coffee, and loves the color orange. During the day she studies Artistic and Performance Techniques in Venice, but during the night she writes. She prefers things when magic is involved, in the hope that life, really, is as in the well-known tales.",
         "image": "https://x.scambi.org/profile_pics/Cristina_Sponchiado.jpg",
@@ -243,7 +249,10 @@
         "Nome": "Eleonora",
         "Cognome": "Vitale",
         "role": "consigliere",
-        "Team": "Api",
+        "Team": [
+            "Api",
+            "Camaleonti"
+        ],
         "bio": "Eleonora ha 18 anni e frequenta l’ultimo anno del linguistico al Cassini. Adora la fotografia, i videogiochi, gli sport motoristici e ha una particolare passione per le moto.  Empatica e riflessiva, si ritrova molto spesso a fare da psicologa ai suoi amici per aiutarli in qualsiasi ambito (specialmente quello amoroso che rimane per lei un’incognita manco le X in matematica). Uno dei suoi obiettivi nella vita è laurearsi in economia e finanza in modo tale da poter trovare un lavoro ben retribuito e aiutare persone meno fortunate.  All'interno di Scambi è un’ape e si occupa di logistica.",
         "bio_en": "Eleonora is 18 and attends the last year of linguistic at Cassini. She loves photography, videogames, motor sports and she has a particular passion for motorbikes.  Empathetic and reflective, she finds herself to be a psychologist to her friends to help them in any area very often (especially the love one which remains an unknown for her as the variables in maths).  One of her goals in life is to get a degree in economics and finance in order to find a well-paying job and help less fortunate people. In Scambi she is a bee and takes care of logistics.",
         "image": "https://x.scambi.org/profile_pics/Eleonora_Vitale.webp",
@@ -383,7 +392,10 @@
         "Nome": "Giulia",
         "Cognome": "Riceputi",
         "role": "consigliere",
-        "Team": "Api",
+        "Team": [
+            "Api",
+            "Camaleonti"
+        ],
         "bio": "Giulia e Paola sono un'entità unica, incapaci di fare qualcosa da sole, persino questa presentazione. Sono due ragazze di sedici anni, un po' pazzerelle, ma soprattutto, stanno zitte solo quando mangiano. Non sono gemelle siamesi, ma le vedrete sempre appiccicate. Il primo anno Giulia e Paola hanno partecipato a Scambi in qualità di inviate dell'ufficio stampa del Liceo Cassini, e da quest'anno si occupano di amministrazione e logistica interna.",
         "bio_en": "Giulia and Paola are a single entity, unable to do anything alone – even this introduction. They are two sixteen-year-old girls, a little quirky, but, most importantly, they only shut up when eating. They aren’t siamese twins, but you’ll always see them together. The first time, Giulia and Paola participated in Scambi as correspondents of the Cassini press office, and from this year they manage the festival’s administration and internal logistics.",
         "image": "https://x.scambi.org/profile_pics/Giulia_Riceputi.jpg",
@@ -493,7 +505,10 @@
         "Nome": "Leonardo",
         "Cognome": "Venturi",
         "role": "socio",
-        "Team": "Stambecchi",
+        "Team": [
+            "Stambecchi",
+            "Dissolvenze"
+        ],
         "bio": "Leonardo Venturi è una fonte inesauribile di energia e l'attivatore creativo di Scambi. Studente di \"Performing Arts\" presso la \"De Montfort University\" di Leicester in Inghilterra, è un appassionato di arte e comunicazione a 360°, ama i caldi abbracci e stare a contatto con le persone, creando continuamente nuove esperienze da sottoporre a tuttə coloro che lo circondano.​ Crede fortemente che in ogni avvenimento ci sia sempre un punto di vista diverso ed innovativo da considerare e che il cambiamento sia spesso necessario: non bisogna aver paura di perdere tutto ciò che si è costruito per (ri)trovare o (ri)costruire la propria libertà espressiva.",
         "bio_en": "Leonardo Venturi is an infinite source of energy and Scambi’s creative initiator. A Performing Arts student at the De Montfort University in Leicester, UK, he’s an unconditional art and communication devotee, he loves warm hugs and being in contact with people, endlessly creating new experiences to subject to those around him. He firmly believes that in every event there is always a different and innovative point of view to consider and that change is often necessary: we don’t need to be scared of losing all that we’ve built to (re)claim or (re)build our freedom of expression.",
         "image": "https://x.scambi.org/profile_pics/Leonardo_Venturi.jpg",
@@ -573,7 +588,10 @@
         "Nome": "Maria Sole",
         "Cognome": "Falcomer",
         "role": "socio",
-        "Team": "Libellule",
+        "Team": [
+            "Libellule",
+            "Peacocks"
+        ],
         "bio": "",
         "bio_en": "",
         "image": "",
@@ -683,7 +701,10 @@
         "Nome": "Salvatore",
         "Cognome": "Gucciardo",
         "role": "socio",
-        "Team": "Dissolvenze",
+        "Team": [
+            "Dissolvenze",
+            "Chiocciole"
+        ],
         "bio": "Salvatore siciliano fuggitivo ma nostalgico. Studia, con rabbia, filosofia e storia ma vive per altro. Quel piccolo altro è il cinema di cui ne ha compreso l'immensità all'età di 8 anni con Shining. Pallone e macchina fotografica gli permettono di staccare da un mondo che ama e che  vorrebbe amare sempre di più. \"Neanche si faceva di droghe, si faceva di gente, pallone e film\"",
         "bio_en": "Salvatore is a fugitive but nostalgic Sicilian. He studies Philosophy and History with rage but lives for something else. That small something else is cinema, the vastness of which he grasped at age 8 watching The Shining. A football and a camera help him detach from a world he loves and wants to love even more. “He didn’t do drugs, and instead it was people, a football and movies”.",
         "image": "",
@@ -733,7 +754,10 @@
         "Nome": "Stefania",
         "Cognome": "Ilie",
         "role": "vice presidente",
-        "Team": "Api",
+        "Team": [
+            "Api",
+            "Camaleonti"
+        ],
         "bio": "Stefania è un ragazza determinata, che non si tira indietro davanti a nessuna opportunità. Scambi è per lei l’occasione per entrare a contatto con nuove diversità e per condividere esperienze vissute. Studia Infermieristica all'Università degli Studi di Milano Bicocca. Ha un grande senso del dovere, è affidabile, ambiziosa e disponibile verso gli altri. Nell’associazione si occupa di logistica interna ed amministrazione.",
         "bio_en": "Stefania is determined, and she doesn’t withdraw from any opportunity. Scambi for her is the chance to get to know new diversities and share experiences. She studies Nursing at the University of Milano-Bicocca. She has a strong sense of duty, is reliable, ambitious and available for others. Within the organisation she deals with internal logistics and administration.",
         "image": "https://x.scambi.org/profile_pics/Stefania_Ilie.jpg",
