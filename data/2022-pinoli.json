@@ -1,7 +1,11 @@
 [
     {
         "title": "Art Ateliér",
-        "days": "26",
+        "days": [
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Rivolte di San Sebastiano",
         "host": "Art Atèlier",
         "what": "pinolo",
@@ -9,7 +13,10 @@
     },
     {
         "title": "BACA",
-        "days": "27",
+        "days": [
+            "27",
+            "28"
+        ],
         "location": "Piazza Cassini",
         "host": "BACA",
         "what": "pinolo",
@@ -25,7 +32,11 @@
     },
     {
         "title": "Da Capo",
-        "days": "26",
+        "days": [
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Piazzetta dei Ferri",
         "host": "Staff Scambi",
         "what": "pinolo",
@@ -33,7 +44,10 @@
     },
     {
         "title": "Goldwire",
-        "days": "27",
+        "days": [
+            "27",
+            "28"
+        ],
         "location": "Piazza Cassini",
         "host": "Goldwire",
         "what": "pinolo",
@@ -41,7 +55,12 @@
     },
     {
         "title": "Il Buco",
-        "days": "25",
+        "days": [
+            "25",
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Piazza Santa Brigida",
         "host": "Barrio Buidlers",
         "what": "pinolo",
@@ -49,7 +68,10 @@
     },
     {
         "title": "Leideebs & Kunf3",
-        "days": "25",
+        "days": [
+            "25",
+            "26"
+        ],
         "location": "Piazza Santa Brigida",
         "host": "Leideebs & Kunf3",
         "what": "pinolo",
@@ -57,7 +79,10 @@
     },
     {
         "title": "Omas Seifen",
-        "days": "27",
+        "days": [
+            "27",
+            "28"
+        ],
         "location": "Piazza Cassini",
         "host": "Omas Seifen",
         "what": "pinolo",
@@ -73,7 +98,12 @@
     },
     {
         "title": "SanTo",
-        "days": "25",
+        "days": [
+            "25",
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Palazzo Gentile",
         "host": "OfficineBrand",
         "what": "pinolo",
@@ -81,8 +111,15 @@
     },
     {
         "title": "SquiLibristi",
-        "days": "26",
-        "location": "Piazzetta dei Ferri",
+        "days": [
+            "26",
+            "27",
+            "28"
+        ],
+        "location": [
+            "Piazzetta dei Ferri",
+            "La Ciotola"
+        ],
         "host": "Staff Scambi",
         "what": "pinolo",
         "description": "Continuing the adventure of our Reading Group you will find us every morning at La Ciotola to read and listen to words and reflections related to imbalance accompanied by a cappuccino and a freshly baked focaccia."
@@ -97,7 +134,11 @@
     },
     {
         "title": "Understanding Europe",
-        "days": "26",
+        "days": [
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Piazza Cassini",
         "host": "Understanding Europe",
         "what": "pinolo",
