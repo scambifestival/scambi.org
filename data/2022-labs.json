@@ -1,7 +1,18 @@
 [
     {
         "title": "Attivismo a costo zero",
-        "days": "27",
+        "days": [
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1388,
+                "value": "28",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Via Tapoletti",
         "host": "Malegaleco",
         "what": "lab",
@@ -19,7 +30,23 @@
     },
     {
         "title": "Cambiare scenario - la scelta nell’antimafia sociale",
-        "days": "26",
+        "days": [
+            {
+                "id": 1386,
+                "value": "26",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1388,
+                "value": "28",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Piazza Cassini",
         "host": "LIBERA Imperia",
         "what": "lab",
@@ -28,7 +55,23 @@
     },
     {
         "title": "Equilibrare il corpo attraverso lo sport",
-        "days": "26",
+        "days": [
+            {
+                "id": 1386,
+                "value": "26",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1388,
+                "value": "28",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Piazza Santa Brigida",
         "host": "Homebox",
         "what": "lab",
@@ -37,11 +80,45 @@
     },
     {
         "title": "Esperimenti Squilibrati",
-        "days": "26",
+        "days": [
+            {
+                "id": 1386,
+                "value": "26",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1388,
+                "value": "28",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Palazzo Nota",
-        "host": "Passione Scienza",
+        "host": [
+            {
+                "id": 14,
+                "value": "Passione Scienza"
+            },
+            {
+                "id": 98,
+                "value": "ITP CERN"
+            }
+        ],
         "what": "lab",
-        "host_name": "Claudio Bortolin",
+        "host_name": [
+            {
+                "id": 14,
+                "value": "Claudio Bortolin"
+            },
+            {
+                "id": 98,
+                "value": " "
+            }
+        ],
         "times": "**26**: 10:30-12:00, 17:30-19:00; **27**: 10:30-12:00, 17:30-19:00; **28**: 10:30-12:00"
     },
     {
@@ -64,7 +141,23 @@
     },
     {
         "title": "Il mio mare di parole",
-        "days": "27",
+        "days": [
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1388,
+                "value": "28",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1386,
+                "value": "26",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Porta San Giuseppe",
         "host": "Caketussy",
         "what": "lab",
@@ -82,7 +175,23 @@
     },
     {
         "title": "Il teatro dello squilibrio: i teatri degli squilibri",
-        "days": "26",
+        "days": [
+            {
+                "id": 1386,
+                "value": "26",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1388,
+                "value": "28",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Piazza San Costanzo",
         "host": "O.d’A.d’A.",
         "what": "lab",
@@ -91,7 +200,23 @@
     },
     {
         "title": "Inside Out",
-        "days": "26",
+        "days": [
+            {
+                "id": 1386,
+                "value": "26",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1388,
+                "value": "28",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Giardini Regina Elena",
         "host": "",
         "what": "lab",
@@ -118,16 +243,56 @@
     },
     {
         "title": "Laboratalbero",
-        "days": "27",
+        "days": [
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1388,
+                "value": "28",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Giardini Regina Elena",
-        "host": "Fridays For Future Ventimiglia",
+        "host": [
+            {
+                "id": 241,
+                "value": "Fridays For Future Ventimiglia"
+            },
+            {
+                "id": 242,
+                "value": ""
+            }
+        ],
         "what": "lab",
-        "host_name": "Pietro Pizzo",
+        "host_name": [
+            {
+                "id": 241,
+                "value": "Pietro Pizzo"
+            },
+            {
+                "id": 242,
+                "value": "Giampiero Cane"
+            }
+        ],
         "times": "**27**: 16:00-18:00; **28**: <span class='eng'>16:00-18:00</span>"
     },
     {
         "title": "Nodi",
-        "days": "26",
+        "days": [
+            {
+                "id": 1386,
+                "value": "26",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Oratorio San Costanzo",
         "host": "",
         "what": "lab",
@@ -136,7 +301,23 @@
     },
     {
         "title": "Squilibrio e ambiente",
-        "days": "26",
+        "days": [
+            {
+                "id": 1386,
+                "value": "26",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1388,
+                "value": "28",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Terrazza San Costanzo",
         "host": "Extintion Rebellion (XR)",
         "what": "lab",
@@ -145,7 +326,18 @@
     },
     {
         "title": "Tai Chi",
-        "days": "26",
+        "days": [
+            {
+                "id": 1386,
+                "value": "26",
+                "color": "dark-gray"
+            },
+            {
+                "id": 1387,
+                "value": "27",
+                "color": "dark-gray"
+            }
+        ],
         "location": "Giardini Regina Elena",
         "host": "ASD Liberalamente",
         "what": "lab",
