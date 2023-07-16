@@ -2,23 +2,23 @@
 	"it": [
 		{
 			"question": "Quando e dove sarà la prossima edizione di Scambi Festival?",
-			"answer": "La terza edizione di Scambi Festival si terrà durante l’ultima settimana di agosto 2023. Le date precise sono ancora da definire, ma probabilmente organizzeremo qualcosa prima di agosto! Rimanete connessз."
+			"answer": "La terza edizione di Scambi Festival si terrà nella Pigna, il centro storico di Sanremo (IM) dal 24 al 27 agosto 2023."
 		},
 		{
-			"question": "Non sono riuscito ad essere a Sanremo durante il festival. Posso rivedere gli incontri in streaming?",
+			"question": "Non riuscirò ad esserci fisicamente. Potrò seguire gli incontri in streaming?",
 			"answer": "Purtroppo, no. L’incontro virtuale è la negazione della filosofia di ciò che intendiamo realizzare. La fisicità è la chiave dello scambio umano e della crescita reciproca che intendiamo perseguire. Nonostante questo, proviamo a registrare e salvare i pochi incontri frontali che teniamo; si trovano [sul nostro canale PeerTube](https://peertube.uno/c/scambifestival/videos 'Canale PeerTube di Scambi Festival')"
 		},
 		{
 			"question": "Non vedo l’ora di esserci! Posso ricevere ospitalità?",
-			"answer": "Fra staff e ospiti, abbiamo trovato una sistemazione <i lang='en'>low-cost</i> a 50 persone. Purtroppo, le nostre limitatissime risorse, nonché limitatissimi spazi e offerte sul territorio, non ci permettono di essere d’aiuto. Se sei proprio disperatə, prova a scriverci un’email a staff@scambi.org"
+			"answer": "Oh yes! È pure gratis! Abbiamo trovato <u>una sistemazione spartana</u> per 80 persone. Per saperne di più, leggi [la guida](/guida 'La guida a Scambi Festival')."
 		},
 		{
 			"question": "Quanto costa partecipare?",
-			"answer": "**Nulla**. Scambi intende essere accessibile a tutti, letteralmente: non ci sono costi obbligatori."
+			"answer": "**Nulla**. Scambi intende essere accessibile a tuttз, letteralmente: non ci sono costi obbligatori."
 		},
 		{
 			"question": "Vorrei dare una mano. Come posso fare?",
-			"answer": "Siamo sempre molto felici di accogliere nuovз volontariз! In [questa pagina](/staff 'Lo staff di Scambi Festival') trovi tutte le informazioni che ti potrebbero servire.<br>Se intendi entrare nello staff, invece, suggeriamo di leggere [il nostro manuale](https://manuale.scambi.org 'Manuale di Scambiologia')"
+			"answer": "Siamo sempre molto felici di accogliere nuovз volontariз! In [questa pagina](/staff 'Lo staff di Scambi Festival') trovi tutte le informazioni che ti potrebbero servire.<br>Se intendessi unirti all’associazione a lungo termine, invece, suggeriamo di leggere [il nostro manuale](https://manuale.scambi.org 'Manuale di Scambiologia')"
 		},
 		{
 			"question": "Come faccio a non perdermi gli aggiornamenti sulle vostre iniziative?",
@@ -32,15 +32,15 @@
 	"en": [
 		{
 			"question": "When and where is the next edition of Scambi Festival taking place?",
-			"answer": "The third edition of Scambi Festival is taking place during the last week of August 2023. We are still defining the specific dates. Nevertheless, we might be organizing some other event in the next months. Stay tuned!"
+			"answer": "The third edition of Scambi Festival is taking place in Sanremo (Italy) from August 24<sup>th</sup> to 27</sup>th</sup> 2023."
 		},
 		{
-			"question": "I could not be in Sanremo during the festival. Can I watch the meetings online?",
+			"question": "I won’t be able to attend. Can I participate online?",
 			"answer": "Unfortunately, not. Virtual meetings deny the very definition of what we are working on. Presence and in-person experience are key factors in the human exchange and mutual growth we are pursuing."
 		},
 		{
 			"question": "Can’t wait to be there! Are there any accommodation solutions?",
-			"answer": "Including staff coming from abroad and lab hosts, we are hosting around 50 people. Unfortunately, our scarce resources and the city setting make it impossible for us to help you. If you are really desperate, <a href='mailto:staff@scambi.org?subject=Hosting%20help!' target='_blank' title='email us'>get in touch with us</a>, but we can’t promise you anything."
+			"answer": "Of course! The one we have is very frugal, but **free**! Check out [our guide](/guide 'Scambi Festival guide') to know more."
 		},
 		{
 			"question": "How much does the ticket cost?",
@@ -52,15 +52,15 @@
 		},
 		{
 			"question": "Are the festival events being translated in English, too?",
-			"answer": "Most of the activities are available also in languages different from Italian! To know which ones, check their info page."
+			"answer": "Most of the activities are available also in languages different from Italian! To know which ones, check their respective info page."
 		},
 		{
-			"question": "How can I keep updated about your activities?",
+			"question": "How can I keep up with your news?",
 			"answer": "There are many ways: you can [subscribe to our newsletter](https://buttondown.email/scambi 'Scambi di Parole'), or [follow us on social media](https://instagram.com/scambifestival 'Scambi Festival on Instagram')."
 		},
 		{
 			"question": "I have a question I can’t find an answer to!",
-			"answer": "We are not as clever as Sheldon Cooper, but we promise to do our best to help you. Either <a href='mailto:staff@scambi.org' target='_blank' title='Send an email to staff@scambi.org'>write us an email</a>, or send us a message on social media."
+			"answer": "We are not as clever as Sheldon Cooper, but we promise to do our best to help you. Feel free to either <a href='mailto:staff@scambi.org' target='_blank' title='Send an email to staff@scambi.org'>write us an email</a>, or get in touch social media."
 		}
 	]
 }
