@@ -9,7 +9,6 @@ module.exports = {
 	lang: 'it',
 	layout: 'wrapper',
 	image: 'https://x.scambi.org/scambi.webp',
-	class: 'gradient-behind',
 	// Automatically generating titles, as explained in https://github.com/11ty/eleventy/discussions/2241#discussioncomment-2224265
 	eleventyComputed: {
 		title(data) {
