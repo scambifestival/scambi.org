@@ -12,6 +12,10 @@
 	{% render 'head.html', latex: latex, date: date, updated: updated, title: title, description: description, primary: primary, lang: lang, alternate: alternate, accounts: accounts, site: site, url: page.url, layout: layout, isNote: isNote, isPost: isPost, tommi: tommi, image: image, video: video, total_title: total_title %}
 
 	<body{% if class %} class='{{ class }}'{% endif %}>
+		<div class='left viewport-frame'></div>
+		<div class='top viewport-frame'></div>
+		<div class='right viewport-frame'></div>
+		<div class='bottom viewport-frame'></div>
 		<a id='scrollbutton' class='tool' href='#' aria-label='scroll to top' title='scroll to top'>
 			<svg class='button' viewBox='0 0 24 24' style='background:var(--background)' aria-hidden='true'><path d='M18 15a1 1 0 0 1-.64-.23L12 10.29l-5.37 4.32a1 1 0 0 1-1.41-.15 1 1 0 0 1 .15-1.41l6-4.83a1 1 0 0 1 1.27 0l6 5a1 1 0 0 1 .13 1.41A1 1 0 0 1 18 15z' fill='var(--text)'/></svg>
 		</a>

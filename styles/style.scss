@@ -1,40 +1,21 @@
 @use 'parts/normalize';
-@use 'parts/londrina';
-@use 'parts/poppins';
+@use 'parts/stinger';
+@use 'parts/articulat';
 @use 'parts/root';
 @use 'parts/header';
 @use 'parts/tags';
-@use 'parts/syntax-highlight';
 @use 'parts/lite-youtube-embed';
-
-$tiny: .2rem;
-$small: .5rem;
-$regular-less: .9rem;
-$regular: 1.1rem;
-$regular-more: 1.3rem;
-$regular-more-em: 1.3em;
-$big: 1.6rem;
-$bigger: 1.8rem;
-$twice: 2.2rem;
-$height: 3.1rem;
-$mastodon: 4rem;
-$h1: 6rem;
-$h2: 4rem;
-$h3: 2rem;
-$radius-s: .4rem;
-$radius-m: .8rem;
-$radius-l: 2rem;
-$trans: .5s ease-out;
-$quicktrans: .1s ease-in-out;
 
 /* LIGHT THEME */
 body {
+	margin: 1.5rem;
+	padding-top: 5rem;
 	color: var(--black-ish);
 	overflow-wrap: break-word;
 	hyphens: auto;
-	font: $regular var(--font-main);
+	font: root.$regular var(--font-main);
 	--scambi-shadow: 3px 3px 0 var(--purple);
-	--background: #FBFBFB;
+	--background: #FFF;
 	background: var(--background);
 	--text: var(--black-ish);
 	--deep: #FFF;
@@ -42,30 +23,25 @@ body {
 	--primary: var(--purple);
 	--secondary: var(--blue);
 	--slight: var(--dark-purple);
-	--grey: var(--light-grey);
-	--other-grey: var(--dark-grey);
 	--transp-text: #480B5E33;
 	--strong-shadow: var(--yellow);
 	--shadow: 5px 5px 20px #480B5E22, -5px -5px 20px #FFF3CC22;
 	--opposite-shadow: -5px -5px 20px #480B5E66, 5px 5px 20px #FFF8;
-	--little-shadow: 1px 1px 4px #480B5E33, -2px -2px 3px #FFF8;
+	--little-shadow: 2px 2px 0 var(--turquoise);
 	--button-shadow: inset 2px 2px 4px #FFF8, inset -2px -2px 4px #480B5E88, 0 3px 5px #480B5E77;
 	--tool-shadow: 3px 3px 8px #480B5E55, -3px -3px 8px #FFF9;
 	--inner-shadow: inset 3px 3px 5px #480B5E55, inset -3px -3px 5px #FFF5;
 	--inner-little-shadow: inset 2px 2px 3px #480B5E22, inset -2px -2px 3px #FFF3;
 
-	transition: $trans;
+	transition: root.$trans;
 }
 
 /* DARK THEME */
 @media screen and (prefers-color-scheme: dark) {
-	html {
-		--gradient: var(--dark-gradient) !important;
-	}
 	body {
 		color: #FFF;
 		--scambi-shadow: 3px 3px 0 var(--yellow);
-		--background: var(--dark-blue);
+		--background: var(--dark-purple);
 		background: var(--background);
 		--text: var(--white);
 		--deep: #000;
@@ -73,19 +49,16 @@ body {
 		--primary: var(--yellow);
 		--secondary: var(--orange);
 		--slight: #ffe2a3;
-		--grey: var(--dark-grey);
-		--other-grey: var(--light-grey);
 		--transp-text: #EBB4FF33;
 		--strong-shadow: var(--purple);
 		--shadow: 5px 5px 20px #480B5E22, -5px -5px 20px #FFF3CC22;
 		--opposite-shadow: -5px -5px 20px #480B5E66, 5px 5px 20px #FFF8;
-		--little-shadow: 1px 1px 4px #480B5E33, -2px -2px 3px #FFF8;
 		--button-shadow: inset 2px 2px 4px #FFF8, inset -2px -2px 4px #480B5E88, 0 3px 5px #480B5E77;
 		--tool-shadow: 3px 3px 8px #480B5E55, -3px -3px 8px #FFF9;
 		--inner-shadow: inset 3px 3px 5px #480B5E55, inset -3px -3px 5px #FFF5;
 		--inner-little-shadow: inset 2px 2px 3px #480B5E22, inset -2px -2px 3px #FFF3;
 
-		transition: $trans;
+		transition: root.$trans;
 	}
 	#scambi {
 		--shadow: var(--orange);
@@ -93,20 +66,44 @@ body {
 }
 
 html {
+	background: var(--purple);
 	scroll-behavior: smooth;
-	background: var(--gradient);
 	cursor: url(/cursor.svg) 16 16, crosshair;
 }
 
-.gradient-behind {
-	margin: 10vw 3vw 4vw;
-	border-radius: $radius-l;
-	box-shadow: 5px 5px 2.5vw #46115c34;
+* {
+	transition: root.$trans, transform root.$quicktrans, box-shadow root.$quicktrans, text-shadow root.$quicktrans, border root.$quicktrans;
+	scrollbar-color: var(--primary) transparent;
 }
 
-* {
-	transition: $trans, transform $quicktrans, box-shadow $quicktrans, text-shadow $quicktrans, border $quicktrans;
-	scrollbar-color: var(--primary) transparent;
+.viewport-frame {
+	position: fixed;
+	z-index: 1;
+	background: var(--primary);
+	&.left {
+		height: 100vh;
+		top: 0;
+		left: 0;
+		width: 1.5rem;
+	}
+	&.right {
+		height: 100vh;
+		top: 0;
+		right: 0;
+		width: 1.5rem;
+	}
+	&.top {
+		height: 1.5rem;
+		width: 100vw;
+		top: 0;
+		right: 0;
+	}
+	&.bottom {
+		height: 1.5rem;
+		width: 100vw;
+		bottom: 0;
+		right: 0;
+	}
 }
 
 #menutoggle,
@@ -149,7 +146,7 @@ span.citation {
 }
 
 ::selection {
-	color: var(--dark-blue);
+	color: var(--dark-purple);
 	background: var(--yellow);
 }
 
@@ -202,7 +199,7 @@ a {
 	img {
 		& + h2,
 		& + h3 {
-			margin-top: $regular-more;
+			margin-top: root.$regular-more;
 		}
 	}
 }
@@ -223,21 +220,21 @@ input[type='email'] {
 	border: none;
 	background: var(--background);
 	color: var(--text);
-	border-radius: $radius-l;
-	padding: $small $regular;
+	border-radius: root.$radius-l;
+	padding: root.$small root.$regular;
 	box-shadow: var(--inner-shadow);
-	font-size: $regular;
+	font-size: root.$regular;
 	width: 20rem;
-	margin: $regular-less;
+	margin: root.$regular-less;
 	max-width: 100%;
 	border: 3px solid var(--primary);
 	outline: none !important;
 	&::placeholder {
-		color: var(--other-grey);
+		opacity: .2;
 	}
 	& ~ .button {
-		margin-left: $regular-less;
-		margin-right: $regular-less;
+		margin-left: root.$regular-less;
+		margin-right: root.$regular-less;
 	}
 	&:active {
 		outline: none !important;
@@ -267,7 +264,7 @@ input[type='email'] {
 .grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-	grid-gap: $regular-less;
+	grid-gap: root.$regular-less;
 	p {
 		font-size: .8em;
 		font-weight: 300;
@@ -283,7 +280,7 @@ input[type='email'] {
 
 li {
 	line-height: 1.5em;
-	margin-bottom: $small;
+	margin-bottom: root.$small;
 	ul {
 		li {
 			margin-bottom: 0;
@@ -307,9 +304,9 @@ li {
 
 .task-list-item-checkbox {
 	position: relative;
-	right: $regular-less;
-	width: $regular;
-	height: $regular;
+	right: root.$regular-less;
+	width: root.$regular;
+	height: root.$regular;
 }
 
 .post {
@@ -363,10 +360,10 @@ samp {
 }
 
 pre {
-	padding: $regular;
-	border-radius: $radius-m;
+	padding: root.$regular;
+	border-radius: root.$radius-m;
 	white-space: pre-wrap;
-	background: var(--dark-blue);
+	background: var(--dark-purple);
 	color: var(--white);
 	code {
 		background: none;
@@ -378,14 +375,14 @@ pre {
 code {
 	padding: 2px 6px;
 	box-shadow: var(--inner-little-shadow);
-	border-radius: $radius-s;
+	border-radius: root.$radius-s;
 }
 
 .missing,
 .bug,
 .wtf {
 	padding: 2px 5px;
-	border-radius: $radius-s;
+	border-radius: root.$radius-s;
 }
 
 .missing,
@@ -427,7 +424,7 @@ tr {
 }
 
 th {
-	padding: $small $regular-less;
+	padding: root.$small root.$regular-less;
 	position: sticky;
 	top: 0;
 	background: var(--background);
@@ -435,15 +432,15 @@ th {
 
 td {
 	font-size: .8em;
-	padding: $tiny $small;
+	padding: root.$tiny root.$small;
 }
 
 .table {
 	max-height: 90vh;
 	overflow: scroll;
-	margin: $height 3vw;
+	margin: root.$height 3vw;
 	border: 3px solid var(--text);
-	border-radius: $radius-l;
+	border-radius: root.$radius-l;
 	box-shadow: var(--shadow);
 	table {
 		width: 100%;
@@ -500,7 +497,7 @@ img {
 	max-width: 100%;
 	margin: 0 auto;
 	display: block;
-	border-radius: $radius-l;
+	border-radius: root.$radius-l;
 	h2 &,
 	h3 & {
 		margin: auto;
@@ -510,7 +507,7 @@ img {
 	}
 	& + h2,
 	& + h3 {
-		margin-top: $regular-more;
+		margin-top: root.$regular-more;
 	}
 }
 
@@ -522,17 +519,17 @@ figure {
 		margin: 0 auto;
 	}
 	& + figure {
-		margin-top: $bigger;
+		margin-top: root.$bigger;
 	}
 	& + figure.column {
-		margin: 0 0 0 $big;
+		margin: 0 0 0 root.$big;
 	}
 }
 
 figcaption {
-	font: $regular var(--font-serif);
-	margin: $regular-less 10% 0;
-	color: var(--other-grey);
+	font: root.$regular var(--font-serif);
+	margin: root.$regular-less 10% 0;
+	opacity: .7;
 	text-align: center;
 }
 
@@ -600,10 +597,10 @@ figcaption {
 }
 
 .p-author {
-	line-height: $mastodon;
+	line-height: root.$mastodon;
 	img {
 		display: inline-block;
-		height: $mastodon;
+		height: root.$mastodon;
 		border-radius: 999px;
 		border: 2px solid var(--primary);
 		box-shadow: var(--shadow);
@@ -621,8 +618,8 @@ figcaption {
 	}
 	span {
 		position: relative;
-		bottom: $big;
-		margin: 0 $regular 0 $small ;
+		bottom: root.$big;
+		margin: 0 root.$regular 0 root.$small ;
 	}
 }
 
@@ -646,21 +643,21 @@ b {
 
 article {
 	position: relative;
-	font-size: $regular-more;
+	font-size: root.$regular-more;
 	padding: 8vh 5vw 15vh;
 	h2, h3 {
 		margin: revert;
 	}
 	> .box {
-		margin: $bigger 0;
+		margin: root.$bigger 0;
 	}
 }
 
 h1, h2, h3, h4, h5, h6 {
 	color: var(--slight);
 	font-family: var(--font-heading);
-	font-weight: 500;
-	transition: $quicktrans;
+	font-weight: 700;
+	transition: root.$quicktrans;
 	line-height: 1;
 	hyphens: none;
 	margin: 0;
@@ -675,12 +672,16 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 
+h1, h2 {
+	text-transform: uppercase;
+}
+
 .title {
 	text-shadow: 1.5px 1.5px 0 var(--orange);
 }
 
 h1 {
-	font-size: $h1;
+	font-size: root.$h1;
 	margin: 6rem 3vw 0;
 	text-shadow: var(--neat-orange-shadow);
 	&:hover {
@@ -693,14 +694,14 @@ h1 {
 }
 
 h2 {
-	font-size: $h2;
+	font-size: root.$h2;
 	.anchor::after {
 		content: '##';
 	}
 }
 
 h3 {
-	font-size: $h3;
+	font-size: root.$h3;
 	.anchor::after {
 		content: '###';
 	}
@@ -711,9 +712,9 @@ h3 {
 	background: var(--background);
 	max-width: 100%;
 	color: var(--text);
-	padding: $big;
-	margin: $regular-less 3%;
-	border-radius: $radius-l;
+	padding: root.$big;
+	margin: root.$regular-less 3%;
+	border-radius: root.$radius-l;
 	box-shadow: var(--shadow);
 	.anchor {
 		display: none;
@@ -722,24 +723,24 @@ h3 {
 		margin: 0;
 	}
 	.written.button:not(.tiny) {
-		margin: $regular-more $small;
+		margin: root.$regular-more root.$small;
 	}
 }
 
 #blog {
 	.box {
-		padding: $small;
+		padding: root.$small;
 	}
 	img {
 		max-height: 20rem;
 	}
 	h2 {
-		margin: $regular-less 0;
+		margin: root.$regular-less 0;
 		font-size: 2rem;
 	}
 	p {
 		line-height: 1;
-		margin: $small 0;
+		margin: root.$small 0;
 	}
 	.authors.flex {
 		justify-content: space-between;
@@ -757,7 +758,7 @@ h3 {
 }
 
 .tags {
-	padding: $small $tiny;
+	padding: root.$small root.$tiny;
 	h2 {
 		a {
 			color: var(--text);
@@ -769,12 +770,12 @@ h3 {
 		overflow: scroll;
 	}
 	.button {
-		margin: $small !important;
+		margin: root.$small !important;
 	}
 }
 
 #lang-filter {
-	font-size: $bigger;
+	font-size: root.$bigger;
 }
 
 #toc {
@@ -818,7 +819,7 @@ h3 {
 
 .excerpt {
 	display: block;
-	margin: $small 10%;
+	margin: root.$small 10%;
 	font: italic .85em var(--font-main);
 	line-height: 1.5em;
 }
@@ -830,16 +831,16 @@ h3 {
 
 .footnotes {
 	font-size: .8em;
-	margin-top: $height;
+	margin-top: root.$height;
 }
 
 .pagination nav {
 	li {
-		margin: $small $tiny;
+		margin: root.$small root.$tiny;
 		list-style-type: none;
 	}
 	a {
-		padding: $small $regular-less;
+		padding: root.$small root.$regular-less;
 		background: var(--background);
 		&[aria-current] {
 			background: var(--primary);
@@ -851,14 +852,7 @@ h3 {
 
 footer {
 	background: var(--background);
-	padding: $big 10vw;
-	margin: $twice 3%;
-	border-radius: $radius-l;
-	box-shadow: var(--shadow);
-	.gradient-behind & {
-		transform: scale(1.1);
-	margin: $twice 3% 0;
-	}
+	padding: root.$big 10vw;
 	p {
 		line-height: 1.5;
 		font-size: .8em;
@@ -885,16 +879,16 @@ audio,
 .controlBar {
 	width: 100%;
 	box-shadow: var(--shadow);
-	border-radius: $radius-m;
+	border-radius: root.$radius-m;
 }
 
 #social,
 #share {
 	svg,
 	img {
-		height: $bigger;
+		height: root.$bigger;
 		width: auto;
-		margin: $small;
+		margin: root.$small;
 	}
 }
 
@@ -902,10 +896,10 @@ button,
 .button,
 input[type='submit'] {
 	display: inline-block;
-	padding: $small $big;
-	font-size: $big;
+	padding: root.$small root.$big;
+	font-size: root.$big;
 	font-weight: 700;
-	border-radius: $radius-l;
+	border-radius: root.$radius-l;
 	box-shadow: var(--button-shadow);
 	text-align: center;
 	hyphens: none;
@@ -917,14 +911,14 @@ input[type='submit'] {
 		box-shadow: var(--inner-shadow);
 	}
 	& ~ .button {
-		margin: $regular-less;
+		margin: root.$regular-less;
 	}
 }
 
 svg.button {
-	height: $height;
+	height: root.$height;
 	width: auto;
-	margin: $small;
+	margin: root.$small;
 }
 
 .written {
@@ -932,14 +926,14 @@ svg.button {
 	color: var(--text);
 	background: var(--primary);
 	&.newsletter {
-		margin-bottom: $bigger;
+		margin-bottom: root.$bigger;
 	}
 }
 
 .tiny {
-	padding: 1px $small;
-	margin: $tiny;
-	font-size: $regular-less;
+	padding: 1px root.$small;
+	margin: root.$tiny;
+	font-size: root.$regular-less;
 }
 
 .embed {
@@ -948,7 +942,7 @@ svg.button {
 		margin: auto !important;
 		box-shadow: var(--shadow) !important;
 		article & {
-			border-radius: $radius-l !important;
+			border-radius: root.$radius-l !important;
 		}
 	}
 }
@@ -962,7 +956,7 @@ svg.button {
 	overflow: hidden;
 	max-width: 100%;
 	background: transparent;
-	border-radius: $radius-l;
+	border-radius: root.$radius-l;
 	box-shadow: var(--shadow);
 	iframe,
 	object,
@@ -1001,8 +995,8 @@ svg.button {
 
 .tag {
 	h2 {
-		border-radius: $radius-m;
-		padding: $small;
+		border-radius: root.$radius-m;
+		padding: root.$small;
 	}
 	p {
 		text-align: center;
@@ -1047,8 +1041,8 @@ svg.button {
 
 .dark-blue {
 	color: #FFF;
-	background: var(--dark-blue);
-	border-color: var(--dark-blue) !important;
+	background: var(--dark-purple);
+	border-color: var(--dark-purple) !important;
 	--link: var(--yellow);
 }
 
@@ -1084,7 +1078,7 @@ svg.button {
 	img {
 		height: 16rem;
 		width: auto;
-		margin-right: $regular;
+		margin-right: root.$regular;
 	}
 }
 
@@ -1121,8 +1115,8 @@ svg.button {
 		margin-top: 2rem;
 	}
 	time {
-		padding: 0 $small;
-		border-radius: $radius-s;
+		padding: 0 root.$small;
+		border-radius: root.$radius-s;
 		background: var(--vertical-gradient);
 	}
 }
@@ -1155,12 +1149,12 @@ svg.button {
 }
 
 #goto {
-	padding: $small;
-	margin: $small;
+	padding: root.$small;
+	margin: root.$small;
 	.button {
 		color: var(--text);
 		background: var(--background);
-		margin: $small !important;
+		margin: root.$small !important;
 	}
 }
 
@@ -1200,7 +1194,7 @@ svg.button {
 		position: relative;
 	}
 	h2 {
-		margin-top: $mastodon;
+		margin-top: root.$mastodon;
 	}
 	h3 {
 		position: absolute;
@@ -1215,7 +1209,7 @@ svg.button {
 		}
 	}
 	figure {
-		margin-bottom: $regular-less;
+		margin-bottom: root.$regular-less;
 	}
 }
 
@@ -1229,10 +1223,10 @@ svg.button {
 		margin: 0;
 	}
 	section h1 {
-		font-size: $height;
+		font-size: root.$height;
 	}
 	.stuff-logo {
-		margin-top: $bigger
+		margin-top: root.$bigger
 	}
 	.line {
 		width: 20%;
@@ -1250,7 +1244,7 @@ svg.button {
 	#goto div {
 		display: flex;
 		overflow-x: scroll;
-		border-radius: $radius-l;
+		border-radius: root.$radius-l;
 	}
 	#help {
 		bottom: -15rem;
@@ -1258,11 +1252,11 @@ svg.button {
 	.box .column {
 		& + .column h2,
 		& + .column h3 {
-			margin-top: $regular-more;
+			margin-top: root.$regular-more;
 		}
 	}
 	footer {
-		padding: $big;
+		padding: root.$big;
 		& > .row {
 			justify-content: center;
 		}
@@ -1358,7 +1352,7 @@ svg.button {
 			content: '→';
 			position: absolute;
 			top: 4rem;
-			right: $small;
+			right: root.$small;
 		}
 	}
 	footer {
@@ -1366,9 +1360,9 @@ svg.button {
 			text-align: left;
 		}
 		.box {
-			margin: 0 $regular 0 0;
-			padding: $regular-less $bigger;
-			width: calc(100% / 3 * 2 - $regular-more);
+			margin: 0 root.$regular 0 0;
+			padding: root.$regular-less root.$bigger;
+			width: calc(100% / 3 * 2 - root.$regular-more);
 		}
 	}
 }

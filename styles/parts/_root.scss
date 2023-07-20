@@ -3,23 +3,12 @@
 	--white: #FBFBFB;
 	--dark-grey: #555;
 	--light-grey: #AAA;
-	--yellow: #FFD166;
-	--blue: #233FB9;
-	--dark-blue: #171557;
-	--light-blue: #ADCFFF;
-	--red: #D00;
-	--green: #88D18A;
-	--razzmatazz: #EC0868;
-	--purple: #69088D;
-	--dark-purple: #480B5E;
-	--orange: #EF7D6E;
-	--darkmatazz: #D0031F;
-	--gradient: linear-gradient(98deg, #FFEDC4 0%, #E9AFFF 98.65%), var(--white);
-	--dark-gradient: linear-gradient(98deg, #755200 0%, #4F006B 98.65%), var(--dark-blue);
-	--saturated-gradient: linear-gradient(-110deg, #FFD166 0%, #69088D 98.65%), var(--white);
-	--blue-gradient: linear-gradient(110deg, #233FB911, #EF7D6E44), #233FB911;
-	--blue-gradient-inverted: linear-gradient(#233FB911, #EF7D6E44), #233FB911;
-	--vertical-gradient: linear-gradient(180deg, #FFD16622, #EF7D6E33),#FFD16655;
+	--yellow: #F8CC1A;
+	--turquoise: #73C7D0;
+	--green: #5BB244;
+	--purple: #51267B;
+	--dark-purple: #32173B;
+	--orange: #EB5B25;
 	--neat-orange-shadow: 3px 3px 0 var(--orange);
 	--neat-purple-shadow: 3px 3px 0 var(--purple);
 	
@@ -29,6 +18,26 @@
 	--title-text-shadow-hover: none;
 
 	--font-serif: 'EB Garamond', Garamond, serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-	--font-main: Poppins, system-ui, -apple-system, Inter, Helvetica, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-	--font-heading: 'Londrina Solid', system-ui, -apple-system, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+	--font-main: 'Articulat CF', system-ui, -apple-system, Inter, Helvetica, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+	--font-heading: stinger-variable, system-ui, -apple-system, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
 }
+
+$tiny: .2rem;
+$small: .5rem;
+$regular-less: .9rem;
+$regular: 1.1rem;
+$regular-more: 1.3rem;
+$regular-more-em: 1.3em;
+$big: 1.6rem;
+$bigger: 1.8rem;
+$twice: 2.2rem;
+$height: 3.1rem;
+$mastodon: 4rem;
+$h1: 6rem;
+$h2: 4rem;
+$h3: 2rem;
+$radius-s: .4rem;
+$radius-m: .8rem;
+$radius-l: 2rem;
+$trans: .5s ease-out;
+$quicktrans: .1s ease-in-out;
