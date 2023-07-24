@@ -11,7 +11,7 @@ Scambi Festival è un magnifico casino. Del magnifico stiamo sempre a parlare pe
 
 Si fanno quattro cose, tutte **gratis**:
 
-1. I Lab sono la proposta più importante. [Qui](/lab) è spiegato cosa siano e la loro filosofia. Si tratta di ***workshop*** che possono durare da 30 a 120 minuti e che si tengono in diversi luoghi sparsi per il quartiere. Più laboratori avvengono contemporaneamente e nella maggior parte dei casi si ripetono nel corso di diverse giornate. I loro dettagli si trovano nel programma. È obbligatorio prenotarsi! Vedi la sezione dedicata.
+1. I Lab sono la proposta più importante. [Qui](/lab) è spiegato cosa siano e la loro filosofia. Si tratta di ***workshop*** che possono durare da 30 a 120 minuti e che si tengono in diversi luoghi sparsi per il quartiere. Più laboratori avvengono contemporaneamente e nella maggior parte dei casi si ripetono nel corso di diverse giornate. I loro dettagli si trovano nel programma.
 2. I Pinoli sono collaterali ai Lab, ovvero presentazioni, chioschi, stand di nostri partner… sono tanti, ma sono tuuuutti elencati [nella pagina dedicata](https://scambi.org/pinoli).
 3. *Dissolvenze* è la sezione di Scambi dedicata al cinema. Quest’anno, terremo un cineforum molto particolare… scopri come sarà leggendo il programma.
 4. Si balla. Tutte le sere, c’è **musica live** che, nel vero stile di Scambi, attraversa *tutti* i generi musicali (sul serio). Sui nostri canali social annunceremo gli artisti che si esibiranno e che, come tutto il resto, sono specificati nel [programma](https://scambi.org/programma).
@@ -20,17 +20,13 @@ Si fanno quattro cose, tutte **gratis**:
 
 All’arrivo a Scambi, riceverete un pieghevole che chiamiamo **il passaporto**. Troverete scritte al suo interno tutte le informazioni che vi servono per vivere al meglio il festival, più una mappa della Pigna.
 
-### Prenotazioni
-
-È obbligatorio prenotarsi per i laboratori a cui si vuole partecipare. Non costa nulla e può essere fatto su [prenota.scambi.org](https://prenota.scambi.org) in qualunque momento a partire **dal 16 agosto 2023**.
-
 ## Offriamo ospitalità!
 
 La nostra associazione offre una soluzione **semplice** e essenziale ma **gratuita** se volessi partecipare al festival ma non avessi un luogo dove soggiornare. Potrai dormire nella palestra di una scuola che si trova nel cuore di Sanremo, a dieci minuti a piedi da Porta Bugiarda, dove inizia la Pigna.
 
 (*Porta Bugiarda* è anche il nome di un’ottima birra, prodotta dal Birrificio NADIR, che ha tenuto un Lab durante la prima edizione di Scambi. Potrai assaggiarla a Scambi 2023, la spilleremo durante tutte le serate 😍)
 
-Puoi prenotare un posto compilando il modulo che trovi su [palestra.scambi.org](https://palestra.scambi.org "Ospitalità a Scambi Festival 2023"), **ENTRO IL 10 AGOSTO 2023**.
+Puoi prenotare un posto compilando il modulo che trovi su [palestra.scambi.org](https://palestra.scambi.org 'Ospitalità a Scambi Festival 2023'), **ENTRO IL 10 AGOSTO 2023**.
 
 In palestra si dorme per terra. Porta il materassino.
 
@@ -46,12 +42,11 @@ Ogni ulteriore dettaglio sarà definito nelle email che saranno inviate a tutte 
 
 ## Come arrivare?
 
-  
 Scambi ha luogo ne *La Pigna*, il centro storico di Sanremo. L’accesso è quasi unicamente pedonale. Attenzione a non confondere il nome del quartiere con Pigna, paesino dell’entroterra del ponente ligure.
 
 ### Ride sharing!
 
-Se sai già di venire in macchina e hai dei posti, o se cerchi uno strappo per tutto il tuo tragitto o una sua parte, tieni d’occhio [la tabella del ride sharing](https://nuvola.scambi.org/s/QWoqXbCLGM7a6Z9 "2023 Scambi ride sharing")! (Se all’apertura appare una finestra strana, ignorala e chiudila schiacciando sulla “x” in alto a destra. Stiamo lavorando per toglierla di mezzo)
+Se sai già di venire in macchina e hai dei posti, o se cerchi uno strappo per tutto il tuo tragitto o una sua parte, tieni d’occhio [la tabella del ride sharing](https://nuvola.scambi.org/s/QWoqXbCLGM7a6Z9 '2023 Scambi ride sharing')! (Se all’apertura appare una finestra strana, ignorala e chiudila schiacciando sulla “x” in alto a destra. Stiamo lavorando per toglierla di mezzo)
 
 ### In aereo
 
