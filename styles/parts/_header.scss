@@ -1,15 +1,15 @@
 @use 'parts/root';
 
 header {
-	top: 3rem;
-	left: 3rem;
+	top: 2.5rem;
+	left: 2.5rem;
 	display: flex;
 	height: 4rem;
 	text-transform: uppercase;
 	background: var(--background);
 	position: fixed;
 	z-index: 8;
-	box-shadow: -.5rem -.5rem 0 var(--turquoise), -1rem -1rem 0 var(--primary);
+	box-shadow: -.5rem -.5rem 0 var(--turquoise), /*-1rem -1rem 0 var(--primary),*/ .5rem .5rem 0 var(--primary)/*, 1rem 1rem 0 var(--turquoise)*/;
 	* {
 		list-style-type: none !important;
 		font-weight: 700 !important;
@@ -152,12 +152,6 @@ header {
 		menu li,
 		ul li {
 			float: none;
-			&:nth-child(odd) {
-				background: var(--gradient);
-			}
-			&:nth-child(even) {
-				background: var(--background);
-			}
 			a,
 			label {
 				color: var(--text) !important;

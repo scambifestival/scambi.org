@@ -15,7 +15,7 @@ layout: wrapper
 					{% if date %}<time class='dt-published' datetime='{{ date | date: '%Y-%m-%dT%H:%M:%S%:z' }}'>{{ date | date: '%e %B %Y' }}</time>{% endif %}
 				{% endif %}
 			</p>
-			{% for person in people %}
+			{% comment %}{% for person in people %}
 				{% assign writer_data = | append: person.Nome | append: ' ' | append: person.Cognome %}
 				{% for writer in author %}
 					{% if writer == writer_data %}
@@ -25,7 +25,7 @@ layout: wrapper
 						</a>
 					{% endif %}
 				{% endfor %}
-			{% endfor %}
+			{% endfor %}{% endcomment %}
 		</div>
 	</section>
 

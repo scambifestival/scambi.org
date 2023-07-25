@@ -12,12 +12,16 @@
 	{% render 'head.html', latex: latex, date: date, updated: updated, title: title, description: description, primary: primary, lang: lang, alternate: alternate, accounts: accounts, site: site, url: page.url, layout: layout, isNote: isNote, isPost: isPost, tommi: tommi, image: image, video: video, total_title: total_title %}
 
 	<body{% if class %} class='{{ class }}'{% endif %}>
-		<div class='left viewport-frame'></div>
-		<div class='top viewport-frame'></div>
-		<div class='right viewport-frame'></div>
-		<div class='bottom viewport-frame'></div>
+
+		{% if viewportFrame %}
+			<div class='left viewportFrame'></div>
+			<div class='top viewportFrame'></div>
+			<div class='right viewportFrame'></div>
+			<div class='bottom viewportFrame'></div>
+		{% endif %}
+
 		<a id='scrollbutton' class='tool' href='#' aria-label='scroll to top' title='scroll to top'>
-			<svg class='button' viewBox='0 0 24 24' style='background:var(--background)' aria-hidden='true'><path d='M18 15a1 1 0 0 1-.64-.23L12 10.29l-5.37 4.32a1 1 0 0 1-1.41-.15 1 1 0 0 1 .15-1.41l6-4.83a1 1 0 0 1 1.27 0l6 5a1 1 0 0 1 .13 1.41A1 1 0 0 1 18 15z' fill='var(--text)'/></svg>
+			<svg class='button' style='background:var(--primary)' aria-hidden='true' version='1.1' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'><path d='m7 14 5-5' fill='none' stroke='var(--background)' stroke-linecap='square' stroke-width='3'/><path d='m17 14-5-5' fill='none' stroke='var(--background)' stroke-linecap='square' stroke-width='3'/></svg>
 		</a>
 
 		{% render 'nav.html', lang: lang, alternate: alternate %}

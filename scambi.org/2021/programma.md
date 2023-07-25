@@ -7,7 +7,7 @@ permalink: /2021/programma/
 Per esplorare tutti gli angoli della Pigna ed essere un avventuriero che si rispetti, devi avere un passaporto! Ricordati di farti timbrare il visto dopo ogni laboratorio che farai.
 
 <div class='flex'>
-<a class='gradient button' href='https://x.scambi.org/assets/2021-passaporto.pdf' target='_blank' title='Passaporto 2021'>Scarica il passaporto!</a>
+<a class='green button' href='https://x.scambi.org/assets/2021-passaporto.pdf' target='_blank' title='Passaporto 2021'>Scarica il passaporto!</a>
 </div>
 
 ## 26 Agosto
