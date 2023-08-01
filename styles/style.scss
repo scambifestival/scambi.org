@@ -8,8 +8,8 @@
 
 /* LIGHT THEME */
 body {
-	margin: 1.5rem;
-	padding-top: 8rem;
+	margin: 1rem;
+	padding-top: 4rem;
 	color: #000;
 	overflow-wrap: break-word;
 	hyphens: auto;
@@ -76,28 +76,28 @@ html {
 
 .viewportFrame {
 	position: fixed;
-	z-index: 1;
+	z-index: 9;
 	background: var(--orange);
 	&.left {
 		height: 100vh;
 		top: 0;
 		left: 0;
-		width: 1.5rem;
+		width: 1rem;
 	}
 	&.right {
 		height: 100vh;
 		top: 0;
 		right: 0;
-		width: 1.5rem;
+		width: 1rem;
 	}
 	&.top {
-		height: 1.5rem;
+		height: 1rem;
 		width: 100vw;
 		top: 0;
 		right: 0;
 	}
 	&.bottom {
-		height: 1.5rem;
+		height: 1rem;
 		width: 100vw;
 		bottom: 0;
 		right: 0;
@@ -650,7 +650,7 @@ h1, h2 {
 
 h1 {
 	font-size: root.$h1;
-	margin: 0 3vw;
+	margin: 2rem 3vw 0;
 	text-shadow: var(--neat-orange-shadow);
 	&:hover {
 		transform: rotate(-3deg);
@@ -1082,7 +1082,7 @@ svg.button {
 .labs {
 	background: var(--green);
 	margin: 0;
-	padding-top: 3rem;
+	padding-top: 4rem;
 	.viewportFrame {
 		display: none;
 	}
@@ -1096,7 +1096,7 @@ svg.button {
 
 .pinoli {
 	background: var(--yellow);
-	padding-top: 3rem;
+	padding-top: 4rem;
 	margin: 0;
 	.viewportFrame {
 		display: none;

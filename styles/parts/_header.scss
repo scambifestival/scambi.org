@@ -1,15 +1,15 @@
 @use 'parts/root';
 
 header {
-	top: 2.5rem;
-	left: 2.5rem;
+	top: 1rem;
+	left: 1rem;
 	display: flex;
 	height: 4rem;
 	text-transform: uppercase;
 	background: var(--background);
 	position: fixed;
 	z-index: 8;
-	box-shadow: -.5rem -.5rem 0 var(--turquoise), /*-1rem -1rem 0 var(--primary),*/ .5rem .5rem 0 var(--primary)/*, 1rem 1rem 0 var(--turquoise)*/;
+	/*box-shadow: -.5rem -.5rem 0 var(--turquoise), -1rem -1rem 0 var(--primary), .5rem .5rem 0 var(--primary), 1rem 1rem 0 var(--turquoise);*/
 	* {
 		list-style-type: none !important;
 		font-weight: 700 !important;
@@ -149,6 +149,7 @@ header {
 		overflow: hidden;
 	}
 	#nav {
+		float: right;
 		menu li,
 		ul li {
 			float: none;
@@ -162,7 +163,8 @@ header {
 		}
 	}
 	header {
-		width: calc(100vw - 5rem);
+		width: calc(100vw - 2rem);
+		display: block;
 	}
 }
 
