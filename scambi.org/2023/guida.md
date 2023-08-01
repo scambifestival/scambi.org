@@ -3,6 +3,7 @@ title: La guida a Scambi Festival 2023
 description: In questa pagina trovi tutto quello che ti occorre sapere per partecipare alla terza edizione di Scambi Festival!
 permalink: /2023/guida/
 redirect_from: [/guida/]
+layout: page
 ---
 
 Scambi Festival è un magnifico casino. Del magnifico stiamo sempre a parlare per ore e moltissime persone adorano quello che accade durante quei quattro indimenticabili giorni, alla Pigna. Tuttavia, lo riconosciamo: è un gran casino. Questa guida serve precisamente a dipanare la matassa e affrontare praticamente e semplicemente più cose possibili.
@@ -34,7 +35,7 @@ Ogni ulteriore dettaglio sarà definito nelle email che saranno inviate a tutte 
 
 ### Note importanti!
 
-- Anche se l’ospitalità è gratuita, l’associazione fa fronte a ingenti spese per la realizzazione del festival, per cui chiediamo a tutte le persone che vi pernotteranno un’offerta di 5€ a notte. Anche se non voleste donare, per verificare la vostra prenotazione e provare a evitare che ci tiriate un pacco, chiediamo comunque che effettuiate preventivamente un pagamento in nostro favore (anche di un centesimo). Potete farlo in diversi modi: 
+- Anche se l’ospitalità è gratuita, l’associazione fa fronte a ingenti spese per la realizzazione del festival, per cui chiediamo a tutte le persone che vi pernotteranno un’offerta di 5€ a notte. Anche se non voleste donare, per verificare la vostra prenotazione e provare a evitare che ci tiriate un pacco, chiediamo comunque che effettuiate preventivamente un pagamento minimo in nostro favore (anche di un centesimo). Potete farlo in diversi modi: 
   - via PayPal, all’indirizzo palanche@scambi.org
   - con Satispay, cercando “Scambi Festival” (l’indirizzo dovrebbe essere “Piazza Oratorio dei Dolori, 7”)
   - tramite bonifico bancario, intestato a “A.P.S. Oltre”, con IBAN IT63E0501801400000016986952
