@@ -4,7 +4,6 @@ image: https://x.scambi.org/illustrations/program_gradient.webp
 description: All of the Labs, conferences, Pinoli, and appointments you cannot miss during Scambi Festival 2022!
 layout: page
 permalink: /2022/program/
-redirect_from: [/program/]
 ref: 2022program
 todo: translation
 ---

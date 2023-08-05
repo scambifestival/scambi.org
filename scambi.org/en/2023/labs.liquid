@@ -1,0 +1,21 @@
+---
+title: Lab 2023
+class: labs
+permalink: /en/2023/labs/
+redirect_from: ['/en/2023/lab/']
+description: All the Labs of Scambi Festival 2023
+ref: 2023-labs
+lang: en
+---
+<h1>Lab 2023</h1>
+<p class='center'><strong>Almost there!</strong> all 2023 labs and the <a href='/program'>full program</a> are being published on <strong>August 10<sup>th</sup></strong>.</p>
+{% comment %}<p class='center'>Tutti i Lab di Scambi Festival 2023. Dai un’occhiata anche al <a href='/2023/programma' title='Programma 2023'>programma</a> e ai <a href='/2023/pinoli' title='Pinoli 2023'>Pinoli</a>!</p>
+<section class='flex row' id='lab-list'>
+	{% assign labs = 2023-labs %}
+	{% for lab in labs %}
+		<a id='{{ lab.title | slugify}}' class='shrink box' href='/2023/lab/{{ lab.title | slugify }}'>
+			<h3>{{ lab.title }}</h3>
+			<p>{{ lab.descrizione | truncate: 200 | markdownify }}</p>
+		</a>
+	{% endfor %}
+</section>{% endcomment %}

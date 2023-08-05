@@ -9,6 +9,7 @@ header {
 	background: var(--background);
 	position: fixed;
 	z-index: 8;
+	width: calc(100vw - 2rem);
 	/*box-shadow: -.5rem -.5rem 0 var(--turquoise), -1rem -1rem 0 var(--primary), .5rem .5rem 0 var(--primary), 1rem 1rem 0 var(--turquoise);*/
 	* {
 		list-style-type: none !important;
@@ -38,12 +39,16 @@ header {
 	text-align: right;
 	padding: 0 root.$regular 0 root.$small;
 	display: flex;
+	justify-content: space-evenly;
+	flex-grow: 1;
 	* {
 		margin: 0 !important;
 	}
-	ul,
 	menu {
 		padding: 0;
+		display: flex;
+		justify-content: space-evenly;
+		flex-grow: 1;
 		li {
 			float: left;
 			
@@ -84,6 +89,7 @@ header {
 	padding: 0 root.$small;
 	font-size: root.$regular-more;
 	font-weight: 700;
+	order: 1;
 	&::after {
 		content: none;
 	}
@@ -140,18 +146,18 @@ header {
 	menu {
 		position: fixed;
 		width: 12rem;
-		top: -22rem;
-		right: 0;
+		top: 5rem;
+		right: -12rem;
 		background: var(--background);
 		z-index: 9;
 		border-left: 5px solid var(--background);
 		border-bottom: 5px solid var(--background);
 		overflow: hidden;
+		display: block !important;
 	}
 	#nav {
 		float: right;
-		menu li,
-		ul li {
+		menu li {
 			float: none;
 			a,
 			label {
@@ -163,16 +169,13 @@ header {
 		}
 	}
 	header {
-		width: calc(100vw - 2rem);
 		display: block;
 	}
 }
 
 #menutoggle:checked {
 	& ~ menu {
-		top: 9rem;
-		right: 3rem;
-		box-shadow: -.5rem -.5rem 0 var(--turquoise), -1rem -1rem 0 var(--primary);
+		right: 1rem;
 	}
 	& ~ .nav-mobile {
 		span {

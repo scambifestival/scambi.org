@@ -66,7 +66,7 @@ body {
 html {
 	background: var(--purple);
 	scroll-behavior: smooth;
-	cursor: url(/cursor.svg) 16 16, crosshair;
+	cursor: url(/cursor.svg) 27 5, crosshair;
 }
 
 * {
@@ -201,7 +201,7 @@ a,
 button,
 .button,
 label {
-	cursor: url(/cursor-hover.svg) 16 16, pointer;
+	cursor: url(/cursor-hover.svg) 27 5, pointer;
 }
 
 input {
@@ -210,11 +210,9 @@ input {
 }
 
 input[type='email'] {
-	border: none;
 	background: var(--background);
 	color: var(--text);
 	padding: root.$small root.$regular;
-	box-shadow: var(--inner-shadow);
 	font-size: root.$regular;
 	width: 20rem;
 	margin: root.$regular-less;
@@ -231,11 +229,6 @@ input[type='email'] {
 	&:active {
 		outline: none !important;
 	}
-}
-
-.invalid-wikilink {
-	opacity: .5;
-	cursor: not-allowed;
 }
 
 .flex {
@@ -304,7 +297,6 @@ li {
 .post {
 	article {
 		background: var(--background);
-		box-shadow: var(--shadow);
 		& > p:first-of-type::first-letter {
 			initial-letter: 4;
 			font-weight: bolder;
@@ -316,19 +308,18 @@ main {
 	position: relative;
 }
 
-section:not(.full-width) {
+section {
 	body > &,
 	main > & {
 		margin: 3rem 0;
 		& > * {
-			padding: 1vw 3vw;
+			/*padding: 1vw 3vw;*/
 			& > img {
 				max-height: 50vh;
 				width: auto;
 			}
-			p,
-			form {
-				padding: 0 3vw;
+			p {
+				padding: 0 3%;
 			}
 		}
 	}
@@ -457,6 +448,10 @@ table {
 
 .two-thirds {
 	width: calc(100% / 3 * 2);
+}
+
+.one-fourth {
+	width: 25%;
 }
 
 .column {
@@ -606,7 +601,7 @@ strong,
 dt,
 b {
 	font-weight: bolder;
-	text-shadow: 1px 1px 0 var(--strong-shadow);
+	/*text-shadow: 1px 1px 0 var(--strong-shadow);*/
 }
 
 article {
@@ -622,7 +617,6 @@ article {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: var(--slight);
 	font-family: var(--font-heading);
 	font-weight: 700;
 	transition: root.$quicktrans;
@@ -677,8 +671,9 @@ h3 {
 	max-width: 100%;
 	color: var(--text);
 	padding: root.$big;
-	margin: root.$regular-less 3%;
+	margin: root.$regular 3%;
 	box-shadow: var(--shadow);
+	border-radius: .5rem;
 	.anchor {
 		display: none;
 	}
@@ -744,7 +739,6 @@ h3 {
 #toc {
 	h3 {
 		text-shadow: var(--little-shadow);
-		color: var(--slight);
 		margin: 0;
 	}
 	a {
@@ -961,11 +955,16 @@ svg.button {
 	border-color: var(--green) !important;
 }
 
-.red {
-	color: #FFF;
-	background: var(--red);
-	border-color: var(--red) !important;
-	--link: var(--yellow);
+.white {
+	color: #000;
+	background: #FFF;
+	border-color: #FFF !important;
+	--link: var(--orange);
+	--primary: var(--orange);
+	&.button,
+	button {
+		box-shadow: .25rem .25rem 0 var(--turquoise)
+	}
 }
 
 .purple {
@@ -973,7 +972,7 @@ svg.button {
 	background: var(--purple);
 	border-color: var(--purple) !important;
 	--link: var(--yellow);
-	--slight: var(--turquoise);
+	--primary: var(--yellow);
 	&.button,
 	button {
 		box-shadow: .25rem .25rem 0 var(--turquoise)
@@ -985,6 +984,8 @@ svg.button {
 	background: var(--turquoise);
 	border-color: var(--turquoise) !important;
 	--link: var(--purple);
+	--primary: var(--purple);
+	--slight: var(--dark-purple);
 	&::selection {
 		background: var(--purple);
 		color: #FFF;
@@ -1000,6 +1001,7 @@ svg.button {
 	color: #000;
 	background: var(--yellow);
 	--link: var(--purple);
+	--primary: var(--purple);
 	::selection {
 		background: var(--purple);
 		color: #FFF;
@@ -1066,7 +1068,6 @@ svg.button {
 }
 
 #newsletter {
-	margin: 3rem 3vw;
 	padding: 0;
 	.column {
 		padding: 0;
@@ -1135,11 +1136,17 @@ svg.button {
 #seeweb {
 	a {
 		display: block;
+		&:hover {
+			margin-bottom: 0;
+			border-bottom: 0;
+		}
 	}
 }
 
 #pan {
-	margin: 1vw 3vw;
+	h2 {
+		margin-top: root.$regular;
+	}
 }
 
 #intro-video {
@@ -1180,7 +1187,8 @@ svg.button {
 	.one,
 	.half,
 	.one-third,
-	.two-thirds {
+	.two-thirds,
+	.one-fourth {
 		width: 100%;
 		margin: 0;
 	}
@@ -1267,14 +1275,6 @@ svg.button {
 	.post article {
 		padding: 8vh 12vw 15vh;
 	}
-	ul.two,
-	ol.two {
-		columns: 2;
-	}
-	ul.three,
-	ol.three {
-		columns: 3;
-	}
 	#toc {
 		position: fixed;
 		left: 4vw;
@@ -1289,7 +1289,7 @@ svg.button {
 		position: fixed;
 		width: 16rem;
 		top: 35vh;
-		left: -15rem;
+		left: -14rem;
 		z-index: 8;
 		&:hover,
 		&:focus {
@@ -1304,7 +1304,7 @@ svg.button {
 		&::after {
 			content: '→';
 			position: absolute;
-			top: 4rem;
+			top: 3.5rem;
 			right: root.$small;
 		}
 	}
