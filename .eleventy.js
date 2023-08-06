@@ -59,7 +59,7 @@ module.exports = function(eleventyConfig) {
 
 	// Scss //
 	eleventyConfig.addPassthroughCopy({'svg': '/'});
-	eleventyConfig.addPassthroughCopy('fonts');
+	eleventyConfig.addPassthroughCopy('index.js');
 
 	// Plugins //
 	eleventyConfig.addPlugin(require('eleventy-sass'), {

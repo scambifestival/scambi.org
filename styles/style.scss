@@ -64,7 +64,7 @@ body {
 }
 
 html {
-	background: var(--purple);
+	background: var(--orange);
 	scroll-behavior: smooth;
 	cursor: url(/cursor.svg) 27 5, crosshair;
 }
@@ -246,23 +246,6 @@ input[type='email'] {
 	height: 100%;
 }
 
-.grid {
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-	grid-gap: root.$regular-less;
-	p {
-		font-size: .8em;
-		font-weight: 300;
-		line-height: 1.3em;
-		margin: 5%;
-	}
-	.box {
-		margin: 0;
-		padding: 3%;
-		/*height: 13rem;*/
-	}
-}
-
 li {
 	line-height: 1.5em;
 	margin-bottom: root.$small;
@@ -319,7 +302,7 @@ section {
 				width: auto;
 			}
 			p {
-				padding: 0 3%;
+				margin: root.$regular 3%;
 			}
 		}
 	}
@@ -560,10 +543,10 @@ figcaption {
 }
 
 .p-author {
-	line-height: root.$mastodon;
+	line-height: 4rem;
 	img {
 		display: inline-block;
-		height: root.$mastodon;
+		height: 4rem;
 		border-radius: 999px;
 		border: 2px solid var(--primary);
 		box-shadow: var(--shadow);
@@ -588,9 +571,6 @@ figcaption {
 
 p {
 	line-height: 1.7em;
-	&.one.column {
-		padding: 0 3vw;
-	}
 }
 
 u {
@@ -645,7 +625,7 @@ h1, h2 {
 h1 {
 	font-size: root.$h1;
 	margin: 2rem 3vw 0;
-	text-shadow: var(--neat-orange-shadow);
+	text-shadow: root.$neat-orange-shadow;
 	&:hover {
 		transform: rotate(-3deg);
 	}
@@ -730,10 +710,6 @@ h3 {
 	.button {
 		margin: root.$small !important;
 	}
-}
-
-#lang-filter {
-	font-size: root.$bigger;
 }
 
 #toc {
@@ -926,16 +902,21 @@ svg.button {
 	bottom: 3vw;
 	right: 4vw;
 	z-index: 2;
+	display: flex;
 	.button {
-		padding: .3rem;
+		width: root.$height;
+		height: root.$height;
+		line-height: root.$height;
+		padding: 0 root.$tiny;
+		margin: root.$tiny;
+		stroke: var(--background);
+		background: var(--primary) !important;
+		box-shadow: none;
 	}
 }
 
-#scrollbutton {
+.scrollToBottom {
 	.button {
-		box-shadow: none !important;
-	}
-	&[href='#0'] {
 		transform: rotate(180deg);
 	}
 }
@@ -1151,11 +1132,17 @@ svg.button {
 
 #intro-video {
 	margin: 0;
-	padding: 0;	
-	.embed-container {
-		--video-height: 1060;
-		box-shadow: none;
+}
+
+#main-info {
+	time {
+		text-shadow: root.$neat-green-shadow;
 	}
+}
+
+#free {
+	color: var(--orange);
+	text-shadow: 1px 1px 0 var(--turquoise);
 }
 
 #editions {
@@ -1163,7 +1150,7 @@ svg.button {
 		position: relative;
 	}
 	h2 {
-		margin-top: root.$mastodon;
+		margin-top: 4rem;
 	}
 	h3 {
 		position: absolute;
@@ -1200,10 +1187,6 @@ svg.button {
 	}
 	.line {
 		width: 20%;
-	}
-	.grid .box {
-		margin: 0 3%;
-		height: unset;
 	}
 	.tool {
 		bottom: 3vh;
@@ -1307,6 +1290,13 @@ svg.button {
 			top: 3.5rem;
 			right: root.$small;
 		}
+	}
+	#free {
+		display: inline-block;
+		position: relative;
+		bottom: 1.5rem;
+		right: -55rem;
+		transform: rotate(-10deg);
 	}
 	footer {
 		h4 {

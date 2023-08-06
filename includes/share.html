@@ -1,42 +1,8 @@
 <section class='yellow flex box'>
 	<h2 style='margin-right:1rem'>{% if lang == 'it' %}Condividi{% else %}Share{% endif %}</h2>
 	<div id='share' class='flex'>
-		<!-- Copy URL -->
-		<script>
-			function Copy(text) {
-				var inputc = document.body.appendChild(document.createElement('input'));
-				inputc.value = window.location.href;
-				inputc.focus();
-				inputc.select();
-				document.execCommand('copy');
-				inputc.parentNode.removeChild(inputc);
-				alert('{% if lang == 'it' %}URL copiato{% else %}URL has been copied{% endif %}');
-			}
-		</script>
-		<svg title='{% if lang == 'it' %}Copia URL{% else %}Copy URL{% endif %}' onclick='Copy()' viewBox='0 0 24 24' ><path d='M13.29 9.29l-4 4a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0l4-4a1 1 0 0 0-1.42-1.42z' fill='var(--primary)'/><path d='M12.28 17.4L11 18.67a4.2 4.2 0 0 1-5.58.4 4 4 0 0 1-.27-5.93l1.42-1.43a1 1 0 0 0 0-1.42 1 1 0 0 0-1.42 0l-1.27 1.28a6.15 6.15 0 0 0-.67 8.07 6.06 6.06 0 0 0 9.07.6l1.42-1.42a1 1 0 0 0-1.42-1.42z' fill='var(--primary)'/><path d='M19.66 3.22a6.18 6.18 0 0 0-8.13.68L10.45 5a1.09 1.09 0 0 0-.17 1.61 1 1 0 0 0 1.42 0L13 5.3a4.17 4.17 0 0 1 5.57-.4 4 4 0 0 1 .27 5.95l-1.42 1.43a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0l1.42-1.42a6.06 6.06 0 0 0-.6-9.06z' fill='var(--primary)'/></svg>
-		<!-- Mastodon --><svg title='Share on Mastodon' onclick='share_on_mastodon();' viewBox='0 0 24 24'><path d='M23.193 7.88c0-5.207-3.411-6.733-3.411-6.733C18.062.357 15.108.025 12.041 0h-.076c-3.069.025-6.02.357-7.74 1.147 0 0-3.412 1.526-3.412 6.732 0 1.193-.023 2.619.015 4.13.124 5.092.934 10.11 5.641 11.355 2.17.574 4.034.695 5.536.612 2.722-.15 4.25-.972 4.25-.972l-.09-1.975s-1.945.613-4.13.54c-2.165-.075-4.449-.234-4.799-2.892a5.5 5.5 0 0 1-.048-.745s2.125.52 4.818.643c1.646.075 3.19-.097 4.758-.283 3.007-.359 5.625-2.212 5.954-3.905.517-2.665.475-6.508.475-6.508zm-4.024 6.709h-2.497v-6.12c0-1.29-.543-1.944-1.628-1.944-1.2 0-1.802.776-1.802 2.313v3.349h-2.484v-3.35c0-1.537-.602-2.313-1.802-2.313-1.085 0-1.628.655-1.628 1.945v6.119H4.831V8.285c0-1.29.328-2.314.987-3.07.68-.759 1.57-1.147 2.674-1.147 1.278 0 2.246.491 2.886 1.474L12 6.585l.622-1.043c.64-.983 1.608-1.474 2.886-1.474 1.104 0 1.994.388 2.674 1.146.658.757.986 1.781.986 3.07v6.305z' fill='var(--primary)'/></svg>
-		<script>
-			function share_on_mastodon() {
-					var default_url = localStorage['mastodon_instance']; 
-			
-					if (!default_url)
-							default_url = 'https://'; 
-			
-					var instance = prompt('Enter your instance’s address: (for example mastodon.uno)', default_url);
-					if (instance) { 
-							if ( !instance.startsWith('https://') && !instance.startsWith('http://') )
-									instance = 'https://' + instance;
-							var url   = window.location.href;
-							var title = document.getElementsByTagName('title')[0].innerHTML;
-							if ( !instance.endsWith('/') )
-									instance = instance + '/'; 
-							localStorage['mastodon_instance'] = instance; 
-							var author   = '@tommi@mastodon.uno'; 
-							mastodon_url = instance + 'share?text=' + encodeURIComponent(title + '\n\n' + url + '\n\n' + author);
-							window.open(mastodon_url, '_blank');
-					}
-			}
-		</script>
+		<svg id='copyUrl' title='{% if lang == 'it' %}Copia URL{% else %}Copy URL{% endif %}' type='button' class='button' viewBox='0 0 24 24' ><path d='M13.29 9.29l-4 4a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0l4-4a1 1 0 0 0-1.42-1.42z' fill='var(--primary)'/><path d='M12.28 17.4L11 18.67a4.2 4.2 0 0 1-5.58.4 4 4 0 0 1-.27-5.93l1.42-1.43a1 1 0 0 0 0-1.42 1 1 0 0 0-1.42 0l-1.27 1.28a6.15 6.15 0 0 0-.67 8.07 6.06 6.06 0 0 0 9.07.6l1.42-1.42a1 1 0 0 0-1.42-1.42z' fill='var(--primary)'/><path d='M19.66 3.22a6.18 6.18 0 0 0-8.13.68L10.45 5a1.09 1.09 0 0 0-.17 1.61 1 1 0 0 0 1.42 0L13 5.3a4.17 4.17 0 0 1 5.57-.4 4 4 0 0 1 .27 5.95l-1.42 1.43a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0l1.42-1.42a6.06 6.06 0 0 0-.6-9.06z' fill='var(--primary)'/></svg>
+		<!-- Mastodon --><svg id='shareViaMastodon' title='Share via Mastodon' type='button' class='button' viewBox='0 0 24 24'><path d='M23.193 7.88c0-5.207-3.411-6.733-3.411-6.733C18.062.357 15.108.025 12.041 0h-.076c-3.069.025-6.02.357-7.74 1.147 0 0-3.412 1.526-3.412 6.732 0 1.193-.023 2.619.015 4.13.124 5.092.934 10.11 5.641 11.355 2.17.574 4.034.695 5.536.612 2.722-.15 4.25-.972 4.25-.972l-.09-1.975s-1.945.613-4.13.54c-2.165-.075-4.449-.234-4.799-2.892a5.5 5.5 0 0 1-.048-.745s2.125.52 4.818.643c1.646.075 3.19-.097 4.758-.283 3.007-.359 5.625-2.212 5.954-3.905.517-2.665.475-6.508.475-6.508zm-4.024 6.709h-2.497v-6.12c0-1.29-.543-1.944-1.628-1.944-1.2 0-1.802.776-1.802 2.313v3.349h-2.484v-3.35c0-1.537-.602-2.313-1.802-2.313-1.085 0-1.628.655-1.628 1.945v6.119H4.831V8.285c0-1.29.328-2.314.987-3.07.68-.759 1.57-1.147 2.674-1.147 1.278 0 2.246.491 2.886 1.474L12 6.585l.622-1.043c.64-.983 1.608-1.474 2.886-1.474 1.104 0 1.994.388 2.674 1.146.658.757.986 1.781.986 3.07v6.305z' fill='var(--primary)'/></svg>
 		<!-- Pocket --><a href='https://getpocket.com/save?url={{ encoded_absolute_url }}&title={{ title | url_encode }}'>
 			<svg width='24' height='24' viewBox='0 0 24 24'><path fill-rule='evenodd' clip-rule='evenodd' fill='var(--primary)' d='M0.9999,10.6312 L0.9999,4.0682 C0.9999,2.9302 1.9309,2.0002 3.0679,2.0002 L20.9329,2.0002 C22.0699,2.0002 22.9999,2.9302 22.9999,4.0682 L22.9999,10.6312 L22.9999,10.6432 C22.9999,16.7182 18.0749,21.6432 11.9999,21.6432 C5.9249,21.6432 0.9999,16.7182 0.9999,10.6432 L0.9999,10.6312 Z M12.0151,12.0203514 L7.86472144,8.02991037 C7.26754166,7.4557433 6.31797743,7.47439879 5.74381037,8.07157856 C5.1696433,8.66875834 5.18829879,9.61832257 5.78547856,10.1924896 L10.9754786,15.1824896 C11.556135,15.7407701 12.474065,15.7407701 13.0547214,15.1824896 L18.2447214,10.1924896 C18.8419012,9.61832257 18.8605567,8.66875834 18.2863896,8.07157856 C17.7122226,7.47439879 16.7626583,7.4557433 16.1654786,8.02991037 L12.0151,12.0203514 Z'></path></svg>
 		</a>

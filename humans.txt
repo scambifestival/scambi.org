@@ -1,7 +1,7 @@
 /* TEAM */
 Author: Team Silicon Scambi Festival
 Contact: silicon@scambi.org
-Fediverse: @scambi@mastodon.uno
+Fediverse: @scambi@pan.rent
 Location: Italy
 
 /* SITE */

@@ -20,9 +20,11 @@
 			<div class='bottom viewportFrame'></div>
 		{% endif %}
 
-		<a id='scrollbutton' class='tool' href='#' aria-label='scroll to top' title='scroll to top'>
-			<svg class='button' style='background:var(--primary)' aria-hidden='true' version='1.1' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'><path d='m7 14 5-5' fill='none' stroke='var(--background)' stroke-linecap='square' stroke-width='3'/><path d='m17 14-5-5' fill='none' stroke='var(--background)' stroke-linecap='square' stroke-width='3'/></svg>
-		</a>
+		<div class='tool'>
+			<a id='scrollButton' href='#' aria-label='scroll to top' title='scroll to top'>
+				<svg class='button' style='background:var(--primary)' aria-hidden='true' version='1.1' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'><path d='m7 14 5-5' stroke-linecap='square' stroke-width='3'/><path d='m17 14-5-5' stroke-linecap='square' stroke-width='3'/></svg>
+			</a>
+		</div>
 
 		{% render 'nav.html', lang: lang, alternate: alternate %}
 
@@ -38,20 +40,6 @@
 
 		{% render 'footer.html', lang: lang %}
 	
-		<script type='text/javascript'>
-			scrollbutton = document.getElementById('scrollbutton');
-			window.onscroll = function() {scroll()};
-			function scroll() {
-				if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
-					scrollbutton.href='#';
-					scrollbutton.title='scroll to top';
-					scrollbutton.setAttribute('aria-label', 'scroll to top');
-				} else {
-					scrollbutton.href='#0';
-					scrollbutton.title='scroll to bottom';
-					scrollbutton.setAttribute('aria-label', 'scroll to bottom');
-				};
-			}
-		</script>
+		<script src='/index.js' type='text/javascript'></script>
 	</body>
 </html>

@@ -5,10 +5,8 @@
 	--turquoise: #73C7D0;
 	--green: #5BB244;
 	--purple: #51267B;
-	--dark-purple: #472154;
+	--dark-purple: #2D1934;
 	--orange: #EB5B25;
-	--neat-orange-shadow: 3px 3px 0 var(--orange);
-	--neat-purple-shadow: 3px 3px 0 var(--purple);
 	
 	--invert: grayscale(.5) invert(.9) brightness(.95) hue-rotate(180deg);
 	--invert-dark: grayscale(.1) invert(1) brightness(1.1) hue-rotate(180deg);
@@ -30,7 +28,6 @@ $big: 1.6rem;
 $bigger: 1.8rem;
 $twice: 2.2rem;
 $height: 3.1rem;
-$mastodon: 4rem;
 $h1: 6rem;
 $h2: 4rem;
 $h3: 2rem;
@@ -39,3 +36,9 @@ $radius-m: .8rem;
 $radius-l: 2rem;
 $trans: .5s ease-out;
 $quicktrans: .1s ease-in-out;
+
+$neat-orange-shadow: 3px 3px 0 var(--orange);
+$neat-purple-shadow: 3px 3px 0 var(--purple);
+$neat-yellow-shadow: 3px 3px 0 var(--yellow);
+$neat-green-shadow: 3px 3px 0 var(--green);
+$neat-turquoise-shadow: 3px 3px 0 var(--turquoise);

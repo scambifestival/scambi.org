@@ -4,7 +4,7 @@ image: https://x.scambi.org/illustrations/program_gradient.webp
 description: All the Labs, activities, and Pinoli of Scambi Festival 2023!
 layout: page
 permalink: /en/2023/program/
-redirect_from: [/program/,/2023/program/]
+redirect_from: [/program/,/2023/program/,/en/2023/]
 ref: 2023program
 lang: en
 ---
