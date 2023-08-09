@@ -34,6 +34,13 @@ tables:
     included: ''
     name: 2023-labs
     view_id: 2555
+  2023-pinoli:
+    excluded: ''
+    filters: ''
+    id: 651
+    included: ''
+    name: 2023-pinoli
+    view_id: 2556
   people:
     excluded: ''
     filters: ''
