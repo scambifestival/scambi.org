@@ -41,6 +41,13 @@ tables:
     included: ''
     name: 2023-pinoli
     view_id: 2556
+  2023-program:
+    excluded: ''
+    filters: ''
+    id: 651
+    included: ''
+    name: 2023-program
+    view_id: 2554
   people:
     excluded: ''
     filters: ''
