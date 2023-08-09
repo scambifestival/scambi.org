@@ -17,6 +17,9 @@ tables:
   2023-pinoli:
     file: 2023-pinoli.json
     format: JSON
+  2023-program:
+    file: 2023-program.json
+    format: JSON
   people:
     file: people.csv
     format: CSV
