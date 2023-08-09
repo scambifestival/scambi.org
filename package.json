@@ -232,7 +232,7 @@
 		"neo-async": "^2.6.2",
 		"nopt": "^5.0.0",
 		"normalize-path": "^3.0.0",
-		"npm-check-updates": "^16.10.17",
+		"npm-check-updates": "^16.10.18",
 		"nunjucks": "^3.2.4",
 		"object-assign": "^4.1.1",
 		"on-finished": "^2.4.1",
