@@ -1,5 +1,6 @@
 ---
 title: Hai prenotato! Ecco i prossimi passi.
+layout: page
 ---
 Che bellooooooo! Ci vedremo alla Pigna a fine agosto. Non sei feliceeeeeeeee?
 

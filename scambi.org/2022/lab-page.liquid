@@ -39,9 +39,8 @@ class: lab
 					</dd>
 				{% endfor %}
 				<dt>Host</dt>
-				{% if item.host != '""' %}
-					{% assign hosts = item.host | split: ',' %}
-					{% for host in hosts %}
+				{% if item.host %}
+					{% for host in item.host %}
 						<dd>{{ host }}</dd>
 					{% endfor %}
 				{% else %}
@@ -51,15 +50,20 @@ class: lab
 				<figure><img src='{{ item.image }}' alt='{{ item.title }}'></figure>
 		</div>
 	</section>
-	<section class='yellow box row' style='margin: 3vw'>
-		<div class='half column'>
-			<h2>{{ item.host }}</h2>
-			<p>{{ item.host_bio | markdownify }}</p>
-		</div>
-		<div class='half column'>
-			<img src='{{ item.host_image }}' alt='{{ item.host }}'>
-		</div>
-	</section>
+	{% comment %}{% for host in item.host %}#TODO #BUG #TOFIX
+		<section class='row'>
+			<div class='yellow box'>
+				<div class='half column'>
+					<h2>{% if item.host[i] %}{{ item.host[i] }}{% else %}item.host_name[i]{% endif %}</h2>
+					<p>{{ item.host_bio[i] | markdownify }}</p>
+				</div>
+				<div class='half column'>
+					<img src='{{ item.host_image[i] }}' alt='{{ item.host[i] }}'>
+				</div>
+			</div>
+		</section>
+		{% increment i %}
+	{% endfor %}{% endcomment %}
 {% endfor %}
 
 {% render 'prenota.liquid', lang: lang, url: page.url, booking_url: site.booking_url %}
