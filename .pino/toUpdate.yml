@@ -11,6 +11,9 @@ tables:
   2022-pinoli:
     file: 2022-pinoli.json
     format: JSON
+  2023-labs:
+    file: 2023-labs.csv
+    format: CSV
   people:
     file: people.csv
     format: CSV
