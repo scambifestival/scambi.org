@@ -4,7 +4,6 @@ tables:
     filters: ''
     id: '325'
     included: ''
-    excluded: ''
     name: 2021-labs
     view_id: '2549'
   2021-pinoli:
@@ -15,30 +14,37 @@ tables:
     name: 2021-pinoli
     view_id: '2550'
   2022-labs:
+    excluded: ''
     filters: ''
     id: 313
     included: ''
-    excluded: ''
     name: 2022 Program
     view_id: 1237
   2022-pinoli:
+    excluded: ''
     filters: ''
     id: 313
     included: ''
-    excluded: ''
     name: 2022 Program
     view_id: 1232
+  2023-labs:
+    excluded: ''
+    filters: ''
+    id: 651
+    included: ''
+    name: 2023-labs
+    view_id: 2555
   people:
+    excluded: ''
     filters: ''
     id: 323
     included: ''
-    excluded: ''
     name: people
     view_id: 2551
   staff:
+    excluded: ''
     filters: ''
     id: 323
     included: ''
-    excluded: ''
     name: staff
     view_id: 2552
