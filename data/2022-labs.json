@@ -1,7 +1,10 @@
 [
     {
         "title": "Attivismo a costo zero",
-        "days": "27",
+        "days": [
+            "27",
+            "28"
+        ],
         "location": "Via Tapoletti",
         "descrizione": "Malegaleco ha l’intento di educare e informare su specifiche tematiche sociali, proponendo soluzioni per combattere le diseguaglianze in Italia. Consapevoli che l’attivismo espone chi lo fa al giudizio della società, questo laboratorio si concentra sulla prevenzione o la gestione delle sue potenziali conseguenze negative.  L’attivismo è quindi l’idea centrale del laboratorio, che mira a comprenderne le basi sia online che offline, e gli strumenti a disposizione per renderla un’esperienza sicura. Il laboratorio indaga quali sono i comportamenti e gli accorgimenti che creano una condizione protetta entro la quale agire, come esplorare la propria identità intersezionale riconoscendo il privilegio individuale; prestare attenzione al tone policing interiorizzato; capire quanto ci si sente psicologicamente sicurз di potersi esporre. Tutto questo per poter agire nel rispetto di se stessз e con sensibilità nei confronti dei gruppi con cui si sta lottando.",
         "host": "Malegaleco",
@@ -13,7 +16,7 @@
         "image": "https://x.scambi.org/images/2022/Labs/Attivismo_a_costo_zero.webp",
         "host_logo": "https://x.scambi.org/others_logos/malegaleco_logo.png",
         "host_bio": "Malegaleco ha l’intento di educare e informare su specifiche tematiche sociali, proponendo soluzioni per combattere le diseguaglianze in Italia.",
-        "host_image": "https://drive.google.com/drive/folders/1CPoSeE06WsiTK7rhmzNf65LGbzN2YcnH?usp=sharing",
+        "host_image": "https://x.scambi.org/profile_pics/Malegaleco/",
         "host_bio_en": "Malegaleco aims to educate and inform on specific social issues, proposing solutions to combat inequalities in Italy.",
         "host_url": "https://malegaleco.wixsite.com/website"
     },
@@ -31,13 +34,17 @@
         "image": "https://x.scambi.org/images/2022/Labs/Balli_Occitani.webp",
         "host_logo": "https://x.scambi.org/others_logos/balbosco_logo.jpg",
         "host_bio": "BalBosco nasce dall’incontro di persone festose e gioiose che hanno in comune la passione per le danze della tradizione popolare. È bastata la volontà di incontrarsi, mettendo a disposizione dei nuovi amici le esperienze e le conoscenze dei più o meno veterani. Il nostro intento è divertirci, condividere e ballare ballare ballare!",
-        "host_image": "https://x.scambi.org/images/Teresa_De_Grandis.jpg",
+        "host_image": "https://x.scambi.org/profile_pics/Teresa_De_Grandis.jpg",
         "host_bio_en": "BalBosco was born from meeting joyful people who have the passion for popular tradition dances in common. All they needed was the will to meet, making experiences available to new friends and knowledge of veterans. Our intent is to have fun, share and dance!",
         "host_url": "https://facebook.com/groups/825766484141340"
     },
     {
         "title": "Cambiare scenario - la scelta nell’antimafia sociale",
-        "days": "26",
+        "days": [
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Piazza Cassini",
         "descrizione": "Attraverso l'espediente del gioco di ruolo, questo laboratorio vuole incentivare la riflessione sul complesso contesto in cui si staglia la ribellione della società civile e politica contro le mafie. In secondo luogo, verranno sviscerati, mediante un dibattito, tutti quei fattori senza i quali le cose sarebbero potute andare in modo differente",
         "host": "LIBERA Imperia",
@@ -47,15 +54,19 @@
         "description": "Through the expedient of role-playing, this lab aims to stimulate reflection on the complex context in which the rebellion of civil and political society against the mafias stands out. Secondly, all the factors without which things could have gone differently",
         "times": "**26**: 16:00-17:30; **27**: 16:15-17:45; **28**: 11:00-12:30",
         "image": "https://x.scambi.org/images/2022/Labs/Cambiare_Scenario.webp",
-        "host_logo": "https://x.scambi.org/others_logos/LIBERA.jpg",
-        "host_bio": "Libera Imperia tiene molti interventi nelle scuole per aumentare la consapevolezza dei ragazzi riguardo alla mafia, la legalità e la pericolosità del radicamento della criminalità organizzata. Piuttosto che sentir ripetere noiosamente questa storia, con un gioco di ruolo potrete invece mettervi nei panni di un mafioso, un politico o un cittadino. Avendo degli obiettivi diversi e a volte discordanti, dovrete creare alleanze e strategie per arrivare al vostro fine.",
-        "host_image": "https://x.scambi.org/images/Maura_Orengo.jpg",
-        "host_bio_en": "Libera Imperia holds many meetings in schools to increase the awareness of children about mafia, legality and the dangers of the rooting of organized crime. Rather than the boring repetition of this story, you can put yourself in the shoes of a mafioso, a politician or a citizen in a role-play game. Having different and sometimes discordant goals, you’ll have to create alliances and strategies to get to your goal.",
+        "host_logo": "https://x.scambi.org/others_logos/Loghi%20Locandina%20Verso%202023/LIBERA.jpg",
+        "host_bio": "Libera Imperia tiene molti interventi nelle scuole per aumentare la consapevolezza dei ragazzi riguardo alla mafia, la legalità e la pericolosità del radicamento della criminalità organizzata.",
+        "host_image": "https://x.scambi.org/profile_pics/Maura_Orengo.jpg",
+        "host_bio_en": "Libera Imperia organises workshops and lectures in schools to increase the awareness of children about mafia, legality and the dangers of the rooting of organized crime.",
         "host_url": "https://libera.it"
     },
     {
         "title": "Equilibrare il corpo attraverso lo sport",
-        "days": "26",
+        "days": [
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Piazza Santa Brigida",
         "descrizione": "Il nostro corpo si trova spesso a dover stabilire un nuovo equilibrio e a fronteggiare situazioni che lo portano a vivere in una condizione di squilibrio e instabilità. Attraverso questo laboratorio si viene guidati lungo un percorso di riscoperta del proprio corpo, utilizzando differenti materiali propriocettivi e attrezzature sportive. Per partecipare è consigliabile indossare un abbigliamento comodo.",
         "host": "Homebox",
@@ -73,21 +84,46 @@
     },
     {
         "title": "Esperimenti Squilibrati",
-        "days": "26",
+        "days": [
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Palazzo Nota",
         "descrizione": "Un percorso di esperimenti per scoprire la pervasività dello squilibrio nella natura in cui siamo immersi. Ci accosteremo ad alcuni fenomeni fisici attraverso tecnologie più o meno complesse, accompagnati da esperti nel campo che ci faranno strada per provare ad intuire come lo squilibrio domini l’universo: dalla meccanica alla fisica delle particelle, ci avvicineremo a concetti come quello di entropia e ad entità come quella del campo di Higgs.",
-        "host": "Passione Scienza",
+        "host": [
+            "Passione Scienza",
+            "ITP CERN"
+        ],
         "what": "lab",
-        "host_name": "Claudio Bortolin",
+        "host_name": [
+            "Claudio Bortolin",
+            " "
+        ],
         "video": "",
         "description": "A path of experiments to discover the pervasiveness of imbalance in the nature in which we are immersed. We will approach some physical phenomena through more or less complex technologies, accompanied by experts in the field who will lead us to try to guess how the imbalance dominates the universe: from mechanics to particle physics, we will approach concepts such as entropy and to entities such as that of the Higgs field.",
         "times": "**26**: 10:30-12:00, 17:30-19:00; **27**: 10:30-12:00, 17:30-19:00; **28**: 10:30-12:00",
         "image": "https://x.scambi.org/images/2022/Labs/Esperimenti_Squilibrati.webp",
-        "host_logo": "https://x.scambi.org/others_logos/PASSIONE%20SCIENZA%20LOGO.jpg",
-        "host_bio": "Claudio Bortolin è ingegnere presso il [CERN](https://home.cern) di Ginevra, dove si dedica all’esperimento ATLAS, occupandosi, in particolare, dei sistemi di raffreddamento del rivelatore. Attraverso la sua pagina Passione Scienza fa convergere la sua professione e la comunicazione con il pubblico, specialmente con i giovani. Seguite i suoi spostamenti: vi porterà in un viaggio tra le scoperte scientifiche, raccontate dai protagonisti! Sull’onda della sua grande attitudine nel trasmettere conoscenza e passione, ha pubblicato da poco per Nerosubianco il romanzo <cite>L’altra metà del palindromo</cite>.",
-        "host_image": "https://x.scambi.org/images/Cludio_Bortolin.jpeg",
-        "host_bio_en": "Claudio Bortolin works as an engineer at [CERN](https://home.cern) in Geneva, where performs the experiment ATLAS, working in particular on cooling systems of the detector. Using his page Passione Scienza he combines work and communication with public, especially young people. Let's follow his movements: he will take you on a journey through scientific discoveries, told by the protagonists! He published for Nerosubianco the novel <cite lang='it'>L’altra metà del palindromo</cite>.",
-        "host_url": "https://instagram.com/passione_scienza"
+        "host_logo": [
+            "https://x.scambi.org/others_logos/PASSIONE%20SCIENZA%20LOGO.jpg",
+            "https://x.scambi.org/others_logos/ITP-Logo_HD.png"
+        ],
+        "host_bio": [
+            "Claudio Bortolin è ingegnere presso il [CERN](https://home.cern) di Ginevra, dove si dedica all’esperimento ATLAS, occupandosi, in particolare, dei sistemi di raffreddamento del rivelatore. Attraverso la sua pagina Passione Scienza fa convergere la sua professione e la comunicazione con il pubblico, specialmente con i giovani. Seguite i suoi spostamenti: vi porterà in un viaggio tra le scoperte scientifiche, raccontate dai protagonisti! Sull’onda della sua grande attitudine nel trasmettere conoscenza e passione, ha pubblicato da poco per Nerosubianco il romanzo <cite>L’altra metà del palindromo</cite>.",
+            "Gli ITP (Italian Teacher Programmes) del CERN sono corsi di formazione in fisica contemporanea riconosciuti dal MIUR, destinati a insegnanti di materie scientifiche delle scuole superiori provenienti dall’Italia o che insegnano presso scuole italiane all’estero. La coordinatrice nazionale, Antonella del Rosso, ha strutturato i laboratori che verranno proposti a Scambi Festival e saranno gli stessi professori dell’ITP a giocare e imparare con voi!"
+        ],
+        "host_image": [
+            "https://x.scambi.org/profile_pics/Cludio_Bortolin.jpeg",
+            "https://x.scambi.org/images/2021/cern_team.webp"
+        ],
+        "host_bio_en": [
+            "Claudio Bortolin works as an engineer at [CERN](https://home.cern) in Geneva, where performs the experiment ATLAS, working in particular on cooling systems of the detector.\nUsing his page Passione Scienza he combines work and communication with public, especially young people.\nLet's follow his movements: he will take you on a journey through scientific discoveries, told by the protagonists!\nHe published for Nerosubianco the novel <cite lang='it'>L’altra metà del palindromo</cite>.",
+            "The ITP (Italian Teacher Programmes) of CERN are training courses in contemporary physics recognized by MIUR, addressed to teachers of high school science subjects from Italy or teaching at Italian schools abroad. The national coordinator, Antonella del Rosso, has structured the workshops that will be at the Scambi Festival and there are going to be the same professors of ITP to play and learn with you!"
+        ],
+        "host_url": [
+            "https://instagram.com/passione_scienza",
+            "https://teacher-programmes.web.cern.ch/italian-teacher-programme"
+        ]
     },
     {
         "title": "Fediverse: Social Network Umani",
@@ -103,7 +139,7 @@
         "image": "https://x.scambi.org/images/2022/Labs/Fediverse.webp",
         "host_logo": "https://x.scambi.org/others_logos/Etica_Digitale.png",
         "host_bio": "Etica Digitale è un gruppo di attivismo sui diritti digitali, nato nel 2019 per informare, tra le altre cose, su tematiche come la privacy, la sorveglianza e l’etica delle intelligenze artificiali. Cerchiamo di vedere la tecnologia con uno sguardo critico e scientifico. Abbiamo un canale Telegram dove riportiamo regolarmente notizie e un gruppo amichevole dove poter discutere dei temi che trattiamo. Inoltre abbiamo creato PrivaSì, la nostra guida alla privacy, e un server Minetest, un videogioco libero che si rifà al più Minecraft.",
-        "host_image": "https://x.scambi.org/images/Andrea_Ciro_Etica_Digitale.webp",
+        "host_image": "https://x.scambi.org/profile_pics/Andrea_Ciro_Etica_Digitale.webp",
         "host_bio_en": "<cite lang='it'>Etica Digitale</cite> is an activist group focused on digital rights, born in 2019 to inform about issues such as privacy, surveillance, and ethics of artificial intelligence. They try to see technology with a critical and scientific sight. They have a Telegram channel where they regularly report news and a friendly group where they discuss the issues they deal with. They also created PrivaSì, their privacy guide, and a Minetest server, a free video game that refers to Minecraft.",
         "host_url": "https://eticadigitale.org"
     },
@@ -121,13 +157,17 @@
         "image": "https://x.scambi.org/images/2022/Labs/Game_Boy_Music_Production.webp",
         "host_logo": "",
         "host_bio": "Fabio Bortolotti, in arte *Kenobit*, traduce, vive e respira videogiochi. Ha trasformato la popolare console degli anni ‘90 in vero e proprio strumento: suona il suo Game Boy in giro per il mondo, con concerti in Africa, Russia, Giappone, Australia, America e in tutta Europa. Verso i vent’anni, Fabio abbandona l’università per scrivere sulle riviste di videogiochi e seguire così il suo sogno d’infanzia. Ha quindi un passato sulle grandi riviste cartacee (Giochi Per il Mio Computer, Nintendo la Rivista Ufficiale, Xbox Magazine Ufficiale, The Games Machine, PSM) e un presente come intrattenitore su Twitch, dove insieme ad Andrea <q>Bisboch</q> Babich e Antonio Bellotta dirige Kenobisboch, un canale dedicato al retrogaming e alla diffusione della cultura del videogioco.",
-        "host_image": "https://x.scambi.org/images/Kenobit.jpg",
+        "host_image": "https://x.scambi.org/profile_pics/Kenobit.jpg",
         "host_bio_en": "Fabio Bortolotti, a.k.a. *Kenobit*, translates, lives, and breathes video games. He has transformed the popular console of the 90s into a real instrument: he plays his Game Boy around the world, with concerts in Africa, Russia, Japan, Australia, America and throughout Europe. At the age of twenty, Fabio left university to write in video game magazines and follow his childhood dream. He collaborated with famous paper magazines (<cite>Giochi Per il Mio Computer</cite>, <cite>Nintendo, la Rivista Ufficiale</cite>, <cite>Xbox Magazine Ufficiale</cite>, <cite>The Games Machine</cite>, <cite>PSM</cite>) and he is currently an entertainer on Twitch, where together with Andrea <q>Bisboch</q> Babich and Antonio Bellotta directs Kenobisboch, a channel dedicated to the retrogaming and the culture of the videogame.",
         "host_url": "http://kenobit.it"
     },
     {
         "title": "Il mio mare di parole",
-        "days": "27",
+        "days": [
+            "27",
+            "28",
+            "26"
+        ],
         "location": "Porta San Giuseppe",
         "descrizione": "Quando non sto bene, prendo un foglio di carta. Poi una penna, o una matita,lo sporco e sto meglio. Poi mi fermo e lo rileggo e sto proprio bene. E tu, hai mai scritto? No, non valgono i temi a scuola o i curricula per lavoro, intendiamo per te e basta. In questo laboratorio scopriremo la scrittura spontanea presente in ognuno di noi, in modo dinamico e coinvolgente: proveremo a stare scomodi, indagheremo il significato delle emozioni, creeremo una storia, individuale e collettiva. Perché, sotto sotto, siamo tuttз scrittorз.",
         "host": "Caketussy",
@@ -139,7 +179,7 @@
         "image": "https://x.scambi.org/images/2022/Labs/Il_mio_mare_di_parole.webp",
         "host_logo": "https://x.scambi.org/others_logos/cake_tussy.png",
         "host_bio": "Caketussy è un gruppo di amici appassionati di arti visive e narrative a cui non interessa definirsi. A Scambi studieranno la forza espressiva della scrittura e come quest’ultima possa influire nella nostra percezione della società. Un bel modo per cercare lɜ scrittorɜ che è in noi!",
-        "host_image": "https://x.scambi.org/images/ragazzi_Caketussy.webp",
+        "host_image": "https://x.scambi.org/profile_pics/ragazzi_Caketussy.webp",
         "host_bio_en": "Caketussy is a group of friends who are passionate about visual and narrative arts who do not like to define themselves. At Scambi they will study the expressive power of writing and how it can affect our perception of society. A great way to find the writer in us!",
         "host_url": "https://instagram.com/caketussy"
     },
@@ -148,7 +188,7 @@
         "days": "28",
         "location": "Piazza Cassini",
         "descrizione": "Il sorriso come arma di costruzione di massa, il prendersi seriamente poco sul serio, una breve analisi sull'azione comica come azione di seria armonia con l'altro, un breve laboratorio per scoprire il folle che si affama dentro di noi, con incursioni nella clownerie nella commedia dell'arte e nell'inclusione sociale, perchè in fondo siamo tutti scemi uguali.",
-        "host": "",
+        "host": "Christian Gullone",
         "what": "lab",
         "host_name": "Christian Gullone",
         "video": "",
@@ -158,12 +198,16 @@
         "host_logo": "",
         "host_bio": "Christian Gullone, classe 1983, è nato nel centro storico di Sanremo e nella città dei fiori ha coltivato il proprio talento musicale. Grande protagonista dell’ultima edizione di Rock in The Casbah.",
         "host_image": "https://x.scambi.org/images/Christian_Gullone.jpg",
-        "host_bio_en": "Christian Gullone, born in 1983 was raised in the city center of Sanremo, where he cultivated his passion for music. He is been the frontrunner of the latest edition of Rock in the Casbah.",
+        "host_bio_en": "Christian Gullone, born in 1983 was raised in the historical center of Sanremo, where he cultivated his passion for music. He has been the frontrunner of the latest edition of Rock in the Casbah.",
         "host_url": "https://facebook.com/christian.gullone1"
     },
     {
         "title": "Il teatro dello squilibrio: i teatri degli squilibri",
-        "days": "26",
+        "days": [
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Piazza San Costanzo",
         "descrizione": "Amadeo, originario della Pigna e dedito da tutta la vita all'arte del teatro, riflette sui concetti del “teatro” e dei “teatri” dello Squilibrio - presenti nella vita di ogni giorno.<br>Il laboratorio quindi esplora due ambiti imprescindibili del teatro: la componente scenografica e quella performativa, le quali Amadeo unisce con la costruzione di strutture tensegrali, di personaggi in materiale riciclabile e la stesura di un copione.",
         "host": "O.d’A.d’A.",
@@ -181,10 +225,14 @@
     },
     {
         "title": "Inside Out",
-        "days": "26",
+        "days": [
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Giardini Regina Elena",
         "descrizione": "La teatroterapia è uno strumento di cura e crescita personale basata sul teatro. Con essa l'utente sarà in grado di sfruttare le proprie potenzialità di elaborare creativamente le sensazioni e le emozioni. Il gioco e il simbolo diventano quindi i protagonisti e gli strumenti principali, grazie ai quali chiunque, a prescindere da abilità fisiche, tecniche o artistiche, potrà mettersi in gioco provando a scoprire sé stesso in un modo che quotidianamente non ci si permette.",
-        "host": "",
+        "host": "Giovanni De Mattia",
         "what": "lab",
         "host_name": "Giovanni De Mattia",
         "video": "https://nuvola.scambi.org/s/5LwSqw69wzrteb5",
@@ -192,9 +240,9 @@
         "times": "**26**: 10:00-12:00, 16:30-18:30; **27**: 10:00-12:00, **28**: 10:00-12:00, 16:00-18:00",
         "image": "https://x.scambi.org/images/2022/Labs/Inside_Out.webp",
         "host_logo": "https://x.scambi.org/others_logos/Teatroterapia.png",
-        "host_bio": "Giovanni De Mattia nasce a Sanremo il 07 settembre del 1993. È un teatroterapeuta, attore di teatro e cinema e insegnante di yoga.  Da sei anni conduce incontri e workshops di teatroterapia integrata in diverse città tra cui Sanremo, Genova, Milano e Bologna.",
+        "host_bio": "Giovanni De Mattia nasce a Sanremo il 07 settembre del 1993. È un teatroterapeuta, attore di teatro e cinema e insegnante di yoga.  Consegue il diploma nella scuola di arti terapie Artedo, con specializzazione in teatroterapia.  Da sei anni conduce incontri e workshops di teatroterapia integrata in diverse città tra cui Sanremo, Genova, Milano e Bologna.",
         "host_image": "https://x.scambi.org/images/Giovanni_De_Mattia.jpg",
-        "host_bio_en": "Giovanni De Mattia was born in Sanremo on 7 September 1993. He is a theater therapist, cinema, and a theater actor he's also a yoga teacher. He has been leading integrated theater therapy   meetings and workshops in many cities like Sanremo, Genova, Milano and Bologna.",
+        "host_bio_en": "Giovanni De Mattia was born in Sanremo on the 7th of September 1993. He is a theater-therapist, a cinema and theater actor, and a yoga teacher. He graduated from the School of  Therapeutic Arts Artedo, with a specialisation in theater-therapy. He has been leading integrated theater-therapy meetings and workshops in several cities such as Sanremo, Genova, Milano and Bologna.",
         "host_url": "https://instagram.com/giovanni_demattia"
     },
     {
@@ -229,31 +277,58 @@
         "image": "https://x.scambi.org/images/2022/Labs/La_finestra_di_Overton.webp",
         "host_logo": "",
         "host_bio": "Alessandro Sahebi è un giornalista freelance e attivista che si occupa di politica, di giustizia sociale e di disuguaglianze. Nato nel 1989, scrive per The Post Internazionale, Left, The Vision e Affari Italiani.",
-        "host_image": "https://x.scambi.org/images/Alessandro_Sahebi.jpg",
+        "host_image": "https://x.scambi.org/profile_pics/Alessandro_Sahebi.jpg",
         "host_bio_en": "Alessandro Sahebi is a freelance journalist and activist who deals with politics, social justice and inequality. Born in 1989, he writes for The Post Internazionale, Left, TheVision and Affari Italiani.",
         "host_url": "https://alessandrosahebi.it"
     },
     {
         "title": "Laboratalbero",
-        "days": "27",
+        "days": [
+            "27",
+            "28"
+        ],
         "location": "Giardini Regina Elena",
         "descrizione": "Qual è il ruolo di un albero in una città sempre più calda, affollata e frenetica? Cosa si può fare per proteggere la natura che incontriamo quasi per caso tra una strada asfaltata e un edificio di dieci piani? Il Laboratalbero esplorerà lo squilibrio fra verde cittadino ed aree urbanizzate tramite attività, giochi e riflessioni sugli effetti che esso ha su corpo e mente. E non finisce qui! Sarai proprio tu a ravvivare un angolo della Pigna, piantando alberi e fiori sotto la guida esperta dei labbers. Cosa aspetti? Ci troverai ai Giardini Regina Elena con vanghe ed annaffiatoi!",
-        "host": "Fridays For Future Ventimiglia",
+        "host": [
+            "Fridays For Future Ventimiglia",
+            ""
+        ],
         "what": "lab",
-        "host_name": "Pietro Pizzo",
+        "host_name": [
+            "Pietro Pizzo",
+            "Giampiero Cane"
+        ],
         "video": "https://nuvola.scambi.org/s/MaNsq8RnfiXmW7J",
         "description": "What is the role of a tree in an increasingly hot, crowded and frenetic city? What can be done to protect the nature that we encounter almost by chance between a paved road and a ten-storey building? Laboratalbero will explore the disequilibrium between green city and urbanized areas through activities, games and reflections on the effects that it has on body and mind. And it doesn’t stop there! You will be the one to liven up a corner of Pigna, planting trees and flowers under the expert guidance of the labbers.  What are you waiting for? You will find us at Regina Elena Gardens with spades and watering cans!",
         "times": "**27**: 16:00-18:00; **28**: <span class='eng'>16:00-18:00</span>",
         "image": "https://x.scambi.org/images/2022/Labs/Laboratalbero.webp",
-        "host_logo": "https://x.scambi.org/others_logos/Friday_for_Future_Ventimiglia.png",
-        "host_bio": "Pietro è uno studente e attivista di Fridays for Future Ventimiglia. Si occupa di sostenibilità.",
-        "host_image": "https://x.scambi.org/images/Pietro_Pizzo.jpeg",
-        "host_bio_en": "Pietro is a student and activist of Fridays for Future Ventimiglia. He is passionate  about sustainability.",
-        "host_url": "https://facebook.com/fridaysforfutureventimiglia"
+        "host_logo": [
+            "https://x.scambi.org/others_logos/Friday_for_Future_Ventimiglia.png",
+            ""
+        ],
+        "host_bio": [
+            "Pietro è uno studente e attivista di Fridays for Future Ventimiglia. Si occupa di sostenibilità.",
+            "Storico insegnante dell’Istituto Agrario di Sanremo, Gian Piero Cane è da sempre al fianco dei giovani e dei più fragili, insegnando il rispetto e la conservazione della natura da almeno cinquant’anni."
+        ],
+        "host_image": [
+            "https://x.scambi.org/profile_pics/Pietro_Pizzo.jpeg",
+            ""
+        ],
+        "host_bio_en": [
+            "Pietro is a student and activist of Fridays for Future Ventimiglia. He is passionate  about sustainability.",
+            "Historical teacher of Istituto Agrario di Sanremo, Gian Piero Cane has always been at the side of the young and the most fragile, teaching respect and the conservation of nature for at least fifty years."
+        ],
+        "host_url": [
+            "https://facebook.com/fridaysforfutureventimiglia",
+            ""
+        ]
     },
     {
         "title": "Nodi",
-        "days": "26",
+        "days": [
+            "26",
+            "27"
+        ],
         "location": "Oratorio San Costanzo",
         "descrizione": "Il Femminismo si è occupato e continua ad occuparsi di superare il millenario squilibrio fra i generi.  Tuttavia, non preoccupatevi, questo laboratorio non tenterà di proporre una lezione esaustiva sulle questioni di genere. Al contrario, si cercherà di ragionare sull'Identità, un concetto mutevole e complesso, che spesso si colloca alla base di discriminazioni e disuguaglianze, ma che potrebbe essere portatore di enormi ricchezze se solo imparassimo a intersecarci con gli altri senza pregiudizi.  Insomma, si tratta di un laboratorio per scoprirsi e scoprire, facendo luce sui privilegi e gli automatismi che non permettono una convivenza pacifica delle differenze.",
         "host": "",
@@ -271,7 +346,11 @@
     },
     {
         "title": "Squilibrio e ambiente",
-        "days": "26",
+        "days": [
+            "26",
+            "27",
+            "28"
+        ],
         "location": "Terrazza San Costanzo",
         "descrizione": "Nella prima parte del laboratorio ci metteremo alla pari riguardo alla situazione climatica: ultimi dati scientifici, convenzioni, previsioni per il futuro prossimo. Scopriremo cos’è XR e saremo introdotti al complesso funzionamento di questo movimento. Ci confronteremo, poi, sul nostro stato emotivo al cospetto delle grandi sfide di adattamento che ci riguardano oggi, per capire come è possibile fronteggiare lo squilibrio ambientale insieme.",
         "host": "Extintion Rebellion (XR)",
@@ -283,13 +362,16 @@
         "image": "https://x.scambi.org/images/2022/Labs/Squilibrio_e_ambiente.webp",
         "host_logo": "https://x.scambi.org/others_logos/logo_extinction_rebellion.png",
         "host_bio": "Extinction Rebellion è un movimento decentrato, internazionale e politicamente apartitico che utilizza l’azione non violenta e la disobbedienza civile per convincere i governi a intervenire sull’emergenza climatica ed ecologica. In Italia sono attivi vari gruppi, tra cui quello di Venezia, ospite a Scambi 2022.",
-        "host_image": "https://nuvola.scambi.org/s/bBsQ5qkne8qbRGm",
+        "host_image": "https://x.scambi.org/profile_pics/XR.jpg",
         "host_bio_en": "Extinction Rebellion is a decentralized, international and nonpartisan movement using non-violent action and civil disobedience in order to convince governments to take action on the climate and ecological emergency. In Italy there are many active groups, for example the one from Venice, guest at Scambi 2022.",
         "host_url": "https://rebellion.global/it/groups/it-venezia/#events"
     },
     {
         "title": "Tai Chi",
-        "days": "26",
+        "days": [
+            "26",
+            "27"
+        ],
         "location": "Giardini Regina Elena",
         "descrizione": "Rossella, insegnante di Tai Chi, è appassionata dell'arte marziale e fiduciosa nel suo potere riequilibrante tra l'energia Yin e Yang. Porta a Scambi la sua conoscenza per esplorare lo squilibrio fisico a favore del rafforzamento spirituale, da cui tutti possiamo trarre un punto di stimolo e crescita.",
         "host": "ASD Liberalamente",
@@ -319,8 +401,8 @@
         "image": "https://x.scambi.org/images/2022/Labs/Vado_a_mappare_la_Pigna.webp",
         "host_logo": "",
         "host_bio": "Valerio è direttore volontario dell’Italian Linux Society, la più grande associazione di volontariato per il software libero e l’open source, dal 1994 in Italia. Nato a Torino; vive a Milano; al momento lavora completamente in remoto come full-stack web developer e GNU/Linux sysadmin, in una società di Torino in cui è usato molto software libero, fra cui Phabricator, Java, Tomcat e Zabbix. Sia colleghi che colleghe usano GNU/Linux sui portatili aziendali. Nel tempo libero mappa su OpenStreetMap, contribuisce ai progetti Wikimedia e aiuta in soluzioni self-hosting. È fra i soci di Italian Linux Society, FSF, FSFE, InformAzioni e Wikimedia Italia!",
-        "host_image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Compleanno_Wikimedia_Italia_2020_04_Valerio_Bozzolan.jpg",
-        "host_bio_en": "Valerio is volunteer director of the Italian Linux Society, the largest voluntary association for free software and open source, since 1994 in Italy. Born in Turin, now he is living in Milan. He is working as full-stack web developer and GNU/Linux sysadmin, in a society in Turin where people use free software like Phabricator, Java, Tomcat and Zabbix. In his spare time he maps to [OpenStreetMap](https://openstreetmap.org), contributes to Wikimedia projects and helps in self-hosting solutions. He is a member of <cite>Italian Linux Society</cite>, <cite>FSF</cite>, <cite>FSFE</cite>, <cite>InformAzioni</cite> and <cite>Wikimedia Italia</cite>!",
+        "host_image": "https://x.scambi.org/images/Valerio_Bozzolan.webp",
+        "host_bio_en": "Valerio is the volunteer director of Italian Linux Society, the largest voluntary association for free software and open source, in Italy since 1994. Born in Turin, he is now living in Milan. He is currently working as full-stack web developer and GNU/Linux sysadmin, in a company in Turin where free software is routinely used, among which Phabricator, Java, Tomcat and Zabbix. All his collegues use GNU/Linux  on their work laptops. In his spare time he maps to [OpenStreetMap](https://openstreetmap.org), contributes to Wikimedia projects and helps in self-hosting solutions. He is a member of <cite>Italian Linux Society</cite>, <cite>FSF</cite>, <cite>FSFE</cite>, <cite>InformAzioni</cite> and <cite>Wikimedia Italia</cite>!",
         "host_url": "https://openstreetmap.org"
     }
 ]
