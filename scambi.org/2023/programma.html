@@ -14,8 +14,24 @@ ref: 2023program
 	<h2>{{ day }} agosto 2023</h2>
 	<ul>{% for entry in 2023-program-daily %}
 		{% if entry.days contains day %}
-			<li>{{ entry.times }} - {{ entry title}}</li>
-		{{ entry.title }}
+			{% capture complete_entry %}
+				{% if entry.scambi_url %}
+					<a href='entry.scambi_url'>{{ entry.title }}</a>
+				{% elsif entry.what == 'lab' or entry.what == 'pinolo' %}
+					<a href='/2023/{{ entry.what }}/{{ entry.title | slugify }}'>{{ entry.title }}</a>
+				{% else %}
+					<strong>{{ entry.title }}</strong>{% if entry.description %} - {{ entry.description | slugify }}{% endif %}
+				{% endif %}
+			{% endcapture %}
+			{% if entry.times %}
+				{% for time in entry.times %}
+					{% if time contains day %}
+						<li><time>{{ time | remove: '24: ' | remove: '25: ' | remove: '26: ' | remove: '27: ' }}</time> - {{ complete_entry }}</li>
+					{% endif %}
+				{% endfor %}
+			{% else %}
+				<li>{{ complete_entry }}</li>
+			{% endif %}
 		{% endif %}
 	{% endfor %}</ul>
 {% endfor %}
