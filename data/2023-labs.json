@@ -10,9 +10,9 @@
         "host_bio_en": "Festivalori is a cultural reality organised by Valori, the newspaper owned by Fondazione Finanza Etica, promoted by Banca Etica and Etica Sgr. They aim to spotlight the injustices of the local and international economic system and promote alternative experiences of a social and sustainable economy. Since 2002 they have been carrying out surveys and reports to bring people closer to the world of finance and the economy. In fact, they are committed to simplifying themes often considered \"complex\" to make citizens understand how the choices that take place in companies and markets are deeply connected to aspects of our daily lives. They also believe in a critical, independent financial education capable of putting people at the centre of the action, not only as \"customers\" but also as responsible and aware citizens.",
         "host_url": "http://festival.valori.it/",
         "host": "Valori.it - Fondazione Banca Etica",
-        "times_array": [
-            "25: 10:30 - 12:00",
-            "25: 18:00 - 19:30"
+        "times": [
+            "26: 10:30 - 12:00",
+            "26: 18:00 - 19:30"
         ],
         "scambi_url": null,
         "img": ""
@@ -56,7 +56,7 @@
             "Elnoir",
             "Bianca Carlino"
         ],
-        "times_array": [
+        "times": [
             "25: 10:30 - 12:00",
             "26: 18:00 - 19:30",
             "27: 10:30 - 12:00"
@@ -103,7 +103,7 @@
             "Staff Scambi",
             "Wikimedia Italia"
         ],
-        "times_array": [
+        "times": [
             "25: 10:30 - 11:30",
             "26: 16:00 - 17:00",
             "27: 18:00 - 19:00"
@@ -125,7 +125,7 @@
         "host_bio_en": "Denise Procaccianti is graduating from International Studies, and she has been a volunteer since the age of 15, first with the Italian red Cross, then with several youth associations, currently with MeetEu, all of which with the aim of bringing the European Union closer to young people. But it is thanks to the year of the Civil Service that she understood that Sustainability is the theme she wishes to explore and perhaps make a job of in the future. Thanks to the Erasmus+ project, she had the opportunity to design, together with a fantastic group, a card game on Fair Trade and to participate in the Fair Trade Breakfast at the European Parliament in Brussels.",
         "host_url": "https://equogarantito.org",
         "host": "Equo Garantito",
-        "times_array": [
+        "times": [
             "26: 19:00 - 20:00",
             "27: 10:30 - 11:30"
         ],
@@ -147,7 +147,7 @@
         "host_bio_en": "\"Filò – Il filo del pensiero\" is an association of social promotion, born from the research project FarFilò (University of Bologna), whose core consists of philosophers and educators. The members of Filò are also members of ΑΙΩΝ / AIÓN – Philosophy and Didactics, Research Group on Didactics of Philosophy and on Philosophical Practices of the University of Bologna (site.unibo.it/aion/it). Filò aims to promote and disseminate, for all age groups, Philosophy understood as an educational practice capable of developing critical thought, logical-argumentative skills, capacity for abstraction and creativity, all combined with ethical-relational skills. We operate in several fields including schools, libraries, and cultural festivals besides training teachers interested in philosophical dialogue as an educational tool. Chiara Minardi, born in 1994, holds a master's degree in Philosophical Sciences at the University of Bologna and is now enrolled in Modern Literature at Ca' Foscari University in Venice. She meets Filò in 2021 and she is today a Board member. Philosophy always fascinated her and she always wanted to teach it, until she finally encountered philosophical practices: at that point, the opportunity of transforming the teaching of philosophy into the practice of philosophy made her understand that doing philosophy is a chance that no one should miss. Beatrice Gobbi, born in 1995; she obtained a master's degree in Philosophical Sciences with a thesis on truth in science. During her master's degree years, she met the Filò association while carrying out a curricular internship. During this time, Beatrice experienced the transformative power of philosophy and decided that this will be her job. After the internship, Beatrice began collaborating with Filò by holding her first philosophical dialogue workshops in the classroom and beyond. She is a Board member and continues to work in Filò by bringing the practice of philosophy to as many people as possible.",
         "host_url": "https://filoedu.com",
         "host": "Filò",
-        "times_array": [
+        "times": [
             "25: 18:00 - 19:30",
             "26: 19:00 - 20:30",
             "27: 10:30 - 12:00"
@@ -166,7 +166,7 @@
         "host_bio_en": "Walter Lazzarin (1982) is a writer who made his debut in 2011 with the novel \"A volte un bacio\" and in 2012 published the first collection of tautograms: \"21 Lettere d'Amore\". In 2015 he published \"Il drago non si droga\", a novel promoted through his Writer on the road project. From 2016 to May 2017 he took part in the Rai 2 podcast \"Dribbling\", as author and interpreter of the tautograms that start off the episodes. In 2017 he published \"21 vicende vagamente vergognose\", the second collection of tautograms. In 2019, the third one: \"Animali all'avventura\", reviewed by Robinson, art section of La Repubblica.",
         "host_url": "https://instagram.com/walter.lazzarin",
         "host": "Walter  Lazzarin",
-        "times_array": [
+        "times": [
             "27: 16:00 - 17:30",
             "27: 18:00 - 19:30"
         ],
@@ -188,7 +188,7 @@
         "host_bio_en": "Leicester (UK), where he carries on his research on the relationship between body, activism and",
         "host_url": "https://leoscarin.com",
         "host": "Leo Scarin",
-        "times_array": [
+        "times": [
             "25: 10:30 - 12:00",
             "26: 18:00 - 19:30",
             "27: 16:00 - 17:30"
@@ -210,10 +210,9 @@
         "host_bio_en": "Giovanni De Mattia was born in Sanremo on the 7th of September 1993. He is a theater-therapist, a cinema and theater actor, and a yoga teacher. He graduated from the School of  Therapeutic Arts Artedo, with a specialisation in theater-therapy. He has been leading integrated theater-therapy meetings and workshops in several cities such as Sanremo, Genova, Milano and Bologna.",
         "host_url": "https://instagram.com/giovanni_demattia",
         "host": "Giovanni De Mattia",
-        "times_array": [
+        "times": [
             "25: 18:00 - 19:30",
             "26: 10:30 - 12:00",
-            "26: 16:00 - 17:30",
             "27: 16:00 - 17:30"
         ],
         "scambi_url": null,
@@ -234,7 +233,7 @@
         "host_bio_en": "Alessandro Di Andrea is a student born in 1999, currently in the third year of Education and Training Sciences. Enticed by a family environment full of inputs, he got passionate about the expressive arts at the age of 16 thanks to a school theater workshop and has since then continued his studies and research in the artistic field, working and collaborating for large institutions and well-known personalities . In 2021 he released his first EP \"sogno un album\". He has had numerous live performances in Rome and around Italy. In 2023 he officially became a cultural animator at the well-known Rome agency \"Saltimbanco Animazione e Spettacolo\", which boasts prestigious collaborations; moreover, in the same year he became co-founder and advisor of the cultural association \"Welcome to Wonderland\". His goal is to unite all his passions through the common thread of education, with the aim of making the greatest number of people aware of the beauty and strength of diversity by training that child who hides inside each of us.",
         "host_url": "https://instagram.com/alessandro.diandrea",
         "host": "Alessandro Di Andrea",
-        "times_array": [
+        "times": [
             "25: 18:00 - 19:00",
             "26: 19:00 - 20:00",
             "27: 18:00 - 19:00"
@@ -256,7 +255,7 @@
         "host_bio_en": "Fioretta Maldifassi and Leonardo Lovati were born in Milan in 1999. She graduated in Graphic design and art direction and he is a student of Philosophy. Both angry at the government for how it is handling the climate crisis, they decide to join the Last Generation nonviolent civil disobedience movement and take part in the campaign in various roles. One of the goals of their workshop is to connect emotionally with the problem we are experiencing and explain how nonviolent civil disobedience is a powerful means to change the system. Based on their direct experience and the studies they have done on the subject, we will also talk about what role disorder, repression by law enforcement and resilience play.",
         "host_url": "https://ultima-generazione.com",
         "host": "Ultima Generazione",
-        "times_array": [
+        "times": [
             "25: 18:00 - 19:00",
             "26: 10:30 - 11:30"
         ],
@@ -277,7 +276,7 @@
         "host_bio_en": "Pancaldo Luana has a degree in Clinical and Rehabilitation Psychology and she is a member of the Order of Psychologists of Liguria. Her background is diverse. She collaborated with the Civil Protection and the Red Cross. These experiences have allowed her to offer her skills to support people in emergency and disaster situations, providing psychological support and contributing to the psychosocial recovery of the communities involved. For several years she has been working as an operator at ANFFAS in Imperia, an association of families which, with its services and projects, works to improve the quality of life of people with disabilities. Her task, together with the team to which she belongs, is to support the young people who are part of it in socialisation, sporting, recreational and autonomy development activities. After participating in a specific training held by Anffas Nazionale, for over a year she has been the facilitator of a self-representation group, which has chosen to call itself \"Young people against limits\". The group talks about rights, duties and above all about inclusion and accessibility and how often these rights are forgotten. In the meetings, solutions and alternatives are sought to be proposed to the community and institutions, in order to live in a truly inclusive society. Her main task is to help the people in the group to better understand complex topics and to bring out their thoughts on the issues that concern them.",
         "host_url": "http://anffas.net",
         "host": "ANFASS IMPERIA",
-        "times_array": [
+        "times": [
             "25: 15:00 - 16:30",
             "26: 11:00 - 12:30",
             "26: 15:00 - 16:30"
@@ -300,7 +299,7 @@
         "host_bio_en": "Elena Ballerini is 25 years old and in live, she is a teacher. She studied Languages ​​and while gaining experience abroad she realized how much she loved Italy, how much the Italian language was the most beautiful and how rich our history and culture are. Elena has therefore combined her need for contact with ever-changing people with her love for her country: she teaches Italian to foreigners. Those who come here to Italy, escaping from their country, do so because they are looking for a better life, simply a noteworthy salary or a school worthy of the name and often that is enough. But what if everyone who enters Italy could see the beauty of this country? What if they could fall in love with language, movies and cooking? Elena dreams of a colourful, lively and dynamic Italy. She already works for it and she will keep going!",
         "host_url": "https://instagram.com/ele.ballerini",
         "host": "Elena Ballerini",
-        "times_array": [
+        "times": [
             "25: 16:00 - 17:00",
             "26: 16:00 - 17:00",
             "27: 10:30 - 11:30"
