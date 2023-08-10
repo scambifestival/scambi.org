@@ -10,6 +10,18 @@ ref: 2023program
 {% assign days = '24;25;26;27' | split: ';' %}
 {% assign 2023-program-daily = 2023-program | sort: 'times' | sort: 'days' %}
 
+<p>Questa pagina raccoglie tutte le attività che avverranno nei quattro giorni della terza edizione di Scambi Festival. Per avere più informazioni, in alcuni casi abbiamo creato pagine specifiche per una singola attività.</p>
+
+
+<div class='flex row'>
+	<a href='/guida' class='turquoise button'>Guida a Scambi 2023</a>
+	<a href='/2023/lab' class='green button'>Tutti i Lab</a>
+	<a href='/2023/pinoli' class='yellow button'>Tutti i Pinoli</a>
+	<a href='/2023/serate' class='orange button'>Tutte le serate</a>
+	<a href='/2023/dissolvenze' class='purple button'>Dissolvenze</a>
+</div>
+
+
 {% for day in days %}
 	<h2>{{ day }} agosto 2023</h2>
 	<ul>{% for entry in 2023-program-daily %}
@@ -18,15 +30,17 @@ ref: 2023program
 				{% if entry.scambi_url %}
 					<a href='entry.scambi_url'>{{ entry.title }}</a>
 				{% elsif entry.what == 'lab' or entry.what == 'pinolo' %}
-					<a href='/2023/{{ entry.what }}/{{ entry.title | slugify }}'>{{ entry.title }}</a>
+					<mark class='{{ entry.what }}'>{{ entry.what }}</mark> <a href='/2023/{{ entry.what }}/{{ entry.title | slugify }}'>{{ entry.title }}</a>
+				{% elsif entry.what == 'dissolvenze' %}
+					<mark class='dissolvenze'>{% if entry.title contains 'Casa' %}Cineforum <cite>Verso Casa</cite>{% elsif entry.title contains 'Tremilaseicento' %}<cite>Tremilaseicento fotogrammi</cite>{% else %}Dissolvenze{% endif %}</mark> <strong>{{ entry.title | remove: ' - Cineforum Verso Casa' | remove: ' - Tremilaseicento fotogrammi' }}</strong>{% if entry.description %} ‣ {{ entry.description | markdownify }}{% endif %}
 				{% else %}
-					<strong>{{ entry.title }}</strong>{% if entry.description %} - {{ entry.description | slugify }}{% endif %}
+					<strong>{{ entry.title }}</strong>{% if entry.description %} ‣ {{ entry.description | markdownify }}{% endif %}
 				{% endif %}
 			{% endcapture %}
 			{% if entry.times %}
 				{% for time in entry.times %}
 					{% if time contains day %}
-						<li><time>{{ time | remove: '24: ' | remove: '25: ' | remove: '26: ' | remove: '27: ' }}</time> - {{ complete_entry }}</li>
+						<li><time>{{ time | remove: '24: ' | remove: '25: ' | remove: '26: ' | remove: '27: ' }}</time> ‧ {{ complete_entry }}</li>
 					{% endif %}
 				{% endfor %}
 			{% else %}
