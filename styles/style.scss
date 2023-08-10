@@ -116,6 +116,9 @@ html {
 		content: '';
 		clear: both;
 	}
+	&.standalone {
+		padding: 3rem 0;
+	}
 }
 
 address{
