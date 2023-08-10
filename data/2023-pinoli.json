@@ -15,7 +15,7 @@
         "host_url": "",
         "referente": "Daniele",
         "host": "Akvo",
-        "times_array": "",
+        "times": "",
         "scambi_url": null,
         "img": ""
     },
@@ -35,7 +35,7 @@
         "host_url": "",
         "referente": "Daniele",
         "host": "Akvo",
-        "times_array": "",
+        "times": "",
         "scambi_url": null,
         "img": ""
     },
@@ -76,7 +76,7 @@
             "Martina D’Amore",
             "Laura Guglielmi"
         ],
-        "times_array": "",
+        "times": "",
         "scambi_url": null,
         "img": ""
     },
@@ -92,7 +92,7 @@
         "host_url": "https://instagram.com/walter.lazzarin",
         "referente": "Walter",
         "host": "Walter  Lazzarin",
-        "times_array": "",
+        "times": "",
         "scambi_url": null,
         "img": ""
     },
@@ -111,7 +111,7 @@
         "host_url": "https://instagram.com/stefanoporro_",
         "referente": "Stefano",
         "host": "Pedro",
-        "times_array": "",
+        "times": "",
         "scambi_url": null,
         "img": ""
     },
@@ -131,7 +131,7 @@
         "host_url": "https://seeweb.it",
         "referente": "Chiara",
         "host": "Seeweb",
-        "times_array": "",
+        "times": "",
         "scambi_url": null,
         "img": ""
     },
@@ -147,7 +147,11 @@
         "host_url": "",
         "referente": "",
         "host": "Chiocciole",
-        "times_array": "9:30 - 10:15",
+        "times": [
+            "25: 9:30 - 10:15",
+            "26: 9:30 - 10:15",
+            "27: 9:30 - 10:15"
+        ],
         "scambi_url": null,
         "img": ""
     },
@@ -167,7 +171,7 @@
         "host_url": "https://filoedu.com",
         "referente": "Beatrice",
         "host": "Filò",
-        "times_array": "",
+        "times": "",
         "scambi_url": null,
         "img": ""
     }
