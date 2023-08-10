@@ -11,11 +11,12 @@
         "host_url": "http://festival.valori.it/",
         "host": "Valori.it - Fondazione Banca Etica",
         "times": [
-            "26: 10:30 - 12:00",
-            "26: 18:00 - 19:30"
+            "26: 10:30 → 12:00",
+            "26: 18:00 → 19:30"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": ""
     },
     {
         "title": "Chinmoku No Mori",
@@ -57,12 +58,13 @@
             "Bianca Carlino"
         ],
         "times": [
-            "25: 10:30 - 12:00",
-            "26: 18:00 - 19:30",
-            "27: 10:30 - 12:00"
+            "25: 10:30 → 12:00",
+            "26: 18:00 → 19:30",
+            "27: 10:30 → 12:00"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": ""
     },
     {
         "title": "Direzione FediVerso!",
@@ -71,8 +73,8 @@
             "26",
             "27"
         ],
-        "description": "",
-        "description_en": "",
+        "description": "Cos’hanno in comune la conoscenza libera, una mappa e il *fediverso*, ovvero l’universo dei social network federati? Questo lab le connetterà esplorando le diverse declinazioni e il sottovalutato significato dell’**etica digitale**. Con giochi e sfide, esplorerete concetti che prima vi sembravano inaccessibili e solamente per *nerd*. Dopo aver vissuto questo Lab, potrete smascherare e combattere tutte le forme di oppressione e violazioni di diritti che avvengono nel dominio del virtuale.",
+        "description_en": "What do free knowledge, a map and the *fediverse*, i.e. the universe of federated social networks, have in common? This lab will connect them by exploring the different declinations and the underestimated meaning of **digital ethics**. With games and challenges, you will explore previously inaccessible concepts only for *nerds*. After experiencing this Lab, you will be able to unmask and fight all forms of oppression and violations of rights in the virtual domain.",
         "host_logo": [
             "",
             "https://x.scambi.org/scambi.svg",
@@ -104,12 +106,13 @@
             "Wikimedia Italia"
         ],
         "times": [
-            "25: 10:30 - 11:30",
-            "26: 16:00 - 17:00",
-            "27: 18:00 - 19:00"
+            "25: 10:30 → 11:30",
+            "26: 16:00 → 17:00",
+            "27: 18:00 → 19:00"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": "Piazzetta Santa Brigida"
     },
     {
         "title": "Fair Game",
@@ -126,11 +129,12 @@
         "host_url": "https://equogarantito.org",
         "host": "Equo Garantito",
         "times": [
-            "26: 19:00 - 20:00",
-            "27: 10:30 - 11:30"
+            "26: 19:00 → 20:00",
+            "27: 10:30 → 11:30"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": ""
     },
     {
         "title": "Il filo del pensiero",
@@ -148,12 +152,13 @@
         "host_url": "https://filoedu.com",
         "host": "Filò",
         "times": [
-            "25: 18:00 - 19:30",
-            "26: 19:00 - 20:30",
-            "27: 10:30 - 12:00"
+            "25: 18:00 → 19:30",
+            "26: 19:00 → 20:30",
+            "27: 10:30 → 12:00"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": ""
     },
     {
         "title": "Tautogrammologia",
@@ -167,11 +172,12 @@
         "host_url": "https://instagram.com/walter.lazzarin",
         "host": "Walter  Lazzarin",
         "times": [
-            "27: 16:00 - 17:30",
-            "27: 18:00 - 19:30"
+            "27: 16:00 → 17:30",
+            "27: 18:00 → 19:30"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": ""
     },
     {
         "title": "The Prompt Club",
@@ -189,12 +195,13 @@
         "host_url": "https://leoscarin.com",
         "host": "Leo Scarin",
         "times": [
-            "25: 10:30 - 12:00",
-            "26: 18:00 - 19:30",
-            "27: 16:00 - 17:30"
+            "25: 10:30 → 12:00",
+            "26: 18:00 → 19:30",
+            "27: 16:00 → 17:30"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": "Palazzo Gentile"
     },
     {
         "title": "Un passo nel buio",
@@ -211,12 +218,13 @@
         "host_url": "https://instagram.com/giovanni_demattia",
         "host": "Giovanni De Mattia",
         "times": [
-            "25: 18:00 - 19:30",
-            "26: 10:30 - 12:00",
-            "27: 16:00 - 17:30"
+            "25: 18:00 → 19:30",
+            "26: 10:30 → 12:00",
+            "27: 16:00 → 17:30"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": "Giardini Regina Elena"
     },
     {
         "title": "Un universo di suoni e spazi",
@@ -234,12 +242,13 @@
         "host_url": "https://instagram.com/alessandro.diandrea",
         "host": "Alessandro Di Andrea",
         "times": [
-            "25: 18:00 - 19:00",
-            "26: 19:00 - 20:00",
-            "27: 18:00 - 19:00"
+            "25: 18:00 → 19:00",
+            "26: 19:00 → 20:00",
+            "27: 18:00 → 19:00"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": ""
     },
     {
         "title": "Verso Ultima Generazione",
@@ -256,11 +265,12 @@
         "host_url": "https://ultima-generazione.com",
         "host": "Ultima Generazione",
         "times": [
-            "25: 18:00 - 19:00",
-            "26: 10:30 - 11:30"
+            "25: 18:00 → 19:00",
+            "26: 10:30 → 11:30"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": ""
     },
     {
         "title": "Verso il futuro",
@@ -268,21 +278,22 @@
             "25",
             "26"
         ],
-        "description": "Il laboratorio vuole essere uno scambio intellettuale tra persone con disabilità che fanno parte del gruppo di autorappresentanza dell’Anffas di Imperia e partecipanti esterni. I ragazzi con disabilità spiegheranno i concetti dell’autorappresentanza e dell’autodeterminazione e proporranno una discussione su specifiche tematiche legate al futuro: - Lavoro - Autonomie - Accessibilità - Aiuto Sarà cura del facilitatore condurre il gruppo, utilizzando il brainstorming per favorire l’espressione delle idee di ciascuno. Verrà utilizzato il linguaggio “easy to read”, un linguaggio inclusivo, facile da leggere e da comprendere, e verranno indirizzati tutti i partecipanti al suo utilizzo.",
+        "description": "Il laboratorio vuole essere uno scambio intellettuale tra persone con disabilità che fanno parte del gruppo di autorappresentanza dell’Anffas di Imperia e partecipanti esterni. I ragazzi con disabilità spiegheranno i concetti dell’autorappresentanza e dell’autodeterminazione e proporranno una discussione su specifiche tematiche legate al futuro, ovvero: **lavoro**, **autonomie**, **accessibilità**, **aiuto**. Sarà cura del facilitatore condurre il gruppo, utilizzando il brainstorming per favorire l’espressione delle idee di ciascuno. Verrà utilizzato il linguaggio <q lang='en'>easy to read</q>, un linguaggio inclusivo, facile da leggere e da comprendere, e verranno indirizzati tutti i partecipanti al suo utilizzo.",
         "description_en": "This Lab aims to be an intellectual exchange between people with disabilities who represent the Imperia Anffas group, and external participants. The representants with disabilities will explain the concepts of Self-representation e Self-determination, suggesting a discussion around specific themes connected to the future: - Work - Autonomy - Accessibility - Support A facilitator with moderate the group discussion, using brainstorming to favour the expression of each person's ideas. The \"easy to read\" language will be used, an inclusive language for everyone to understand easily, and all participants will be introduced to its use.",
         "host_logo": "https://x.scambi.org/others_logos/anfass.png",
-        "host_bio": "Pancaldo Luana è laureata in Psicologia Clinica e della Riabilitazione e iscritta all'Ordine degli Psicologi della Liguria. Il suo background è vario. In passato ha collaborato con la Protezione Civile e la Croce Rossa. Queste esperienze le hanno permesso di mettere a disposizione le sue competenze per supportare le persone durante situazioni di emergenza e disastro, offrendo un sostegno psicologico e contribuendo al recupero psicosociale delle comunità coinvolte. Da diversi anni lavora come operatrice presso l'ANFFAS di Imperia, un'Associazione di famiglie che con i suoi servizi e progetti opera per il miglioramento della qualità della vita delle persone con disabilità. Il suo compito, insieme all'èquipe di cui fa parte, è supportare nelle attività di socializzazione, sportive, ricreative e di sviluppo delle autonomie, i ragazzi che ne fanno parte. Dopo aver partecipato ad una formazione specifica tenuta da Anffas Nazionale, da oltre un anno è la facilitatrice di un gruppo di Autorappresentanza, che ha scelto di chiamarsi \"I ragazzi contro i limiti\". Nel  gruppo si parla di diritti, di doveri e soprattutto di inclusione e accessibilità e di quanto questi diritti molto spesso vengano dimenticati. Negli incontri si cercano soluzioni e alternative da proporre alla comunità e alle istituzioni, allo scopo di vivere in una società realmente inclusiva. Il suo compito principalmente è quello di aiutare i ragazzi del gruppo a comprendere al meglio anche argomenti complessi e a far emergere il loro pensiero sulle questioni che li riguardano.",
+        "host_bio": "L’ANFFAS di Imperia è un’Associazione di famiglie che con i suoi servizi e progetti opera per il miglioramento della qualità della vita delle persone con disabilità. Il suo compito è supportare nelle attività di socializzazione, sportive, ricreative e di sviluppo delle autonomie, i ragazzi che ne fanno parte.<br>Anffas Imperia ha attivi due gruppi di autorappresentanza, guidati da due facilitatrici formate.<br>Autorappresentanza vuol dire che le persone con disabilità possono parlare per se stesse e per altre persone, per fare in modo di essere ascoltate e capite. A questo scopo i partecipanti si incontrano: nel gruppo si parla di diritti, di doveri, di inclusione e accessibilità e di quanto questi diritti molto spesso vengano dimenticati. Negli incontri si cercano soluzioni e alternative da proporre alla comunità e alle istituzioni, allo scopo di vivere in una società realmente inclusiva. Il compito delle facilitatrici è quello di aiutare i ragazzi del gruppo a comprendere al meglio anche argomenti complessi e a far emergere il loro pensiero sulle questioni che li riguardano.",
         "host_image": "https://x.scambi.org/images/ANFFAS_Imperia.webp",
-        "host_bio_en": "Pancaldo Luana has a degree in Clinical and Rehabilitation Psychology and she is a member of the Order of Psychologists of Liguria. Her background is diverse. She collaborated with the Civil Protection and the Red Cross. These experiences have allowed her to offer her skills to support people in emergency and disaster situations, providing psychological support and contributing to the psychosocial recovery of the communities involved. For several years she has been working as an operator at ANFFAS in Imperia, an association of families which, with its services and projects, works to improve the quality of life of people with disabilities. Her task, together with the team to which she belongs, is to support the young people who are part of it in socialisation, sporting, recreational and autonomy development activities. After participating in a specific training held by Anffas Nazionale, for over a year she has been the facilitator of a self-representation group, which has chosen to call itself \"Young people against limits\". The group talks about rights, duties and above all about inclusion and accessibility and how often these rights are forgotten. In the meetings, solutions and alternatives are sought to be proposed to the community and institutions, in order to live in a truly inclusive society. Her main task is to help the people in the group to better understand complex topics and to bring out their thoughts on the issues that concern them.",
-        "host_url": "http://anffas.net",
-        "host": "ANFASS IMPERIA",
+        "host_bio_en": "",
+        "host_url": "https://anffas.net/it/strutture/imperia-anffas-onlus",
+        "host": "ANFFAS Imperia",
         "times": [
-            "25: 15:00 - 16:30",
-            "26: 11:00 - 12:30",
-            "26: 15:00 - 16:30"
+            "25: 15:00 → 16:30",
+            "26: 11:00 → 12:30",
+            "26: 15:00 → 16:30"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": "Terrazza San Costanzo"
     },
     {
         "title": "Verso l’altrə",
@@ -300,11 +311,12 @@
         "host_url": "https://instagram.com/ele.ballerini",
         "host": "Elena Ballerini",
         "times": [
-            "25: 16:00 - 17:00",
-            "26: 16:00 - 17:00",
-            "27: 10:30 - 11:30"
+            "25: 16:00 → 17:00",
+            "26: 16:00 → 17:00",
+            "27: 10:30 → 11:30"
         ],
         "scambi_url": null,
-        "img": ""
+        "img": "",
+        "location": ""
     }
 ]
