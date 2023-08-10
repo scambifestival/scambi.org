@@ -7,21 +7,13 @@
             "27"
         ],
         "description": "da definire con pinolers",
-        "description_en": "",
-        "host_logo": "",
-        "host_bio": "",
-        "host_image": "",
         "host_bio_en": null,
-        "host_url": "",
         "referente": [
             "Leonardo",
             "Giulia"
         ],
         "host": "Akvo",
-        "times": "",
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Body Painting station",
@@ -30,22 +22,13 @@
             "26",
             "27"
         ],
-        "description": "",
-        "description_en": "",
-        "host_logo": "",
-        "host_bio": "",
-        "host_image": "",
         "host_bio_en": null,
-        "host_url": "",
         "referente": [
             "Leonardo",
             "Giulia"
         ],
         "host": "Akvo",
-        "times": "",
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Calvino tra i carruggi",
@@ -85,9 +68,7 @@
             "Martina D’Amore",
             "Laura Guglielmi"
         ],
-        "times": "",
         "scambi_url": null,
-        "img": "",
         "location": "itinerante"
     },
     {
@@ -99,34 +80,22 @@
         ],
         "description": "Sartoria",
         "description_en": "Tailoring",
-        "host_logo": "",
         "host_bio": "LeIdeebs  è un piccolo brand artigianale di produzione lenta e accurata. Deborah ha un piccolo laboratorio sartoriale all'interno della Pigna. Crea abbigliamento e accessori donna e ogni pezzo è studiato e realizzato interamente da lei. Le parole d'ordine sono unicità e colore, è infatti molto difficile trovare un capo uguale all'altro. Utilizza materiali di recupero e di fine stock in un ottica di riciclo.",
-        "host_image": "",
         "host_bio_en": "LeIdeebs is a small artisan brand of slow and accurate production. Deborah has a small tailoring workshop inside the Pigna. She creates women's clothing and accessories and each piece is designed and created entirely by her. The watchwords are uniqueness and colour, it is in fact very difficult to find a garment that is the same as another. She uses recycled and end-of-stock materials with a view to recycling.",
         "host_url": "https://www.instagram.com/leideebs/",
         "referente": "Giulia",
-        "host": "Le Ideebs",
-        "times": "",
-        "scambi_url": "",
-        "img": "",
-        "location": ""
+        "host": "Le Ideebs"
     },
     {
         "title": "Pinolo Lazzarin",
         "days": "27",
-        "description": "",
-        "description_en": "",
-        "host_logo": "",
         "host_bio": "Walter Lazzarin (1982) è uno scrittore che nel 2011 esordisce con il romanzo “A volte un bacio” e nel 2012 pubblica la prima raccolta di tautogrammi: “21 Lettere d’amore”. Nel 2015 pubblica il “Il drago non si droga”, un romanzo promosso tramite il progetto Scrittore per strada. Dal 2016 a maggio 2017 collabora alla trasmissione “Dribbling” di Rai 2, come autore e interprete dei tautogrammi che introducono le puntate. Nel 2017 pubblica “Ventuno vicende vagamente vergognose”, la seconda raccolta di tautogrammi. La terza è del 2019: “Animali all’avventura”, recensita da Robinson, inserto culturale de La Repubblica.",
         "host_image": "https://x.scambi.org/profile_pics/WalterLazzarin.webp",
         "host_bio_en": "Walter Lazzarin (1982) is a writer who made his debut in 2011 with the novel \"A volte un bacio\" and in 2012 published the first collection of tautograms: \"21 Lettere d'Amore\". In 2015 he published \"Il drago non si droga\", a novel promoted through his Writer on the road project. From 2016 to May 2017 he took part in the Rai 2 podcast \"Dribbling\", as author and interpreter of the tautograms that start off the episodes. In 2017 he published \"21 vicende vagamente vergognose\", the second collection of tautograms. In 2019, the third one: \"Animali all'avventura\", reviewed by Robinson, art section of La Repubblica.",
         "host_url": "https://instagram.com/walter.lazzarin",
         "referente": "Valeria",
         "host": "Walter  Lazzarin",
-        "times": "",
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Pinolo Pedro",
@@ -136,7 +105,6 @@
         ],
         "description": "Avete visto per caso dei pavoni in giro per La Pigna?",
         "description_en": "Have you seen peacocks around La Pigna by any chance?",
-        "host_logo": "",
         "host_bio": "Stefano Pedro Porro nasce ad Asti, si diploma al Liceo Artistico e frequenta vari corsi di fumetto. Si forma ad Alba, presso la Libera Accademia Novalia, frequentando un corso di pittura e illustrazione, in cui conclude la triennale presentando una tesi su \"Le città invisibili\" di Italo Calvino. Dal 2020 al 2022 pubblica settimanalmente nella rubrica da lui creata \"Voci Illustrate\" sulla Nuova Provincia di Asti. Nel dicembre 2022 pubblica \"Wassily Kandinsk - Il funambolo dei colori\" e parla della vita di Kandinsky per la collana ALT! Arte Libera Tutti dedicata ai bambini e ragazzi di Maria Pacini Fazzi Editore / Edizioni Fondazione Ragghianti Studi sull’arte di Lucca.  Ama sperimentare usando varie tecniche cercando sempre il linguaggio piú adatto, predilige la pittura, la china e l'incisione. Per Scambi Festival propone una scultura che introduce un percorso itinerante nella pigna attraverso quattordici illustrazioni tratte dal progetto di tesi \"INVISIBILIS\". A coronare il viaggio nell'orizzonte calviniano creato dal giovane artista, sarà il concerto disegnato (\"Io sono INVISIBILE\") che avverrà il 25 agosto, ovvero la data di apertura del festival.",
         "host_image": "https://x.scambi.org/images/Stefano_Pedro_Porro.webp",
         "host_bio_en": "Stefano Pedro Porro was born in Asti, graduated from the Art School and attended various comics courses. He trained in Alba, at the Libera Accademia Novalia, attending a course in painting and illustration, which he concluded by presenting a thesis on \"Invisible Cities\" by Italo Calvino. From 2020 to 2022 he published weekly in the column \"Voci Illustrate\" which he created on the New Province of Asti. In December 2022 he publishes \"Wassily Kandinsky - The tightrope walker of colors\" and talks about Kandinsky's life for the book collection \"ALT! Art Frees All\" dedicated to children and teenagers by Maria Pacini Fazzi Editore / Editions Ragghianti Foundation Studies on the art of Lucca. He loves to experiment using various techniques always looking for the most suitable language, he favours painting, ink and engraving. For Scambi Festival he proposes a sculpture that introduces an itinerant path in the pine cone through fourteen illustrations taken from his thesis project \"INVISIBILIS\". The journey into the Calvino lanscape created by the young artist will be crowned by the drawing concert (\"I am INVISIBLE\") which will take place on August 25, on the opening day of the festival.",
@@ -146,10 +114,7 @@
             "Marta"
         ],
         "host": "Pedro",
-        "times": "",
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Pinolo Slimp",
@@ -158,17 +123,6 @@
             "27"
         ],
         "description": "Slimp (SoftwareLiberoIMperiaProvincia) è un gruppo informale ed eterogeneo di utilizzatori di software libero della provincia di Imperia e zone limitrofe.<br>Lo scopo del gruppo è la promozione di concetti quali la libertà dello scambio di idee e di informazioni, con un occhio di riguardo al software open source e ai sistemi operativi come Linux che condividono gli stessi concetti. Ci incontriamo online sul [gruppo Telegram](https://t.me/slimpimperia) e dal vivo durante eventi come il Linux Day, o sporadici incontri in birreria o pizzate.",
-        "description_en": "",
-        "host_logo": "",
-        "host_bio": "",
-        "host_image": "",
-        "host_bio_en": "",
-        "host_url": "",
-        "referente": "",
-        "host": "",
-        "times": "",
-        "scambi_url": "",
-        "img": "",
         "location": "Terrazza Santa Brigida"
     },
     {
@@ -176,11 +130,6 @@
         "days": "25",
         "description": "L’ultima tappa del nostro Gruppo di Lettura ci porta all’Osteria La Ciotola, dove, sorseggiando un caffè caldo e gustando una focaccia appena sformata, parleremo insieme a Martina D’Amore di Italo Calvino e del suo rapporto con la Pigna",
         "description_en": "Our loved Reading Group takes us to La Ciotola, where, accompanied by a cappuccino and a freshly baked focaccia, together with Martina D’Amore we will discuss Italo Calvino and his relation with Sanremo.",
-        "host_logo": "",
-        "host_bio": "",
-        "host_image": "",
-        "host_bio_en": "",
-        "host_url": "",
         "referente": [
             "Sabrina",
             "Lea"
@@ -192,7 +141,6 @@
             "27: 9:30 → 10:15"
         ],
         "scambi_url": null,
-        "img": "",
         "location": "La Ciotola"
     },
     {
@@ -214,10 +162,7 @@
             "Marta"
         ],
         "host": "Filò",
-        "times": "",
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Tutto Mat, Botteghe aperte",
@@ -228,16 +173,11 @@
         ],
         "description": "Pittura e sperimentazione artistica",
         "description_en": "Painting and artistic experimentation",
-        "host_logo": "",
         "host_bio": "Andrea Selvaggio: Nato a Palermo il 28 febbraio 1980, nel 2002 consegue il diploma in Decorazione presso l'Accademia di Belle Arti di Palermo. Si dedica alla pittura conseguendo premi e riconoscimenti, partecipa a numerose collettive in Italia e all'estero. Dopo un breve e intenso periodo come pittore di scena in diversi set cinematografici (come le collaborazioni con Giuseppe Tornatore per il film “Baaria\" e John Turturro per il docufilm “La Sicilia” ) si dedica totalmente all'insegnamento. Oggi vive e lavora a Sanremo, dove insegna Arte e Immagine presso la scuola Secondaria Dante Alighieri. Nel 2018 inizia il suo progetto artistico di riqualifica urbana e sociale “pescheria n.2” riuscendo a coinvolgere, attraverso interventi di street art e laboratori di pittura , oltre ai suoi allievi, gli abitanti del centro storico di Sanremo. Lo spazio: La nuova galleria aperta da qualche anno in via Palma 16, nasce come uno spazio aperto dove la ricerca pittorica si fonde con l'entusiasmo e il coinvolgimento di tutti coloro che curiosi, interessati e affascinati entrano e lasciano la loro impronta. E' un luogo dove arte e cultura si incontrano, dov'è possibile vedere l'artista in azione ed  acquistare opere uniche.",
         "host_image": "https://nuvola.scambi.org/s/dALjQLNzbx98Aqd",
         "host_bio_en": "Born in Palermo on February 28, 1980, in 2002 he graduated in Decoration at the Academy of Fine Arts in Palermo. He dedicates himself to painting achieving prizes and awards, and participates in numerous group exhibitions in Italy and abroad. After a short and intense period as a scene painter in various film sets (such as collaborations with Giuseppe Tornatore for the film \"Baaria\" and John Turturro for the docufilm \"La Sicilia\"), he devoted himself totally to teaching. Today he lives and works in Sanremo, where he teaches Art and Image at the Dante Alighieri secondary school. In 2018 he began his artistic project of urban and social redevelopment \"pescheria n.2\" managing to involve, through street art interventions and painting workshops, in addition to his students, the inhabitants of the historic centre of Sanremo. Space: The new gallery opened a few years ago in Via Palma 16. It is born as an open space where pictorial research merges with the enthusiasm and involvement of all those curious, interested and fascinated who enter and leave their mark. It is a place where art and culture meet, where it is possible to see the artist in action and buy unique works.",
         "host_url": "tuttomat.it",
         "referente": "Giulia",
-        "host": "Galleria Tutto Mat",
-        "times": "",
-        "scambi_url": "",
-        "img": "",
-        "location": ""
+        "host": "Galleria Tutto Mat"
     }
 ]
