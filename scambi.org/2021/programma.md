@@ -98,7 +98,7 @@ ore **10**–**12** e **16**–**18**
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**
 <cite>[Scambi Sounds Lab](/2021/lab/scambi-sounds-lab)</cite>: aiutato dai ragazzi di [Overload](https://instagram.com/_overload), prendi parte alla composizione di un brano musicale con i suoni che saprà produrre il tuo corpo.  
-<cite>[Scambi aerei](/2021/lab/scambi-aerei)</cite>: il [birrificio NADIR](https://facebook.com/BirrificioNadir 'Pagina Facebook del Birrificio NADIR') presenta l’<cite>Air-Hopping</cite>, tecnica produttiva inventata e brevettata dal mastro birraio Gabriele Genduso, che sfrutta la natura volatile degli olii essenziali per caratterizzare in modo unico la birra.
+<cite>[Scambi aerei](/2021/lab/scambi-aerei)</cite>: il [birrificio NADIR](https://birrificionadir.it 'Birrificio NADIR') presenta l’<cite>Air-Hopping</cite>, tecnica produttiva inventata e brevettata dal mastro birraio Gabriele Genduso, che sfrutta la natura volatile degli olii essenziali per caratterizzare in modo unico la birra.
 
 #### Piña Social Club
 
@@ -151,7 +151,7 @@ ore **10**–**12** e **16**–**18**
 
 ore **10-11**, **11:30-12:30**, **16-17** e **17:30-18:30**  
 <cite>[Scambi Sounds Lab](/2021/lab/scambi-sounds-lab)</cite>: aiutato dai ragazzi di [Overload](https://instagram.com/_overload), prendi parte alla composizione di un brano musicale con i suoni che saprà produrre il tuo corpo.  
-<cite>[Scambi aerei](/2021/lab/scambi-aerei)</cite>: il [birrificio NADIR](https://facebook.com/BirrificioNadir 'Pagina Facebook del Birrificio NADIR') presenta l’<cite>Air-Hopping</cite>, tecnica produttiva inventata e brevettata dal mastro birraio Gabriele Genduso, che sfrutta la natura volatile degli olii essenziali per caratterizzare in modo unico la birra.
+<cite>[Scambi aerei](/2021/lab/scambi-aerei)</cite>: il [birrificio NADIR](https://birrificionadir.it 'Birrificio NADIR') presenta l’<cite>Air-Hopping</cite>, tecnica produttiva inventata e brevettata dal mastro birraio Gabriele Genduso, che sfrutta la natura volatile degli olii essenziali per caratterizzare in modo unico la birra.
 
 dalle **20:30** a **mezzanotte**  
 Visione e premiazione dei [cortometraggi vincitori](https://instagram.com/p/CSrzsFQNiQE/) del concorso <cite>[**Dissolvenze**](/dissolvenze)</cite></a>  

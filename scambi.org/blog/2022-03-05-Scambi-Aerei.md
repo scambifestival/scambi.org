@@ -10,7 +10,7 @@ video: https://peertube.uno/videos/embed/2e5d6ef8-0ae0-4a28-9e32-279ef733e9ab
 ---
 <div class='embed-container'><iframe title='Scambi Aerei — Cartolina' src='https://peertube.uno/videos/embed/2e5d6ef8-0ae0-4a28-9e32-279ef733e9ab?autoplay=1&amp;title=0&amp;warningTitle=0&amp;peertubeLink=0' allowfullscreen='' sandbox='allow-same-origin allow-scripts allow-popups' frameborder='0'></iframe></div>
 
-La già coloratissima Piazza Santa Brigida si è riempita di arnesi stranissimi nel corso di *Scambi 2021*. Tra questi, alcune **box magiche** e sperimentali, nelle quali ficcare nasi e mani per sentire da vicino aromi particolari, e mettersi nei panni dei piccoli luppoli che, nel corso della loro vita avventurosa, hanno la possibilità di fare incontri meravigliosi grazie all’infallibile *Tinder* dei sapori: il [**birrificio NADIR**](https://www.facebook.com/BirrificioNadir 'Birrificio NADIR su Facebook').
+La già coloratissima Piazza Santa Brigida si è riempita di arnesi stranissimi nel corso di *Scambi 2021*. Tra questi, alcune **box magiche** e sperimentali, nelle quali ficcare nasi e mani per sentire da vicino aromi particolari, e mettersi nei panni dei piccoli luppoli che, nel corso della loro vita avventurosa, hanno la possibilità di fare incontri meravigliosi grazie all’infallibile *Tinder* dei sapori: il [**birrificio NADIR**](https://birrificionadir.it 'Birrificio NADIR').
 
 <figure>
 	<img src='https://images.tommi.space/i?/uploads/j/b/u/jbuqxznr00//2021/08/28/20210828124115-4cecedc2-me.jpg' />
