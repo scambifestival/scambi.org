@@ -857,6 +857,7 @@ svg.button {
 	color: var(--text);
 	background: var(--primary);
 	&.newsletter {
+		box-shadow: .25rem .25rem 0 var(--yellow);
 		margin-bottom: root.$bigger;
 	}
 }
@@ -1071,6 +1072,12 @@ svg.button {
 
 mark.lab {
 	background: var(--green);
+	padding: 1px .25rem;
+}
+
+mark.serata {
+	background: var(--orange);
+	color: #FFF;
 	padding: 1px .25rem;
 }
 
