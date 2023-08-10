@@ -1,3 +1,5 @@
+const { EleventyRenderPlugin } = require('@11ty/eleventy');
+
 // Markdown //
 const markdownIt = require('markdown-it');
 const md = markdownIt({
@@ -8,7 +10,7 @@ const md = markdownIt({
 	permalink: require('markdown-it-anchor').permalink.headerLink(),
 })
 .use(require('markdown-it-footnote'))
-.use(require('markdown-it-mark'))
+.use(require('markdown-it-mark'))	
 .use(require('markdown-it-task-lists'));
 
 module.exports = function(eleventyConfig) {
@@ -56,12 +58,12 @@ module.exports = function(eleventyConfig) {
 			});
 	});
 
-
 	// Scss //
 	eleventyConfig.addPassthroughCopy({'svg': '/'});
 	eleventyConfig.addPassthroughCopy('index.js');
 
 	// Plugins //
+	eleventyConfig.addPlugin(EleventyRenderPlugin);
 	eleventyConfig.addPlugin(require('eleventy-sass'), {
 		compileOptions: {
 			permalink: function(contents, inputPath) {
