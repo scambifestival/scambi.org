@@ -14,7 +14,10 @@
         "host_bio_en": null,
         "host_url": "",
         "referente": "Daniele",
-        "host": "Akvo"
+        "host": "Akvo",
+        "times": "",
+        "scambi_url": null,
+        "img": ""
     },
     {
         "title": "Botteghe Aperte + Art Corner",
@@ -31,7 +34,10 @@
         "host_bio_en": null,
         "host_url": "",
         "referente": "Daniele",
-        "host": "Akvo"
+        "host": "Akvo",
+        "times": "",
+        "scambi_url": null,
+        "img": ""
     },
     {
         "title": "Calvino tra i carruggi",
@@ -69,7 +75,10 @@
         "host": [
             "Martina D’Amore",
             "Laura Guglielmi"
-        ]
+        ],
+        "times": "",
+        "scambi_url": null,
+        "img": ""
     },
     {
         "title": "Pinolo Lazzarin",
@@ -82,7 +91,10 @@
         "host_bio_en": "Walter Lazzarin (1982) is a writer who made his debut in 2011 with the novel \"A volte un bacio\" and in 2012 published the first collection of tautograms: \"21 Lettere d'Amore\". In 2015 he published \"Il drago non si droga\", a novel promoted through his Writer on the road project. From 2016 to May 2017 he took part in the Rai 2 podcast \"Dribbling\", as author and interpreter of the tautograms that start off the episodes. In 2017 he published \"21 vicende vagamente vergognose\", the second collection of tautograms. In 2019, the third one: \"Animali all'avventura\", reviewed by Robinson, art section of La Repubblica.",
         "host_url": "https://instagram.com/walter.lazzarin",
         "referente": "Walter",
-        "host": "Walter  Lazzarin"
+        "host": "Walter  Lazzarin",
+        "times": "",
+        "scambi_url": null,
+        "img": ""
     },
     {
         "title": "Pinolo Pedro",
@@ -98,7 +110,10 @@
         "host_bio_en": "Stefano Pedro Porro was born in Asti, graduated from the Art School and attended various comics courses. He trained in Alba, at the Libera Accademia Novalia, attending a course in painting and illustration, which he concluded by presenting a thesis on \"Invisible Cities\" by Italo Calvino. From 2020 to 2022 he published weekly in the column \"Voci Illustrate\" which he created on the New Province of Asti. In December 2022 he publishes \"Wassily Kandinsky - The tightrope walker of colors\" and talks about Kandinsky's life for the book collection \"ALT! Art Frees All\" dedicated to children and teenagers by Maria Pacini Fazzi Editore / Editions Ragghianti Foundation Studies on the art of Lucca. He loves to experiment using various techniques always looking for the most suitable language, he favours painting, ink and engraving. For Scambi Festival he proposes a sculpture that introduces an itinerant path in the pine cone through fourteen illustrations taken from his thesis project \"INVISIBILIS\". The journey into the Calvino lanscape created by the young artist will be crowned by the drawing concert (\"I am INVISIBLE\") which will take place on August 25, on the opening day of the festival.",
         "host_url": "https://instagram.com/stefanoporro_",
         "referente": "Stefano",
-        "host": "Pedro"
+        "host": "Pedro",
+        "times": "",
+        "scambi_url": null,
+        "img": ""
     },
     {
         "title": "Pinolo Seeweb",
@@ -115,7 +130,26 @@
         "host_bio_en": "Seeweb offers sustainable and responsible cloud solutions. Their company policies include ethics, inclusion and support for social and environmental projects. Their server farm are powered by 100% renewable energy.",
         "host_url": "https://seeweb.it",
         "referente": "Chiara",
-        "host": "Seeweb"
+        "host": "Seeweb",
+        "times": "",
+        "scambi_url": null,
+        "img": ""
+    },
+    {
+        "title": "Poesie a Colazione",
+        "days": "25",
+        "description": "L’ultima tappa del nostro Gruppo di Lettura ci porta all’Osteria La Ciotola, dove, sorseggiando un caffè caldo e gustando una focaccia appena sformata, parleremo insieme a Martina D’Amore di Italo Calvino e del suo rapporto con la Pigna",
+        "description_en": "Our loved Reading Group takes us to La Ciotola, where, accompanied by a cappuccino and a freshly baked focaccia, together with Martina D’Amore we will discuss Italo Calvino and his relation with Sanremo.",
+        "host_logo": "",
+        "host_bio": "",
+        "host_image": "",
+        "host_bio_en": "",
+        "host_url": "",
+        "referente": "",
+        "host": "Chiocciole",
+        "times": "9:30 - 10:15",
+        "scambi_url": null,
+        "img": ""
     },
     {
         "title": "Speed date filosofico",
@@ -132,6 +166,9 @@
         "host_bio_en": "\"Filò – Il filo del pensiero\" is an association of social promotion, born from the research project FarFilò (University of Bologna), whose core consists of philosophers and educators. The members of Filò are also members of ΑΙΩΝ / AIÓN – Philosophy and Didactics, Research Group on Didactics of Philosophy and on Philosophical Practices of the University of Bologna (site.unibo.it/aion/it). Filò aims to promote and disseminate, for all age groups, Philosophy understood as an educational practice capable of developing critical thought, logical-argumentative skills, capacity for abstraction and creativity, all combined with ethical-relational skills. We operate in several fields including schools, libraries, and cultural festivals besides training teachers interested in philosophical dialogue as an educational tool. Chiara Minardi, born in 1994, holds a master's degree in Philosophical Sciences at the University of Bologna and is now enrolled in Modern Literature at Ca' Foscari University in Venice. She meets Filò in 2021 and she is today a Board member. Philosophy always fascinated her and she always wanted to teach it, until she finally encountered philosophical practices: at that point, the opportunity of transforming the teaching of philosophy into the practice of philosophy made her understand that doing philosophy is a chance that no one should miss. Beatrice Gobbi, born in 1995; she obtained a master's degree in Philosophical Sciences with a thesis on truth in science. During her master's degree years, she met the Filò association while carrying out a curricular internship. During this time, Beatrice experienced the transformative power of philosophy and decided that this will be her job. After the internship, Beatrice began collaborating with Filò by holding her first philosophical dialogue workshops in the classroom and beyond. She is a Board member and continues to work in Filò by bringing the practice of philosophy to as many people as possible.",
         "host_url": "https://filoedu.com",
         "referente": "Beatrice",
-        "host": "Filò"
+        "host": "Filò",
+        "times": "",
+        "scambi_url": null,
+        "img": ""
     }
 ]
