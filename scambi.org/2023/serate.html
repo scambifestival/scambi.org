@@ -1,0 +1,34 @@
+---
+title: Le serate di Scambi Festival 2023
+permalink: /music/
+---
+{% assign night-shows = 2023-program | where: 'what', 'serata' | sort: 'days' %}
+{% for show in night-shows %}
+	<section class='row'>
+		<h2>{{ show.title }}</h2>
+		<h3>{{ show.days }} agosto 2023</h3>
+		<div class='half column'>
+			{{ show.description | markdownify }}
+			{% if scambi_url %}
+				<div class='flex row'>
+					<a href='{{ scambi_url }}' class='purple button'>Più dettagli</a>
+				</div>
+			{% endif %}
+		</div>
+		<div class='half column'>
+			<img src='{{ show.img }}' alt='{{ show.title }}'>
+		</div>
+	</section>
+{% endfor %}
+
+<section class='purple row'>
+	<div class='one column'>
+{% renderTemplate "md" %}
+## 🍻 Birra! 🍻
+
+Durante tutte le serate, spilleremo la **birra artigianale** <u>prodotta esattamente sopra la Pigna</u>, dal [Birrificio NADIR](https://instagram.com/birrificio_nadir 'Birrificio NADIR su Instagram') 😍
+
+Se non foste gente da birra, non disperate. Avremo anche vino e qualche cocktail.
+{% endrenderTemplate %}
+	</div>
+</section>
