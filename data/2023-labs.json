@@ -11,8 +11,8 @@
         "host_url": "http://festival.valori.it/",
         "host": "Valori.it - Fondazione Banca Etica",
         "times": [
-            "25: 10:30 - 12:00",
-            "25: 18:00 - 19:30"
+            "26: 10:30 - 12:00",
+            "26: 18:00 - 19:30"
         ],
         "scambi_url": null,
         "img": ""
@@ -213,7 +213,6 @@
         "times": [
             "25: 18:00 - 19:30",
             "26: 10:30 - 12:00",
-            "26: 16:00 - 17:30",
             "27: 16:00 - 17:30"
         ],
         "scambi_url": null,

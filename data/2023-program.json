@@ -13,10 +13,27 @@
         "referente": "Claudia",
         "host": "Valori.it - Fondazione Banca Etica",
         "times": [
-            "25: 10:30 - 12:00",
-            "25: 18:00 - 19:30"
+            "26: 10:30 - 12:00",
+            "26: 18:00 - 19:30"
         ],
         "scambi_url": null,
+        "img": ""
+    },
+    {
+        "title": "Allestimento collettivo",
+        "days": "24",
+        "description": "Perché le cose dovrebbero cominciare solo quando è tutto pronto? L’allestimento collettivo è l’esordio del festival in modo corale e collettivo: tutt3 sono invitat3 a partecipare agli ultimi preparativi!",
+        "what": "evento speciale",
+        "description_en": "",
+        "host_logo": "https://x.scambi.org/scambi.svg",
+        "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
+        "host_image": "https://x.scambi.org/profile_pics/Tommaso_Marmo.jpg",
+        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "",
+        "referente": "Tommaso",
+        "host": "Staff Scambi",
+        "times": "24: 10:00 - 18:00",
+        "scambi_url": "",
         "img": ""
     },
     {
@@ -169,7 +186,24 @@
         "host_url": "https://facebook.com/Pigna-Mon-Amour-190555831024696",
         "referente": "Chicca",
         "host": "Pigna Mon Amour",
-        "times": "21:15 - 23:45",
+        "times": "24: 21:15 - 23:45",
+        "scambi_url": null,
+        "img": ""
+    },
+    {
+        "title": "Concerto disegnato",
+        "days": "24",
+        "description": "",
+        "what": "serata",
+        "description_en": "",
+        "host_logo": "",
+        "host_bio": "Stefano Pedro Porro nasce ad Asti, si diploma al Liceo Artistico e frequenta vari corsi di fumetto. Si forma ad Alba, presso la Libera Accademia Novalia, frequentando un corso di pittura e illustrazione, in cui conclude la triennale presentando una tesi su \"Le città invisibili\" di Italo Calvino. Dal 2020 al 2022 pubblica settimanalmente nella rubrica da lui creata \"Voci Illustrate\" sulla Nuova Provincia di Asti. Nel dicembre 2022 pubblica \"Wassily Kandinsk - Il funambolo dei colori\" e parla della vita di Kandinsky per la collana ALT! Arte Libera Tutti dedicata ai bambini e ragazzi di Maria Pacini Fazzi Editore / Edizioni Fondazione Ragghianti Studi sull’arte di Lucca.  Ama sperimentare usando varie tecniche cercando sempre il linguaggio piú adatto, predilige la pittura, la china e l'incisione. Per Scambi Festival propone una scultura che introduce un percorso itinerante nella pigna attraverso quattordici illustrazioni tratte dal progetto di tesi \"INVISIBILIS\". A coronare il viaggio nell'orrizzonte calviniano creato dal giovane artista, sarà il concerto disegnato (\"Io sono INVISIBILE\") che avverrà il 25 agosto, ovvero la data di apertura del festival.",
+        "host_image": "https://x.scambi.org/images/Stefano_Pedro_Porro.webp",
+        "host_bio_en": "Stefano Pedro Porro was born in Asti, graduated from the Art School and attended various comics courses. He trained in Alba, at the Libera Accademia Novalia, attending a course in painting and illustration, which he concluded by presenting a thesis on \"Invisible Cities\" by Italo Calvino. From 2020 to 2022 he published weekly in the column \"Voci Illustrate\" which he created on the New Province of Asti. In December 2022 he publishes \"Wassily Kandinsky - The tightrope walker of colors\" and talks about Kandinsky's life for the book collection \"ALT! Art Frees All\" dedicated to children and teenagers by Maria Pacini Fazzi Editore / Editions Ragghianti Foundation Studies on the art of Lucca. He loves to experiment using various techniques always looking for the most suitable language, he favours painting, ink and engraving. For Scambi Festival he proposes a sculpture that introduces an itinerant path in the pine cone through fourteen illustrations taken from his thesis project \"INVISIBILIS\". The journey into the Calvino lanscape created by the young artist will be crowned by the drawing concert (\"I am INVISIBLE\") which will take place on August 25, on the opening day of the festival.",
+        "host_url": "https://instagram.com/stefanoporro_",
+        "referente": "Stefano",
+        "host": "Pedro",
+        "times": "24: 23:59 - 01:00",
         "scambi_url": null,
         "img": ""
     },
@@ -290,7 +324,7 @@
             "Claynuts",
             "Club Tenco"
         ],
-        "times": "21:00 - 01:00",
+        "times": "26: 21:00 - 01:00",
         "scambi_url": "/2023/tenco-ascolta",
         "img": ""
     },
@@ -353,13 +387,13 @@
             "ArteSettima",
             ""
         ],
-        "times": "18:30 - 19:30",
+        "times": "26: 18:30 - 19:30",
         "scambi_url": null,
         "img": ""
     },
     {
         "title": "Inaugurazione di Scambi Festival 2023",
-        "days": "25",
+        "days": "24",
         "description": "La cerimonia di apertura della terza edizione di Scambi sarà un’anticipazione riassuntiva di tutte le attività incredibili che avranno luogo durante i quattro giorni della manifestazione. Saranno ospiti Alberto Biancheri, sindaco di Sanremo, Costanza Pireri, vice-sindaca e assessora alle politiche giovanili e Giuseppe Faraldi, assessore al turismo.",
         "what": "evento speciale",
         "description_en": "",
@@ -370,7 +404,7 @@
         "host_url": "",
         "referente": "Tommaso",
         "host": "Staff Scambi",
-        "times": "18:30 - 19:00",
+        "times": "24: 18:30 - 19:00",
         "scambi_url": null,
         "img": ""
     },
@@ -387,7 +421,7 @@
         "host_url": "",
         "referente": "Christian",
         "host": "Teatro Abusivo",
-        "times": "19:00 - 21:00",
+        "times": "24: 19:00 - 21:00",
         "scambi_url": "/2023/teatro",
         "img": ""
     },
@@ -425,7 +459,7 @@
             "Late Night Sessions",
             "Gini Paoli"
         ],
-        "times": "21:30 - 01:00",
+        "times": "25: 21:30 - 01:00",
         "scambi_url": "/2023/lns",
         "img": ""
     },
@@ -487,7 +521,7 @@
             "Cinema Gioiello",
             "Leonardo Venturi"
         ],
-        "times": "18:30 - 19:30",
+        "times": "25: 18:30 - 19:30",
         "scambi_url": null,
         "img": ""
     },
@@ -562,7 +596,11 @@
         "host_url": "",
         "referente": "",
         "host": "Chiocciole",
-        "times": "9:30 - 10:15",
+        "times": [
+            "25: 9:30 - 10:15",
+            "26: 9:30 - 10:15",
+            "27: 9:30 - 10:15"
+        ],
         "scambi_url": null,
         "img": ""
     },
@@ -579,7 +617,7 @@
         "host_url": "",
         "referente": "Tommaso",
         "host": "Staff Scambi",
-        "times": "20:30 - 21:30",
+        "times": "27: 20:30 - 21:30",
         "scambi_url": "/2023/dissolvenze",
         "img": ""
     },
@@ -596,7 +634,7 @@
         "host_url": "https://lauraguglielmi.it",
         "referente": "Laura",
         "host": "Laura Guglielmi",
-        "times": "18:30 - 19:30",
+        "times": "25: 18:30 - 19:30",
         "scambi_url": null,
         "img": ""
     },
@@ -613,7 +651,7 @@
         "host_url": "",
         "referente": "Salvatore",
         "host": "",
-        "times": "10:00 - 12:30",
+        "times": "27: 10:00 - 12:30",
         "scambi_url": null,
         "img": ""
     },
@@ -630,7 +668,7 @@
         "host_url": "",
         "referente": "Salvatore",
         "host": "",
-        "times": "10:00 - 12:00",
+        "times": "26: 10:00 - 12:00",
         "scambi_url": null,
         "img": ""
     },
@@ -647,7 +685,7 @@
         "host_url": "",
         "referente": "Salvatore",
         "host": "",
-        "times": "10:00 - 12:00",
+        "times": "25: 10:00 - 12:00",
         "scambi_url": null,
         "img": ""
     },
@@ -664,7 +702,7 @@
         "host_url": "",
         "referente": "Salvatore",
         "host": "",
-        "times": "17:00 - 18:00",
+        "times": "25: 17:00 - 18:00",
         "scambi_url": null,
         "img": ""
     },
@@ -681,7 +719,7 @@
         "host_url": "",
         "referente": "Salvatore",
         "host": "",
-        "times": "17:00 - 18:00",
+        "times": "26: 17:00 - 18:00",
         "scambi_url": null,
         "img": ""
     },
@@ -726,7 +764,7 @@
             "Leonardo Sinopoli",
             "Olivia Contemporary Dance Project (OCDP)"
         ],
-        "times": "21:30 - 01:00",
+        "times": "27: 21:30 - 01:00",
         "scambi_url": "/2023/riversando",
         "img": ""
     },
@@ -851,7 +889,11 @@
         "host_url": "",
         "referente": "Tommaso",
         "host": "Staff Scambi",
-        "times": "14:00 - 15:30",
+        "times": [
+            "25: 14:00 - 15:30",
+            "26: 14:00 - 15:30",
+            "27: 14:00 - 15:30"
+        ],
         "scambi_url": null,
         "img": ""
     },
@@ -874,7 +916,6 @@
         "times": [
             "25: 18:00 - 19:30",
             "26: 10:30 - 12:00",
-            "26: 16:00 - 17:30",
             "27: 16:00 - 17:30"
         ],
         "scambi_url": null,

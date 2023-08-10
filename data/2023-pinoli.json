@@ -147,7 +147,11 @@
         "host_url": "",
         "referente": "",
         "host": "Chiocciole",
-        "times": "9:30 - 10:15",
+        "times": [
+            "25: 9:30 - 10:15",
+            "26: 9:30 - 10:15",
+            "27: 9:30 - 10:15"
+        ],
         "scambi_url": null,
         "img": ""
     },
