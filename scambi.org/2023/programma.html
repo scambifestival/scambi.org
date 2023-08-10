@@ -1,0 +1,21 @@
+---
+title: Programma 2023
+image: https://x.scambi.org/illustrations/program_gradient.webp
+description: Tutti i Lab, gli incontri, i Pinoli e gli appuntamenti da non perdere a Scambi Festival 2023!
+layout: page
+permalink: /2023/programma/
+redirect_from: [/programma/,/2023/]
+ref: 2023program
+---
+{% assign days = '24;25;26;27' | split: ';' %}
+{% assign 2023-program-daily = 2023-program | sort: 'times' | sort: 'days' %}
+
+{% for day in days %}
+	<h2>{{ day }} agosto 2023</h2>
+	<ul>{% for entry in 2023-program-daily %}
+		{% if entry.days contains day %}
+			<li>{{ entry.times }} - {{ entry title}}</li>
+		{{ entry.title }}
+		{% endif %}
+	{% endfor %}</ul>
+{% endfor %}
