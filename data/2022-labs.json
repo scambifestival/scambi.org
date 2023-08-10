@@ -9,6 +9,7 @@
         "descrizione": "Malegaleco ha l’intento di educare e informare su specifiche tematiche sociali, proponendo soluzioni per combattere le diseguaglianze in Italia. Consapevoli che l’attivismo espone chi lo fa al giudizio della società, questo laboratorio si concentra sulla prevenzione o la gestione delle sue potenziali conseguenze negative.  L’attivismo è quindi l’idea centrale del laboratorio, che mira a comprenderne le basi sia online che offline, e gli strumenti a disposizione per renderla un’esperienza sicura. Il laboratorio indaga quali sono i comportamenti e gli accorgimenti che creano una condizione protetta entro la quale agire, come esplorare la propria identità intersezionale riconoscendo il privilegio individuale; prestare attenzione al tone policing interiorizzato; capire quanto ci si sente psicologicamente sicurз di potersi esporre. Tutto questo per poter agire nel rispetto di se stessз e con sensibilità nei confronti dei gruppi con cui si sta lottando.",
         "host": "Malegaleco",
         "what": "lab",
+        "host_name": "Federica Russo",
         "description": "Malegaleco aims to educate and inform on specific social issues, proposing solutions to combat inequalities in Italy. Aware that activism exposes those who do so to the judgment of society, this lab focuses on the prevention or management of its potential negative consequences.",
         "times": "**27**: 10:30-11:30, 18:00-19:00; **28**: 18:00-19:00",
         "image": "https://x.scambi.org/images/2022/Labs/Attivismo_a_costo_zero.webp",
@@ -92,7 +93,10 @@
             "ITP CERN"
         ],
         "what": "lab",
-        "host_name": "Claudio Bortolin",
+        "host_name": [
+            "Claudio Bortolin",
+            " "
+        ],
         "description": "A path of experiments to discover the pervasiveness of imbalance in the nature in which we are immersed. We will approach some physical phenomena through more or less complex technologies, accompanied by experts in the field who will lead us to try to guess how the imbalance dominates the universe: from mechanics to particle physics, we will approach concepts such as entropy and to entities such as that of the Higgs field.",
         "times": "**26**: 10:30-12:00, 17:30-19:00; **27**: 10:30-12:00, 17:30-19:00; **28**: 10:30-12:00",
         "image": "https://x.scambi.org/images/2022/Labs/Esperimenti_Squilibrati.webp",
@@ -200,7 +204,7 @@
         "what": "lab",
         "host_name": "Valerio Amadeo",
         "video": "https://nuvola.scambi.org/s/9Biq9MoRccoqsBY",
-        "description": "Amadeo, a native of the Pigna and dedicated since youth to the art of theater, reflects on the concepts of “theater” and “theaters” of Disequilibrium—present in everyday life.<br>The lab then explores two essential areas of the theater: the scenic component and the performative, which Amadeo combines with the construction of *tensegral* structures, characters in recyclable material and the writing of a script.",
+        "description": "Amadeo, a native of the Pigna and dedicated since youth to the art of theater, reflects on the concepts of “theater” and “theaters” of Disequilibrium—present in everyday life.<br> The lab then explores two essential areas of the theater: the scenic component and the performative, which Amadeo combines with the construction of *tensegral* structures, characters in recyclable material and the writing of a script.",
         "times": "**26** 17:00-18:15; **27** 10:00-11:15; **28** 10:00-11:15, 16:30-17:45",
         "image": "https://x.scambi.org/images/2022/Labs/I_Teatri_degli_Squilibri.webp",
         "host_bio": "Valerio Amadeo – che fino a maggio 2022 si è sempre presentato come Vladi, alla cui morte sotto un albero è nato Amadeo – proviene dalla Pigna, ma ancor prima di finire la scuola abbandonò le sue radici per viaggiare e scoprire il mondo. Si incontrò con il teatro casualmente, ma il teatro divenne parte imprescindibile di lui. A lungo termine è stato dedito al teatro delle marionette, che creava e cui dava vita negli spettacoli di strada; ma è una persona curiosa, sempre pronta a conoscere tanti altri modi di dare fisicità teatrale alla realtà umana.",
@@ -270,27 +274,39 @@
         ],
         "location": "Giardini Regina Elena",
         "descrizione": "Qual è il ruolo di un albero in una città sempre più calda, affollata e frenetica? Cosa si può fare per proteggere la natura che incontriamo quasi per caso tra una strada asfaltata e un edificio di dieci piani? Il Laboratalbero esplorerà lo squilibrio fra verde cittadino ed aree urbanizzate tramite attività, giochi e riflessioni sugli effetti che esso ha su corpo e mente. E non finisce qui! Sarai proprio tu a ravvivare un angolo della Pigna, piantando alberi e fiori sotto la guida esperta dei labbers. Cosa aspetti? Ci troverai ai Giardini Regina Elena con vanghe ed annaffiatoi!",
-        "host": "Fridays For Future Ventimiglia",
+        "host": [
+            "Fridays For Future Ventimiglia",
+            ""
+        ],
         "what": "lab",
         "host_name": [
             "Pietro Pizzo",
             "Giampiero Cane"
         ],
         "video": "https://nuvola.scambi.org/s/MaNsq8RnfiXmW7J",
-        "description": "What is the role of a tree in an increasingly hot, crowded and frenetic city? What can be done to protect the nature that we encounter almost by chance between a paved road and a ten-storey building? Laboratalbero will explore the disequilibrium between green city and urbanized areas through activities, games and reflections on the effects that it has on body and mind. And it doesn’t stop there! You will be the one to liven up a corner of Pigna, planting trees and flowers under the expert guidance of the labbers. What are you waiting for? You will find us at Regina Elena Gardens with spades and watering cans!",
+        "description": "What is the role of a tree in an increasingly hot, crowded and frenetic city? What can be done to protect the nature that we encounter almost by chance between a paved road and a ten-storey building? Laboratalbero will explore the disequilibrium between green city and urbanized areas through activities, games and reflections on the effects that it has on body and mind. And it doesn’t stop there! You will be the one to liven up a corner of Pigna, planting trees and flowers under the expert guidance of the labbers.  What are you waiting for? You will find us at Regina Elena Gardens with spades and watering cans!",
         "times": "**27**: 16:00-18:00; **28**: <span class='eng'>16:00-18:00</span>",
         "image": "https://x.scambi.org/images/2022/Labs/Laboratalbero.webp",
-        "host_logo": "https://x.scambi.org/others_logos/Friday_for_Future_Ventimiglia.png",
+        "host_logo": [
+            "https://x.scambi.org/others_logos/Friday_for_Future_Ventimiglia.png",
+            ""
+        ],
         "host_bio": [
             "Pietro è uno studente e attivista di Fridays for Future Ventimiglia. Si occupa di sostenibilità.",
             "Storico insegnante dell’Istituto Agrario di Sanremo, Gian Piero Cane è da sempre al fianco dei giovani e dei più fragili, insegnando il rispetto e la conservazione della natura da almeno cinquant’anni."
         ],
-        "host_image": "https://x.scambi.org/profile_pics/Pietro_Pizzo.jpeg",
+        "host_image": [
+            "https://x.scambi.org/profile_pics/Pietro_Pizzo.jpeg",
+            ""
+        ],
         "host_bio_en": [
             "Pietro is a student and activist of Fridays for Future Ventimiglia. He is passionate  about sustainability.",
             "Historical teacher of Istituto Agrario di Sanremo, Gian Piero Cane has always been at the side of the young and the most fragile, teaching respect and the conservation of nature for at least fifty years."
         ],
-        "host_url": "https://facebook.com/fridaysforfutureventimiglia"
+        "host_url": [
+            "https://facebook.com/fridaysforfutureventimiglia",
+            ""
+        ]
     },
     {
         "title": "Nodi",
