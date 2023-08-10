@@ -25,7 +25,7 @@ Upon your arrival, you will receive a leaflet that we call **The Passport**. Ins
 
 Our association offers a **simple** and essential yet **free** solution if you would like to attend the festival but have no place to stay. You will be able to sleep in the gym of a school located in the heart of Sanremo, a ten-minute walk from *Porta Bugiarda*, where *la Pigna* begins.
 
-(*Porta Bugiarda* is also the name of an excellent beer, brewed by NADIR Brewery, which held a Lab during the first edition of Scambi. You will be able to taste it at Scambi 2023, we will tap it during every music night😍)
+(*Porta Bugiarda* is also the name of an excellent beer, brewed by [NADIR Brewery](https://birrificionadir.it), which held a Lab during the first edition of Scambi. You will be able to taste it at Scambi 2023, we will tap it during every music night😍)
 
 You can reserve a spot by filling out the form at [gym.scambi.org](http://gym.scambi.org), **BEFORE AUGUST 10, 2023.**
 
