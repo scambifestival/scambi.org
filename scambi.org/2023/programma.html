@@ -12,7 +12,6 @@ ref: 2023program
 
 <p>Questa pagina raccoglie tutte le attività che avverranno nei quattro giorni della terza edizione di Scambi Festival. Per avere più informazioni, in alcuni casi abbiamo creato pagine specifiche per una singola attività.</p>
 
-
 <div class='flex row'>
 	<a href='/guida' class='turquoise button'>Guida a Scambi 2023</a>
 	<a href='/2023/lab' class='green button'>Tutti i Lab</a>
@@ -21,14 +20,13 @@ ref: 2023program
 	<a href='/2023/dissolvenze' class='purple button'>Dissolvenze</a>
 </div>
 
-
 {% for day in days %}
 	<h2>{{ day }} agosto 2023</h2>
-	<ul>{% for entry in 2023-program-daily %}
+	<ul>{% for entry in 2023-program %}
 		{% if entry.days contains day %}
 			{% capture complete_entry %}
 				{% if entry.scambi_url %}
-					<a href='entry.scambi_url'>{{ entry.title }}</a>
+					{% if entry.what == 'serata' %}<mark class='serata'>serata</mark>{% endif %} <a href='entry.scambi_url'>{{ entry.title }}</a>
 				{% elsif entry.what == 'lab' or entry.what == 'pinolo' %}
 					<mark class='{{ entry.what }}'>{{ entry.what }}</mark> <a href='/2023/{{ entry.what }}/{{ entry.title | slugify }}'>{{ entry.title }}</a>
 				{% elsif entry.what == 'dissolvenze' %}
