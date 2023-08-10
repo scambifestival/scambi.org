@@ -1035,10 +1035,6 @@ svg.button {
 	figure {
 		margin-top: 2rem;
 	}
-	time {
-		padding: 0 root.$small;
-		background: var(--slight);
-	}
 }
 
 #main-logo {
@@ -1065,34 +1061,47 @@ svg.button {
 	background: var(--green);
 	margin: 0;
 	padding-top: 4rem;
-	.viewportFrame {
-		display: none;
-	}
 }
 
-.lab {
+.lab, .labs {
 	.viewportFrame {
 		background: var(--green);
 	}
+}
+
+mark.lab {
+	background: var(--green);
+	padding: 1px .25rem;
 }
 
 .pinoli {
 	background: var(--yellow);
 	padding-top: 4rem;
 	margin: 0;
-	.viewportFrame {
-		display: none;
-	}
 }
 
-.pinolo {
+.pinolo, .pinoli {
 	.viewportFrame {
 		background: var(--yellow);
 	}
 }
 
-.dissolvenze .viewportFrame {
+mark.pinolo {
+	background: var(--yellow);
+	color: #000;
+	padding: 1px .25rem;
+}
+
+.dissolvenze {
+	.viewportFrame {
+		background: var(--purple);
+	}
+}
+
+mark.dissolvenze {
 	background: var(--purple);
+	color: #FFF;
+	padding: 1px .25rem;
 }
 
 #goto {

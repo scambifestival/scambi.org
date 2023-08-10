@@ -1,0 +1,44 @@
+---
+title: Lab
+pagination:
+  data: 2023-labs
+  size: 1
+  alias: lab
+eleventyComputed:
+  title: '{{ lab.title }}'
+permalink: '/2023/lab/{{ lab.title | slugify }}/'
+layout: wrapper
+class: lab
+---
+{% for item in pagination.items %}
+	<h1>{{ item.title }}</h1>
+	<section class='row'>
+		<div class='half column'>
+			<p>{{ item.description | markdownify }}</p>
+		</div>
+		<div class='half column'>
+			<dl id='data'>
+				<dt>Location</dt>
+				<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='Le location di Scambi Festival 2023'>vedi mappa</a></dd>
+
+				<dt>Quando</dt>
+				{% for time in item.times %}
+					<dd>
+						<time>{{ time | markdownify }}</time>
+					</dd>
+				{% endfor %}
+				<dt>Host</dt>
+				{% if item.host %}
+					{% for host in item.host %}
+						<dd>{{ host }}</dd>
+					{% endfor %}
+				{% else %}
+					<dd>{{ item.host_name }}</dd>
+				{% endif %}
+			</dl>
+				<figure><img src='{{ item.image }}' alt='{{ item.title }}'></figure>
+		</div>
+	</section>
+{% endfor %}
+
+{% render 'prenota.liquid', lang: lang, url: page.url, booking_url: site.booking_url %}
