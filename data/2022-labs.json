@@ -9,8 +9,6 @@
         "descrizione": "Malegaleco ha l’intento di educare e informare su specifiche tematiche sociali, proponendo soluzioni per combattere le diseguaglianze in Italia. Consapevoli che l’attivismo espone chi lo fa al giudizio della società, questo laboratorio si concentra sulla prevenzione o la gestione delle sue potenziali conseguenze negative.  L’attivismo è quindi l’idea centrale del laboratorio, che mira a comprenderne le basi sia online che offline, e gli strumenti a disposizione per renderla un’esperienza sicura. Il laboratorio indaga quali sono i comportamenti e gli accorgimenti che creano una condizione protetta entro la quale agire, come esplorare la propria identità intersezionale riconoscendo il privilegio individuale; prestare attenzione al tone policing interiorizzato; capire quanto ci si sente psicologicamente sicurз di potersi esporre. Tutto questo per poter agire nel rispetto di se stessз e con sensibilità nei confronti dei gruppi con cui si sta lottando.",
         "host": "Malegaleco",
         "what": "lab",
-        "host_name": "Federica Russo",
-        "video": "",
         "description": "Malegaleco aims to educate and inform on specific social issues, proposing solutions to combat inequalities in Italy. Aware that activism exposes those who do so to the judgment of society, this lab focuses on the prevention or management of its potential negative consequences.",
         "times": "**27**: 10:30-11:30, 18:00-19:00; **28**: 18:00-19:00",
         "image": "https://x.scambi.org/images/2022/Labs/Attivismo_a_costo_zero.webp",
@@ -28,7 +26,6 @@
         "host": "Balbosco",
         "what": "lab",
         "host_name": "Teresa De Grandis",
-        "video": "",
         "description": "This year, Scambi Festival has chosen the theme of disequilibrium and right in this theme is inserted the afternoon of Saturday 27 dedicated to dance, by the Balbosco d'Oc Association of Vallecrosia, for years engaged in the dissemination of dances of popular tradition. A dance step always begins with a sort of ”disequilibrium”: you start on one foot and land on the other, looking for a new balance, usually with the participation of the group or the person with whom we share the dance. At 18.30 in the charming Piazza Santa Brigida there will be an approach to the traditional dances of the Occitan area to learn the simplest steps of the couple and group dances. At 21 you can then experience the dances learned thanks to the music of Lu Barbalùcou that, coming from the county of Nice, will resonate the Occitan notes in the square and carruggi sanremesi. We look forward to seeing you to share together the mysterious fascinating “disequilibrium” of dance steps!",
         "times": "**27**: 19:00-20:15",
         "image": "https://x.scambi.org/images/2022/Labs/Balli_Occitani.webp",
@@ -50,7 +47,6 @@
         "host": "LIBERA Imperia",
         "what": "lab",
         "host_name": "Maura Orengo",
-        "video": "",
         "description": "Through the expedient of role-playing, this lab aims to stimulate reflection on the complex context in which the rebellion of civil and political society against the mafias stands out. Secondly, all the factors without which things could have gone differently",
         "times": "**26**: 16:00-17:30; **27**: 16:15-17:45; **28**: 11:00-12:30",
         "image": "https://x.scambi.org/images/2022/Labs/Cambiare_Scenario.webp",
@@ -96,11 +92,7 @@
             "ITP CERN"
         ],
         "what": "lab",
-        "host_name": [
-            "Claudio Bortolin",
-            " "
-        ],
-        "video": "",
+        "host_name": "Claudio Bortolin",
         "description": "A path of experiments to discover the pervasiveness of imbalance in the nature in which we are immersed. We will approach some physical phenomena through more or less complex technologies, accompanied by experts in the field who will lead us to try to guess how the imbalance dominates the universe: from mechanics to particle physics, we will approach concepts such as entropy and to entities such as that of the Higgs field.",
         "times": "**26**: 10:30-12:00, 17:30-19:00; **27**: 10:30-12:00, 17:30-19:00; **28**: 10:30-12:00",
         "image": "https://x.scambi.org/images/2022/Labs/Esperimenti_Squilibrati.webp",
@@ -133,7 +125,6 @@
         "host": "Etica Digitale",
         "what": "lab",
         "host_name": "Ciro Ogliastro",
-        "video": "",
         "description": "Originally, social networks were born with the promise of creating virtual bridges between people, allowing them to express themselves and interact freely. With the growth of companies' control over the most popular social networks, the main goal has become profit: users have become a product to sell to advertisers.",
         "times": "**27**: 10:30-11:45; 16:00-17:15",
         "image": "https://x.scambi.org/images/2022/Labs/Fediverse.webp",
@@ -155,7 +146,6 @@
         "description": "Kenobit teaches the basics of LSDJ, Game Boy software that allows you to make 8-bit music.  To participate you just need a laptop with a Game Boy emulator.",
         "times": "**26**: 18:00-19:00",
         "image": "https://x.scambi.org/images/2022/Labs/Game_Boy_Music_Production.webp",
-        "host_logo": "",
         "host_bio": "Fabio Bortolotti, in arte *Kenobit*, traduce, vive e respira videogiochi. Ha trasformato la popolare console degli anni ‘90 in vero e proprio strumento: suona il suo Game Boy in giro per il mondo, con concerti in Africa, Russia, Giappone, Australia, America e in tutta Europa. Verso i vent’anni, Fabio abbandona l’università per scrivere sulle riviste di videogiochi e seguire così il suo sogno d’infanzia. Ha quindi un passato sulle grandi riviste cartacee (Giochi Per il Mio Computer, Nintendo la Rivista Ufficiale, Xbox Magazine Ufficiale, The Games Machine, PSM) e un presente come intrattenitore su Twitch, dove insieme ad Andrea <q>Bisboch</q> Babich e Antonio Bellotta dirige Kenobisboch, un canale dedicato al retrogaming e alla diffusione della cultura del videogioco.",
         "host_image": "https://x.scambi.org/profile_pics/Kenobit.jpg",
         "host_bio_en": "Fabio Bortolotti, a.k.a. *Kenobit*, translates, lives, and breathes video games. He has transformed the popular console of the 90s into a real instrument: he plays his Game Boy around the world, with concerts in Africa, Russia, Japan, Australia, America and throughout Europe. At the age of twenty, Fabio left university to write in video game magazines and follow his childhood dream. He collaborated with famous paper magazines (<cite>Giochi Per il Mio Computer</cite>, <cite>Nintendo, la Rivista Ufficiale</cite>, <cite>Xbox Magazine Ufficiale</cite>, <cite>The Games Machine</cite>, <cite>PSM</cite>) and he is currently an entertainer on Twitch, where together with Andrea <q>Bisboch</q> Babich and Antonio Bellotta directs Kenobisboch, a channel dedicated to the retrogaming and the culture of the videogame.",
@@ -172,8 +162,6 @@
         "descrizione": "Quando non sto bene, prendo un foglio di carta. Poi una penna, o una matita,lo sporco e sto meglio. Poi mi fermo e lo rileggo e sto proprio bene. E tu, hai mai scritto? No, non valgono i temi a scuola o i curricula per lavoro, intendiamo per te e basta. In questo laboratorio scopriremo la scrittura spontanea presente in ognuno di noi, in modo dinamico e coinvolgente: proveremo a stare scomodi, indagheremo il significato delle emozioni, creeremo una storia, individuale e collettiva. Perché, sotto sotto, siamo tuttз scrittorз.",
         "host": "Caketussy",
         "what": "lab",
-        "host_name": " ",
-        "video": "",
         "description": "When I'm not feeling well, I take a sheet of paper. Then a pen, or a pencil, I write something on it. Then I stop and I read it and I'm feeling better. And you, have you ever written or dreamed to be a writer? No, essays at school or curricula for work are not valid, I mean writing for you and that's it. In this workshop, we will discover the spontaneous and instinctive writing present in each of us, in a dynamic and engaging way: we will challenge ourselves, investigate the meaning of emotions and create an individual and collective story. Because, deep down, we are all writers.",
         "times": "**26**: 10:00-11:00, 17:30-18:30; **27**: 10:00-11:00, 17:30-18:30; **28**: 17:30-18:30",
         "image": "https://x.scambi.org/images/2022/Labs/Il_mio_mare_di_parole.webp",
@@ -191,11 +179,9 @@
         "host": "Christian Gullone",
         "what": "lab",
         "host_name": "Christian Gullone",
-        "video": "",
         "description": "The smile as a weapon of mass construction, taking oneself little seriously. A brief analysis on comic action as an act of serious harmony with the other, a short workshop to discover the madman who starves inside us, with forays into clowning, commedia dell'arte and social inclusion, because basically we are all idiots alike.",
         "times": "**28**: 10:00-11:00, 17:00-18:00",
         "image": "https://x.scambi.org/images/2022/Labs/Il_Sorriso,_Squilibrio_di_massa.webp",
-        "host_logo": "",
         "host_bio": "Christian Gullone, classe 1983, è nato nel centro storico di Sanremo e nella città dei fiori ha coltivato il proprio talento musicale. Grande protagonista dell’ultima edizione di Rock in The Casbah.",
         "host_image": "https://x.scambi.org/images/Christian_Gullone.jpg",
         "host_bio_en": "Christian Gullone, born in 1983 was raised in the historical center of Sanremo, where he cultivated his passion for music. He has been the frontrunner of the latest edition of Rock in the Casbah.",
@@ -214,10 +200,9 @@
         "what": "lab",
         "host_name": "Valerio Amadeo",
         "video": "https://nuvola.scambi.org/s/9Biq9MoRccoqsBY",
-        "description": "Amadeo, a native of the Pigna and dedicated since youth to the art of theater, reflects on the concepts of “theater” and “theaters” of Disequilibrium—present in everyday life.<br> The lab then explores two essential areas of the theater: the scenic component and the performative, which Amadeo combines with the construction of *tensegral* structures, characters in recyclable material and the writing of a script.",
+        "description": "Amadeo, a native of the Pigna and dedicated since youth to the art of theater, reflects on the concepts of “theater” and “theaters” of Disequilibrium—present in everyday life.<br>The lab then explores two essential areas of the theater: the scenic component and the performative, which Amadeo combines with the construction of *tensegral* structures, characters in recyclable material and the writing of a script.",
         "times": "**26** 17:00-18:15; **27** 10:00-11:15; **28** 10:00-11:15, 16:30-17:45",
         "image": "https://x.scambi.org/images/2022/Labs/I_Teatri_degli_Squilibri.webp",
-        "host_logo": "",
         "host_bio": "Valerio Amadeo – che fino a maggio 2022 si è sempre presentato come Vladi, alla cui morte sotto un albero è nato Amadeo – proviene dalla Pigna, ma ancor prima di finire la scuola abbandonò le sue radici per viaggiare e scoprire il mondo. Si incontrò con il teatro casualmente, ma il teatro divenne parte imprescindibile di lui. A lungo termine è stato dedito al teatro delle marionette, che creava e cui dava vita negli spettacoli di strada; ma è una persona curiosa, sempre pronta a conoscere tanti altri modi di dare fisicità teatrale alla realtà umana.",
         "host_image": "https://x.scambi.org/profile_pics/Vladi.webp",
         "host_bio_en": "Valerio Amedeo—who until May 2022 introduced himself as Vladi, whose death under a tree Amedeo was born—comes from Pigna, but before he could finish school he left his hometown to travel the world. He met the art of performing by chance, but that is how it became a part of him. For a long time he dedicated his time to wooden puppets’ theater, that he created and that he made alive by performing in the streets. He is a curious person, always ready to learn other ways to give a physical form to human reality though theater.",
@@ -250,14 +235,11 @@
         "days": "26",
         "location": "Terrazza Santa Brigida",
         "descrizione": "L’arte è a portata di tutti e chiunque può creare un’opera creativa in poco tempo. Attraverso la tecnica della Klecksografia possiamo ristrutturare gli squilibri che allontanano le persone dalla fruizione artistica e dalla produzione di pezzi unici e fantasiosi, significativi soprattutto per chi li ha creati dal momento che il proprio mondo interiore viene letteralmente riversato su carta.  L’arte non deve necessariamente essere elitaria ma può essere libera, spontanea e condivisa. Riscoprire le nostre potenzialità nascoste è un processo “magico” e piacevole.",
-        "host": "",
         "what": "lab",
         "host_name": "Vittorio Toesca",
-        "video": "",
         "description": "Art is available to everyone and anyone can create a creative work in a short time.  Through the technique of Klecksography we can restructure the imbalances that distance people from the artistic fruition and the production of unique and imaginative pieces, especially significant for those who created them since their inner world is literally poured on paper.  Art does not necessarily have to be elitist but it can be free, spontaneous and shared. Rediscovering our hidden potential is a “magical” and pleasant process.",
         "times": "**26**: 10:00-11:30, 11:30-13:00 ENG",
         "image": "https://x.scambi.org/images/2022/Labs/Kleckso-Art.webp",
-        "host_logo": "",
         "host_bio": "Io sono un non-artista. L’arte è dentro le persone ed emerge attraverso la pittura, la connessione e la condivisione. Noi siamo in grado di creare pezzi d’arte unici, con ogni mezzo personale e impersonale a nostra disposizione. Le persone hanno semplicemente bisogno di prendere qualche colore, un pezzo di carta e possono creare, tramite la Klecksografia, un’opera speciale, unica, e individuale in pochissimo tempo. Ogni opera è la proiezione del proprio mondo interiore ed è pura magia. Amo chiamare questo processo “Democratizzazione dell’arte” dato che è gratuita e alla portata di tutti. Quindi getta qualche macchia di inchiostro su un foglio di carta e chiediti: “Cosa potrebbe essere?”",
         "host_image": "https://x.scambi.org/profile_pics/Vittorio_Toesca.jpg",
         "host_bio_en": "I am a non-artist. Art is inside people and emerges through paint, connection, and sharing. We are capable of creating a unique piece of art, with any personal means or impersonal tools at our disposal. People just need to pick up some colors and a piece of paper and through <cite>Klecksographie</cite> they can create a valuable, special, uncommon, and individual oeuvre in a very short time. Each and every piece is one and only and the projection of one's inner world onto it is pure unexampled magic. I love calling this process <q>Democratization of Art</q> since it’s basically free and at anyone's disposal. So just throw some inkblots onto paper and ask yourself: <q>What could it be</q>?",
@@ -275,7 +257,6 @@
         "description": "Alessandro Sahebi will hold a discussion table that will focus on two topics: meritocracy and the climate crisis from a political point of view. Participants will listen to a short introduction on the topics made by the facilitator and then take an active part in the Lab by developing reflections and considerations about it, comparing themselves with the other participants and with Alessandro himself. The goal is to bring people to become aware of issues related to disequilibrium (in the climate and with regard to merit) and to develop thinking through comparison and collaboration.",
         "times": "**28**: 16:00 - 17:30, 18:00 - 19:30",
         "image": "https://x.scambi.org/images/2022/Labs/La_finestra_di_Overton.webp",
-        "host_logo": "",
         "host_bio": "Alessandro Sahebi è un giornalista freelance e attivista che si occupa di politica, di giustizia sociale e di disuguaglianze. Nato nel 1989, scrive per The Post Internazionale, Left, The Vision e Affari Italiani.",
         "host_image": "https://x.scambi.org/profile_pics/Alessandro_Sahebi.jpg",
         "host_bio_en": "Alessandro Sahebi is a freelance journalist and activist who deals with politics, social justice and inequality. Born in 1989, he writes for The Post Internazionale, Left, TheVision and Affari Italiani.",
@@ -289,39 +270,27 @@
         ],
         "location": "Giardini Regina Elena",
         "descrizione": "Qual è il ruolo di un albero in una città sempre più calda, affollata e frenetica? Cosa si può fare per proteggere la natura che incontriamo quasi per caso tra una strada asfaltata e un edificio di dieci piani? Il Laboratalbero esplorerà lo squilibrio fra verde cittadino ed aree urbanizzate tramite attività, giochi e riflessioni sugli effetti che esso ha su corpo e mente. E non finisce qui! Sarai proprio tu a ravvivare un angolo della Pigna, piantando alberi e fiori sotto la guida esperta dei labbers. Cosa aspetti? Ci troverai ai Giardini Regina Elena con vanghe ed annaffiatoi!",
-        "host": [
-            "Fridays For Future Ventimiglia",
-            ""
-        ],
+        "host": "Fridays For Future Ventimiglia",
         "what": "lab",
         "host_name": [
             "Pietro Pizzo",
             "Giampiero Cane"
         ],
         "video": "https://nuvola.scambi.org/s/MaNsq8RnfiXmW7J",
-        "description": "What is the role of a tree in an increasingly hot, crowded and frenetic city? What can be done to protect the nature that we encounter almost by chance between a paved road and a ten-storey building? Laboratalbero will explore the disequilibrium between green city and urbanized areas through activities, games and reflections on the effects that it has on body and mind. And it doesn’t stop there! You will be the one to liven up a corner of Pigna, planting trees and flowers under the expert guidance of the labbers.  What are you waiting for? You will find us at Regina Elena Gardens with spades and watering cans!",
+        "description": "What is the role of a tree in an increasingly hot, crowded and frenetic city? What can be done to protect the nature that we encounter almost by chance between a paved road and a ten-storey building? Laboratalbero will explore the disequilibrium between green city and urbanized areas through activities, games and reflections on the effects that it has on body and mind. And it doesn’t stop there! You will be the one to liven up a corner of Pigna, planting trees and flowers under the expert guidance of the labbers. What are you waiting for? You will find us at Regina Elena Gardens with spades and watering cans!",
         "times": "**27**: 16:00-18:00; **28**: <span class='eng'>16:00-18:00</span>",
         "image": "https://x.scambi.org/images/2022/Labs/Laboratalbero.webp",
-        "host_logo": [
-            "https://x.scambi.org/others_logos/Friday_for_Future_Ventimiglia.png",
-            ""
-        ],
+        "host_logo": "https://x.scambi.org/others_logos/Friday_for_Future_Ventimiglia.png",
         "host_bio": [
             "Pietro è uno studente e attivista di Fridays for Future Ventimiglia. Si occupa di sostenibilità.",
             "Storico insegnante dell’Istituto Agrario di Sanremo, Gian Piero Cane è da sempre al fianco dei giovani e dei più fragili, insegnando il rispetto e la conservazione della natura da almeno cinquant’anni."
         ],
-        "host_image": [
-            "https://x.scambi.org/profile_pics/Pietro_Pizzo.jpeg",
-            ""
-        ],
+        "host_image": "https://x.scambi.org/profile_pics/Pietro_Pizzo.jpeg",
         "host_bio_en": [
             "Pietro is a student and activist of Fridays for Future Ventimiglia. He is passionate  about sustainability.",
             "Historical teacher of Istituto Agrario di Sanremo, Gian Piero Cane has always been at the side of the young and the most fragile, teaching respect and the conservation of nature for at least fifty years."
         ],
-        "host_url": [
-            "https://facebook.com/fridaysforfutureventimiglia",
-            ""
-        ]
+        "host_url": "https://facebook.com/fridaysforfutureventimiglia"
     },
     {
         "title": "Nodi",
@@ -331,7 +300,6 @@
         ],
         "location": "Oratorio San Costanzo",
         "descrizione": "Il Femminismo si è occupato e continua ad occuparsi di superare il millenario squilibrio fra i generi.  Tuttavia, non preoccupatevi, questo laboratorio non tenterà di proporre una lezione esaustiva sulle questioni di genere. Al contrario, si cercherà di ragionare sull'Identità, un concetto mutevole e complesso, che spesso si colloca alla base di discriminazioni e disuguaglianze, ma che potrebbe essere portatore di enormi ricchezze se solo imparassimo a intersecarci con gli altri senza pregiudizi.  Insomma, si tratta di un laboratorio per scoprirsi e scoprire, facendo luce sui privilegi e gli automatismi che non permettono una convivenza pacifica delle differenze.",
-        "host": "",
         "what": "lab",
         "host_name": "Jennifer Guerra",
         "video": "https://nuvola.scambi.org/s/FxY9REq2qgKLX96",
@@ -356,7 +324,6 @@
         "host": "Extintion Rebellion (XR)",
         "what": "lab",
         "host_name": "Ilaria Giora",
-        "video": "",
         "description": "In the first part of the lab we will put ourselves at the level of the climate situation: latest scientific data, conventions, forecasts for the near future. We will discover what XR is and we will be introduced to the complex functioning of this movement. We will then discuss our emotional state in the face of the great adaptation challenges that concern us today, to understand how we can face the environmental imbalance together.",
         "times": "**26**: 10:00-12:00, 17:00-19:00; **27**: 17:00-19:00; **28**: 10:00-12:00, 17:00-19:00",
         "image": "https://x.scambi.org/images/2022/Labs/Squilibrio_e_ambiente.webp",
@@ -399,7 +366,6 @@
         "description": "Bring at least one loved one into this lab and we force this person to: - learn what is the world’s largest collaborative and free map: OpenStreetMap! - find out how you describe the reality in OpenStreetMap (spoiler: everything is a tag... but which one?) - learn how to insert a Pigna in OpenStreetMap Let’s take a walk together for the Pigna with a treasure map and the StreetComplete app, to help map the best and in real time and with coordination the most beloved neighborhood of San Remo! The teams will be evaluated and the winner who has contributed in the most wonderful way will have ice cream offered.  It will follow photo memory of group (with mask). Strict requirements to participate: - drinking water (grandmother always said that hydration is important, especially for mapping summer - oh!) - Team at least one person with Android and phone loaded / powerbank - enough sense of direction not to get lost with a map in hand",
         "times": "**27**: 15:00-16:00, 16:15-17:15, 17:30-18:30",
         "image": "https://x.scambi.org/images/2022/Labs/Vado_a_mappare_la_Pigna.webp",
-        "host_logo": "",
         "host_bio": "Valerio è direttore volontario dell’Italian Linux Society, la più grande associazione di volontariato per il software libero e l’open source, dal 1994 in Italia. Nato a Torino; vive a Milano; al momento lavora completamente in remoto come full-stack web developer e GNU/Linux sysadmin, in una società di Torino in cui è usato molto software libero, fra cui Phabricator, Java, Tomcat e Zabbix. Sia colleghi che colleghe usano GNU/Linux sui portatili aziendali. Nel tempo libero mappa su OpenStreetMap, contribuisce ai progetti Wikimedia e aiuta in soluzioni self-hosting. È fra i soci di Italian Linux Society, FSF, FSFE, InformAzioni e Wikimedia Italia!",
         "host_image": "https://x.scambi.org/images/Valerio_Bozzolan.webp",
         "host_bio_en": "Valerio is the volunteer director of Italian Linux Society, the largest voluntary association for free software and open source, in Italy since 1994. Born in Turin, he is now living in Milan. He is currently working as full-stack web developer and GNU/Linux sysadmin, in a company in Turin where free software is routinely used, among which Phabricator, Java, Tomcat and Zabbix. All his collegues use GNU/Linux  on their work laptops. In his spare time he maps to [OpenStreetMap](https://openstreetmap.org), contributes to Wikimedia projects and helps in self-hosting solutions. He is a member of <cite>Italian Linux Society</cite>, <cite>FSF</cite>, <cite>FSFE</cite>, <cite>InformAzioni</cite> and <cite>Wikimedia Italia</cite>!",
