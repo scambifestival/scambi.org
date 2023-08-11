@@ -1,0 +1,48 @@
+---
+title: Dissolvenze 2023
+permalink: /2023/dissolvenze/
+redirect_from: [/dissolvenze/]
+description: Tutto ciò che riguarda il cinema durante la terza edizione di Scambi Festival 2023
+---
+<h1>{{ title }}</h1>
+
+<section class='row'>
+	<div class='one column'>
+{% renderTemplate "md" %}
+<cite>Dissolvenze</cite> è la nostra sezione dedicata al **cinema**, da cui prende il nome il **concorso** per cortometraggi che invita registз di tutto il mondo a presentare opere inerenti al tema di ciascuna edizione.
+
+## Dove può condurci una storia?
+
+Il cinema, come ogni forma d’arte, si dipana nel corso della sua storia e di quella sociale prendendo molteplici direzioni. Dai mastodontici film storici, ai più minimali film d’avanguardia, dai film di genere fino ai documentari. Ma c’è qualcosa che contraddistingue le grandi opere: la consapevolezza.
+
+L’esser consapevoli di aver scelto una direzione piuttosto che un’altra non deve essere una limitazione al processo creativo. Anzi è ciò che contribuisce a dare coerenza al via vai di immagini-movimento che ci attraversa quando creiamo. Dunque osservate la realtà, rovesciatela, decostruitela e ricomponetela svelandone le sue molteplici identità.
+
+Verso dove punterete la vostra macchina da presa?
+
+Venite a scoprirlo con noi attraverso gli eventi che caratterizzeranno l’edizione di quest’anno…
+{% endrenderTemplate %}
+	</div>
+</section>
+
+{% assign dissolvenze = 2023-program | where: 'what', 'dissolvenze' %}
+
+{% for show in dissolvenze %}
+	<section class='margin row'>
+		<h3>{{ show.title }}</h3>
+		<h4 class='subtitle'>{{ show.days }} agosto 2023, {{ show.location }}</h4>
+		<div class='row'>
+			<div class='half column'>
+				<p>{{ show.description | markdownify }}</p>
+			</div>
+			<div class='half column'>
+				<img src='{{ show.img }}' alt='{{ show.title }}'>
+			</div>
+		</div>
+	</section>
+{% endfor %}
+
+<section class='margin row'>
+	<div class='one column flex'>
+		<a class='purple button' href='/programma'>Programma completo</a>
+	</div>
+</section>

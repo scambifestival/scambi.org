@@ -19,7 +19,7 @@ class: lab
 		<div class='half column'>
 			<dl id='data'>
 				<dt>Location</dt>
-				<dd>{{ item.location }} — <a href='{{ site.map }}' target='_blank' title='Le location di Scambi Festival 2023'>vedi mappa</a></dd>
+				<dd>{{ item.location }} — <a href='https://umap.openstreetmap.fr/en/map/scambi-2023_943693' target='_blank' title='Le location di Scambi Festival 2023'>vedi mappa</a></dd>
 
 				<dt>Quando</dt>
 				{% for time in item.times %}
@@ -27,18 +27,48 @@ class: lab
 						<time>{{ time | markdownify }}</time>
 					</dd>
 				{% endfor %}
+
 				<dt>Host</dt>
 				{% if item.host %}
 					{% for host in item.host %}
-						<dd>{{ host }}</dd>
+						<!--{% increment i %}-->
+						<dd>
+							{% if item.host_url[i] %}
+								<a href='{{ item.host_url[i] }}'>{{ host }}</a>
+							{% else %}
+								{{ host }}
+							{% endif %}
+						</dd>
 					{% endfor %}
-				{% else %}
-					<dd>{{ item.host_name }}</dd>
 				{% endif %}
 			</dl>
-				<figure><img src='{{ item.image }}' alt='{{ item.title }}'></figure>
 		</div>
 	</section>
-{% endfor %}
 
-{% render 'prenota.liquid', lang: lang, url: page.url, booking_url: site.booking_url %}
+	{% comment %<section class='standalone green row'>
+		{% for host in item.host %}
+			<div class='row'>
+				<!--{% increment j %}-->
+				{% unless forloop.first %}
+					<hr>
+				{% endunless %}
+				<h3>{{ host }}</h3>
+				{% if item.host_image[j] and item.host_bio[j] and item.host_url[j] and item.host_url[j] != 'https://scambi.org/staff' %}
+					<div class='half column'>
+						<p>{{ item.host_bio[j] | markdownify }}</p>
+						<div class='flex row'>
+							<a href='{{ item.host_url[j] }}' class='purple button'>Info</a>
+						</div>
+					</div>
+					<div class='half column'>
+						<img src='{{ item.host_image[j]}}' alt='{{ item.host[j] }}'>
+					</div>
+				{% elsif item.host_bio[j] %}
+					<div class='one column'>
+						<p>{{ item.host_bio[j] | markdownify }}</p>
+					</div>
+				{% endif %}
+			</div>
+		{% endfor %}
+	</section>{% endcomment %}
+{% endfor %}

@@ -1,5 +1,17 @@
 [
 	{
+		"title": "Scambi Festival 2023",
+		"descrizione": "",
+		"description": "",
+		"start": "",
+		"end": "",
+		"slug": "2023",
+		"media": "https://archive.org/details/scambi-2023",
+		"tema": "Qual è il tuo verso?",
+		"theme": "What’s your verse?",
+		"map": "https://umap.openstreetmap.fr/en/map/scambi-2023_943693"
+	},
+	{
 		"title": "Late Night nello ScambiVerso",
 		"descrizione": "Ci siamo uniti con quei pazzi di [<cite>Late Night Sessions</cite>](https://instagram.com/latenightsessions2022 'Late Night Sessions') per realizzare una serata indimenticabile. Gli [Asganaway](https://instagram.com/__asganaway_ 'Asganaway su Instagram') e i [Claynuts](https://instagram.com/clay.nuts 'Claynuts su Instagram') hanno suonato musica talmente potente da far vibrare ogni singola fibra del cuore e del corpo.",
 		"description": "We got in touch with those crazy people of [<cite>Late Night Sessions</cite>](https://instagram.com/latenightsessions2022 'Late Night Sessions'), and together we organized an unforgettable night. The [Asganaway](https://instagram.com/__asganaway_ 'Asganaway su Instagram') and The [Claynuts](https://instagram.com/clay.nuts 'Claynuts su Instagram') played so hard that all of our hearts trembled.",
@@ -22,7 +34,8 @@
 		"labs": 18,
 		"pinoli": 13,
 		"tema": "squilibrio",
-		"theme": "disequilibrium"
+		"theme": "disequilibrium",
+		"map": "https://umap.openstreetmap.fr/map/scambi-2022_792002"
 	},
 	{
 		"title": "Scambi Present(a) 2022",

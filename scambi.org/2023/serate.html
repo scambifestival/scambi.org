@@ -3,21 +3,27 @@ title: Le serate di Scambi Festival 2023
 permalink: /2023/serate/
 redirect_from: /serate/
 ---
-{% assign night-shows = 2023-program | where: 'what', 'serata' | sort: 'days' %}
+
+<h1>{{ title }}</h1>
+
+{% assign night-shows = 2023-program | where: 'what', 'serata' %}
+
 {% for show in night-shows %}
-	<section class='row'>
+	<section class='margin row'>
 		<h2>{{ show.title }}</h2>
-		<h3>{{ show.days }} agosto 2023</h3>
-		<div class='half column'>
-			{{ show.description | markdownify }}
-			{% comment %}{% if scambi_url %}
-				<div class='flex row'>
-					<a href='{{ scambi_url }}' class='purple button'>Più dettagli</a>
-				</div>
-			{% endif %}{% endcomment %}
-		</div>
-		<div class='half column'>
-			<img src='{{ show.img }}' alt='{{ show.title }}'>
+		<h3 class='subtitle'>{{ show.days }} agosto 2023</h3>
+		<div class='row'>
+			<div class='half column'>
+				<p>{{ show.description | markdownify }}</p>
+				{% if show.scambi_url %}
+					<div class='flex row'>
+						<a href='{{ show.scambi_url }}' class='purple button'>Più dettagli</a>
+					</div>
+				{% endif %}
+			</div>
+			<div class='half column'>
+				<img src='{{ show.img }}' alt='{{ show.title }}'>
+			</div>
 		</div>
 	</section>
 {% endfor %}

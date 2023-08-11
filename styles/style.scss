@@ -118,6 +118,12 @@ html {
 	}
 	&.standalone {
 		padding: 3rem 0;
+		hr {
+			margin: 3rem auto;
+		}
+	}
+	&.margin {
+		margin: 3rem 0;
 	}
 }
 
@@ -313,6 +319,8 @@ section {
 
 hr {
 	width: 30%;
+	color: inherit;
+	border: solid 2px inherit;
 }
 
 .mono {
@@ -362,40 +370,6 @@ blockquote {
 	p {
 		line-height: 1.3em;
 	}
-}
-
-td,
-th,
-tr {
-	border: none;
-	outline: solid .5px var(--slight);
-}
-
-th {
-	padding: root.$small root.$regular-less;
-	position: sticky;
-	top: 0;
-	background: var(--background);
-}
-
-td {
-	font-size: .8em;
-	padding: root.$tiny root.$small;
-}
-
-.table {
-	max-height: 90vh;
-	overflow: scroll;
-	margin: root.$height 3vw;
-	border: 3px solid var(--text);
-	box-shadow: var(--shadow);
-	table {
-		width: 100%;
-	}
-}
-
-table {
-	border-collapse: collapse;
 }
 
 @keyframes pulse {
@@ -590,7 +564,7 @@ b {
 article {
 	position: relative;
 	font-size: root.$regular-more;
-	padding: 8vh 5vw 15vh;
+	padding: 2rem 5vw;
 	h2, h3 {
 		margin: revert;
 	}
@@ -646,6 +620,11 @@ h3 {
 	.anchor::after {
 		content: '###';
 	}
+}
+
+.subtitle {
+	margin: root.$small auto root.$bigger;
+	color: var(--slight);
 }
 
 .box {
@@ -837,15 +816,13 @@ input[type='submit'] {
 	box-shadow: var(--button-shadow);
 	text-align: center;
 	hyphens: none;
+	margin: root.$regular-less;
 	&:hover,
 	&:focus {
 		box-shadow: none;
 	}
 	&:active {
 		box-shadow: var(--inner-shadow);
-	}
-	& ~ .button {
-		margin: root.$regular-less;
 	}
 }
 
@@ -1064,7 +1041,7 @@ svg.button {
 .labs {
 	background: var(--green);
 	margin: 0;
-	padding-top: 4rem;
+	padding-top:6rem;
 }
 
 .lab, .labs {
@@ -1086,7 +1063,7 @@ mark.serata {
 
 .pinoli {
 	background: var(--yellow);
-	padding-top: 4rem;
+	padding-top: 6rem;
 	margin: 0;
 }
 
@@ -1140,12 +1117,6 @@ mark.dissolvenze {
 			margin-bottom: 0;
 			border-bottom: 0;
 		}
-	}
-}
-
-#pan {
-	h2 {
-		margin-top: root.$regular;
 	}
 }
 
@@ -1325,6 +1296,14 @@ mark.dissolvenze {
 			margin: 0 root.$regular 0 0;
 			padding: root.$regular-less root.$bigger;
 			width: calc(100% / 3 * 2 - root.$regular-more);
+		}
+	}
+	section {
+		.column:not(.one) {
+			p {
+				max-width: 30rem;
+				margin: 1rem auto;
+			}
 		}
 	}
 }
