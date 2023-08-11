@@ -2,16 +2,16 @@
     {
         "title": "Affari Nostri",
         "days": "26",
-        "description": "Eri una persona come tante, ma da domani sarai speciale: basta solo che tu sia in grado di perseguire i tuoi obiettivi.<br>Abbiamo scelto proprio te per essere uno dei partecipanti del quiz onirico <cite>Affari nostri</cite>. Il gioco è semplice: se raggiungerai l’obiettivo prefissato, potrai realizzare i tuoi sogni nella vita reale con i soldi che avrai. Non ti resta che giocare e guadagnare la vittoria insieme al tuo gruppo.<br><cite>Affari nostri: la finanza non è un gioco</cite> è un Edu-LARP (Live Action Role Playing) sul tema delle asset class. Mettiti nei panni dei partecipanti a questo quiz onirico, dove l'importante sono i valori sia finanziari che etici.",
-        "description_en": "You were like everybody else, but tomorrow no more: you just have to prove you can pursue your goals. <br>We have chosen you to be one of the participants of the dreamilike quiz \"Our Business\". The game is simple: if you will reach the preset goal, you will be able to use the money to realize your dreams in the real life. No choice but to play and reach victory with your group. <br><cite>Our Business: Finance is not a Game</cite> it's an Edu-LARP (Live Action Role Playing) on the theme of asset class. Participate in this dreamlike quiz, where the important values are both financial and ethical.",
+        "description": "Eri una persona come tante, ma da domani sarai speciale: basta solo che tu sia in grado di perseguire i tuoi obiettivi.<br>Abbiamo scelto proprio te per essere uno dei partecipanti del quiz onirico <cite>Affari nostri</cite>. Il gioco è semplice: se raggiungerai l’obiettivo prefissato, potrai realizzare i tuoi sogni nella vita reale con i soldi che avrai. Non ti resta che giocare e guadagnare la vittoria insieme al tuo gruppo.<br><cite>Affari nostri: la finanza non è un gioco</cite> è un Edu-LARP (Live Action Role Playing) sul tema delle asset class. Mettiti nei panni dei partecipanti a questo quiz onirico, dove l’importante sono i valori sia finanziari che etici.",
+        "description_en": "You were like everybody else, but tomorrow no more: you just have to prove you can pursue your goals. <br>We have chosen you to be one of the participants of the dreamilike quiz <cite>Our Business</cite>. The game is simple: if you will reach the preset goal, you will be able to use the money to realize your dreams in the real life. No choice but to play and reach victory with your group. <br><cite>Our Business: Finance is not a Game</cite> it’s an Edu-LARP (Live Action Role Playing) on the theme of asset class. Participate in this dreamlike quiz, where the important values are both financial and ethical.",
         "host_logo": "https://x.scambi.org/others_logos/banca_etica.jpg",
         "host_bio": "Festivalori è una realtà culturale organizzata da Valori, la testata giornalistica di proprietà di Fondazione Finanza Etica, promossa da Banca Etica ed Etica Sgr. Puntano ad accendere i riflettori sulle ingiustizie del sistema economico e a promuovere esperienze alternative di economia sociale e sostenibile. Dal 2002 realizzano inchieste e reportage per avvicinare le persone al mondo della finanza e dell’economia. Si impegnano infatti a tradurre temi spesso ritenuti “complessi” per far capire allɜ cittadinɜ come le scelte che avvengono nelle aziende e nei mercati sono profondamente connesse ad aspetti delle nostre quotidianità. Credono inoltre in un’educazione finanziaria critica, indipendente e capace di mettere al centro le persone non solo come “clienti”, ma soprattutto come cittadinɜ responsabili e consapevoli.",
         "host_bio_en": "Festivalori is a cultural reality organised by Valori, the newspaper owned by Fondazione Finanza Etica, promoted by Banca Etica and Etica Sgr. They aim to spotlight the injustices of the local and international economic system and promote alternative experiences of a social and sustainable economy. Since 2002 they have been carrying out surveys and reports to bring people closer to the world of finance and the economy. In fact, they are committed to simplifying themes often considered \"complex\" to make citizens understand how the choices that take place in companies and markets are deeply connected to aspects of our daily lives. They also believe in a critical, independent financial education capable of putting people at the centre of the action, not only as \"customers\" but also as responsible and aware citizens.",
-        "host_url": "http://festival.valori.it/",
+        "host_url": "https://festival.valori.it",
         "host": "Valori.it - Fondazione Banca Etica",
         "times": [
-            "26: 10:30 → 12:00",
-            "26: 18:00 → 19:30"
+            "26: 15:30 → 17:00",
+            "26: 19:00 → 20:30"
         ],
         "scambi_url": null
     },
@@ -22,8 +22,8 @@
             "26",
             "27"
         ],
-        "description": "Chinmoku no mori invita a prendere parte al grido della terra. Con corpo, voce e strumenti musicali ritroviamoci insieme come comunità, riappropriamoci con la potenza dell'arte e del rito degli spazi di condivisione che ci appartengono. Facciamo della nostra energia uno strumento efficace di benessere sopravvivenza. Non ci sono regole di comportamento o specifiche indicazioni, nello spazio del rito abbiamo la possibilità di interagire con ciò che ci circonda o semplicemente assistere alla performance, lasciando che, in qualsiasi caso, il nostro sguardo non sia passivo ma fertile di pensieri risolutivi. Lasciamoci attraversare dalle note dei suoni sacrali e gutturali, i quali da tempo immemore apportano benefici, tramite la ripetizione di frequenze acute che stimolano la corteccia celebrale in una vera e propria terapia sonora.",
-        "description_en": "Chinmoku no mori invites you to take part in the cry of the earth. With body, voice and musical instruments let's get together as a community, let's reappropriate with the power of art and ritual the sharing spaces that belong to us. Let's make our energy an effective tool for well-being and survival. There are no rules of behaviour or specific indications, in the space of the ritual we have the possibility to interact with what surrounds us or simply attend the performance, letting our gaze, in any case, not be passive but fertile with decisive thoughts. Let us allow ourselves to be crossed by the notes of sacral and guttural sounds, which have been beneficial since time immemorial, through the repetition of high frequencies that stimulate the cerebral cortex in real sound therapy.",
+        "description": "Chinmoku no mori invita a prendere parte al grido della terra. Con corpo, voce e strumenti musicali ritroviamoci insieme come comunità, riappropriamoci con la potenza dell’arte e del rito degli spazi di condivisione che ci appartengono. Facciamo della nostra energia uno strumento efficace di benessere sopravvivenza. Non ci sono regole di comportamento o specifiche indicazioni, nello spazio del rito abbiamo la possibilità di interagire con ciò che ci circonda o semplicemente assistere alla performance, lasciando che, in qualsiasi caso, il nostro sguardo non sia passivo ma fertile di pensieri risolutivi. Lasciamoci attraversare dalle note dei suoni sacrali e gutturali, i quali da tempo immemore apportano benefici, tramite la ripetizione di frequenze acute che stimolano la corteccia celebrale in una vera e propria terapia sonora.",
+        "description_en": "Chinmoku no mori invites you to take part in the cry of the earth. With body, voice and musical instruments let’s get together as a community, let's reappropriate with the power of art and ritual the sharing spaces that belong to us. Let’s make our energy an effective tool for well-being and survival. There are no rules of behavior or specific indications, in the space of the ritual we have the possibility to interact with what surrounds us or simply attend the performance, letting our gaze, in any case, not be passive but fertile with decisive thoughts. Let us allow ourselves to be crossed by the notes of sacral and guttural sounds, which have been beneficial since time immemorial, through the repetition of high frequencies that stimulate the cerebral cortex in real sound therapy.",
         "host_logo": [],
         "host_bio": [
             "Leonardo Sinopoli ha 25 anni ed è un artista poliedrico. A ottobre 2021 è stato nominato vincitore assoluto della 15° edizione dell’Arte Laguna Prize all’Arsenale di Venezia con la sua opera 331 - say their names. In questi ultimi anni ha lavorato come danzatore per artisti del calibro di Isabel Lewis in “O.C.E.A.N.I.C.A.” e di Alexandra Pirici nel nel suo ultimo lavoro “Encyclopedia of Relations” alla 59° edizione della Biennale di Venezia 2022, curata da Cecilia Alemani. Ha avuto l’onore di lavorare come performer per la Grand Mother della performance art Marina Abramović, nella sua mostra The Cleaner a Palazzo Strozzi, Firenze, e nella sua ultima retrospettiva ČistaČ al Museo di Arte Contemporanea di Belgrado. Ha lavorato per la stagione 2017/2018 nella compagnia “Nuovo Balletto di Toscana” come danzatore professionista in Bella addormentata, regia e coreografia di Diego Tortelli. Nel 2021 è stato premiato dall’amministrazione di Aosta con l’importante riconoscimento Célébrant la culture de l’Égalité che ha visto il coinvolgimento di Marc Angel, co-presidente dell’ Intergruppo LGBTI+ al Parlamento europeo.\nAttualmente collabora con la compagnia Ergosum, diretta da Alessandra Pizzi, come danzatore in \n“Canova - tra mito e bellezza” e “Apologia di Socrate”.\n\nIl suo ultimo progetto, Chinmoku no mori - “la foresta del silenzio”, una mostra interdisciplinare tra la performance, la ricerca antropologica e la fotografia, ha debuttato presso il Comune di Aosta nell’ ottobre 2022. Insieme alle sue due collaboratrici,  Bianca Carlino laureata in Lingue e culture dell’Asia e la performer Elnoir, hanno pensato, ispirati da Scambi, ad un progetto che possa unire studentɜ, universitarɜ, artistɜ, danzatorɜ, musicistɜ e tuttɜ coloro che hanno voglia di raccontarsi tramite gli strumenti messi da noi a disposizione in un luogo di condivisione e di ascolto."
@@ -45,8 +45,8 @@
             "Bianca Carlino"
         ],
         "times": [
-            "25: 10:30 → 12:00",
-            "26: 18:00 → 19:30",
+            "25: 16:00 → 17:30",
+            "26: 17:15 → 18:45",
             "27: 10:30 → 12:00"
         ],
         "scambi_url": null
@@ -61,17 +61,16 @@
         "description": "Cos’hanno in comune la conoscenza libera, una mappa e il *fediverso*, ovvero l’universo dei social network federati? Questo lab le connetterà esplorando le diverse declinazioni e il sottovalutato significato dell’**etica digitale**. Con giochi e sfide, esplorerete concetti che prima vi sembravano inaccessibili e solamente per *nerd*. Dopo aver vissuto questo Lab, potrete smascherare e combattere tutte le forme di oppressione e violazioni di diritti che avvengono nel dominio del virtuale.",
         "description_en": "What do free knowledge, a map and the *fediverse*, i.e. the universe of federated social networks, have in common? This lab will connect them by exploring the different declinations and the underestimated meaning of **digital ethics**. With games and challenges, you will explore previously inaccessible concepts only for *nerds*. After experiencing this Lab, you will be able to unmask and fight all forms of oppression and violations of rights in the virtual domain.",
         "host_logo": [
-            "https://x.scambi.org/scambi.svg",
             "https://x.scambi.org/others_logos/Loghi%20Locandina%20Verso%202023/wikimedia_italia.png"
         ],
         "host_bio": [
-            "Valerio è direttore volontario dell’Italian Linux Society, la più grande associazione di volontariato per il software libero e l’open source, dal 1994 in Italia.\n\nNato a Torino; vive a Milano; al momento lavora completamente in remoto come full-stack web developer e GNU/Linux sysadmin, in una società di Torino in cui è usato molto software libero, fra cui Phabricator, Java, Tomcat e Zabbix. Sia colleghi che colleghe usano GNU/Linux sui portatili aziendali.\n\nNel tempo libero mappa su OpenStreetMap, contribuisce ai progetti Wikimedia e aiuta in soluzioni self-hosting.\n\nÈ fra i soci di Italian Linux Society, FSF, FSFE, InformAzioni e Wikimedia Italia!",
+            "OpenStreetMap (OSM) è il più grande database geografico libero e modificabile di tutto il mondo, costruito dal lavoro di volontari e rilasciato con una licenza libera. Si tratta di un gigantesco progetto collaborativo, con milioni di utenti registrati in tutto il mondo, il cui scopo è creare e fornire dati geografici liberi a chiunque li voglia utilizzare.<br>La comunità italiana è particolarmente attiva non soltanto nel mantenere la mappa di OpenStreetMap aggiornata, ma anche nell'organizzare eventi di formazione, divulgazione e condivisione.",
             "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
             "Wikimedia Italia – Associazione per la diffusione della conoscenza libera (WMI) è un’associazione di promozione sociale che dal 2005 opera nell’ambito della cultura libera.\n\nOpera per diffondere la conoscenza libera e per sostenere i progetti Wikimedia, contenitori e generatori del sapere libero, come Wikipedia, l’enciclopedia libera, nonché OpenStreetMap.\n\nWikimedia Italia (WMI) favorisce il miglioramento e l’avanzamento del sapere e della cultura. In particolare, WMI promuove la produzione, la raccolta e la diffusione di contenuti liberi (open content), ossia di opere contrassegnate dai loro autori con una licenza libera, che ne permetta l’elaborazione e/o la diffusione gratuita per ogni scopo (anche commerciale).\n\nL’Associazione è inoltre impegnata a diffondere la conoscenza e aumentare la consapevolezza in merito alle questioni sociali e filosofiche correlate ai temi della cultura libera e del pubblico dominio."
         ],
         "host_image": [
             "https://x.scambi.org/images/Valerio_Bozzolan.webp",
-            "https://x.scambi.org/profile_pics/Tommaso_Marmo.jpg"
+            "https://x.scambi.org/images/staff.webp"
         ],
         "host_bio_en": [
             "Valerio is the volunteer director of Italian Linux Society, the largest voluntary association for free software and open source, in Italy since 1994.\n\nBorn in Turin, he is now living in Milan. He is currently working as full-stack web developer and GNU/Linux sysadmin, in a company in Turin where free software is routinely used, among which Phabricator, Java, Tomcat and Zabbix. All his collegues use GNU/Linux  on their work laptops.\n\nIn his spare time he maps to [OpenStreetMap](https://openstreetmap.org), contributes to Wikimedia projects and helps in self-hosting solutions.\n\nHe is a member of <cite>Italian Linux Society</cite>, <cite>FSF</cite>, <cite>FSFE</cite>, <cite>InformAzioni</cite> and <cite>Wikimedia Italia</cite>!",
@@ -89,7 +88,7 @@
         ],
         "times": [
             "25: 10:30 → 11:30",
-            "26: 16:00 → 17:00",
+            "26: 17:00 → 18:00",
             "27: 18:00 → 19:00"
         ],
         "scambi_url": null,
@@ -108,8 +107,8 @@
         "host_url": "https://equogarantito.org",
         "host": "Equo Garantito",
         "times": [
-            "26: 19:00 → 20:00",
-            "27: 10:30 → 11:30"
+            "26: 16:00 → 17:00",
+            "26: 17:30 → 18:30"
         ],
         "scambi_url": null
     },
@@ -166,8 +165,8 @@
         "host_url": "https://leoscarin.com",
         "host": "Leo Scarin",
         "times": [
-            "25: 10:30 → 12:00",
-            "26: 18:00 → 19:30",
+            "25: 16:00 → 17:30",
+            "26: 17:15 → 18:45",
             "27: 16:00 → 17:30"
         ],
         "scambi_url": null,
@@ -189,8 +188,7 @@
         "host": "Giovanni De Mattia",
         "times": [
             "25: 18:00 → 19:30",
-            "26: 10:30 → 12:00",
-            "27: 16:00 → 17:30"
+            "26: 10:30 → 12:00"
         ],
         "scambi_url": null,
         "location": "Giardini Regina Elena"
@@ -210,7 +208,7 @@
         "host_url": "https://instagram.com/alessandro.diandrea",
         "host": "Alessandro Di Andrea",
         "times": [
-            "25: 18:00 → 19:00",
+            "25: 16:00 → 17:00",
             "26: 19:00 → 20:00",
             "27: 18:00 → 19:00"
         ],
@@ -223,7 +221,7 @@
             "26"
         ],
         "description": "Lɜ attivistɜ di Ultima Generazione compiono azioni di disobbedienza civile nonviolenta per ottenere misure di contrasto al collasso ecoclimatico a cui l’Italia e il mondo stanno andando incontro. Nel laboratorio si esplorerà con lɜ partecipantɜ il concetto e la pratica di disobbedienza civile nonviolenta. Un membro del movimento racconterà la sua esperienza diretta riguardo alle azioni che UG porta avanti, creando uno spazio aperto dove sarà possibile dialogare, informarsi e anche mettersi in discussione. In questo Lab non si parlerà di Ultima Generazione ma con Ultima Generazione.",
-        "description_en": "The activists of Ultima Generazione (Last Generation) carry out non-violent civil disobedience to obtain measures contrasting the ecoclimatic collapse that Italy and the world are facing. The Lab will explore the concept and practice of non-violent civil disobedience. A member of the movement will tell their direct experience with Ultima Generazione's actions, creating an open space where it will be possible to dialogue, learn and question ourselves. In this Lab we won't be talking about Ultima Generazione, but rather with Ultima Generazione.",
+        "description_en": "The activists of Ultima Generazione (Last Generation) carry out non-violent civil disobedience to obtain measures contrasting the ecoclimatic collapse that Italy and the world are facing. The Lab will explore the concept and practice of non-violent civil disobedience. A member of the movement will tell their direct experience with Ultima Generazione’s actions, creating an open space where it will be possible to dialogue, learn and question ourselves. In this Lab we won’t be talking about Ultima Generazione, but rather with Ultima Generazione.",
         "host_bio": "Fioretta Maldifassi e Leonardo Lovati nascono a Milano nel 1999, lei laureata in Graphic design e art direction, lui studente di Filosofia. Entramb3 arrabbiat3 col governo per come sta gestendo la problematica della crisi climatica, decidono di unirsi al movimento di disobbedienza civile nonviolenta Ultima Generazione e prendono parte alla campagna ricoprendo vari ruoli.  Uno degli obiettivi del loro laboratorio è quello di connettersi emotivamente con il problema che stiamo vivendo e spiegare come la disobbedienza civile nonviolenta è un potente mezzo per cambiare il sistema. Sulla base della loro esperienza diretta e degli studi che hanno fatto sul tema, si parlerà anche di che ruolo hanno il disturbo, la repressione da parte delle forze dell'ordine e la resilienza.",
         "host_image": "https://x.scambi.org/images/Ultima_Generazione/",
         "host_bio_en": "Fioretta Maldifassi and Leonardo Lovati were born in Milan in 1999. She graduated in Graphic design and art direction and he is a student of Philosophy. Both angry at the government for how it is handling the climate crisis, they decide to join the Last Generation nonviolent civil disobedience movement and take part in the campaign in various roles. One of the goals of their workshop is to connect emotionally with the problem we are experiencing and explain how nonviolent civil disobedience is a powerful means to change the system. Based on their direct experience and the studies they have done on the subject, we will also talk about what role disorder, repression by law enforcement and resilience play.",
@@ -249,8 +247,8 @@
         "host_url": "https://anffas.net/it/strutture/imperia-anffas-onlus",
         "host": "ANFFAS Imperia",
         "times": [
-            "25: 15:00 → 16:30",
-            "26: 11:00 → 12:30",
+            "25: 10:30 → 12:00",
+            "26: 10:30 → 12:00",
             "26: 15:00 → 16:30"
         ],
         "scambi_url": null,
@@ -263,16 +261,15 @@
             "26",
             "27"
         ],
-        "description": "Quanto poco conosciamo le storie lontane di chi è costretto a intraprendere viaggi incerti in cerca di condizioni di vita migliori in un nuovo paese? Quanto conosciamo delle motivazioni che li hanno spinti a partire per un viaggio cosi rischioso? Cosa rappresenta l'Italia? E la famiglia? La lingua nuova da imparare? Il lavoro?   \"Verso l’altrə\" è un laboratorio in cui Elena Ballerini, che nella vita insegna italiano ai migranti appena arrivati nel nostro paese, ci accompagnerà alla scoperta di storie di vita che spesso sentiamo distanti da noi: ascolteremo i racconti di 4 ragazzi arrivati da poco in Italia e, partendo da alcune parole chiave, ci confronteremo su temi che riguardano tutti noi, seppur diversamente.",
-        "description_en": "How little do we know of the faraway stories of whom is forced to leave for precarious journeys, in search of better living conditions in a new land? How much do we know of the reasons that have pushed them onto such a dangerous path? What does Italy represent in this case? And the family? The new language that must be learnt? The work life? \"Verso l'altrə\" is a laboratory in which Elena Ballerini, who in life teaches Italian to newly arrived migrants in our country, will accompany us in the discovery of life stories that we often feel distant from us: we will listen to the stories of 4 young people who arrived from little in Italy and, starting from some keywords, we will discuss issues that concern us all, albeit differently.",
+        "description": "Quanto poco conosciamo le storie lontane di chi è costretto a intraprendere viaggi incerti in cerca di condizioni di vita migliori in un nuovo paese? Quanto conosciamo delle motivazioni che li hanno spinti a partire per un viaggio cosi rischioso? Cosa rappresenta l’Italia? E la famiglia? La lingua nuova da imparare? Il lavoro?<br><cite>Verso l’altrə</cite> è un laboratorio in cui Elena Ballerini, che nella vita insegna italiano ai migranti appena arrivati nel nostro paese, ci accompagnerà alla scoperta di storie di vita che spesso sentiamo distanti da noi: ascolteremo i racconti di 4 ragazzi arrivati da poco in Italia e, partendo da alcune parole chiave, ci confronteremo su temi che riguardano tutti noi, seppur diversamente.",
+        "description_en": "How little do we know of the faraway stories of whom is forced to leave for precarious journeys, in search of better living conditions in a new land? How much do we know of the reasons that have pushed them onto such a dangerous path? What does Italy represent in this case? And the family? The new language that must be learnt? The work life? <cite>Verso l'altrə</cite> is a laboratory in which Elena Ballerini, who in life teaches Italian to newly arrived migrants in our country, will accompany us in the discovery of life stories that we often feel distant from us: we will listen to the stories of 4 young people who arrived from little in Italy and, starting from some keywords, we will discuss issues that concern us all, albeit differently.",
         "host_bio": "Elena Ballerini ha 25 anni e nella vita fa l'insegnante.  Ha studiato lingue e nel fare esperienze all'estero si è resa conto di quanto amasse l'Italia, di quanto la lingua italiana sia la più bella di tutte e di quanto la nostra storia e la nostra cultura siano ricche. Elena ha quindi unito il suo bisogno di contatto con persone sempre diverse all'amore per il suo paese: insegna italiano agli stranieri.  Chi viene qui in Italia, scappando dal suo paese, lo fa perché cerca una vita migliore, semplicemente uno stipendio degno di nota o una scuola degna di questo nome e spesso si accontenta di questo.  Ma che succederebbe se tutti quelli che entrano in Italia potessero vedere la bellezza di questo paese? Potessero innamorarsi della lingua, dei film e della cucina?  Elena sogna un'Italia colorata, viva e dinamica.  Lavora e lavorerà per questo!",
         "host_image": "https://x.scambi.org/profile_pics/Elena_Ballerini.webp",
         "host_bio_en": "Elena Ballerini is 25 years old and in live, she is a teacher. She studied Languages ​​and while gaining experience abroad she realized how much she loved Italy, how much the Italian language was the most beautiful and how rich our history and culture are. Elena has therefore combined her need for contact with ever-changing people with her love for her country: she teaches Italian to foreigners. Those who come here to Italy, escaping from their country, do so because they are looking for a better life, simply a noteworthy salary or a school worthy of the name and often that is enough. But what if everyone who enters Italy could see the beauty of this country? What if they could fall in love with language, movies and cooking? Elena dreams of a colourful, lively and dynamic Italy. She already works for it and she will keep going!",
         "host_url": "https://instagram.com/ele.ballerini",
         "host": "Elena Ballerini",
         "times": [
-            "25: 16:00 → 17:00",
-            "26: 16:00 → 17:00",
+            "25: 10:30 → 11:30",
             "27: 10:30 → 11:30"
         ],
         "scambi_url": null
