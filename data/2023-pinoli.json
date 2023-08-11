@@ -137,9 +137,9 @@
         "description": "Avete visto per caso dei pavoni in giro per La Pigna?",
         "description_en": "Have you seen peacocks around La Pigna by any chance?",
         "host_logo": "",
-        "host_bio": "Stefano Pedro Porro nasce ad Asti, si diploma al Liceo Artistico e frequenta vari corsi di fumetto. Si forma ad Alba, presso la Libera Accademia Novalia, frequentando un corso di pittura e illustrazione, in cui conclude la triennale presentando una tesi su \"Le città invisibili\" di Italo Calvino. Dal 2020 al 2022 pubblica settimanalmente nella rubrica da lui creata \"Voci Illustrate\" sulla Nuova Provincia di Asti. Nel dicembre 2022 pubblica \"Wassily Kandinsk - Il funambolo dei colori\" e parla della vita di Kandinsky per la collana ALT! Arte Libera Tutti dedicata ai bambini e ragazzi di Maria Pacini Fazzi Editore / Edizioni Fondazione Ragghianti Studi sull’arte di Lucca.  Ama sperimentare usando varie tecniche cercando sempre il linguaggio piú adatto, predilige la pittura, la china e l'incisione. Per Scambi Festival propone una scultura che introduce un percorso itinerante nella pigna attraverso quattordici illustrazioni tratte dal progetto di tesi \"INVISIBILIS\". A coronare il viaggio nell'orizzonte calviniano creato dal giovane artista, sarà il concerto disegnato (\"Io sono INVISIBILE\") che avverrà il 25 agosto, ovvero la data di apertura del festival.",
+        "host_bio": "Stefano Pedro Porro nasce ad Asti, si diploma al Liceo Artistico e frequenta vari corsi di fumetto. Si forma ad Alba, presso la Libera Accademia Novalia, frequentando un corso di pittura e illustrazione, in cui conclude la triennale presentando una tesi su \"Le città invisibili\" di Italo Calvino. Dal 2020 al 2022 pubblica settimanalmente nella rubrica da lui creata \"Voci Illustrate\" sulla Nuova Provincia di Asti. Nel dicembre 2022 pubblica \"Wassily Kandinsk - Il funambolo dei colori\" e parla della vita di Kandinsky per la collana ALT! Arte Libera Tutti dedicata ai bambini e ragazzi di Maria Pacini Fazzi Editore / Edizioni Fondazione Ragghianti Studi sull’arte di Lucca.  Ama sperimentare usando varie tecniche cercando sempre il linguaggio piú adatto, predilige la pittura, la china e l'incisione. Per Scambi Festival propone una scultura che introduce un percorso itinerante nella pigna attraverso quattordici illustrazioni tratte dal progetto di tesi \"INVISIBILIS\". A coronare il viaggio nell'orizzonte calviniano creato dal giovane artista, sarà il concerto disegnato (\"Io sono INVISIBILE\") che avverrà il 24 agosto, ovvero la data di apertura del festival.",
         "host_image": "https://x.scambi.org/images/Stefano_Pedro_Porro.webp",
-        "host_bio_en": "Stefano Pedro Porro was born in Asti, graduated from the Art School and attended various comics courses. He trained in Alba, at the Libera Accademia Novalia, attending a course in painting and illustration, which he concluded by presenting a thesis on \"Invisible Cities\" by Italo Calvino. From 2020 to 2022 he published weekly in the column \"Voci Illustrate\" which he created on the New Province of Asti. In December 2022 he publishes \"Wassily Kandinsky - The tightrope walker of colors\" and talks about Kandinsky's life for the book collection \"ALT! Art Frees All\" dedicated to children and teenagers by Maria Pacini Fazzi Editore / Editions Ragghianti Foundation Studies on the art of Lucca. He loves to experiment using various techniques always looking for the most suitable language, he favours painting, ink and engraving. For Scambi Festival he proposes a sculpture that introduces an itinerant path in the pine cone through fourteen illustrations taken from his thesis project \"INVISIBILIS\". The journey into the Calvino lanscape created by the young artist will be crowned by the drawing concert (\"I am INVISIBLE\") which will take place on August 25, on the opening day of the festival.",
+        "host_bio_en": "Stefano Pedro Porro was born in Asti, graduated from the Art School and attended various comics courses. He trained in Alba, at the Libera Accademia Novalia, attending a course in painting and illustration, which he concluded by presenting a thesis on \"Invisible Cities\" by Italo Calvino. From 2020 to 2022 he published weekly in the column \"Voci Illustrate\" which he created in the New Province of Asti. In December 2022 he publishes \"Wassily Kandinsky - The tightrope walker of colours\" and talks about Kandinsky's life for the book collection \"ALT! Art Frees All\" dedicated to children and teenagers by Maria Pacini Fazzi Editore / Editions Ragghianti Foundation Studies on the art of Lucca. He loves to experiment using various techniques always looking for the most suitable language, he favours painting, ink and engraving. For Scambi Festival he proposes a sculpture that introduces an itinerant path in the pine cone through fourteen illustrations taken from his thesis project \"INVISIBILIS\". The journey into the Calvino landscape created by the young artist will be crowned by the drawing concert (\"I am INVISIBLE\") which will take place on August 24, on the opening day of the festival.",
         "host_url": "https://instagram.com/stefanoporro_",
         "referente": [
             "Leonardo",
@@ -170,30 +170,6 @@
         "scambi_url": "",
         "img": "",
         "location": "Terrazza Santa Brigida"
-    },
-    {
-        "title": "Poesie a Colazione",
-        "days": "25",
-        "description": "L’ultima tappa del nostro Gruppo di Lettura ci porta all’Osteria La Ciotola, dove, sorseggiando un caffè caldo e gustando una focaccia appena sformata, parleremo insieme a Martina D’Amore di Italo Calvino e del suo rapporto con la Pigna",
-        "description_en": "Our loved Reading Group takes us to La Ciotola, where, accompanied by a cappuccino and a freshly baked focaccia, together with Martina D’Amore we will discuss Italo Calvino and his relation with Sanremo.",
-        "host_logo": "",
-        "host_bio": "",
-        "host_image": "",
-        "host_bio_en": "",
-        "host_url": "",
-        "referente": [
-            "Sabrina",
-            "Lea"
-        ],
-        "host": "Chiocciole",
-        "times": [
-            "25: 9:30 → 10:15",
-            "26: 9:30 → 10:15",
-            "27: 9:30 → 10:15"
-        ],
-        "scambi_url": null,
-        "img": "",
-        "location": "La Ciotola"
     },
     {
         "title": "Speed date filosofico",
@@ -232,12 +208,36 @@
         "host_bio": "Andrea Selvaggio: Nato a Palermo il 28 febbraio 1980, nel 2002 consegue il diploma in Decorazione presso l'Accademia di Belle Arti di Palermo. Si dedica alla pittura conseguendo premi e riconoscimenti, partecipa a numerose collettive in Italia e all'estero. Dopo un breve e intenso periodo come pittore di scena in diversi set cinematografici (come le collaborazioni con Giuseppe Tornatore per il film “Baaria\" e John Turturro per il docufilm “La Sicilia” ) si dedica totalmente all'insegnamento. Oggi vive e lavora a Sanremo, dove insegna Arte e Immagine presso la scuola Secondaria Dante Alighieri. Nel 2018 inizia il suo progetto artistico di riqualifica urbana e sociale “pescheria n.2” riuscendo a coinvolgere, attraverso interventi di street art e laboratori di pittura , oltre ai suoi allievi, gli abitanti del centro storico di Sanremo. Lo spazio: La nuova galleria aperta da qualche anno in via Palma 16, nasce come uno spazio aperto dove la ricerca pittorica si fonde con l'entusiasmo e il coinvolgimento di tutti coloro che curiosi, interessati e affascinati entrano e lasciano la loro impronta. E' un luogo dove arte e cultura si incontrano, dov'è possibile vedere l'artista in azione ed  acquistare opere uniche.",
         "host_image": "https://nuvola.scambi.org/s/dALjQLNzbx98Aqd",
         "host_bio_en": "Born in Palermo on February 28, 1980, in 2002 he graduated in Decoration at the Academy of Fine Arts in Palermo. He dedicates himself to painting achieving prizes and awards, and participates in numerous group exhibitions in Italy and abroad. After a short and intense period as a scene painter in various film sets (such as collaborations with Giuseppe Tornatore for the film \"Baaria\" and John Turturro for the docufilm \"La Sicilia\"), he devoted himself totally to teaching. Today he lives and works in Sanremo, where he teaches Art and Image at the Dante Alighieri secondary school. In 2018 he began his artistic project of urban and social redevelopment \"pescheria n.2\" managing to involve, through street art interventions and painting workshops, in addition to his students, the inhabitants of the historic centre of Sanremo. Space: The new gallery opened a few years ago in Via Palma 16. It is born as an open space where pictorial research merges with the enthusiasm and involvement of all those curious, interested and fascinated who enter and leave their mark. It is a place where art and culture meet, where it is possible to see the artist in action and buy unique works.",
-        "host_url": "tuttomat.it",
+        "host_url": "https://tuttomat.it",
         "referente": "Giulia",
         "host": "Galleria Tutto Mat",
         "times": "",
         "scambi_url": "",
         "img": "",
         "location": ""
+    },
+    {
+        "title": "Versi a Colazione",
+        "days": "25",
+        "description": "L’ultima tappa del nostro Gruppo di Lettura ci porta all’Osteria La Ciotola, dove, sorseggiando un caffè caldo e gustando una focaccia appena sformata, parleremo insieme a Martina D’Amore di Italo Calvino e del suo rapporto con la Pigna",
+        "description_en": "Our loved Reading Group takes us to La Ciotola, where, accompanied by a cappuccino and a freshly baked focaccia, together with Martina D’Amore we will discuss Italo Calvino and his relation with Sanremo.",
+        "host_logo": "",
+        "host_bio": "",
+        "host_image": "",
+        "host_bio_en": "",
+        "host_url": "",
+        "referente": [
+            "Sabrina",
+            "Lea"
+        ],
+        "host": "Chiocciole",
+        "times": [
+            "25: 9:30 → 10:15",
+            "26: 9:30 → 10:15",
+            "27: 9:30 → 10:15"
+        ],
+        "scambi_url": null,
+        "img": "",
+        "location": "La Ciotola"
     }
 ]
