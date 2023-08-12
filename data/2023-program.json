@@ -306,7 +306,7 @@
         "days": "26",
         "description": "Tremilaseicento fotogrammi: 60 minuti e 3600 attimi per discutere su tematiche che ci stanno a cuore del panorama cinematografico nazionale. Un incontro, un dibattito, una riflessione autogestita per analizzare il cinema italiano contemporaneo e avere uno spazio per condividere le nostre visioni e i nostri pensieri. Per riavvolgere la pellicola avendo cura di osservare ogni singolo fotogramma. Intervengono Andrea Vailati e Francesco Malgeri (ArteSettima), modera Salvatore Gucciardo.",
         "what": "dissolvenze",
-        "description_en": "Tremilaseicento fotogrammi: 60 minutes and 3600 moments to discuss topics close to our hearts in the national film scene. A meeting, a debate, a self-managed reflection to analyze contemporary Italian cinema and have a space to share our visions and thoughts. Making sure to rewind the film taking care to observe every single frame. With Andrea Vailati e Francesco Malgeri (ArteSettima), hosted by Salvatore Gucciardo.",
+        "description_en": "<cite lang='it'>Tremilaseicento fotogrammi</cite>: 60 minutes and 3600 moments to discuss topics close to our hearts in the national film scene. A meeting, a debate, a self-managed reflection to analyze contemporary Italian cinema and have a space to share our visions and thoughts. Making sure to rewind the film taking care to observe every single frame. With Andrea Vailati e Francesco Malgeri (ArteSettima), hosted by Salvatore Gucciardo.",
         "host_logo": "https://x.scambi.org/others_logos/ArteSettima.jpg",
         "host_bio": "Andrea Vailati, laureato in Filosofia del Mondo Contemporaneo all’università San Raffaele di Milano, è fondatore e direttore editoriale della rivista online Artesettima. Insieme all’attività di redattore svolge il ruolo di Head content e responsabile Marketing Digitale per WeShort.",
         "host_image": "https://x.scambi.org/images/Andrea_Vailati.jpg",
@@ -393,9 +393,9 @@
     {
         "title": "Pensatevi liberatɜ: discussione e lamentela sul cinema LGBTQIA+ emergente italiano (e la sua mancanza) - Tremilaseicento fotogrammi",
         "days": "25",
-        "description": "Tremilaseicento fotogrammi: 60 minuti e 3600 attimi per discutere su tematiche che ci stanno a cuore del panorama cinematografico nazionale. Un incontro, un dibattito, una riflessione autogestita per analizzare il cinema italiano contemporaneo e avere uno spazio per condividere le nostre visioni e i nostri pensieri. Per riavvolgere la pellicola avendo cura di osservare ogni singolo fotogramma. Intervengono Emiliano Sisolfi (Regista_Sceneggiator*_Fotograf*) e Matteo Mori (Nuova Cinematografica Gioiello)",
+        "description": "Tremilaseicento fotogrammi: 60 minuti e 3600 attimi per discutere su tematiche che ci stanno a cuore del panorama cinematografico nazionale. Un incontro, un dibattito, una riflessione autogestita per analizzare il cinema italiano contemporaneo e avere uno spazio per condividere le nostre visioni e i nostri pensieri. Per riavvolgere la pellicola avendo cura di osservare ogni singolo fotogramma. Intervengono Emiliano Sisolfi (Regista_Sceneggiatorə_Fotografə) e Matteo Mori (Nuova Cinematografica Gioiello), modera Leonardo Venturi.",
         "what": "dissolvenze",
-        "description_en": "Tremilaseicento fotogrammi: 60 minutes and 3600 moments to discuss topics close to our hearts in the national film scene. A meeting, a debate, a self-managed reflection to analyze contemporary Italian cinema and have a space to share our visions and thoughts. Making sure to rewind the film taking care to observe every single frame. With Emiliano Sisolfi (Director, Screenwriter and Photographer) and Matteo Mori (Nuova Cinematografica Gioiello), hosted by Leonardo Venturi",
+        "description_en": "<cite lang='it'>Tremilaseicento fotogrammi</cite>: 60 minutes and 3600 moments to discuss topics close to our hearts in the national film scene. A meeting, a debate, a self-managed reflection to analyze contemporary Italian cinema and have a space to share our visions and thoughts. Making sure to rewind the film taking care to observe every single frame. With Emiliano Sisolfi (Director, Screenwriter and Photographer) and Matteo Mori (Nuova Cinematografica Gioiello), hosted by Leonardo Venturi.",
         "host_logo": [
             "https://x.scambi.org/others_logos/Cinema_Gioiello.png"
         ],
@@ -673,6 +673,12 @@
         ],
         "scambi_url": null,
         "location": "Palazzo Gentile"
+    },
+    {
+        "title": "Tra le Pagine Intrecciate",
+        "days": "???",
+        "description": "Esplora l’arte della rilegatura con telaio e costruisci la tua agenda dei sogni! Con la tua carta preferita, dai vita a un’agenda personalizzata per custodire pensieri e ispirazioni in modo unico.",
+        "what": "pinolo"
     },
     {
         "title": "Tutto Mat, Botteghe aperte",
