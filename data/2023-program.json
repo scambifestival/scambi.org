@@ -55,6 +55,7 @@
         "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
         "host_image": "https://x.scambi.org/images/staff.webp",
         "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff",
         "host": "Staff Scambi",
         "times": "24: 10:00 → 18:00",
         "location": "itinerante"
@@ -80,7 +81,9 @@
             "26",
             "27"
         ],
+        "description": "L'idea nasce dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Con \"Botteghe Aperte\" immergetevi nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
         "what": "pinolo",
+        "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
         "host_bio_en": null,
         "host": "Akvo",
         "scambi_url": null
@@ -116,6 +119,11 @@
             "Martina D’Amore",
             "Laura Guglielmi"
         ],
+        "times": [
+            "25: 17:30 → 19:00",
+            "26: 17:30 → 19:00",
+            "27: 17:30 → 19:00"
+        ],
         "scambi_url": null,
         "location": "itinerante"
     },
@@ -135,8 +143,8 @@
         ],
         "host_image": [
             "https://x.scambi.org/profile_pics/Leonardo_Sinopoli.webp",
-            "https://nuvola.scambi.org/s/m7WaaYMSo425BEr",
-            "https://nuvola.scambi.org/s/oD8sAwc3SS3iMZJ"
+            "https://x.scambi.org/profile_pics/Bianca_Carlino.jpg",
+            "https://x.scambi.org/profile_pics/Bianca_Carlino.webp"
         ],
         "host_bio_en": [
             "continued his studies in acting at the Guildhall School of Acting in London. In 2020 he starred"
@@ -163,8 +171,9 @@
         "what": "serata",
         "description_en": "The local association [<cite>Pigna Mon Amour</cite>](https://facebook.com/Pigna-Mon-Amour-190555831024696 'Pigna Mon Amour Facebook page') organizes [the summer film club](https://riviera24.it/2023/06/sanremo-dal-6-luglio-al-24-agosto-in-piazza-santa-brigida-torna-il-cinema-sotto-le-stelle-819559 'Sanremo, dal 6 luglio al 24 agosto in piazza Santa Brigida torna il “Cinema sotto le stelle”') in **piazza Santa Brigida**, screening of the movie <cite>Kagemusha</cite> (1980), by Akira Kurosawa.",
         "host_logo": "https://x.scambi.org/others_logos/Pigna_Mon_Amour-1.png",
+        "host_bio": "Pigna Mon Amour è la pro-loco del quartiere Pigna di Sanremo. Sono car3 amic3 del festival da ancor prima della sua nascita.",
         "host_image": "https://x.scambi.org/profile_pics/Chicca_Dedali.jpg",
-        "host_bio_en": null,
+        "host_bio_en": "Pigna Mon Amour is the pro-loco of the Pigna district of Sanremo. They have been dear friends of the festival since even before its birth.",
         "host_url": "https://facebook.com/Pigna-Mon-Amour-190555831024696",
         "host": "Pigna Mon Amour",
         "times": "24: 21:15 → 23:45",
@@ -201,6 +210,7 @@
         ],
         "host_url": [
             "https://openstreetmap.org",
+            "https://scambi.org/staff",
             "https://wikimedia.it"
         ],
         "host": [
@@ -243,13 +253,16 @@
         "description_en": "Tenco Ascolta is the format that Club Tenco has devised to allow emerging artists to be heard by an audience (often attracted by already established artists and \"friends\" of Tenco), and by the members of the Club Board itself. The events of Tenco Ascolta are organized throughout Italy precisely to guarantee everyone the opportunity to perform and make themselves known. The Tenco Ascolta event in collaboration with Scambi Festival will see a special mix of genres and artists in true \"Scambi\" style",
         "host_logo": [],
         "host_bio": [
-            "Christian Gullone, classe 1983, è nato nel centro storico di Sanremo e nella città dei fiori ha coltivato il proprio talento musicale. Grande protagonista dell’ultima edizione di Rock in The Casbah."
+            "Christian Gullone, classe 1983, è nato nel centro storico di Sanremo e nella città dei fiori ha coltivato il proprio talento musicale. Grande protagonista dell’ultima edizione di Rock in The Casbah.",
+            "Un saluto! Siamo i Claynuts, un gruppo musicale rock che affonda le proprie radici nel ponente ligure. Proponiamo al pubblico una varietà di cover ed inediti, spaziando dal rock più ballabile ad intense improvvisazioni strumentali: un’esperienza scanzonata e coinvolgente che ci piace definire <q>rural dirt rock</q>.La band è attualmente composta da una formazione a trio che ha avuto il piacere di presenziare a numerosi eventi locali, festival, raduni di motociclisti e palcoscenici in giro per il nord Italia. \nAl momento, siamo nel pieno processo di registrazione del nostro primo disco, di cui potete già ascoltare un’anteprima su Spotify.<br>Per un assaggio della nostra esperienza live, siete invece invitati a seguire la nostra pagina Instagram.",
+            "Il Club Tenco è stato fondato a **Sanremo** nel **1972** da un gruppo di appassionati per promuovere e sostenere la cosiddetta <q>**canzone d’autore**</q>, ossia la canzone di qualità. È intitolato a un grande cantautore italiano, morto suicida nel 1967. Nello Statuto del Club è detto tra l’altro: <q>Lo scopo del Club è quello di riunire tutti coloro che, raccogliendo il messaggio di **Luigi Tenco**, si propongono di valorizzare la canzone d’autore, ricercando anche nella musica leggera dignità artistica e poetico realismo</q>. Il Club opera senza scopo di lucro, in assoluta e riconosciuta autonomia dall’industria musicale.<br>Fra le molte iniziative del Club (libri, dischi, rassegne in tutta Italia, incontri), la prima a nascere è la <q>**Rassegna della canzone d’autore**</q>, festival di alta qualità artistica, culturale e tecnica, che dal 1974 si tiene annualmente a Sanremo, una manifestazione unica in Europa e forse al mondo. Ad essa vengono invitati i più interessanti cantanti-autori italiani e stranieri."
         ],
         "host_image": [
             "https://x.scambi.org/images/Christian_Gullone.jpg"
         ],
         "host_bio_en": [
-            "Christian Gullone, born in 1983 was raised in the historical center of Sanremo, where he cultivated his passion for music. He has been the frontrunner of the latest edition of Rock in the Casbah."
+            "Christian Gullone, born in 1983 was raised in the historical center of Sanremo, where he cultivated his passion for music. He has been the frontrunner of the latest edition of Rock in the Casbah.",
+            "Club Tenco was founded in **Sanremo** in **1972** by a group of enthusiasts to promote and support the so-called <q>**songwriting **</q>. It is named after a great Italian singer-songwriter who committed suicide in 1967. Among other things, the Club Statute says: <q>The purpose of the Club is to bring together all those who, by accepting **Luigi Tenco**'s message, aim to enhance songwriting, also seeking artistic dignity and poetic realism in pop music</q>. The Club operates on a non-profit basis, in absolute and recognized autonomy from the music industry.<br>Among the many initiatives of the Club (books, records, reviews throughout Italy, meetings), the first to be born is the <q>* *Review of songwriting**</q>, the festival of high artistic, cultural and technical quality, which has been held annually in Sanremo since 1974, a unique event in Europe and perhaps in the world. The most interesting Italian and foreign singer-songwriters are invited to it."
         ],
         "host_url": [
             "https://facebook.com/christian.gullone1",
@@ -289,11 +302,11 @@
         "scambi_url": null
     },
     {
-        "title": "Il pregiudizio Rosso Malpelo - Analisi della narrazione nel cinema italiano contemporaneo - Tremilaseicento fotogrammi",
+        "title": "Il pregiudizio Rosso Malpelo: Analisi della narrazione nel cinema italiano contemporaneo - Tremilaseicento fotogrammi",
         "days": "26",
-        "description": "Tremilaseicento fotogrammi: 60 minuti e 3600 attimi per discutere su tematiche che ci stanno a cuore del panorama cinematografico nazionale. Un incontro, un dibattito, una riflessione autogestita per analizzare il cinema italiano contemporaneo e avere uno spazio per condividere le nostre visioni e i nostri pensieri. Per riavvolgere la pellicola avendo cura di osservare ogni singolo fotogramma. Intervengono Andrea Vailati e Francesco Malgeri (Artesettima), modera Salvatore Gucciardo.",
+        "description": "Tremilaseicento fotogrammi: 60 minuti e 3600 attimi per discutere su tematiche che ci stanno a cuore del panorama cinematografico nazionale. Un incontro, un dibattito, una riflessione autogestita per analizzare il cinema italiano contemporaneo e avere uno spazio per condividere le nostre visioni e i nostri pensieri. Per riavvolgere la pellicola avendo cura di osservare ogni singolo fotogramma. Intervengono Andrea Vailati e Francesco Malgeri (ArteSettima), modera Salvatore Gucciardo.",
         "what": "dissolvenze",
-        "description_en": "Tremilaseicento fotogrammi: 60 minutes and 3600 moments to discuss topics close to our hearts in the national film scene. A meeting, a debate, a self-managed reflection to analyze contemporary Italian cinema and have a space to share our visions and thoughts. Making sure to rewind the film taking care to observe every single frame. With Andrea Vailati e Francesco Malgeri (Artesettima), hosted by Salvatore Gucciardo.",
+        "description_en": "Tremilaseicento fotogrammi: 60 minutes and 3600 moments to discuss topics close to our hearts in the national film scene. A meeting, a debate, a self-managed reflection to analyze contemporary Italian cinema and have a space to share our visions and thoughts. Making sure to rewind the film taking care to observe every single frame. With Andrea Vailati e Francesco Malgeri (ArteSettima), hosted by Salvatore Gucciardo.",
         "host_logo": "https://x.scambi.org/others_logos/ArteSettima.jpg",
         "host_bio": "Andrea Vailati, laureato in Filosofia del Mondo Contemporaneo all’università San Raffaele di Milano, è fondatore e direttore editoriale della rivista online Artesettima. Insieme all’attività di redattore svolge il ruolo di Head content e responsabile Marketing Digitale per WeShort.",
         "host_image": "https://x.scambi.org/images/Andrea_Vailati.jpg",
@@ -314,6 +327,7 @@
         "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
         "host_image": "https://x.scambi.org/images/staff.webp",
         "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff",
         "host": "Staff Scambi",
         "times": "24: 18:30 → 19:00",
         "scambi_url": null,
@@ -325,7 +339,9 @@
         "description": "<cite>La figlia di Carmine</cite> è uno spettacolo comico e surreale sul tema dei disservizi. Politicamente scorretto e dissacrante affronta alcuni dei paradossi di questa Italia.<br>Lo spettacolo, scritto dai ragazzi della Compagnia, diretto da Davide Barella & Christian Papini, accompagnato dalla musica originale di <cite>Trio Scampato + 1</cite>.",
         "what": "evento speciale",
         "description_en": "<cite lang='it'>La figlia di Carmine</cite> is a comic and surreal show on the theme of disservices. Politically incorrect and irreverent, it addresses some of the paradoxes of this Italy. The show is written by the boys of the Company, directed by Davide Barella & Christian Papini, and accompanied by the original music of Trio Scampato + 1.",
-        "host_bio_en": null,
+        "host_bio": "<q>Cinque anni fa, per i venticinque anni della Caritas ci siamo chiesti cosa potevamo fare – esordisce **Cristian Papini** di **Caritas Intemelia** – al che ci è venuto in mente di creare uno spettacolo teatrale con volontari e subito abbiamo pensato a Davide Barella per portarlo avanti. Doveva essere solo per un anno, e invece…</q><br>Nasce così il **Teatro Abusivo**, realtà che unisce appunto la Caritas, la **Scuola MusicArte di Camporosso** e lo scrittore **Davide Barella**.<br><q>Trasformiamo i ragazzi in scrittori, attraverso il loro vissuto importante rielaboriamo e drammatizziamo alcuni episodi della loro storia in veste teatrale – spiega Barella – un percorso con un risvolto terapeutico importante che li pone dinnanzi ad una platea al di fuori del loro quotidiano</q>.",
+        "host_bio_en": "<q>Five years ago, for the twenty-five years of Caritas we asked ourselves what we could do - begins **Cristian Papini** of **Caritas Intemelia** - to which we came up with the idea of creating a theatrical show with volunteers and we immediately thought of Davide Barella to carry it forward. It was supposed to be only for a year, but instead…</q><br>This is how the **Teatro Abusivo** was born, a reality that unites Caritas, the **MusicArte School of Camporosso** and the writer **Davide Barella **.<br><q>We transform young people into writers, through their important experience we re-elaborate and dramatize some episodes of their history in a theatrical guise - explains Barella - a path with an important therapeutic implication that places them before an audience at outside their daily routine</q>.",
+        "host_url": "https://rivieratime.news/il-teatro-abusivo-esperienze-di-vita-forti-che-diventano-racconti",
         "host": "Teatro Abusivo",
         "times": "24: 19:00 → 21:00",
         "scambi_url": "/2023/teatro",
@@ -339,10 +355,14 @@
         "description_en": "The *Late Night Sessions* crew lands on the beaches of Bussana with a simple goal: to have fun playing and singing in front of the most beautiful views that the Riviera can offer. Over time, the caravan moved to numerous inland locations in search of new **experimentation** grounds. On this particular evening, friends and guests from all over Liguria will join together to contribute to the inimitable energy of the <q>*Late*</q>",
         "host_logo": [],
         "host_bio": [
+            "La ciurma Late Night Sessions sbarca sulle spiagge di Bussana con un semplice obiettivo: divertirsi suonando e cantando davanti agli scorci più belli che la Riviera può offrire.<br>Nel corso del tempo, la carovana si è trasferita in numerose location dell'entroterra in cerca di nuovi terreni di sperimentazione.",
             "I Gini Paoli sono una party band che opera accidentalmente per conto delle Pro Loco tra Genova e il lago di Como. Suonano un mix di tropical punk, afrolatin e pop che, sotto le mentite spoglie di una festa infinita, nasconde messaggi socio-politici criptati in un mix caotico di italiano e spagnolo.<br>Nel 2020 hanno pubblicato come trio il primo album Amargados, per poi diventare un quintetto includendo in pianta stabile le percussioni e le sonorità esotico-psichedeliche di sitar e synth. Tre anni dopo, per l’etichetta Marsiglia Records, esce <cite>Esotica Naturalizada</cite>: un\nviaggio composito e stratificato lontano dal presente in una ideale discesa dai monti al mare. Un mix di suoni che unisce psichedelia e tropicalismi per una festa spontanea che ci riporti alla natura."
         ],
         "host_image": [],
-        "host_bio_en": [],
+        "host_bio_en": [
+            "The Late Night Sessions crew lands on the beaches of Bussana with a simple goal: to have fun playing and singing in front of the most beautiful views that the Riviera can offer.<br>Over time, the caravan moved to numerous inland locations in looking for new fields of experimentation.",
+            "The Gini Paoli are a party band that accidentally operates on behalf of the Pro Loco between Genoa and Lake Como. They play a mix of tropical punk, afrolatin and pop which, under the guise of an endless party, hides socio-political messages encrypted in a chaotic mix of Italian and Spanish.<br>In 2020 they released their first album Amargados as a trio, to then become a quintet including the percussions and the exotic-psychedelic sounds of sitar and synth on a permanent basis. Three years later, for the Marseille Records label, <cite>Esotica Naturalizada</cite> was released: a\ncomposite and layered journey away from the present in an ideal descent from the mountains to the sea. A mix of sounds that combines psychedelia and tropicalism for a spontaneous party that brings us back to nature."
+        ],
         "host_url": [
             "https://instagram.com/latenights_ig"
         ],
@@ -362,14 +382,16 @@
             "26",
             "27"
         ],
+        "description": "L'idea nasce dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Con \"Botteghe Aperte\" immergetevi nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
         "what": "pinolo",
+        "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
         "host_bio": "LeIdeebs  è un piccolo brand artigianale di produzione lenta e accurata. Deborah ha un piccolo laboratorio sartoriale all'interno della Pigna. Crea abbigliamento e accessori donna e ogni pezzo è studiato e realizzato interamente da lei. Le parole d'ordine sono unicità e colore, è infatti molto difficile trovare un capo uguale all'altro. Utilizza materiali di recupero e di fine stock in un ottica di riciclo.",
         "host_bio_en": "LeIdeebs is a small artisan brand of slow and accurate production. Deborah has a small tailoring workshop inside the Pigna. She creates women's clothing and accessories and each piece is designed and created entirely by her. The watchwords are uniqueness and colour, it is in fact very difficult to find a garment that is the same as another. She uses recycled and end-of-stock materials with a view to recycling.",
-        "host_url": "https://www.instagram.com/leideebs/",
+        "host_url": "https://instagram.com/leideebs",
         "host": "Le Ideebs"
     },
     {
-        "title": "Pensatevi liberatɜ - discussione e lamentela sul cinema LGBTQIA+ emergente italiano (e la sua mancanza) - Tremilaseicento fotogrammi",
+        "title": "Pensatevi liberatɜ: discussione e lamentela sul cinema LGBTQIA+ emergente italiano (e la sua mancanza) - Tremilaseicento fotogrammi",
         "days": "25",
         "description": "Tremilaseicento fotogrammi: 60 minuti e 3600 attimi per discutere su tematiche che ci stanno a cuore del panorama cinematografico nazionale. Un incontro, un dibattito, una riflessione autogestita per analizzare il cinema italiano contemporaneo e avere uno spazio per condividere le nostre visioni e i nostri pensieri. Per riavvolgere la pellicola avendo cura di osservare ogni singolo fotogramma. Intervengono Emiliano Sisolfi (Regista_Sceneggiator*_Fotograf*) e Matteo Mori (Nuova Cinematografica Gioiello)",
         "what": "dissolvenze",
@@ -402,6 +424,7 @@
         ],
         "times": "25: 18:30 → 19:30",
         "scambi_url": null,
+        "img": "https://nuvola.scambi.org/core/preview?fileId=315908&x=1920&y=1080&a=true",
         "location": "Piazzetta dei Ferri"
     },
     {
@@ -434,17 +457,6 @@
         "scambi_url": null
     },
     {
-        "title": "Pinolo Slimp",
-        "days": [
-            "26",
-            "27"
-        ],
-        "description": "Slimp (SoftwareLiberoIMperiaProvincia) è un gruppo informale ed eterogeneo di utilizzatori di software libero della provincia di Imperia e zone limitrofe.<br>Lo scopo del gruppo è la promozione di concetti quali la libertà dello scambio di idee e di informazioni, con un occhio di riguardo al software open source e ai sistemi operativi come Linux che condividono gli stessi concetti. Ci incontriamo online sul [gruppo Telegram](https://t.me/slimpimperia) e dal vivo durante eventi come il Linux Day, o sporadici incontri in birreria o pizzate.",
-        "what": "pinolo",
-        "description_en": "Slimp (SoftwareLiberoIMperiaProvincia) is an informal and heterogeneous group of free software users from the province of Imperia and neighbouring areas.<br>The purpose of the group is to promote concepts such as the freedom to exchange ideas and information, with an eye on open-source software and operating systems like Linux that share the same concepts. We meet online on the [Telegram group](https://t.me/slimpimperia) and live during events like Linux Day, or sporadic brewery meetings or pizza parties.",
-        "location": "Terrazza Santa Brigida"
-    },
-    {
         "title": "Premiazione Dissolvenze",
         "days": "27",
         "description": "La cerimonia di chiusura di Dissolvenze celebrerà lɜ vincitorɜ del nostro concorso di cortometraggi e le persone e gli eventi che hanno caratterizzato l’edizione di quest’anno.",
@@ -453,6 +465,7 @@
         "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
         "host_image": "https://x.scambi.org/images/staff.webp",
         "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff",
         "host": "Staff Scambi",
         "times": "27: 20:30 → 21:30",
         "scambi_url": "/2023/dissolvenze",
@@ -481,6 +494,7 @@
         "description_en": "<cite lang='it'>Verso Casa</cite> is our film club dedicated to all those souls who, from time to time, need to inhabit (or find) their safe place in the world. We will present 3 films that will remind us of how important it is to get lost in an unknown place, to fight for our freedom and to have the curiosity to observe reality more closely. This space-time gap will be open to everyone without age limits, like the magic of cinema and the characters we’ll meet. We are waiting for you every morning in Santa Brigida Church with the familiar desire to dream and get emotional together. (Films in Italian with English subtitles)",
         "times": "27: 10:00 → 12:30",
         "scambi_url": null,
+        "img": "https://upload.wikimedia.org/wikipedia/it/c/cc/Howl%27s_Moving_Castle_Bluray_snapshot.png",
         "location": "Chiesa di Santa Brigida"
     },
     {
@@ -491,6 +505,7 @@
         "description_en": "<cite lang='it'>Verso Casa</cite> is our film club dedicated to all those souls who, from time to time, need to inhabit (or find) their safe place in the world. We will present 3 films that will remind us of how important it is to get lost in an unknown place, to fight for our freedom and to have the curiosity to observe reality more closely. This space-time gap will be open to everyone without age limits, like the magic of cinema and the characters we’ll meet. We are waiting for you every morning in Santa Brigida Church with the familiar desire to dream and get emotional together. (Films in Italian with English subtitles)",
         "times": "26: 10:00 → 12:00",
         "scambi_url": null,
+        "img": "https://images.bauerhosting.com/legacy/empire-tmdb/films/953/images/wUetiqu2EFhHW94yTP0pWABfyUG.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill",
         "location": "Chiesa di Santa Brigida"
     },
     {
@@ -501,16 +516,18 @@
         "description_en": "<cite lang='it'>Verso Casa</cite> is our film club dedicated to all those souls who, from time to time, need to inhabit (or find) their safe place in the world. We will present 3 films that will remind us of how important it is to get lost in an unknown place, to fight for our freedom and to have the curiosity to observe reality more closely. This space-time gap will be open to everyone without age limits, like the magic of cinema and the characters we’ll meet. We are waiting for you every morning in Santa Brigida Church with the familiar desire to dream and get emotional together. (Films in Italian with English subtitles)",
         "times": "25: 10:00 → 12:00",
         "scambi_url": null,
+        "img": "https://cdn.vox-cdn.com/thumbor/q7j9F8nSwZKVsn-79IqTBncVjsg=/0x0:1920x1080/1200x800/filters:focal(403x177:709x483)/cdn.vox-cdn.com/uploads/chorus_image/image/71340003/WALL_E.0.jpeg",
         "location": "Chiesa di Santa Brigida"
     },
     {
         "title": "Proiezione corti internazionali finalisti",
         "days": "26",
-        "description": "Proiezione dei corti internazionali finalisti del concorso di cortometraggi Dissolvenze a tema \"Verso\"",
+        "description": "Proiezione dei corti internazionali finalisti del concorso di cortometraggi Dissolvenze a tema “Verso”",
         "what": "dissolvenze",
         "description_en": "Screening of the international short films finalists of the \"Dissolvenze\" short film competition on the theme \"Verso\"",
         "times": "25: 17:00 → 18:00",
         "scambi_url": null,
+        "img": "https://archive.org/download/scambi-2021-dissolvenze-10/scambi-2021-dissolvenze-10.jpg",
         "location": "Chiesa di Santa Brigida"
     },
     {
@@ -521,6 +538,7 @@
         "description_en": "Screening of the Italian short films finalists of the \"Dissolvenze\" short film competition on the theme \"Verso\"",
         "times": "26: 17:00 → 18:00",
         "scambi_url": null,
+        "img": "https://archive.org/download/scambi-2021-dissolvenze-10/scambi-2021-dissolvenze-10.jpg",
         "location": "Chiesa di Santa Brigida"
     },
     {
@@ -541,6 +559,7 @@
             "continued his studies in acting at the Guildhall School of Acting in London. In 2020 he starred"
         ],
         "host_url": [
+            "https://musicaorizzontale.bandcamp.com",
             "https://instagram.com/leonardo_sinopoli",
             "https://olivacontemporarydanceproject.com"
         ],
@@ -553,6 +572,17 @@
         "scambi_url": "/2023/riversando",
         "img": "https://x.scambi.org/images/ocdp.jpg",
         "location": "Piazza Santa Brigida"
+    },
+    {
+        "title": "Slimp",
+        "days": [
+            "26",
+            "27"
+        ],
+        "description": "Slimp (SoftwareLiberoIMperiaProvincia) è un gruppo informale ed eterogeneo di utilizzatori di software libero della provincia di Imperia e zone limitrofe.<br>Lo scopo del gruppo è la promozione di concetti quali la libertà dello scambio di idee e di informazioni, con un occhio di riguardo al software open source e ai sistemi operativi come Linux che condividono gli stessi concetti. Ci incontriamo online sul [gruppo Telegram](https://t.me/slimpimperia) e dal vivo durante eventi come il Linux Day, o sporadici incontri in birreria o pizzate.",
+        "what": "pinolo",
+        "description_en": "Slimp (SoftwareLiberoIMperiaProvincia) is an informal and heterogeneous group of free software users from the province of Imperia and neighbouring areas.<br>The purpose of the group is to promote concepts such as the freedom to exchange ideas and information, with an eye on open-source software and operating systems like Linux that share the same concepts. We meet online on the [Telegram group](https://t.me/slimpimperia) and live during events like Linux Day, or sporadic brewery meetings or pizza parties.",
+        "location": "Terrazza Santa Brigida"
     },
     {
         "title": "Speed date filosofico",
@@ -651,7 +681,9 @@
             "26",
             "27"
         ],
+        "description": "L'idea nasce dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Con \"Botteghe Aperte\" immergetevi nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
         "what": "pinolo",
+        "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
         "host_bio": "Andrea Selvaggio: Nato a Palermo il 28 febbraio 1980, nel 2002 consegue il diploma in Decorazione presso l'Accademia di Belle Arti di Palermo. Si dedica alla pittura conseguendo premi e riconoscimenti, partecipa a numerose collettive in Italia e all'estero. Dopo un breve e intenso periodo come pittore di scena in diversi set cinematografici (come le collaborazioni con Giuseppe Tornatore per il film “Baaria\" e John Turturro per il docufilm “La Sicilia” ) si dedica totalmente all'insegnamento. Oggi vive e lavora a Sanremo, dove insegna Arte e Immagine presso la scuola Secondaria Dante Alighieri. Nel 2018 inizia il suo progetto artistico di riqualifica urbana e sociale “pescheria n.2” riuscendo a coinvolgere, attraverso interventi di street art e laboratori di pittura , oltre ai suoi allievi, gli abitanti del centro storico di Sanremo. Lo spazio: La nuova galleria aperta da qualche anno in via Palma 16, nasce come uno spazio aperto dove la ricerca pittorica si fonde con l'entusiasmo e il coinvolgimento di tutti coloro che curiosi, interessati e affascinati entrano e lasciano la loro impronta. E' un luogo dove arte e cultura si incontrano, dov'è possibile vedere l'artista in azione ed  acquistare opere uniche.",
         "host_image": "https://nuvola.scambi.org/s/dALjQLNzbx98Aqd",
         "host_bio_en": "Born in Palermo on February 28, 1980, in 2002 he graduated in Decoration at the Academy of Fine Arts in Palermo. He dedicates himself to painting achieving prizes and awards, and participates in numerous group exhibitions in Italy and abroad. After a short and intense period as a scene painter in various film sets (such as collaborations with Giuseppe Tornatore for the film \"Baaria\" and John Turturro for the docufilm \"La Sicilia\"), he devoted himself totally to teaching. Today he lives and works in Sanremo, where he teaches Art and Image at the Dante Alighieri secondary school. In 2018 he began his artistic project of urban and social redevelopment \"pescheria n.2\" managing to involve, through street art interventions and painting workshops, in addition to his students, the inhabitants of the historic centre of Sanremo. Space: The new gallery opened a few years ago in Via Palma 16. It is born as an open space where pictorial research merges with the enthusiasm and involvement of all those curious, interested and fascinated who enter and leave their mark. It is a place where art and culture meet, where it is possible to see the artist in action and buy unique works.",
@@ -730,6 +762,7 @@
         "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
         "host_image": "https://x.scambi.org/images/staff.webp",
         "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff",
         "host": "Staff Scambi",
         "times": [
             "25: 14:00 → 15:30",
@@ -745,12 +778,12 @@
             "25",
             "26"
         ],
-        "description": "Lɜ attivistɜ di Ultima Generazione compiono azioni di disobbedienza civile nonviolenta per ottenere misure di contrasto al collasso ecoclimatico a cui l’Italia e il mondo stanno andando incontro. Nel laboratorio si esplorerà con lɜ partecipantɜ il concetto e la pratica di disobbedienza civile nonviolenta. Un membro del movimento racconterà la sua esperienza diretta riguardo alle azioni che UG porta avanti, creando uno spazio aperto dove sarà possibile dialogare, informarsi e anche mettersi in discussione. In questo Lab non si parlerà di Ultima Generazione ma con Ultima Generazione.",
+        "description": "Lɜ attivistɜ di Ultima Generazione compiono azioni di disobbedienza civile nonviolenta per ottenere misure di contrasto al collasso ecoclimatico a cui l’Italia e il mondo stanno andando incontro. In questo Lab non si parlerà di Ultima Generazione ma con Ultima Generazione. Fioretta Maldifassi e Alessandro Berti esploreranno con lɜ partecipantɜ al lab il concetto e la pratica di disobbedienza civile nonviolenta. Racconteranno la loro esperienza diretta riguardo alle azioni che UG porta avanti, creando uno spazio aperto dove sarà possibile dialogare, informarsi e anche mettersi in discussione.",
         "what": "lab",
-        "description_en": "The activists of Ultima Generazione (Last Generation) carry out non-violent civil disobedience to obtain measures contrasting the ecoclimatic collapse that Italy and the world are facing. The Lab will explore the concept and practice of non-violent civil disobedience. A member of the movement will tell their direct experience with Ultima Generazione’s actions, creating an open space where it will be possible to dialogue, learn and question ourselves. In this Lab we won’t be talking about Ultima Generazione, but rather with Ultima Generazione.",
-        "host_bio": "Fioretta Maldifassi e Leonardo Lovati nascono a Milano nel 1999, lei laureata in Graphic design e art direction, lui studente di Filosofia. Entramb3 arrabbiat3 col governo per come sta gestendo la problematica della crisi climatica, decidono di unirsi al movimento di disobbedienza civile nonviolenta Ultima Generazione e prendono parte alla campagna ricoprendo vari ruoli.  Uno degli obiettivi del loro laboratorio è quello di connettersi emotivamente con il problema che stiamo vivendo e spiegare come la disobbedienza civile nonviolenta è un potente mezzo per cambiare il sistema. Sulla base della loro esperienza diretta e degli studi che hanno fatto sul tema, si parlerà anche di che ruolo hanno il disturbo, la repressione da parte delle forze dell'ordine e la resilienza.",
+        "description_en": "Ultima Generazione (Last Generation) activists carry out nonviolent civil disobedience actions to obtain measures to contrast the ecoclimatic collapse that Italy and the world are facing. In this Lab we will not talk about Last Generation but with Last Generation. Fioretta Maldifassi and Alessandro Berti will explore the concept and practice of nonviolent civil disobedience with the lab participant. They will tell their direct experience regarding the actions that UG carries out, creating an open space where it will be possible to dialogue, get information and even question oneself.",
+        "host_bio": "Fioretta Maldifassi nasce a Milano nel 1999 ed è laureata in Graphic design. Essendo arrabbiata col governo per come sta gestendo la problematica della crisi climatica, decide di unirsi al movimento di disobbedienza civile nonviolenta Ultima Generazione e prendono parte alla campagna ricoprendo vari ruoli.  Uno degli obiettivi del laboratorio è quello di connettersi emotivamente con il problema che stiamo vivendo e spiegare come la disobbedienza civile nonviolenta è un potente mezzo per cambiare il sistema. Sulla base della sua esperienza diretta e degli studi che hanno fatto sul tema, si parlerà anche di che ruolo hanno il disturbo, la repressione da parte delle forze dell'ordine e la resilienza.",
         "host_image": "https://x.scambi.org/images/Ultima_Generazione/",
-        "host_bio_en": "Fioretta Maldifassi and Leonardo Lovati were born in Milan in 1999. She graduated in Graphic design and art direction and he is a student of Philosophy. Both angry at the government for how it is handling the climate crisis, they decide to join the Last Generation nonviolent civil disobedience movement and take part in the campaign in various roles. One of the goals of their workshop is to connect emotionally with the problem we are experiencing and explain how nonviolent civil disobedience is a powerful means to change the system. Based on their direct experience and the studies they have done on the subject, we will also talk about what role disorder, repression by law enforcement and resilience play.",
+        "host_bio_en": "Fioretta Maldifassi was born in Milan in 1999 and has a degree in Graphic design. Being angry with the government for how she is handling the climate crisis issue, she decides to join the nonviolent civil disobedience movement Last Generation and they take part in the campaign in various roles. One of the goals of the workshop is to connect emotionally with the problem we are experiencing and explain how nonviolent civil disobedience is a powerful means to change the system. Based on his direct experience and the studies they have done on the subject, we will also talk about what role disorder, repression by law enforcement and resilience play. One of the goals of their workshop is to connect emotionally with the problem we are experiencing and explain how nonviolent civil disobedience is a powerful means to change the system. Based on their direct experience and the studies they have done on the subject, we will also talk about what role disorder, repression by law enforcement and resilience play.",
         "host_url": "https://ultima-generazione.com",
         "host": "Ultima Generazione",
         "times": [
@@ -771,6 +804,7 @@
         "host_logo": "https://x.scambi.org/others_logos/anfass.png",
         "host_bio": "L’ANFFAS di Imperia è un’Associazione di famiglie che con i suoi servizi e progetti opera per il miglioramento della qualità della vita delle persone con disabilità. Il suo compito è supportare nelle attività di socializzazione, sportive, ricreative e di sviluppo delle autonomie, i ragazzi che ne fanno parte.<br>Anffas Imperia ha attivi due gruppi di autorappresentanza, guidati da due facilitatrici formate.<br>Autorappresentanza vuol dire che le persone con disabilità possono parlare per se stesse e per altre persone, per fare in modo di essere ascoltate e capite. A questo scopo i partecipanti si incontrano: nel gruppo si parla di diritti, di doveri, di inclusione e accessibilità e di quanto questi diritti molto spesso vengano dimenticati. Negli incontri si cercano soluzioni e alternative da proporre alla comunità e alle istituzioni, allo scopo di vivere in una società realmente inclusiva. Il compito delle facilitatrici è quello di aiutare i ragazzi del gruppo a comprendere al meglio anche argomenti complessi e a far emergere il loro pensiero sulle questioni che li riguardano.",
         "host_image": "https://x.scambi.org/images/ANFFAS_Imperia.webp",
+        "host_bio_en": "ANFFAS of Imperia is an association of families that works to improve the quality of life of people with disabilities with its services and projects. Its task is to support young people who take part in socialisation, sports, recreation and the development of autonomy.<br>Anffas Imperia has two active self-representation groups, led by two trained facilitators.<br>Self-representation means that people with disabilities can speak for themselves and for other people, to make sure they are heard and understood. For this purpose, the participants meet: in the group we talk about rights, duties, inclusion and accessibility and how often these rights are forgotten. In the meetings, solutions and alternatives are sought to be proposed to the community and institutions, to live in a truly inclusive society. The task of the facilitators is to help the kids in the group to better understand even complex topics and to bring out their thoughts on the issues that concern them.",
         "host_url": "https://anffas.net/it/strutture/imperia-anffas-onlus",
         "host": "ANFFAS Imperia",
         "times": [
@@ -788,7 +822,7 @@
             "26",
             "27"
         ],
-        "description": "Quanto poco conosciamo le storie lontane di chi è costretto a intraprendere viaggi incerti in cerca di condizioni di vita migliori in un nuovo paese? Quanto conosciamo delle motivazioni che li hanno spinti a partire per un viaggio cosi rischioso? Cosa rappresenta l’Italia? E la famiglia? La lingua nuova da imparare? Il lavoro?<br><cite>Verso l’altrə</cite> è un laboratorio in cui Elena Ballerini, che nella vita insegna italiano ai migranti appena arrivati nel nostro paese, ci accompagnerà alla scoperta di storie di vita che spesso sentiamo distanti da noi: ascolteremo i racconti di 4 ragazzi arrivati da poco in Italia e, partendo da alcune parole chiave, ci confronteremo su temi che riguardano tutti noi, seppur diversamente.",
+        "description": "Quanto poco conosciamo le storie lontane di chi è costretto a intraprendere viaggi incerti in cerca di condizioni di vita migliori in un nuovo paese? Quanto conosciamo delle motivazioni che li hanno spinti a partire per un viaggio cosi rischioso? Cosa rappresenta l’Italia? E la famiglia? La lingua nuova da imparare? Il lavoro?<br><cite>Verso l’altrə</cite> è un laboratorio in cui Elena Ballerini, che nella vita insegna italiano ai migranti appena arrivati nel nostro paese, ci accompagnerà alla scoperta di storie di vita che spesso sentiamo distanti da noi: ascolteremo i racconti di 4 ragazzɜ arrivati da poco in Italia e, partendo da alcune parole chiave, ci confronteremo su temi che riguardano tutti noi, seppur diversamente.",
         "what": "lab",
         "description_en": "How little do we know of the faraway stories of whom is forced to leave for precarious journeys, in search of better living conditions in a new land? How much do we know of the reasons that have pushed them onto such a dangerous path? What does Italy represent in this case? And the family? The new language that must be learnt? The work life? <cite>Verso l'altrə</cite> is a laboratory in which Elena Ballerini, who in life teaches Italian to newly arrived migrants in our country, will accompany us in the discovery of life stories that we often feel distant from us: we will listen to the stories of 4 young people who arrived from little in Italy and, starting from some keywords, we will discuss issues that concern us all, albeit differently.",
         "host_bio": "Elena Ballerini ha 25 anni e nella vita fa l'insegnante.  Ha studiato lingue e nel fare esperienze all'estero si è resa conto di quanto amasse l'Italia, di quanto la lingua italiana sia la più bella di tutte e di quanto la nostra storia e la nostra cultura siano ricche. Elena ha quindi unito il suo bisogno di contatto con persone sempre diverse all'amore per il suo paese: insegna italiano agli stranieri.  Chi viene qui in Italia, scappando dal suo paese, lo fa perché cerca una vita migliore, semplicemente uno stipendio degno di nota o una scuola degna di questo nome e spesso si accontenta di questo.  Ma che succederebbe se tutti quelli che entrano in Italia potessero vedere la bellezza di questo paese? Potessero innamorarsi della lingua, dei film e della cucina?  Elena sogna un'Italia colorata, viva e dinamica.  Lavora e lavorerà per questo!",
