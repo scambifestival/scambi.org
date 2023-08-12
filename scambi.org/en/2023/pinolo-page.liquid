@@ -1,0 +1,43 @@
+---
+pagination:
+  data: 2023-pinoli
+  size: 1
+  alias: pinolo
+eleventyComputed:
+  title: '{{ pinolo.title }}'
+permalink: '/en/2023/pinolo/{{ pinolo.title | slugify }}/'
+layout: wrapper
+class: pinolo
+---
+{% for item in pagination.items %}
+	<h1>{{ item.title }}</h1>
+	<section class='row'>
+		{% if item.description %}
+			<div class='half column'>
+				<p>{{ item.description_en | markdownify }}</p>
+			</div>
+		{% endif %}
+		<div class='half column'>
+			<dl id='data'>
+				<dt>Location</dt>
+				<dd>{{ item.location }} — <a href='https://umap.openstreetmap.fr/en/map/scambi-2023_943693' target='_blank' title='Scambi Festival 2023 locations'>check out the map</a></dd>
+
+				<dt>Quando</dt>
+				<dd>
+					{% for day in item.days %}
+						{% unless forloop.last %}
+							{{ day }},
+						{% else %}
+							{{ day }}
+						{% endunless %}
+					{% endfor %}
+				</dd>
+				
+				<dt>Host</dt>
+				{% for host in item.host %}
+					<dd>{{ host }}</dd>
+				{% endfor %}
+			</dl>
+		</div>
+	</section>
+{% endfor %}

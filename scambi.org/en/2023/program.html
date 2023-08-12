@@ -1,0 +1,50 @@
+---
+title: 2023 Program
+image: https://x.scambi.org/illustrations/program_gradient.webp
+description: All the Labs, activities, and Pinoli of Scambi Festival 2023!
+layout: page
+permalink: /en/2023/program/
+redirect_from: [/program/,/2023/program/]
+ref: 2023program
+lang: en
+---
+{% assign days = '24;25;26;27' | split: ';' %}
+{% assign 2023-program-daily = 2023-program | sort: 'times' | sort: 'days' %}
+
+<p>This page gathers all the activities happening during the intense four days of the third edition of Scambi Festival. To give more context, in some cases we created pages tailored for a single event.</p>
+
+<div class='flex row'>
+	<a href='/guida' class='blue button'>Practical guide to Scambi 2023</a>
+	<a href='/en/2023/lab' class='green button'>All the Labs</a>
+	<a href='/en/2023/pinoli' class='yellow button'>All the Pinoli</a>
+	<a href='/nightshows' class='orange button'>All the night shows</a>
+	<a href='/en/2023/dissolvenze' class='purple button'><cite lang='it'>Dissolvenze</cite></a>
+</div>
+
+{% for day in days %}
+	<h2>{{ day }} agosto 2023</h2>
+	<ul>{% for entry in 2023-program %}
+		{% if entry.days contains day %}
+			{% capture complete_entry %}
+				{% if entry.scambi_url %}
+					{% if entry.what == 'serata' %}<mark class='serata'>night show</mark>{% endif %} <a href='entry.scambi_url'>{{ entry.title }}</a>
+				{% elsif entry.what == 'lab' or entry.what == 'pinolo' %}
+					<mark class='{{ entry.what }}'>{{ entry.what }}</mark> <a href='/2023/{{ entry.what }}/{{ entry.title | slugify }}'>{{ entry.title }}</a>
+				{% elsif entry.what == 'dissolvenze' %}
+					<mark class='dissolvenze'>{% if entry.title contains 'Casa' %}<cite lang='it'>Verso Casa</cite> film club{% elsif entry.title contains 'Tremilaseicento' %}<cite>Tremilaseicento fotogrammi</cite>{% else %}Dissolvenze{% endif %}</mark> <strong>{{ entry.title | remove: ' - Cineforum Verso Casa' | remove: ' - Tremilaseicento fotogrammi' }}</strong>{% if entry.description_en%} ‣ {{ entry.description_en | markdownify }}{% endif %}
+				{% else %}
+					<strong>{{ entry.title }}</strong>{% if entry.description_en %} ‣ {{ entry.description_en | markdownify }}{% endif %}
+				{% endif %}
+			{% endcapture %}
+			{% if entry.times %}
+				{% for time in entry.times %}
+					{% if time contains day %}
+						<li><time>{{ time | remove: '24: ' | remove: '25: ' | remove: '26: ' | remove: '27: ' }}</time> ‧ {{ complete_entry }}</li>
+					{% endif %}
+				{% endfor %}
+			{% else %}
+				<li>{{ complete_entry }}</li>
+			{% endif %}
+		{% endif %}
+	{% endfor %}</ul>
+{% endfor %}

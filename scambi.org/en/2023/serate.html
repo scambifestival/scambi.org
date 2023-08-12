@@ -1,0 +1,41 @@
+---
+title: All Scambi Festival 2023 Night Shows
+permalink: /en/2023/nightshows/
+redirect_from: /nightshows/
+---
+
+<h1>{{ title }}</h1>
+
+{% assign night-shows = 2023-program | where: 'what', 'serata' %}
+
+{% for show in night-shows %}
+	<section class='margin row'>
+		<h2>{{ show.title }}</h2>
+		<h3 class='subtitle'>{{ show.days }}<sup>th</sup> August 2023</h3>
+		<div class='row'>
+			<div class='half column'>
+				<p>{{ show.description_en | markdownify }}</p>
+				{% comment %}{% if show.scambi_url %}
+					<div class='flex row'>
+						<a href='{{ show.scambi_url }}' class='purple button'>More details</a>
+					</div>
+				{% endif %}{% endcomment %}
+			</div>
+			<div class='half column'>
+				<img src='{{ show.img }}' alt='{{ show.title }}'>
+			</div>
+		</div>
+	</section>
+{% endfor %}
+
+<section class='standalone purple row'>
+	<div class='one column'>
+{% renderTemplate "md" %}
+## 🍻 Beer! 🍻
+
+During all the events, we will serve **craft beer** <u>produced right above Pigna</u> by [<em lang='it'>Birrificio NADIR</em>](https://birrificionadir.it 'Birrificio NADIR on Instagram') 😍
+
+If you are not beer people, don’t worry! We will serve wine and cocktails, too.
+{% endrenderTemplate %}
+	</div>
+</section>
