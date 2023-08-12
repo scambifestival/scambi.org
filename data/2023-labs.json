@@ -2,21 +2,18 @@
     {
         "title": "Affari Nostri",
         "days": "26",
-        "description": "Eri una persona come tante, ma da domani sarai speciale: basta solo che tu sia in grado di perseguire i tuoi obiettivi.<br>Abbiamo scelto proprio te per essere uno dei partecipanti del quiz onirico <cite>Affari nostri</cite>. Il gioco è semplice: se raggiungerai l’obiettivo prefissato, potrai realizzare i tuoi sogni nella vita reale con i soldi che avrai. Non ti resta che giocare e guadagnare la vittoria insieme al tuo gruppo.<br><cite>Affari nostri: la finanza non è un gioco</cite> è un Edu-LARP (Live Action Role Playing) sul tema delle asset class. Mettiti nei panni dei partecipanti a questo quiz onirico, dove l'importante sono i valori sia finanziari che etici.",
-        "description_en": "You were like everybody else, but tomorrow no more: you just have to prove you can pursue your goals. <br>We have chosen you to be one of the participants of the dreamilike quiz \"Our Business\". The game is simple: if you will reach the preset goal, you will be able to use the money to realize your dreams in the real life. No choice but to play and reach victory with your group. <br><cite>Our Business: Finance is not a Game</cite> it's an Edu-LARP (Live Action Role Playing) on the theme of asset class. Participate in this dreamlike quiz, where the important values are both financial and ethical.",
+        "description": "Eri una persona come tante, ma da domani sarai speciale: basta solo che tu sia in grado di perseguire i tuoi obiettivi.<br>Abbiamo scelto proprio te per essere uno dei partecipanti del quiz onirico <cite>Affari nostri</cite>. Il gioco è semplice: se raggiungerai l’obiettivo prefissato, potrai realizzare i tuoi sogni nella vita reale con i soldi che avrai. Non ti resta che giocare e guadagnare la vittoria insieme al tuo gruppo.<br><cite>Affari nostri: la finanza non è un gioco</cite> è un Edu-LARP (Live Action Role Playing) sul tema delle asset class. Mettiti nei panni dei partecipanti a questo quiz onirico, dove l’importante sono i valori sia finanziari che etici.",
+        "description_en": "You were like everybody else, but tomorrow no more: you just have to prove you can pursue your goals. <br>We have chosen you to be one of the participants of the dreamilike quiz <cite>Our Business</cite>. The game is simple: if you will reach the preset goal, you will be able to use the money to realize your dreams in the real life. No choice but to play and reach victory with your group. <br><cite>Our Business: Finance is not a Game</cite> it’s an Edu-LARP (Live Action Role Playing) on the theme of asset class. Participate in this dreamlike quiz, where the important values are both financial and ethical.",
         "host_logo": "https://x.scambi.org/others_logos/banca_etica.jpg",
         "host_bio": "Festivalori è una realtà culturale organizzata da Valori, la testata giornalistica di proprietà di Fondazione Finanza Etica, promossa da Banca Etica ed Etica Sgr. Puntano ad accendere i riflettori sulle ingiustizie del sistema economico e a promuovere esperienze alternative di economia sociale e sostenibile. Dal 2002 realizzano inchieste e reportage per avvicinare le persone al mondo della finanza e dell’economia. Si impegnano infatti a tradurre temi spesso ritenuti “complessi” per far capire allɜ cittadinɜ come le scelte che avvengono nelle aziende e nei mercati sono profondamente connesse ad aspetti delle nostre quotidianità. Credono inoltre in un’educazione finanziaria critica, indipendente e capace di mettere al centro le persone non solo come “clienti”, ma soprattutto come cittadinɜ responsabili e consapevoli.",
-        "host_image": "",
         "host_bio_en": "Festivalori is a cultural reality organised by Valori, the newspaper owned by Fondazione Finanza Etica, promoted by Banca Etica and Etica Sgr. They aim to spotlight the injustices of the local and international economic system and promote alternative experiences of a social and sustainable economy. Since 2002 they have been carrying out surveys and reports to bring people closer to the world of finance and the economy. In fact, they are committed to simplifying themes often considered \"complex\" to make citizens understand how the choices that take place in companies and markets are deeply connected to aspects of our daily lives. They also believe in a critical, independent financial education capable of putting people at the centre of the action, not only as \"customers\" but also as responsible and aware citizens.",
-        "host_url": "http://festival.valori.it/",
+        "host_url": "https://festival.valori.it",
         "host": "Valori.it - Fondazione Banca Etica",
         "times": [
-            "26: 10:30 → 12:00",
-            "26: 18:00 → 19:30"
+            "26: 15:30 → 17:00",
+            "26: 19:00 → 20:30"
         ],
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Chinmoku No Mori",
@@ -25,17 +22,11 @@
             "26",
             "27"
         ],
-        "description": "Chinmoku no mori invita a prendere parte al grido della terra. Con corpo, voce e strumenti musicali ritroviamoci insieme come comunità, riappropriamoci con la potenza dell'arte e del rito degli spazi di condivisione che ci appartengono. Facciamo della nostra energia uno strumento efficace di benessere sopravvivenza. Non ci sono regole di comportamento o specifiche indicazioni, nello spazio del rito abbiamo la possibilità di interagire con ciò che ci circonda o semplicemente assistere alla performance, lasciando che, in qualsiasi caso, il nostro sguardo non sia passivo ma fertile di pensieri risolutivi. Lasciamoci attraversare dalle note dei suoni sacrali e gutturali, i quali da tempo immemore apportano benefici, tramite la ripetizione di frequenze acute che stimolano la corteccia celebrale in una vera e propria terapia sonora.",
-        "description_en": "Chinmoku no mori invites you to take part in the cry of the earth. With body, voice and musical instruments let's get together as a community, let's reappropriate with the power of art and ritual the sharing spaces that belong to us. Let's make our energy an effective tool for well-being and survival. There are no rules of behaviour or specific indications, in the space of the ritual we have the possibility to interact with what surrounds us or simply attend the performance, letting our gaze, in any case, not be passive but fertile with decisive thoughts. Let us allow ourselves to be crossed by the notes of sacral and guttural sounds, which have been beneficial since time immemorial, through the repetition of high frequencies that stimulate the cerebral cortex in real sound therapy.",
-        "host_logo": [
-            "",
-            "",
-            ""
-        ],
+        "description": "Chinmoku no mori invita a prendere parte al grido della terra. Con corpo, voce e strumenti musicali ritroviamoci insieme come comunità, riappropriamoci con la potenza dell’arte e del rito degli spazi di condivisione che ci appartengono. Facciamo della nostra energia uno strumento efficace di benessere sopravvivenza. Non ci sono regole di comportamento o specifiche indicazioni, nello spazio del rito abbiamo la possibilità di interagire con ciò che ci circonda o semplicemente assistere alla performance, lasciando che, in qualsiasi caso, il nostro sguardo non sia passivo ma fertile di pensieri risolutivi. Lasciamoci attraversare dalle note dei suoni sacrali e gutturali, i quali da tempo immemore apportano benefici, tramite la ripetizione di frequenze acute che stimolano la corteccia celebrale in una vera e propria terapia sonora.",
+        "description_en": "Chinmoku no mori invites you to take part in the cry of the earth. With body, voice and musical instruments let’s get together as a community, let's reappropriate with the power of art and ritual the sharing spaces that belong to us. Let’s make our energy an effective tool for well-being and survival. There are no rules of behavior or specific indications, in the space of the ritual we have the possibility to interact with what surrounds us or simply attend the performance, letting our gaze, in any case, not be passive but fertile with decisive thoughts. Let us allow ourselves to be crossed by the notes of sacral and guttural sounds, which have been beneficial since time immemorial, through the repetition of high frequencies that stimulate the cerebral cortex in real sound therapy.",
+        "host_logo": [],
         "host_bio": [
-            "Leonardo Sinopoli ha 25 anni ed è un artista poliedrico. A ottobre 2021 è stato nominato vincitore assoluto della 15° edizione dell’Arte Laguna Prize all’Arsenale di Venezia con la sua opera 331 - say their names. In questi ultimi anni ha lavorato come danzatore per artisti del calibro di Isabel Lewis in “O.C.E.A.N.I.C.A.” e di Alexandra Pirici nel nel suo ultimo lavoro “Encyclopedia of Relations” alla 59° edizione della Biennale di Venezia 2022, curata da Cecilia Alemani. Ha avuto l’onore di lavorare come performer per la Grand Mother della performance art Marina Abramović, nella sua mostra The Cleaner a Palazzo Strozzi, Firenze, e nella sua ultima retrospettiva ČistaČ al Museo di Arte Contemporanea di Belgrado. Ha lavorato per la stagione 2017/2018 nella compagnia “Nuovo Balletto di Toscana” come danzatore professionista in Bella addormentata, regia e coreografia di Diego Tortelli. Nel 2021 è stato premiato dall’amministrazione di Aosta con l’importante riconoscimento Célébrant la culture de l’Égalité che ha visto il coinvolgimento di Marc Angel, co-presidente dell’ Intergruppo LGBTI+ al Parlamento europeo.\nAttualmente collabora con la compagnia Ergosum, diretta da Alessandra Pizzi, come danzatore in \n“Canova - tra mito e bellezza” e “Apologia di Socrate”.\n\nIl suo ultimo progetto, Chinmoku no mori - “la foresta del silenzio”, una mostra interdisciplinare tra la performance, la ricerca antropologica e la fotografia, ha debuttato presso il Comune di Aosta nell’ ottobre 2022. Insieme alle sue due collaboratrici,  Bianca Carlino laureata in Lingue e culture dell’Asia e la performer Elnoir, hanno pensato, ispirati da Scambi, ad un progetto che possa unire studentɜ, universitarɜ, artistɜ, danzatorɜ, musicistɜ e tuttɜ coloro che hanno voglia di raccontarsi tramite gli strumenti messi da noi a disposizione in un luogo di condivisione e di ascolto.",
-            "",
-            ""
+            "Leonardo Sinopoli ha 25 anni ed è un artista poliedrico. A ottobre 2021 è stato nominato vincitore assoluto della 15° edizione dell’Arte Laguna Prize all’Arsenale di Venezia con la sua opera 331 - say their names. In questi ultimi anni ha lavorato come danzatore per artisti del calibro di Isabel Lewis in “O.C.E.A.N.I.C.A.” e di Alexandra Pirici nel nel suo ultimo lavoro “Encyclopedia of Relations” alla 59° edizione della Biennale di Venezia 2022, curata da Cecilia Alemani. Ha avuto l’onore di lavorare come performer per la Grand Mother della performance art Marina Abramović, nella sua mostra The Cleaner a Palazzo Strozzi, Firenze, e nella sua ultima retrospettiva ČistaČ al Museo di Arte Contemporanea di Belgrado. Ha lavorato per la stagione 2017/2018 nella compagnia “Nuovo Balletto di Toscana” come danzatore professionista in Bella addormentata, regia e coreografia di Diego Tortelli. Nel 2021 è stato premiato dall’amministrazione di Aosta con l’importante riconoscimento Célébrant la culture de l’Égalité che ha visto il coinvolgimento di Marc Angel, co-presidente dell’ Intergruppo LGBTI+ al Parlamento europeo.\nAttualmente collabora con la compagnia Ergosum, diretta da Alessandra Pizzi, come danzatore in \n“Canova - tra mito e bellezza” e “Apologia di Socrate”.\n\nIl suo ultimo progetto, Chinmoku no mori - “la foresta del silenzio”, una mostra interdisciplinare tra la performance, la ricerca antropologica e la fotografia, ha debuttato presso il Comune di Aosta nell’ ottobre 2022. Insieme alle sue due collaboratrici,  Bianca Carlino laureata in Lingue e culture dell’Asia e la performer Elnoir, hanno pensato, ispirati da Scambi, ad un progetto che possa unire studentɜ, universitarɜ, artistɜ, danzatorɜ, musicistɜ e tuttɜ coloro che hanno voglia di raccontarsi tramite gli strumenti messi da noi a disposizione in un luogo di condivisione e di ascolto."
         ],
         "host_image": [
             "https://x.scambi.org/profile_pics/Leonardo_Sinopoli.webp",
@@ -43,14 +34,10 @@
             "https://nuvola.scambi.org/s/oD8sAwc3SS3iMZJ"
         ],
         "host_bio_en": [
-            "continued his studies in acting at the Guildhall School of Acting in London. In 2020 he starred",
-            "",
-            ""
+            "continued his studies in acting at the Guildhall School of Acting in London. In 2020 he starred"
         ],
         "host_url": [
-            "https://instagram.com/leonardo_sinopoli",
-            "",
-            ""
+            "https://instagram.com/leonardo_sinopoli"
         ],
         "host": [
             "Leonardo Sinopoli",
@@ -58,13 +45,11 @@
             "Bianca Carlino"
         ],
         "times": [
-            "25: 10:30 → 12:00",
-            "26: 18:00 → 19:30",
+            "25: 16:00 → 17:30",
+            "26: 17:15 → 18:45",
             "27: 10:30 → 12:00"
         ],
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Direzione FediVerso!",
@@ -76,19 +61,16 @@
         "description": "Cos’hanno in comune la conoscenza libera, una mappa e il *fediverso*, ovvero l’universo dei social network federati? Questo lab le connetterà esplorando le diverse declinazioni e il sottovalutato significato dell’**etica digitale**. Con giochi e sfide, esplorerete concetti che prima vi sembravano inaccessibili e solamente per *nerd*. Dopo aver vissuto questo Lab, potrete smascherare e combattere tutte le forme di oppressione e violazioni di diritti che avvengono nel dominio del virtuale.",
         "description_en": "What do free knowledge, a map and the *fediverse*, i.e. the universe of federated social networks, have in common? This lab will connect them by exploring the different declinations and the underestimated meaning of **digital ethics**. With games and challenges, you will explore previously inaccessible concepts only for *nerds*. After experiencing this Lab, you will be able to unmask and fight all forms of oppression and violations of rights in the virtual domain.",
         "host_logo": [
-            "",
-            "https://x.scambi.org/scambi.svg",
             "https://x.scambi.org/others_logos/Loghi%20Locandina%20Verso%202023/wikimedia_italia.png"
         ],
         "host_bio": [
-            "Valerio è direttore volontario dell’Italian Linux Society, la più grande associazione di volontariato per il software libero e l’open source, dal 1994 in Italia.\n\nNato a Torino; vive a Milano; al momento lavora completamente in remoto come full-stack web developer e GNU/Linux sysadmin, in una società di Torino in cui è usato molto software libero, fra cui Phabricator, Java, Tomcat e Zabbix. Sia colleghi che colleghe usano GNU/Linux sui portatili aziendali.\n\nNel tempo libero mappa su OpenStreetMap, contribuisce ai progetti Wikimedia e aiuta in soluzioni self-hosting.\n\nÈ fra i soci di Italian Linux Society, FSF, FSFE, InformAzioni e Wikimedia Italia!",
+            "OpenStreetMap (OSM) è il più grande database geografico libero e modificabile di tutto il mondo, costruito dal lavoro di volontari e rilasciato con una licenza libera. Si tratta di un gigantesco progetto collaborativo, con milioni di utenti registrati in tutto il mondo, il cui scopo è creare e fornire dati geografici liberi a chiunque li voglia utilizzare.<br>La comunità italiana è particolarmente attiva non soltanto nel mantenere la mappa di OpenStreetMap aggiornata, ma anche nell'organizzare eventi di formazione, divulgazione e condivisione.",
             "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
             "Wikimedia Italia – Associazione per la diffusione della conoscenza libera (WMI) è un’associazione di promozione sociale che dal 2005 opera nell’ambito della cultura libera.\n\nOpera per diffondere la conoscenza libera e per sostenere i progetti Wikimedia, contenitori e generatori del sapere libero, come Wikipedia, l’enciclopedia libera, nonché OpenStreetMap.\n\nWikimedia Italia (WMI) favorisce il miglioramento e l’avanzamento del sapere e della cultura. In particolare, WMI promuove la produzione, la raccolta e la diffusione di contenuti liberi (open content), ossia di opere contrassegnate dai loro autori con una licenza libera, che ne permetta l’elaborazione e/o la diffusione gratuita per ogni scopo (anche commerciale).\n\nL’Associazione è inoltre impegnata a diffondere la conoscenza e aumentare la consapevolezza in merito alle questioni sociali e filosofiche correlate ai temi della cultura libera e del pubblico dominio."
         ],
         "host_image": [
             "https://x.scambi.org/images/Valerio_Bozzolan.webp",
-            "https://x.scambi.org/profile_pics/Tommaso_Marmo.jpg",
-            ""
+            "https://x.scambi.org/images/staff.webp"
         ],
         "host_bio_en": [
             "Valerio is the volunteer director of Italian Linux Society, the largest voluntary association for free software and open source, in Italy since 1994.\n\nBorn in Turin, he is now living in Milan. He is currently working as full-stack web developer and GNU/Linux sysadmin, in a company in Turin where free software is routinely used, among which Phabricator, Java, Tomcat and Zabbix. All his collegues use GNU/Linux  on their work laptops.\n\nIn his spare time he maps to [OpenStreetMap](https://openstreetmap.org), contributes to Wikimedia projects and helps in self-hosting solutions.\n\nHe is a member of <cite>Italian Linux Society</cite>, <cite>FSF</cite>, <cite>FSFE</cite>, <cite>InformAzioni</cite> and <cite>Wikimedia Italia</cite>!",
@@ -97,7 +79,6 @@
         ],
         "host_url": [
             "https://openstreetmap.org",
-            "",
             "https://wikimedia.it"
         ],
         "host": [
@@ -107,11 +88,10 @@
         ],
         "times": [
             "25: 10:30 → 11:30",
-            "26: 16:00 → 17:00",
+            "26: 17:00 → 18:00",
             "27: 18:00 → 19:00"
         ],
         "scambi_url": null,
-        "img": "",
         "location": "Piazzetta Santa Brigida"
     },
     {
@@ -122,19 +102,15 @@
         ],
         "description": "FAIR GAME è un divertente gioco di carte creato da un gruppo di giovani partecipanti al progetto <cite>EU-Wise Young Citizens-Consumers</cite> con il supporto di Equo Garantito. Il gioco permette di coinvolgere da un minimo di 2 a un massimo di 5 giocatori per mazzo di carte, dai 6 anni in poi. Prendendo ispirazione da un popolarissimo gioco, in FAIR GAME i giocatori pescano a turno le carte fino a quando qualcuno non pesca una carta “esplosione”: infatti, le carte sfruttamento ambientale, sfruttamento minorile, <em lang='en'>green washing</em> e disuguaglianze ti fanno uscire dal gioco! Si prosegue pescando a turno finché non rimane un solo giocatore. Le altre carte (e combinazioni di carte) riducono le possibilità di essere eliminati. Le carte “alternativa”, ovvero i principi del Commercio Equo e Solidale, salvano dall’eliminazione, ma serve attenzione perché il pericolo è dietro l’angolo. Di fronte a salari miseri, deforestazioni record, sfruttamento dei lavoratori e iniquità, tocca a tutti noi provare a vincere questa partita.",
         "description_en": "FAIR GAME is a fun card game created by a group of young participants to the project <cite>EU-Wise Young Citizens-Consumers</cite> with the support of <cite lang='it'>Equo Garantito</cite>. Inspired by a popular game, in FAIR GAME the players take turns in drawing cards until someone draws an “explosion” card: it's the environmental exploitation, child labor, greenwashing, and inequalities cards that kick you out of the game! The game proceeds in rounds until only one player is left. The other cards (and combinations of them) reduce the chances of being eliminated. The “alternative” cards, that is to say the Fair and Equitable Trade principles, avoid elimination, but you must be careful: danger is just around the corner! Faced with miserable wages, record deforestation and workers’ exploitation, it’s up to all of us to try winning this game.",
-        "host_logo": "",
         "host_bio": "Denise Procaccianti è una laureanda del corso di laurea in Studi Internazionali, ha svolto volontariato dall’età di 15 anni, prima con la croce rossa italiana, poi con alcune associazioni giovanili, attualmente con MeetEu, tutte con lo scopo di portare l’Unione Europea più vicina ai giovani. Ma è grazie all’anno del Servizio civile che ha capito che la sostenibilità è il tema che desidera approfondire e magari farne un lavoro in futuro. Sempre grazie al Servizio civile e soprattutto grazie al progetto Erasmus+ ha avuto l’occasione di progettare, insieme ad un gruppo fantastico, un gioco di carte sul Fair Trade e di partecipare alla Fair Trade Breakfast al Parlamento Europeo di Bruxelles.",
-        "host_image": "",
         "host_bio_en": "Denise Procaccianti is graduating from International Studies, and she has been a volunteer since the age of 15, first with the Italian red Cross, then with several youth associations, currently with MeetEu, all of which with the aim of bringing the European Union closer to young people. But it is thanks to the year of the Civil Service that she understood that Sustainability is the theme she wishes to explore and perhaps make a job of in the future. Thanks to the Erasmus+ project, she had the opportunity to design, together with a fantastic group, a card game on Fair Trade and to participate in the Fair Trade Breakfast at the European Parliament in Brussels.",
         "host_url": "https://equogarantito.org",
         "host": "Equo Garantito",
         "times": [
-            "26: 19:00 → 20:00",
-            "27: 10:30 → 11:30"
+            "26: 16:00 → 17:00",
+            "26: 17:30 → 18:30"
         ],
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Il filo del pensiero",
@@ -156,16 +132,13 @@
             "26: 19:00 → 20:30",
             "27: 10:30 → 12:00"
         ],
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Tautogrammologia",
         "days": "27",
         "description": "Un tautogramma è una composizione costruita con componenti che – categoricamente – cominciano con caratteri coincidenti. L’obiettivo del laboratorio è di stimolare la creatività attraverso la stesura di tautogrammi. Si insegnerà a trasformare i limiti in una possibilità. Davanti a un ostacolo invalicabile, l’inventiva deve trovare una strada alternativa e raggiungere comunque il traguardo. Dopo una panoramica storica sul tautogramma, da Johannes Leo Placentius a Umberto Eco, si proporrà una serie di forme di espressione di questo gioco letterario: racconti e ricette, enigmi e missive amorose, biografie e aforismi. Il motto dei partecipanti sarà: “Porsi dei limiti è l’unico modo per raggiungere la perfezione”. Il tautogramma costringe a ragionare su ogni scelta e permette la creazione di svariate e sfiziose forme di gioco. I partecipanti dovranno, individualmente o a squadre, scrivere il tautogramma con cui conquistare applausi a raffica.",
         "description_en": "A tautogram is a composition in which each component must begin with the same character. The objective of this Lab is to stimulate creativity through the drafting of tautograms. They will teach us how to transform limitations into opportunities. Facing an insurmountable obstacle, inventiveness must find an alternative path and reach the goal nevertheless. After a brief history of tautograms, from Johannes Leo Placentius to Umberto Eco, a range of examples of this literary game will be proposed: tales and recipes, enigmas and love letters, biographies and aphorisms. The motto of the participants will be: \"Setting limits is the only way to achieve perfection\". The tautogram forces you to think about each choice and allows you to create various and delicious forms of play. Participants will have to, individually or in teams, write the tautogram with which to win applause.",
-        "host_logo": "",
         "host_bio": "Walter Lazzarin (1982) è uno scrittore che nel 2011 esordisce con il romanzo “A volte un bacio” e nel 2012 pubblica la prima raccolta di tautogrammi: “21 Lettere d’amore”. Nel 2015 pubblica il “Il drago non si droga”, un romanzo promosso tramite il progetto Scrittore per strada. Dal 2016 a maggio 2017 collabora alla trasmissione “Dribbling” di Rai 2, come autore e interprete dei tautogrammi che introducono le puntate. Nel 2017 pubblica “Ventuno vicende vagamente vergognose”, la seconda raccolta di tautogrammi. La terza è del 2019: “Animali all’avventura”, recensita da Robinson, inserto culturale de La Repubblica.",
         "host_image": "https://x.scambi.org/profile_pics/WalterLazzarin.webp",
         "host_bio_en": "Walter Lazzarin (1982) is a writer who made his debut in 2011 with the novel \"A volte un bacio\" and in 2012 published the first collection of tautograms: \"21 Lettere d'Amore\". In 2015 he published \"Il drago non si droga\", a novel promoted through his Writer on the road project. From 2016 to May 2017 he took part in the Rai 2 podcast \"Dribbling\", as author and interpreter of the tautograms that start off the episodes. In 2017 he published \"21 vicende vagamente vergognose\", the second collection of tautograms. In 2019, the third one: \"Animali all'avventura\", reviewed by Robinson, art section of La Repubblica.",
@@ -175,9 +148,7 @@
             "27: 16:00 → 17:30",
             "27: 18:00 → 19:30"
         ],
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "The Prompt Club",
@@ -188,19 +159,17 @@
         ],
         "description": "Uno spazio ludico e partecipativo per apprendere, criticare, e interscambiare le tecniche e i linguaggi della nuova pratica del “Promptismo”. “*Promptismo*” vuol dir fornire le parole adeguate a un modello di intelligenza artificiale per la produzione di un’immagine. La skill del 2023! Ma come facciamo a comprendere ed essere compresi dai nuovi modelli algoritmici quando parlano lingue sempre più complesse? E come possiamo farlo in modo partecipativo, creativo, e gioioso? La storia della rappresentazione fotografica è carica di esempi di nuove tecnologie che sconvolgono – spesso all’improvviso – le dimensioni del tempo, delle risorse finanziarie, e delle competenze necessarie a produrre un’immagine. Dalle polaroid analogiche, all'ubiquità odierna della fotocamera digitale negli smartphone, farsi un’immagine del mondo è diventata un’attività estremamente più rapida, facile e partecipativa. Allo stesso tempo, però, la tecnologia del Neural Network, adottata nella generazione artificiale di immagini, è una tecnologia categorizzativa e binaria, che amplifica preconcetti già codificati e pericolosamente radicati nella società.  La partecipazione a queste nuove tecnologie richiede una nuova sensibilità al linguaggio e una decategorizzazione cosciente e collettiva. Il *Prompt Club* offre un programma di esercizi e giochi che fanno utilizzo di programmi text-to-image, sia per apprenderne gli strumenti necessari che per farlo insieme, nel formato creativo del club pomeridiano!",
         "description_en": "A playful and participatory space to learn, criticize and exchange the techniques and languages of the new practice of \"Promptism\". \"Promptism\" means providing the right words to an Artificial Intelligence model in order to produce an image. The skill of 2023! How can we understand and be understood by the new algorithmic models since they speak languages of ever-increasing complexity? And how can we do so in a participatory, creative and joyful way? The history of photographic representation is charged with examples of new technologies that disrupt - often without warning - the dimensions of time, financial resources, and competencies necessary to produce an image. From analogic polaroids to the modern-day ubiquity of digital cameras in smartphones, creating an image of the world for ourselves has become an extremely quicker, easier, and more participative activity.  At the same time, though, the Neural Network technology, adopted by artificial image generation, is a binary and categorising technology, that amplifies pre-coded concepts, already alarmingly rooted in society. Participation in these new technologies requires a new sensibility to language, as well as a conscious and collective de-categorisation. The Prompt Club offers a program of exercises and games that use text-to-image software, to learn the necessary tools and to do so together, in the creative format of an afternoon club!",
-        "host_logo": "",
         "host_bio": "Leo Scarin è un artista, designer, ed educatore nell’ambito delle nuove tecnologie. Fa parte di RGBdog, studio collaborativo e open-ended che ricerca i legami tra comunità creative e tecnologia, attivo nei Paesi Bassi.",
         "host_image": "https://x.scambi.org/images/Leo_Scarin.webp",
         "host_bio_en": "Leicester (UK), where he carries on his research on the relationship between body, activism and",
         "host_url": "https://leoscarin.com",
         "host": "Leo Scarin",
         "times": [
-            "25: 10:30 → 12:00",
-            "26: 18:00 → 19:30",
+            "25: 16:00 → 17:30",
+            "26: 17:15 → 18:45",
             "27: 16:00 → 17:30"
         ],
         "scambi_url": null,
-        "img": "",
         "location": "Palazzo Gentile"
     },
     {
@@ -219,11 +188,9 @@
         "host": "Giovanni De Mattia",
         "times": [
             "25: 18:00 → 19:30",
-            "26: 10:30 → 12:00",
-            "27: 16:00 → 17:30"
+            "26: 10:30 → 12:00"
         ],
         "scambi_url": null,
-        "img": "",
         "location": "Giardini Regina Elena"
     },
     {
@@ -235,20 +202,17 @@
         ],
         "description": "Avete mai sentito quanti suoni produce il nostro mondo? Avete mai dato attenzione alle emozioni che vi suscita il movimento di una qualsiasi persona che vi passa vicino? Insieme esploreremo tutto questo e molto altro, faremo un viaggio uniVersale tra l’armonia della musica e la bellezza del movimento teatrale.  Il laboratorio prevederà l’utilizzo di tecniche ludico-musicali e ludico-teatrali al fine di sensibilizzare il più ampio numero di bambini e adulti possibile sull’uso e sulla pratica di queste arti, le quali, se ben utilizzate ed esplorate, possono diventare terapeutiche per l’anima del soggetto che le pratica. Il laboratorio si concluderà con la breve costruzione di un piccolo strumento musicale da portare con sé come ricordo della giornata.",
         "description_en": "Have you ever noticed how many sounds our world produces? Have you ever paid attention to the emotions you feel when any person walks nearby? Together we will explore all of this and much more, we will embark on a universal journey between the harmony of music and the beauty of theatrical movement. The laboratory will involve the use of ludic-musical and ludic-theatrical techniques in order to raise awareness of the largest number of children and adults possible on the use and practice of these arts, which, if well used and explored, can become therapeutic for the soul of the subject who practices them. The workshop will end with the brief construction of a small musical instrument to take with you as a souvenir of the day.",
-        "host_logo": "",
         "host_bio": "Alessandro Di Andrea è uno studente classe ‘99 al terzo anno di Scienze dell’Educazione e della Formazione. Invogliato da un ambiente familiare ricco di stimoli, si appassiona alle arti espressive a 16 anni grazie ad un laboratorio teatrale scolastico e da quel momento ha sempre proseguito gli studi e le ricerche nel campo artistico, lavorando e collaborando per grandi enti e personaggi di chiara fama.  Nel 2021 pubblica il suo primo EP “sogno un album”. Ha all’attivo numerose performance live su Roma e in giro per l’Italia.  Nel 2023 diventa ufficialmente animatore culturale presso la nota agenzia di Roma “Saltimbanco Animazione e Spettacolo”, la quale vanta prestigiose collaborazioni; inoltre, nello stesso anno diventa co-fondatore e consigliere dell’associazione culturale “Welcome to Wonderland”. Il suo obiettivo è cercare di unire tutte le sue passioni attraverso il filo rosso degli aspetti educativi, col fine di coscientizzare sulla bellezza e sulla forza della diversità il più ampio numero di persone sfruttando quel bimbo che si nasconde dentro ognuno di noi.",
         "host_image": "https://x.scambi.org/images/Alessandro_Di_Andrea.webp",
         "host_bio_en": "Alessandro Di Andrea is a student born in 1999, currently in the third year of Education and Training Sciences. Enticed by a family environment full of inputs, he got passionate about the expressive arts at the age of 16 thanks to a school theater workshop and has since then continued his studies and research in the artistic field, working and collaborating for large institutions and well-known personalities . In 2021 he released his first EP \"sogno un album\". He has had numerous live performances in Rome and around Italy. In 2023 he officially became a cultural animator at the well-known Rome agency \"Saltimbanco Animazione e Spettacolo\", which boasts prestigious collaborations; moreover, in the same year he became co-founder and advisor of the cultural association \"Welcome to Wonderland\". His goal is to unite all his passions through the common thread of education, with the aim of making the greatest number of people aware of the beauty and strength of diversity by training that child who hides inside each of us.",
         "host_url": "https://instagram.com/alessandro.diandrea",
         "host": "Alessandro Di Andrea",
         "times": [
-            "25: 18:00 → 19:00",
+            "25: 16:00 → 17:00",
             "26: 19:00 → 20:00",
             "27: 18:00 → 19:00"
         ],
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Verso Ultima Generazione",
@@ -257,8 +221,7 @@
             "26"
         ],
         "description": "Lɜ attivistɜ di Ultima Generazione compiono azioni di disobbedienza civile nonviolenta per ottenere misure di contrasto al collasso ecoclimatico a cui l’Italia e il mondo stanno andando incontro. Nel laboratorio si esplorerà con lɜ partecipantɜ il concetto e la pratica di disobbedienza civile nonviolenta. Un membro del movimento racconterà la sua esperienza diretta riguardo alle azioni che UG porta avanti, creando uno spazio aperto dove sarà possibile dialogare, informarsi e anche mettersi in discussione. In questo Lab non si parlerà di Ultima Generazione ma con Ultima Generazione.",
-        "description_en": "The activists of Ultima Generazione (Last Generation) carry out non-violent civil disobedience to obtain measures contrasting the ecoclimatic collapse that Italy and the world are facing. The Lab will explore the concept and practice of non-violent civil disobedience. A member of the movement will tell their direct experience with Ultima Generazione's actions, creating an open space where it will be possible to dialogue, learn and question ourselves. In this Lab we won't be talking about Ultima Generazione, but rather with Ultima Generazione.",
-        "host_logo": "",
+        "description_en": "The activists of Ultima Generazione (Last Generation) carry out non-violent civil disobedience to obtain measures contrasting the ecoclimatic collapse that Italy and the world are facing. The Lab will explore the concept and practice of non-violent civil disobedience. A member of the movement will tell their direct experience with Ultima Generazione’s actions, creating an open space where it will be possible to dialogue, learn and question ourselves. In this Lab we won’t be talking about Ultima Generazione, but rather with Ultima Generazione.",
         "host_bio": "Fioretta Maldifassi e Leonardo Lovati nascono a Milano nel 1999, lei laureata in Graphic design e art direction, lui studente di Filosofia. Entramb3 arrabbiat3 col governo per come sta gestendo la problematica della crisi climatica, decidono di unirsi al movimento di disobbedienza civile nonviolenta Ultima Generazione e prendono parte alla campagna ricoprendo vari ruoli.  Uno degli obiettivi del loro laboratorio è quello di connettersi emotivamente con il problema che stiamo vivendo e spiegare come la disobbedienza civile nonviolenta è un potente mezzo per cambiare il sistema. Sulla base della loro esperienza diretta e degli studi che hanno fatto sul tema, si parlerà anche di che ruolo hanno il disturbo, la repressione da parte delle forze dell'ordine e la resilienza.",
         "host_image": "https://x.scambi.org/images/Ultima_Generazione/",
         "host_bio_en": "Fioretta Maldifassi and Leonardo Lovati were born in Milan in 1999. She graduated in Graphic design and art direction and he is a student of Philosophy. Both angry at the government for how it is handling the climate crisis, they decide to join the Last Generation nonviolent civil disobedience movement and take part in the campaign in various roles. One of the goals of their workshop is to connect emotionally with the problem we are experiencing and explain how nonviolent civil disobedience is a powerful means to change the system. Based on their direct experience and the studies they have done on the subject, we will also talk about what role disorder, repression by law enforcement and resilience play.",
@@ -268,9 +231,7 @@
             "25: 18:00 → 19:00",
             "26: 10:30 → 11:30"
         ],
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Verso il futuro",
@@ -283,16 +244,14 @@
         "host_logo": "https://x.scambi.org/others_logos/anfass.png",
         "host_bio": "L’ANFFAS di Imperia è un’Associazione di famiglie che con i suoi servizi e progetti opera per il miglioramento della qualità della vita delle persone con disabilità. Il suo compito è supportare nelle attività di socializzazione, sportive, ricreative e di sviluppo delle autonomie, i ragazzi che ne fanno parte.<br>Anffas Imperia ha attivi due gruppi di autorappresentanza, guidati da due facilitatrici formate.<br>Autorappresentanza vuol dire che le persone con disabilità possono parlare per se stesse e per altre persone, per fare in modo di essere ascoltate e capite. A questo scopo i partecipanti si incontrano: nel gruppo si parla di diritti, di doveri, di inclusione e accessibilità e di quanto questi diritti molto spesso vengano dimenticati. Negli incontri si cercano soluzioni e alternative da proporre alla comunità e alle istituzioni, allo scopo di vivere in una società realmente inclusiva. Il compito delle facilitatrici è quello di aiutare i ragazzi del gruppo a comprendere al meglio anche argomenti complessi e a far emergere il loro pensiero sulle questioni che li riguardano.",
         "host_image": "https://x.scambi.org/images/ANFFAS_Imperia.webp",
-        "host_bio_en": "",
         "host_url": "https://anffas.net/it/strutture/imperia-anffas-onlus",
         "host": "ANFFAS Imperia",
         "times": [
-            "25: 15:00 → 16:30",
-            "26: 11:00 → 12:30",
+            "25: 10:30 → 12:00",
+            "26: 10:30 → 12:00",
             "26: 15:00 → 16:30"
         ],
         "scambi_url": null,
-        "img": "",
         "location": "Terrazza San Costanzo"
     },
     {
@@ -304,19 +263,15 @@
         ],
         "description": "Quanto poco conosciamo le storie lontane di chi è costretto a intraprendere viaggi incerti in cerca di condizioni di vita migliori in un nuovo paese? Quanto conosciamo delle motivazioni che li hanno spinti a partire per un viaggio cosi rischioso? Cosa rappresenta l’Italia? E la famiglia? La lingua nuova da imparare? Il lavoro?<br><cite>Verso l’altrə</cite> è un laboratorio in cui Elena Ballerini, che nella vita insegna italiano ai migranti appena arrivati nel nostro paese, ci accompagnerà alla scoperta di storie di vita che spesso sentiamo distanti da noi: ascolteremo i racconti di 4 ragazzi arrivati da poco in Italia e, partendo da alcune parole chiave, ci confronteremo su temi che riguardano tutti noi, seppur diversamente.",
         "description_en": "How little do we know of the faraway stories of whom is forced to leave for precarious journeys, in search of better living conditions in a new land? How much do we know of the reasons that have pushed them onto such a dangerous path? What does Italy represent in this case? And the family? The new language that must be learnt? The work life? <cite>Verso l'altrə</cite> is a laboratory in which Elena Ballerini, who in life teaches Italian to newly arrived migrants in our country, will accompany us in the discovery of life stories that we often feel distant from us: we will listen to the stories of 4 young people who arrived from little in Italy and, starting from some keywords, we will discuss issues that concern us all, albeit differently.",
-        "host_logo": "",
         "host_bio": "Elena Ballerini ha 25 anni e nella vita fa l'insegnante.  Ha studiato lingue e nel fare esperienze all'estero si è resa conto di quanto amasse l'Italia, di quanto la lingua italiana sia la più bella di tutte e di quanto la nostra storia e la nostra cultura siano ricche. Elena ha quindi unito il suo bisogno di contatto con persone sempre diverse all'amore per il suo paese: insegna italiano agli stranieri.  Chi viene qui in Italia, scappando dal suo paese, lo fa perché cerca una vita migliore, semplicemente uno stipendio degno di nota o una scuola degna di questo nome e spesso si accontenta di questo.  Ma che succederebbe se tutti quelli che entrano in Italia potessero vedere la bellezza di questo paese? Potessero innamorarsi della lingua, dei film e della cucina?  Elena sogna un'Italia colorata, viva e dinamica.  Lavora e lavorerà per questo!",
         "host_image": "https://x.scambi.org/profile_pics/Elena_Ballerini.webp",
         "host_bio_en": "Elena Ballerini is 25 years old and in live, she is a teacher. She studied Languages ​​and while gaining experience abroad she realized how much she loved Italy, how much the Italian language was the most beautiful and how rich our history and culture are. Elena has therefore combined her need for contact with ever-changing people with her love for her country: she teaches Italian to foreigners. Those who come here to Italy, escaping from their country, do so because they are looking for a better life, simply a noteworthy salary or a school worthy of the name and often that is enough. But what if everyone who enters Italy could see the beauty of this country? What if they could fall in love with language, movies and cooking? Elena dreams of a colourful, lively and dynamic Italy. She already works for it and she will keep going!",
         "host_url": "https://instagram.com/ele.ballerini",
         "host": "Elena Ballerini",
         "times": [
-            "25: 16:00 → 17:00",
-            "26: 16:00 → 17:00",
+            "25: 10:30 → 11:30",
             "27: 10:30 → 11:30"
         ],
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     }
 ]
