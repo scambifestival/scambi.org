@@ -1,0 +1,47 @@
+---
+title: Lab
+pagination:
+  data: 2023-labs
+  size: 1
+  alias: lab
+eleventyComputed:
+  title: '{{ lab.title }}'
+permalink: '/en/2023/lab/{{ lab.title | slugify }}/'
+layout: wrapper
+class: lab
+---
+{% for item in pagination.items %}
+	<h1>{{ item.title }}</h1>
+	<section class='row'>
+		<div class='half column'>
+			<p>{{ item.description_en | markdownify }}</p>
+		</div>
+		<div class='half column'>
+			<dl id='data'>
+				<dt>Location</dt>
+				<dd>{{ item.location }} — <a href='https://umap.openstreetmap.fr/en/map/scambi-2023_943693' target='_blank' title='Scambi Festival 2023 locations'>check out the map</a></dd>
+
+				<dt>Quando</dt>
+				{% for time in item.times %}
+					<dd>
+						<time>{{ time | markdownify }}</time>
+					</dd>
+				{% endfor %}
+
+				<dt>Host</dt>
+				{% if item.host %}
+					{% for host in item.host %}
+						<!--{% increment i %}-->
+						<dd>
+							{% if item.host_url[i] %}
+								<a href='{{ item.host_url[i] }}'>{{ host }}</a>
+							{% else %}
+								{{ host }}
+							{% endif %}
+						</dd>
+					{% endfor %}
+				{% endif %}
+			</dl>
+		</div>
+	</section>
+{% endfor %}
