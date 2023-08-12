@@ -59,7 +59,8 @@
         "image": "https://x.scambi.org/images/pino_links/da_capo.webp",
         "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
         "host_image": "https://x.scambi.org/images/staff.webp",
-        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')"
+        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff"
     },
     {
         "title": "Goldwire",
@@ -178,7 +179,8 @@
         "image": "https://x.scambi.org/images/poesieacolazione_lis.jpg",
         "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
         "host_image": "https://x.scambi.org/images/staff.webp",
-        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')"
+        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff"
     },
     {
         "title": "The Daisy Folk",
