@@ -1,0 +1,50 @@
+---
+title: Dissolvenze 2023
+permalink: /en/2023/dissolvenze/
+redirect_from: [/en/dissolvenze/]
+description: Everything concerning cinema during Scambi Festival 2023
+class: dissolvenze
+---
+
+<h1>{{ title }}</h1>
+
+<section class='row'>
+	<div class='one column'>
+{% renderTemplate "md" %}
+<cite>Dissolvenze</cite> is our section dedicated to cinema, from which the short film competition takes its name, which invites directors from all over the world to present works related to the theme of each edition.
+
+## Where can a story lead us?
+
+Cinema, like any form of art, unfolds throughout its history and social history, taking multiple directions. From mammoth historical films to the most minimal avant-garde films, from genre films to documentaries. But there is something that distinguishes great works: their awareness.
+
+Being aware that you have chosen one direction rather than another should not be a limitation to the creative process. Indeed it is what helps to give coherence to the comings and goings of movement-images that pass through us when we create. So observe reality, turn it upside down, deconstruct it and recompose it revealing its multiple identities.
+
+Where will you point your camera at?
+
+Come and discover it with us through the events that will characterize this year’s edition…
+{% endrenderTemplate %}
+	</div>
+</section>
+
+{% assign dissolvenze = 2023-program | where: 'what', 'dissolvenze' %}
+
+{% for show in dissolvenze %}
+	<section class='margin row'>
+		<h3>{{ show.title }}</h3>
+		<h4 class='subtitle'>{{ show.days }}<sup>th</sup> August 2023, {{ show.location }}</h4>
+		<div class='row'>
+			<div class='half column'>
+				<p>{{ show.description_en | markdownify }}</p>
+			</div>
+			<div class='half column'>
+				<img src='{{ show.img }}' alt='{{ show.title }}'>
+			</div>
+		</div>
+	</section>
+{% endfor %}
+
+<section class='margin row'>
+	<div class='one column flex'>
+		<a class='purple button' href='/program'>Full program</a>
+	</div>
+</section>
