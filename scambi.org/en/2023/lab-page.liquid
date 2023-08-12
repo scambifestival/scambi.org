@@ -19,7 +19,7 @@ class: lab
 		<div class='half column'>
 			<dl id='data'>
 				<dt>Location</dt>
-				<dd>{{ item.location }} — <a href='https://umap.openstreetmap.fr/en/map/scambi-2023_943693' target='_blank' title='Scambi Festival 2023 locations'>check out the map</a></dd>
+				<dd>{{ item.location }} → <a href='https://umap.openstreetmap.fr/en/map/scambi-2023_943693' target='_blank' title='Scambi Festival 2023 locations'>check out the map</a></dd>
 
 				<dt>Quando</dt>
 				{% for time in item.times %}
@@ -31,10 +31,9 @@ class: lab
 				<dt>Host</dt>
 				{% if item.host %}
 					{% for host in item.host %}
-						<!--{% increment i %}-->
 						<dd>
-							{% if item.host_url[i] %}
-								<a href='{{ item.host_url[i] }}'>{{ host }}</a>
+							{% if forloop.first %}
+								<a href='{{ item.host_url }}'>{{ host }}</a>
 							{% else %}
 								{{ host }}
 							{% endif %}
