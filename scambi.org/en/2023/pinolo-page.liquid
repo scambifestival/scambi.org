@@ -12,7 +12,7 @@ class: pinolo
 {% for item in pagination.items %}
 	<h1>{{ item.title }}</h1>
 	<section class='row'>
-		{% if item.description %}
+		{% if item.description_en %}
 			<div class='half column'>
 				<p>{{ item.description_en | markdownify }}</p>
 			</div>
