@@ -15,11 +15,11 @@ redirect_from: /serate/
 		<div class='row'>
 			<div class='half column'>
 				<p>{{ show.description | markdownify }}</p>
-				{% if show.scambi_url %}
+				{% comment %}{% if show.scambi_url %}
 					<div class='flex row'>
 						<a href='{{ show.scambi_url }}' class='purple button'>Più dettagli</a>
 					</div>
-				{% endif %}
+				{% endif %}{% endcomment %}
 			</div>
 			<div class='half column'>
 				<img src='{{ show.img }}' alt='{{ show.title }}'>

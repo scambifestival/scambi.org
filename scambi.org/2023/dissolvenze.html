@@ -32,14 +32,12 @@ Venite a scoprirlo con noi attraverso gli eventi che caratterizzeranno l’edizi
 		<h3>{{ show.title }}</h3>
 		<h4 class='subtitle'>{{ show.days }} agosto 2023, {{ show.location }}</h4>
 		<div class='row'>
-			<div class='one column'>
+			<div class='half column'>
 				<p>{{ show.description | markdownify }}</p>
 			</div>
-			{% comment %}
 			<div class='half column'>
 				<img src='{{ show.img }}' alt='{{ show.title }}'>
 			</div>
-			{% endcomment %}
 		</div>
 	</section>
 {% endfor %}

@@ -27,7 +27,7 @@ La nostra associazione offre una soluzione **semplice** e essenziale ma **gratui
 
 (*Porta Bugiarda* è anche il nome di un’ottima birra, prodotta dal Birrificio NADIR, che ha tenuto un Lab durante la prima edizione di Scambi. Potrai assaggiarla a Scambi 2023, la spilleremo durante tutte le serate 😍)
 
-Puoi prenotare un posto compilando il modulo che trovi su [palestra.scambi.org](https://palestra.scambi.org 'Ospitalità a Scambi Festival 2023'), **ENTRO IL 10 AGOSTO 2023**.
+Puoi prenotare un posto compilando il modulo che trovi su [palestra.scambi.org](https://palestra.scambi.org 'Ospitalità a Scambi Festival 2023').
 
 In palestra si dorme per terra. Porta il materassino.
 

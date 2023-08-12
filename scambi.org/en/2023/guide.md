@@ -27,7 +27,7 @@ Our association offers a **simple** and essential yet **free** solution if you w
 
 (*Porta Bugiarda* is also the name of an excellent beer, brewed by [NADIR Brewery](https://birrificionadir.it), which held a Lab during the first edition of Scambi. You will be able to taste it at Scambi 2023, we will tap it during every music night😍)
 
-You can reserve a spot by filling out the form at [gym.scambi.org](http://gym.scambi.org), **BEFORE AUGUST 10, 2023.**
+You can reserve a spot by filling out the form at [gym.scambi.org](http://gym.scambi.org).
 
 In the gym, we sleep on the floor. Bring your mat!
 
