@@ -9,7 +9,7 @@ ref: 2023program
 lang: en
 ---
 {% assign days = '24;25;26;27' | split: ';' %}
-{% assign 2023-program-daily = 2023-program | sort: 'times' | sort: 'days' %}
+{% assign 2023-program-daily = 2023-program | sort: 'times' %}
 
 <p>This page gathers all the activities happening during the intense four days of the third edition of Scambi Festival. To give more context, in some cases we created pages tailored for a single event.</p>
 
@@ -23,7 +23,7 @@ lang: en
 
 {% for day in days %}
 	<h2>{{ day }} agosto 2023</h2>
-	<ul>{% for entry in 2023-program %}
+	<ul>{% for entry in 2023-program-days %}
 		{% if entry.days contains day %}
 			{% capture complete_entry %}
 				{% if entry.scambi_url %}
