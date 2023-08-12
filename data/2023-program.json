@@ -315,7 +315,7 @@
         "host": "ArteSettima",
         "times": "26: 18:30 → 19:30",
         "scambi_url": null,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Verga_-_Vita_dei_campi%2C_Treves%2C_1897_%28page_268_crop%29.jpg/800px-Verga_-_Vita_dei_campi%2C_Treves%2C_1897_%28page_268_crop%29.jpg",
+        "img": "https://nuvola.scambi.org/core/preview?fileId=316007&x=1920&y=1080&a=true",
         "location": "Piazzetta dei Ferri"
     },
     {
@@ -605,9 +605,9 @@
     {
         "title": "Spettacolo di Teatro-Canzone <cite>Cantautogramma</cite>",
         "days": "26",
-        "description": "Uno scrittore e un cantautore, giocolando con le parole, si incontrano sul palco. Un viaggio nell’amore insieme a canzoni e giochi di parole. Si susseguono svariate storie strane, spesso strimpellate, strabilianti sebbene semplici.",
+        "description": "Walter Lazzarin e Christian Gullone. Uno scrittore e un cantautore, giocolando con le parole, si incontrano sul palco. Un viaggio nell’amore insieme a canzoni e giochi di parole. Si susseguono svariate storie strane, spesso strimpellate, strabilianti sebbene semplici.",
         "what": "serata",
-        "description_en": "A writer and a songwriter, juggling words, meet on stage.  A journey in love together with songs and puns. Various strange stories follow one another, often strummed, mind-blowing yet simple.",
+        "description_en": "Walter Lazzarin and Christian Gullone. A writer and a songwriter, juggling words, meet on stage.  A journey in love together with songs and puns. Various strange stories follow one another, often strummed, mind-blowing yet simple.",
         "host_logo": [],
         "host_bio": [
             "Christian Gullone, classe 1983, è nato nel centro storico di Sanremo e nella città dei fiori ha coltivato il proprio talento musicale. Grande protagonista dell’ultima edizione di Rock in The Casbah.",
@@ -631,7 +631,7 @@
         ],
         "times": "26: 19:30 → 20:15",
         "scambi_url": null,
-        "img": "https://i.ytimg.com/vi/CkaW6Y8cVHI/maxresdefault.jpg",
+        "img": "https://nuvola.scambi.org/s/ArSK85jkBSBRSKw",
         "location": "Piazza Santa Brigida"
     },
     {
@@ -742,9 +742,9 @@
         "description_en": "Our loved Reading Group takes us to La Ciotola, where, accompanied by a cappuccino and a freshly baked focaccia, together with Martina D’Amore we will discuss Italo Calvino and his relation with Sanremo.",
         "host": "Chiocciole",
         "times": [
-            "25: 9:30 → 10:15",
-            "26: 9:30 → 10:15",
-            "27: 9:30 → 10:15"
+            "25: 09:30 → 10:15",
+            "26: 09:30 → 10:15",
+            "27: 09:30 → 10:15"
         ],
         "scambi_url": null,
         "location": "La Ciotola"
