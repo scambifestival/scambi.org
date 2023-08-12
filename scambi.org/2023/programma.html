@@ -8,7 +8,7 @@ redirect_from: [/programma/]
 ref: 2023program
 ---
 {% assign days = '24;25;26;27' | split: ';' %}
-{% assign 2023-program-daily = 2023-program | sort: 'times' | sort: 'days' %}
+{% assign 2023-program-daily = 2023-program | sort: 'times' %}
 
 <p>Questa pagina raccoglie tutte le attività che avverranno nei quattro giorni della terza edizione di Scambi Festival. Per avere più informazioni, in alcuni casi abbiamo creato pagine specifiche per una singola attività.</p>
 
@@ -22,7 +22,7 @@ ref: 2023program
 
 {% for day in days %}
 	<h2>{{ day }} agosto 2023</h2>
-	<ul>{% for entry in 2023-program %}
+	<ul>{% for entry in 2023-program-daily %}
 		{% if entry.days contains day %}
 			{% capture complete_entry %}
 				{% if entry.scambi_url %}
