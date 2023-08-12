@@ -6,46 +6,30 @@
             "26",
             "27"
         ],
-        "description": "da definire con pinolers",
-        "description_en": "",
-        "host_logo": "",
-        "host_bio": "",
-        "host_image": "",
+        "description": "L'idea nasce dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Con \"Botteghe Aperte\" immergetevi nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
+        "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
         "host_bio_en": null,
-        "host_url": "",
         "referente": [
             "Leonardo",
             "Giulia"
         ],
         "host": "Akvo",
-        "times": "",
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
-        "title": "Body Painting station",
+        "title": "Body Painting, Botteghe aperte",
         "days": [
             "25",
             "26",
             "27"
         ],
-        "description": "",
-        "description_en": "",
-        "host_logo": "",
-        "host_bio": "",
-        "host_image": "",
         "host_bio_en": null,
-        "host_url": "",
         "referente": [
             "Leonardo",
             "Giulia"
         ],
         "host": "Akvo",
-        "times": "",
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Calvino tra i carruggi",
@@ -56,10 +40,7 @@
         ],
         "description": "All’interno di questo pinolo avrete l’occasione di passeggiare tra i carruggi della Pigna di Sanremo in maniera inedita. Cullati dalle parole di Italo Calvino, ravvivati dalle immagini storiche verrete trasportati in un viaggio immersivo grazie all’aiuto della realtà aumentata. La tecnologia al servizio della cultura per approfondire curiosità e bellezze, scoprendo un nuovo modo per visitare un luogo attraverso gli itinerari turistici-letterari.",
         "description_en": "In this Pinolo you will have the opportunity to walk through the beautiful alleyways of La Pigna in Sanremo. Lulled by the words of Italo Calvino, enlivened by historical images, you will be transported into an immersive journey thanks to the support of augmented reality. Technology is at the service of culture to explore curiosities and beauties, thus discovering a new way of visiting a place through a touristic-literary itinerary.",
-        "host_logo": [
-            "",
-            ""
-        ],
+        "host_logo": [],
         "host_bio": [
             "Martina D’Amore è nata e cresciuta a Sanremo. Fin da piccola appassionata di musica e d’arte, dopo la pandemia ha deciso di intraprendere il percorso universitario iscrivendosi a Scienze del Turismo, valorizzazione e promozione delle risorse culturali e ambientali, all’Università di Imperia. L’anno scorso ha avuto il piacere di partecipare alla realizzazione dell’itinerario turistico-letterario dedicato a Calvino: un progetto realizzato insieme all’Università di Genova e fortemente voluto dal Comune di Sanremo. In questo progetto, insieme ai suoi colleghi, hanno letto e studiato le opere di Calvino associandole al paesaggio sanremese grazie a toponimi e accurate descrizioni. Il loro lavoro ha portato alla pubblicazione di una guida letteraria, giunta alla sua seconda ristampa. Recentemente si sono recata a Torri Superiore, un borgo medievale sopra Ventimiglia, per elaborare un progetto di sociologia del turismo su pratiche sostenibili a contatto con la natura. Tutto questo percorso le ha dato l’opportunità di approfondire una materia che ha mille sfumature, che spaziano dalla letteratura fino a giungere all’antropologia teatrale con l’obiettivo di diventare un operatore turistico in grado di valorizzazione veramente una destinazione turistica non tralasciando le sue tradizioni, il suo patrimonio artistico culturale e la sua comunità.",
             "Laura Guglielmi è nata a Sanremo ma vive a Geno­va, dopo aver trascorso alcuni anni a Roma e Londra. Si occupa di lettera­tura e paesaggio e nel 1999 ha cu­rato una mostra fotografica su Italo Calvino e Sanremo esposta anche alla New York University. Nel 2023, in occasione del centenario dello scrittore, ha ideato per l’Università di Genova un itinerario ‘calviniano’ nel­la città del Ponente ligure. Tra i suoi ultimi libri: Lady Constan­ce Lloyd. L’importanza di chiamarsi Wilde (Morellini), un romanzo sulla moglie dello scrittore dandy irlandese, e Le incredibili curiosità di Genova (Newton Compton), che racchiude ottanta storie sul capoluogo ligure. Ha lavorato per le pagine culturali di diversi giornali, tra cui «Il Secolo XIX», «La Stampa», «D-la Repubblica delle Donne». Esperta di giornalismo culturale e di media digitali, ha inse­gnato all’Università di Genova."
@@ -85,9 +66,7 @@
             "Martina D’Amore",
             "Laura Guglielmi"
         ],
-        "times": "",
         "scambi_url": null,
-        "img": "",
         "location": "itinerante"
     },
     {
@@ -97,36 +76,24 @@
             "26",
             "27"
         ],
-        "description": "Sartoria",
-        "description_en": "Tailoring",
-        "host_logo": "",
         "host_bio": "LeIdeebs  è un piccolo brand artigianale di produzione lenta e accurata. Deborah ha un piccolo laboratorio sartoriale all'interno della Pigna. Crea abbigliamento e accessori donna e ogni pezzo è studiato e realizzato interamente da lei. Le parole d'ordine sono unicità e colore, è infatti molto difficile trovare un capo uguale all'altro. Utilizza materiali di recupero e di fine stock in un ottica di riciclo.",
-        "host_image": "",
         "host_bio_en": "LeIdeebs is a small artisan brand of slow and accurate production. Deborah has a small tailoring workshop inside the Pigna. She creates women's clothing and accessories and each piece is designed and created entirely by her. The watchwords are uniqueness and colour, it is in fact very difficult to find a garment that is the same as another. She uses recycled and end-of-stock materials with a view to recycling.",
         "host_url": "https://www.instagram.com/leideebs/",
         "referente": "Giulia",
-        "host": "Le Ideebs",
-        "times": "",
-        "scambi_url": "",
-        "img": "",
-        "location": ""
+        "host": "Le Ideebs"
     },
     {
         "title": "Pinolo Lazzarin",
         "days": "27",
-        "description": "",
-        "description_en": "",
-        "host_logo": "",
+        "description": "Da ottobre 2015, lo scrittore Walter Lazzarin ha deciso di rincorrere un sogno, un'utopia secondo alcune persone: promuovere i suoi libri girando per le strade d'Italia. L'idea non è solo quella di farsi conoscere come autore, ma vuole soprattutto riavvicinare le persone alla narrativa. Venite a scovarlo!",
+        "description_en": "Since October 2015, the writer Walter Lazzarin has decided to pursue a dream, a utopia according to some: to promote his books by touring the streets of Italy. The idea is not only to make himself known as an author but above all to bring people closer to fiction. Come and find it!",
         "host_bio": "Walter Lazzarin (1982) è uno scrittore che nel 2011 esordisce con il romanzo “A volte un bacio” e nel 2012 pubblica la prima raccolta di tautogrammi: “21 Lettere d’amore”. Nel 2015 pubblica il “Il drago non si droga”, un romanzo promosso tramite il progetto Scrittore per strada. Dal 2016 a maggio 2017 collabora alla trasmissione “Dribbling” di Rai 2, come autore e interprete dei tautogrammi che introducono le puntate. Nel 2017 pubblica “Ventuno vicende vagamente vergognose”, la seconda raccolta di tautogrammi. La terza è del 2019: “Animali all’avventura”, recensita da Robinson, inserto culturale de La Repubblica.",
         "host_image": "https://x.scambi.org/profile_pics/WalterLazzarin.webp",
         "host_bio_en": "Walter Lazzarin (1982) is a writer who made his debut in 2011 with the novel \"A volte un bacio\" and in 2012 published the first collection of tautograms: \"21 Lettere d'Amore\". In 2015 he published \"Il drago non si droga\", a novel promoted through his Writer on the road project. From 2016 to May 2017 he took part in the Rai 2 podcast \"Dribbling\", as author and interpreter of the tautograms that start off the episodes. In 2017 he published \"21 vicende vagamente vergognose\", the second collection of tautograms. In 2019, the third one: \"Animali all'avventura\", reviewed by Robinson, art section of La Repubblica.",
         "host_url": "https://instagram.com/walter.lazzarin",
         "referente": "Valeria",
         "host": "Walter  Lazzarin",
-        "times": "",
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Pinolo Pedro",
@@ -134,9 +101,8 @@
             "24",
             "25"
         ],
-        "description": "",
-        "description_en": "",
-        "host_logo": "",
+        "description": "Avete visto per caso dei pavoni in giro per la Pigna? Sono stati disegnati da Stefano Pedro Porro! Passate a trovarlo suo pinolo, dove vi parlerà del suo processo artistico e vi accoglierà con le sue illustrazioni, incisioni e libri.",
+        "description_en": "Have you seen peacocks around the Pigna by chance? They were designed by Stefano Pedro Porro! Come and see him at his Pinolo, where he will tell you about his artistic process and will welcome you with his illustrations, engravings and books.",
         "host_bio": "Stefano Pedro Porro nasce ad Asti, si diploma al Liceo Artistico e frequenta vari corsi di fumetto. Si forma ad Alba, presso la Libera Accademia Novalia, frequentando un corso di pittura e illustrazione, in cui conclude la triennale presentando una tesi su \"Le città invisibili\" di Italo Calvino. Dal 2020 al 2022 pubblica settimanalmente nella rubrica da lui creata \"Voci Illustrate\" sulla Nuova Provincia di Asti. Nel dicembre 2022 pubblica \"Wassily Kandinsk - Il funambolo dei colori\" e parla della vita di Kandinsky per la collana ALT! Arte Libera Tutti dedicata ai bambini e ragazzi di Maria Pacini Fazzi Editore / Edizioni Fondazione Ragghianti Studi sull’arte di Lucca.  Ama sperimentare usando varie tecniche cercando sempre il linguaggio piú adatto, predilige la pittura, la china e l'incisione. Per Scambi Festival propone una scultura che introduce un percorso itinerante nella pigna attraverso quattordici illustrazioni tratte dal progetto di tesi \"INVISIBILIS\". Stefano Pedro Porro nasce ad Asti, si diploma al Liceo Artistico e frequenta vari corsi di fumetto. Si forma ad Alba, presso la Libera Accademia Novalia, frequentando un corso di pittura e illustrazione, in cui conclude la triennale presentando una tesi su \"Le città invisibili\" di Italo Calvino. Dal 2020 al 2022 pubblica settimanalmente nella rubrica da lui creata \"Voci Illustrate\" sulla Nuova Provincia di Asti. Nel dicembre 2022 pubblica \"Wassily Kandinsky- Il funambolo dei colori\" che parla della vita di Kandinsky per la collana ALT! Arte Libera Tutti dedicata ai bambini e ragazzi di Maria Pacini Fazzi Editore / Edizioni Fondazione Ragghianti Studi sull’arte di Lucca.  Fa parte del collettivo Pikitanka, con cui realizza murales, specialmente a Viarigi, negli ultimi cinque anni hanno riempito la città di colori, e vari concerti disegnati. Per Scambi Festival propone una scultura che introduce un percorso itinerante nella pigna attraverso quattordici illustrazioni che introdurranno i vari Lab degli artisti. A coronare il viaggio nell'orizzonte calviniano creato dal giovane artista, sarà il concerto disegnato (\"Io sono INVISIBILE\") che avverrà la sera del 24 agosto, ovvero la data di apertura del festival. Passate a trovare Pedro nel suo pinolo, dove vi accoglierà con le sue illustrazioni, incisioni e libri.",
         "host_image": "https://x.scambi.org/images/Stefano_Pedro_Porro.webp",
         "host_bio_en": "Stefano Pedro Porro was born in Asti, graduated from the Art School and attended various comics courses. He trained in Alba, at the Libera Accademia Novalia, attending a course in painting and illustration, in which he concluded the three-year course by presenting a thesis on \"Invisible Cities\" by Italo Calvino. From 2020 to 2022 he published weekly in the column he created \"Voci Illustrate\" on the New Province of Asti. In December 2022 he publishes \"Wassily Kandinsky - The tightrope walker of colours\" and talks about Kandinsky's life for the ALT necklace! Free Art All dedicated to children and teenagers by Maria Pacini Fazzi Editore / Ragghianti Foundation Editions Studies on the art of Lucca. He loves to experiment using various techniques always looking for the most suitable language, he prefers painting, ink and engraving. For Exchange Festival he proposes a sculpture that introduces an itinerant path in the pine cone through fourteen illustrations taken from the thesis project \"INVISIBILIS\". Stefano Pedro Porro was born in Asti, graduated from the Art School and attended various comics courses. He trained in Alba, at the Libera Accademia Novalia, attending a course in painting and illustration, in which he concluded the three-year course by presenting a thesis on \"Invisible Cities\" by Italo Calvino. From 2020 to 2022 he published weekly in the column he created \"Voci Illustrate\" on the New Province of Asti. In December 2022 he published \"Wassily Kandinsky - The Acrobatic of Colours\" which talks about Kandinsky's life for the ALT necklace! Free Art All dedicated to children and teenagers by Maria Pacini Fazzi Editore / Ragghianti Foundation Editions Studies on the art of Lucca. He is part of the Pikitanka collective, with which he creates murals, especially in Viarigi, which have filled the city with colours in the last five years, and various designed concerts. For Exchange Festival he proposes a sculpture that introduces an itinerant path in the pine cone through fourteen illustrations that will introduce the various artists' Labs. The journey into the Calvino horizon created by the young artist will be crowned by the designed concert (\"I am INVISIBLE\") which will take place on the evening of August 24, which is the opening date of the festival. Come and see Pedro in his Pinolo, where he will welcome you with his illustrations, engravings and books.",
@@ -146,10 +112,7 @@
             "Marta"
         ],
         "host": "Pedro",
-        "times": "",
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Pinolo Slimp",
@@ -158,17 +121,7 @@
             "27"
         ],
         "description": "Slimp (SoftwareLiberoIMperiaProvincia) è un gruppo informale ed eterogeneo di utilizzatori di software libero della provincia di Imperia e zone limitrofe.<br>Lo scopo del gruppo è la promozione di concetti quali la libertà dello scambio di idee e di informazioni, con un occhio di riguardo al software open source e ai sistemi operativi come Linux che condividono gli stessi concetti. Ci incontriamo online sul [gruppo Telegram](https://t.me/slimpimperia) e dal vivo durante eventi come il Linux Day, o sporadici incontri in birreria o pizzate.",
-        "description_en": "",
-        "host_logo": "",
-        "host_bio": "",
-        "host_image": "",
-        "host_bio_en": "",
-        "host_url": "",
-        "referente": "",
-        "host": "",
-        "times": "",
-        "scambi_url": "",
-        "img": "",
+        "description_en": "Slimp (SoftwareLiberoIMperiaProvincia) is an informal and heterogeneous group of free software users from the province of Imperia and neighbouring areas.<br>The purpose of the group is to promote concepts such as the freedom to exchange ideas and information, with an eye on open-source software and operating systems like Linux that share the same concepts. We meet online on the [Telegram group](https://t.me/slimpimperia) and live during events like Linux Day, or sporadic brewery meetings or pizza parties.",
         "location": "Terrazza Santa Brigida"
     },
     {
@@ -178,8 +131,8 @@
             "26",
             "27"
         ],
-        "description": "Speed date filosofico: 7 minuti in cui si discute insieme su una domanda di stampo filosofico; al termine del tempo si cambia cambia interlocutore",
-        "description_en": "Philosophycal Speed Dating: 7 minutes to discuss together about a philosophical question; at the end of time a new partner will come to discuss the new question.",
+        "description": "7 minuti in cui si discute insieme su una domanda di stampo filosofico, al termine del tempo si cambia interlocutore. Prontɜ ad innamorarvi?",
+        "description_en": "Philosophical Speed Dating: 7 minutes to discuss together a philosophical question. At the end of time, a new partner will come to discuss a new question. Are you ready to fall in love?",
         "host_logo": "https://x.scambi.org/others_logos/FIL%c3%92.png",
         "host_bio": "Filò – Il filo del pensiero è un'associazione di promozione sociale, nata dal progetto di ricerca FarFilò (Unibo), il cui gruppo operativo è formato da filosofi ed educatori. I componenti di Filò sono anche membri di ΑΙΩΝ / AIÓN – Filosofia e Didattica, Gruppo di Ricerca sulla Didattica della Filosofia e sulle Pratiche Filosofiche dell’Università di Bologna (site.unibo.it/aion/it). Filò ha l’obiettivo di promuovere e diffondere, per tutte le fasce di età, la filosofia intesa come pratica educativa in grado di sviluppare pensiero critico, competenze logico-argomentative, capacità di astrazione e creatività, unite ad abilità di tipo etico-relazionale. Operiamo in diversi contesti fra i quali scuole, biblioteche e festival culturali e ci occupiamo, inoltre, di formare insegnanti interessati al dialogo filosofico come strumento educativo. Chiara Minardi, classe 1994; ha conseguito la laurea magistrale in Scienze Filosofiche presso l’Università di Bologna e ora è iscritta a Lettere Moderne, presso la Ca’ Foscari di Venezia. Conosce l’associazione Filò - Il filo del pensiero nel 2021 e, ad oggi, è membro del team direttivo dell’associazione. La filosofia la appassiona da sempre e da sempre l’ha voluta insegnare, fino a quando ha incontrato le pratiche filosofiche: a quel punto la possibilità di trasformare l’insegnamento della filosofia in pratica della filosofia le ha permesso di capire che il fare filosofico è un’opportunità che nessuno deve perdersi. \t\t\t\t\t\t\t\t\t\t\t\t\t\t Beatrice Gobbi, classe 1995; ha conseguito la Laurea Magistrale in Scienze Filosofiche con una tesi sulla verità nella scienza. Durante gli anni della magistrale, entra in contatto con l’associazione Filò. Il filo del pensiero, svolgendo un tirocinio curricolare. Durante questo periodo, Beatrice fa esperienza del potere trasformativo della filosofia e decide che quello sarà il suo lavoro. Dopo il tirocinio, Beatrice inizia a collaborare con Filò facendo i suoi primi laboratori di dialogo filosofico in classe e non solo. Ad oggi, è membro del team direttivo dell’associazione e continua a lavorare in Filò portando la pratica della filosofia a quante più persone possibili.",
         "host_image": "https://x.scambi.org/images/Fil%c3%b2/",
@@ -190,10 +143,7 @@
             "Marta"
         ],
         "host": "Filò",
-        "times": "",
-        "scambi_url": null,
-        "img": "",
-        "location": ""
+        "scambi_url": null
     },
     {
         "title": "Tutto Mat, Botteghe aperte",
@@ -202,30 +152,18 @@
             "26",
             "27"
         ],
-        "description": "Pittura e sperimentazione artistica",
-        "description_en": "Painting and artistic experimentation",
-        "host_logo": "",
         "host_bio": "Andrea Selvaggio: Nato a Palermo il 28 febbraio 1980, nel 2002 consegue il diploma in Decorazione presso l'Accademia di Belle Arti di Palermo. Si dedica alla pittura conseguendo premi e riconoscimenti, partecipa a numerose collettive in Italia e all'estero. Dopo un breve e intenso periodo come pittore di scena in diversi set cinematografici (come le collaborazioni con Giuseppe Tornatore per il film “Baaria\" e John Turturro per il docufilm “La Sicilia” ) si dedica totalmente all'insegnamento. Oggi vive e lavora a Sanremo, dove insegna Arte e Immagine presso la scuola Secondaria Dante Alighieri. Nel 2018 inizia il suo progetto artistico di riqualifica urbana e sociale “pescheria n.2” riuscendo a coinvolgere, attraverso interventi di street art e laboratori di pittura , oltre ai suoi allievi, gli abitanti del centro storico di Sanremo. Lo spazio: La nuova galleria aperta da qualche anno in via Palma 16, nasce come uno spazio aperto dove la ricerca pittorica si fonde con l'entusiasmo e il coinvolgimento di tutti coloro che curiosi, interessati e affascinati entrano e lasciano la loro impronta. E' un luogo dove arte e cultura si incontrano, dov'è possibile vedere l'artista in azione ed  acquistare opere uniche.",
         "host_image": "https://nuvola.scambi.org/s/dALjQLNzbx98Aqd",
         "host_bio_en": "Born in Palermo on February 28, 1980, in 2002 he graduated in Decoration at the Academy of Fine Arts in Palermo. He dedicates himself to painting achieving prizes and awards, and participates in numerous group exhibitions in Italy and abroad. After a short and intense period as a scene painter in various film sets (such as collaborations with Giuseppe Tornatore for the film \"Baaria\" and John Turturro for the docufilm \"La Sicilia\"), he devoted himself totally to teaching. Today he lives and works in Sanremo, where he teaches Art and Image at the Dante Alighieri secondary school. In 2018 he began his artistic project of urban and social redevelopment \"pescheria n.2\" managing to involve, through street art interventions and painting workshops, in addition to his students, the inhabitants of the historic centre of Sanremo. Space: The new gallery opened a few years ago in Via Palma 16. It is born as an open space where pictorial research merges with the enthusiasm and involvement of all those curious, interested and fascinated who enter and leave their mark. It is a place where art and culture meet, where it is possible to see the artist in action and buy unique works.",
         "host_url": "https://tuttomat.it",
         "referente": "Giulia",
-        "host": "Galleria Tutto Mat",
-        "times": "",
-        "scambi_url": "",
-        "img": "",
-        "location": ""
+        "host": "Galleria Tutto Mat"
     },
     {
         "title": "Versi a Colazione",
         "days": "25",
         "description": "L’ultima tappa del nostro Gruppo di Lettura ci porta all’Osteria La Ciotola, dove, sorseggiando un caffè caldo e gustando una focaccia appena sformata, parleremo insieme a Martina D’Amore di Italo Calvino e del suo rapporto con la Pigna",
         "description_en": "Our loved Reading Group takes us to La Ciotola, where, accompanied by a cappuccino and a freshly baked focaccia, together with Martina D’Amore we will discuss Italo Calvino and his relation with Sanremo.",
-        "host_logo": "",
-        "host_bio": "",
-        "host_image": "",
-        "host_bio_en": "",
-        "host_url": "",
         "referente": [
             "Sabrina",
             "Lea"
@@ -237,7 +175,6 @@
             "27: 9:30 → 10:15"
         ],
         "scambi_url": null,
-        "img": "",
         "location": "La Ciotola"
     }
 ]
