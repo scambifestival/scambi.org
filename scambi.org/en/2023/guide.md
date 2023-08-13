@@ -4,6 +4,7 @@ description: In this page you will find everything you need to know in order to 
 permalink: /en/2023/guide/
 redirect_from: [/guide/]
 layout: page
+image: https://x.scambi.org/illustrations/og_guide.png
 ---
 
 Scambi Festival is a wonderful mess. We enjoy talking about the wonderful parts of our festival and a lot of people love what happens during those four unforgettable days in *la Pigna*. However, we must acknowledge it: it can be a huge mess. This guide is meant to unravel that mess and explain everything you need to know practically and simply.

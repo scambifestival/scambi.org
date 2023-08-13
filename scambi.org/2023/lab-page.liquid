@@ -9,6 +9,7 @@ eleventyComputed:
 permalink: '/2023/lab/{{ lab.title | slugify }}/'
 layout: wrapper
 class: lab
+image: https://x.scambi.org/illustrations/og_labs.png
 ---
 {% for item in pagination.items %}
 	<h1>{{ item.title }}</h1>
