@@ -1,10 +1,10 @@
 ---
 title: 2023 Program
-image: https://x.scambi.org/illustrations/program_gradient.webp
 description: All the Labs, activities, and Pinoli of Scambi Festival 2023!
 layout: page
 permalink: /en/2023/program/
 redirect_from: [/program/,/2023/program/]
+image: https://x.scambi.org/illustrations/og_program.png
 ref: 2023program
 lang: en
 ---
@@ -23,7 +23,7 @@ lang: en
 
 {% for day in days %}
 	<h2>{{ day }} agosto 2023</h2>
-	<ul>{% for entry in 2023-program-days %}
+	<ul>{% for entry in 2023-program-daily %}
 		{% if entry.days contains day %}
 			{% capture complete_entry %}
 				{% if entry.scambi_url %}
@@ -31,7 +31,7 @@ lang: en
 				{% elsif entry.what == 'lab' or entry.what == 'pinolo' %}
 					<mark class='{{ entry.what }}'>{{ entry.what }}</mark> <a href='/2023/{{ entry.what }}/{{ entry.title | slugify }}'>{{ entry.title }}</a>
 				{% elsif entry.what == 'dissolvenze' %}
-					<mark class='dissolvenze'>{% if entry.title contains 'Casa' %}<cite lang='it'>Verso Casa</cite> film club{% elsif entry.title contains 'Tremilaseicento' %}<cite>Tremilaseicento fotogrammi</cite>{% else %}Dissolvenze{% endif %}</mark> <strong>{{ entry.title | remove: ' - Cineforum Verso Casa' | remove: ' - Tremilaseicento fotogrammi' }}</strong>{% if entry.description_en%} ‣ {{ entry.description_en | markdownify }}{% endif %}
+					<mark class='dissolvenze'>{% if entry.title contains 'Casa' %}<cite lang='it'>Verso Casa</cite> film club{% elsif entry.title contains 'Tremilaseicento' %}<cite>Tremilaseicento fotogrammi</cite>{% else %}Dissolvenze{% endif %}</mark> <strong>{{ entry.title | remove: ' - Cineforum Verso Casa' | remove: ' - Tremilaseicento fotogrammi' }}</strong>{% if entry.description_en %} ‣ {{ entry.description_en | markdownify }}{% endif %}
 				{% else %}
 					<strong>{{ entry.title }}</strong>{% if entry.description_en %} ‣ {{ entry.description_en | markdownify }}{% endif %}
 				{% endif %}

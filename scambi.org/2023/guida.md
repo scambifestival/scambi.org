@@ -4,6 +4,7 @@ description: In questa pagina trovi tutto quello che ti occorre sapere per parte
 permalink: /2023/guida/
 redirect_from: [/guida/]
 layout: page
+image: https://x.scambi.org/illustrations/og_guida.png
 ---
 
 Scambi Festival è un magnifico casino. Del magnifico stiamo sempre a parlare per ore e moltissime persone adorano quello che accade durante quei quattro indimenticabili giorni, alla Pigna. Tuttavia, lo riconosciamo: è un gran casino. Questa guida serve precisamente a dipanare la matassa e affrontare praticamente e semplicemente più cose possibili.
