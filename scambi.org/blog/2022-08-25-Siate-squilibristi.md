@@ -4,7 +4,7 @@ date: 2022-08-25T18:00:00+02:00
 author: Leonardo Venturi
 image: https://x.scambi.org/images/2021/leo_jump.webp
 tags: ['2022', 'Squilibrio']
-keywords: ['coraggio','salto''inaugurazione','vita']
+keywords: ['coraggio','salto','inaugurazione','vita']
 redirect_from: ['/inaugurazione-2022/']
 ---
 Nel dimenarci giornalmente in questa realtà fenomenica del mondo, siamo sempre alla ricerca di *un qualcosa* che comunemente denominiamo equilibrio. Non sappiamo bene cosa sia, di che tipo di materia sia fatto o cosa ci insegni, ma di certo possiamo perfettamente constatare che è una sensazione molto presente nelle nostre vite, uno stato fisico o mentale che cambia da essere umano a essere umano di natura unica, indissolubile e estremamente complessa. E se per un attimo abbandonassimo questo continuo viaggio alla ricerca di una stasi apparentemente salvifica e tranquilla? <u>Se ci guardassimo negli occhi e condividessimo un o stimolo</u>, un'energia inesauribile come il nostro squilibrio?
