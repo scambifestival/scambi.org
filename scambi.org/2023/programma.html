@@ -26,7 +26,7 @@ ref: 2023program
 		{% if entry.days contains day %}
 			{% capture complete_entry %}
 				{% if entry.scambi_url %}
-					{% if entry.what == 'serata' %}<mark class='serata'>serata</mark>{% endif %} <a href='entry.scambi_url'>{{ entry.title }}</a>
+					{% if entry.what == 'serata' %}<mark class='serata'>serata</mark>{% endif %} <a href='{{ entry.scambi_url }}'>{{ entry.title }}</a>
 				{% elsif entry.what == 'lab' or entry.what == 'pinolo' %}
 					<mark class='{{ entry.what }}'>{{ entry.what }}</mark> <a href='/2023/{{ entry.what }}/{{ entry.title | slugify }}'>{{ entry.title }}</a>
 				{% elsif entry.what == 'dissolvenze' %}
