@@ -546,7 +546,7 @@
         "location": "Chiesa di Santa Brigida"
     },
     {
-        "title": "Riversando",
+        "title": "Riversare",
         "days": "27",
         "description": "Un progetto di [<cite>Musica Orizzontale</cite>](https://musicaorizzontale.bandcamp.com 'Musica Orizzontale su Bandcamp') che prende vita nello *ScambiVerso*. Non una semplice serata dove si beve, ce la si racconta e si ascolta musica, ma un qualcosa di diVerso.<br>Un riversarsi in una serata fatta di musica e di danza diVersificate e Vettoriali, fatte da chi le plasma a chi le riceve. E viceVersa.<br>Riversare inizia alle ore 21 del 27 Agosto in **Piazza Santa Brigida** a Sanremo. Siete Avvertit3.",
         "what": "serata",
@@ -573,7 +573,7 @@
             "Olivia Contemporary Dance Project (OCDP)"
         ],
         "times": "27: 21:30 → 01:00",
-        "scambi_url": "/2023/riversando",
+        "scambi_url": "/2023/riversare",
         "img": "https://x.scambi.org/images/ocdp.jpg",
         "location": "Piazza Santa Brigida"
     },
