@@ -3,6 +3,9 @@
         "what": null
     },
     {
+        "what": null
+    },
+    {
         "title": "<cite>Io sono INVISIBILE</cite>, Concerto disegnato",
         "days": "24",
         "description": "Stefano Pedro Porro ama sperimentare in campo artistico usando varie tecniche, prediligendo la pittura, la china e l’incisione. La <cite>Casa in collina</cite> è un duo strumentale basato sull’improvvisazione e sui torrenti che scavano i fianchi delle colline delle Langhe. Insieme, si uniscono per il concerto disegnato <cite>Io sono INVISIBILE</cite>, un viaggio multidisciplinare ed estemporaneo tra musica e arti visive.",
@@ -53,7 +56,7 @@
             "26: 19:00 → 20:30"
         ],
         "scambi_url": null,
-        "location": "Terrazza San Costanzo",
+        "location": "Piazza San Costanzo",
         "scheda tenica": "un supporto visivo per mostrare tabella excel con risultati del gioco e info.",
         "host": "Valori.it - Fondazione Banca Etica"
     },
@@ -81,6 +84,7 @@
         "host_bio_en": null,
         "host buggato rotto": "Akvo",
         "scambi_url": null,
+        "location": "Piazza Santa Brigida",
         "scheda tenica": "illuminazione per tenerlo in mostra la sera",
         "host": "Akvo"
     },
@@ -229,7 +233,7 @@
             "OpenStreetMap (OSM) è il più grande database geografico libero e modificabile di tutto il mondo, costruito dal lavoro di volontari e rilasciato con una licenza libera. Si tratta di un gigantesco progetto collaborativo, con milioni di utenti registrati in tutto il mondo, il cui scopo è creare e fornire dati geografici liberi a chiunque li voglia utilizzare.<br>La comunità italiana è particolarmente attiva non soltanto nel mantenere la mappa di OpenStreetMap aggiornata, ma anche nell'organizzare eventi di formazione, divulgazione e condivisione.",
             "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
             "Wikimedia Italia – Associazione per la diffusione della conoscenza libera (WMI) è un’associazione di promozione sociale che dal 2005 opera nell’ambito della cultura libera.\n\nOpera per diffondere la conoscenza libera e per sostenere i progetti Wikimedia, contenitori e generatori del sapere libero, come Wikipedia, l’enciclopedia libera, nonché OpenStreetMap.\n\nWikimedia Italia (WMI) favorisce il miglioramento e l’avanzamento del sapere e della cultura. In particolare, WMI promuove la produzione, la raccolta e la diffusione di contenuti liberi (open content), ossia di opere contrassegnate dai loro autori con una licenza libera, che ne permetta l’elaborazione e/o la diffusione gratuita per ogni scopo (anche commerciale).\n\nL’Associazione è inoltre impegnata a diffondere la conoscenza e aumentare la consapevolezza in merito alle questioni sociali e filosofiche correlate ai temi della cultura libera e del pubblico dominio.",
-            "Etica Digitale è un gruppo di attivismo sui diritti digitali, nato nel 2019 per informare, tra le altre cose, su tematiche come la privacy, la sorveglianza e l’etica delle intelligenze artificiali. Cerchiamo di vedere la tecnologia con uno sguardo critico e scientifico.\n\nAbbiamo un canale Telegram dove riportiamo regolarmente notizie e un gruppo amichevole dove poter discutere dei temi che trattiamo. Inoltre abbiamo creato PrivaSì, la nostra guida alla privacy, e un server Minetest, un videogioco libero che si rifà al più Minecraft."
+            "Etica Digitale è un gruppo di attivismo sui diritti digitali, nato nel 2019 per informare, tra le altre cose, su tematiche come la privacy, la sorveglianza e l’etica delle intelligenze artificiali. Cerchiamo di vedere la tecnologia con uno sguardo critico e scientifico.\n\nAbbiamo un canale Telegram dove riportiamo regolarmente notizie e un gruppo amichevole dove poter discutere dei temi che trattiamo. Inoltre abbiamo creato PrivaSì, la nostra guida alla privacy, e un server Minetest, un videogioco libero che si rifà al più Minecraft. Po'"
         ],
         "host_image": [
             "https://x.scambi.org/images/Valerio_Bozzolan.webp",
@@ -260,7 +264,7 @@
             "27: 18:00 → 19:00"
         ],
         "scambi_url": null,
-        "location": "Piazzetta Santa Brigida",
+        "location": "Terrazza Santa Brigida",
         "scheda tenica": "possibilmente supporto per slides",
         "host": [
             "Open Street Map Italia",
@@ -284,7 +288,7 @@
             "26: 17:30 → 18:30"
         ],
         "scambi_url": null,
-        "location": "Terrazza San Costanzo",
+        "location": "Piazzetta Santa Brigida",
         "scheda tenica": "ø",
         "host": "Equo Garantito"
     },
@@ -349,7 +353,7 @@
             "27: 10:30 → 12:00"
         ],
         "scambi_url": null,
-        "location": "Oratorio San Costanzo",
+        "location": "Porta San Giuseppe",
         "scheda tenica": "ø",
         "host": "Filò"
     },
@@ -504,6 +508,7 @@
         "host_url": "https://instagram.com/walter.lazzarin",
         "host buggato rotto": "Walter  Lazzarin",
         "scambi_url": null,
+        "location": "Piazza Santa Brigida",
         "scheda tenica": "ø",
         "host": "Walter  Lazzarin"
     },
@@ -549,9 +554,9 @@
         "host_bio_en": "Laura Guglielmi was born in Sanremo but lives in Genoa, after having spent some years in Rome and London. She deals with literature and landscape and in 1999 she curated a photographic exhibition on Italo Calvino and Sanremo also exhibited at New York University. In 2023, on the occasion of the writer's centenary, she created a 'Calvinian' itinerary in the city of Western Liguria for the University of Genoa. Among her latest books: \"Lady Constance Lloyd. The Importance of Being Wilde\" (Morellini), a novel about the wife of the Irish dandy writer, and \"The Incredible Curiosities of Genoa\" (Newton Compton), which contains eighty stories about the Ligurian capital. She has worked for the Art pages of various newspapers, including «Il Secolo XIX», «La Stampa», «D-la Repubblica delle Donne». Expert in cultural journalism and digital media, she has taught at the University of Genoa.",
         "host_url": "https://lauraguglielmi.it",
         "host buggato rotto": "Laura Guglielmi",
-        "times": "25: 18:30 → 19:30",
+        "times": "25: 19:00 → 20:00",
         "scambi_url": null,
-        "location": "Piazzetta dei Ferri",
+        "location": "Piazza Capitolo",
         "scheda tenica": "amplificazione, 1-2 microfoni",
         "host": "Laura Guglielmi"
     },
@@ -594,9 +599,9 @@
     {
         "title": "Proiezione corti internazionali finalisti",
         "days": "26",
-        "description": "Proiezione dei cortometraggi internazionali finalisti del concorso cortometraggi \"Dissolvenze\" sul tema \"Verso\": - I Am Michelle di Olena Siyatovska - Nahid di Samad Alizadeh - Old Tricks di Edoardo Pasquini e Viktor Ivanov - Rooms di Alvaro de la Hoz - It Comes at Dawn di Rafael Aragon",
+        "description": "Proiezione dei cortometraggi internazionali finalisti del concorso cortometraggi \"Dissolvenze\" sul tema \"Verso\": - Nahid di Samad Alizadeh - Old Tricks di Edoardo Pasquini e Viktor Ivanov - Rooms di Alvaro de la Hoz - It Comes at Dawn di Rafael Aragón",
         "what": "dissolvenze",
-        "description_en": "Screening of the international short films finalists of the \"Dissolvenze\" short film competition on the theme \"Verso\": - I Am Michelle by Olena Siyatovska - Nahid by Samad Alizadeh - Old Tricks by Edoardo Pasquini and Viktor Ivanov - Rooms by Alvaro de la Hoz - It Comes at Dawn by Rafael Aragon",
+        "description_en": "Screening of the international short films finalists of the \"Dissolvenze\" short film competition on the theme \"Verso\": - Nahid by Samad Alizadeh - Old Tricks by Edoardo Pasquini and Viktor Ivanov - Rooms by Alvaro de la Hoz - It Comes at Dawn by Rafael Aragón",
         "times": "26: 17:00 → 18:00",
         "scambi_url": null,
         "img": "https://archive.org/download/scambi-2021-dissolvenze-10/scambi-2021-dissolvenze-10.jpg",
@@ -767,6 +772,7 @@
         "title": "Tra le Pagine Intrecciate",
         "description": "Esplora l’arte della rilegatura con telaio e costruisci la tua agenda dei sogni! Con la tua carta preferita, dai vita a un’agenda personalizzata per custodire pensieri e ispirazioni in modo unico.",
         "what": "pinolo",
+        "location": "Piazza Santa Brigida",
         "scheda tenica": "ø"
     },
     {
@@ -789,7 +795,10 @@
     },
     {
         "title": "Un passo nel buio",
-        "days": "25",
+        "days": [
+            "25",
+            "26"
+        ],
         "description": "La nostra difficile ricerca di un equilibrio è sempre accompagnata da alti e bassi. Vogliamo risultati immediati e pretendiamo di non perdere mai il controllo, così non lasciamo spazio all'ascolto. Giocando con i nostri sensi e con l'uso di linguaggi creativi, lasciamo per un istante le redini mentali e scopriamo nuovi Versi di noi. \"Se vuoi fare un passo in avanti, devi perdere l'equilibrio per un attimo\"",
         "what": "lab",
         "description_en": "Our difficult search for balance is always subject to highs and lows. We want immediate results and demand to never lose control, and not leave any space for listening. Playing with our senses and with creative language use, we release our mental helm for a second and find out about new directions within us. \"If you want to take a step forward, for one second you must lose balance\"",
