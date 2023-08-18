@@ -10,4 +10,14 @@ sitemap:
 ---
 {% render 'staff.liquid', lang: lang %}
 
-<!-- TODO FOTO Di TUTTu -->
+<section>
+	<h2>Le nostre faccione</h2>
+	<div class='grid'>
+		{% for person in staff %}
+			<a href='{{ person.url }}' class='person'>
+				<img src='{{ person.image }}' alt='Foto profilo di {{ person.Nome }} {{ person.Cognome }}'>
+				<h4>{{ person.Nome }} {{ person.Cognome }}</h4>
+			</a>
+		{% endfor %}
+	</div>
+</section>

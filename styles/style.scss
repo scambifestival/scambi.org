@@ -848,6 +848,27 @@ svg.button {
 	font-size: root.$regular-less;
 }
 
+.grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+	grid-gap: 1rem;
+	margin: 1rem;
+}
+
+.person {
+	h4 {
+		text-align: center;
+		margin-top: root.$small;
+	}
+	img {
+		padding: root.$small;
+		background: var(--orange);
+		&:hover {
+			background: var(--green);
+		}
+	}
+}
+
 .embed {
 	lite-youtube,
 	iframe {

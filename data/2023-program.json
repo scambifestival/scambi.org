@@ -556,7 +556,11 @@
         "host buggato rotto": "Laura Guglielmi",
         "times": "25: 19:00 → 20:00",
         "scambi_url": null,
+<<<<<<< HEAD
         "location": "Piazzetta dei Ferri",
+=======
+        "location": "Piazza Capitolo",
+>>>>>>> vladi
         "scheda tenica": "amplificazione, 1-2 microfoni",
         "host": "Laura Guglielmi"
     },
