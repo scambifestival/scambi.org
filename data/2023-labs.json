@@ -14,7 +14,7 @@
             "26: 19:00 → 20:30"
         ],
         "scambi_url": null,
-        "location": "Terrazza San Costanzo",
+        "location": "Piazza San Costanzo",
         "scheda tenica": "un supporto visivo per mostrare tabella excel con risultati del gioco e info.",
         "host": "Valori.it - Fondazione Banca Etica"
     },
@@ -82,7 +82,7 @@
             "OpenStreetMap (OSM) è il più grande database geografico libero e modificabile di tutto il mondo, costruito dal lavoro di volontari e rilasciato con una licenza libera. Si tratta di un gigantesco progetto collaborativo, con milioni di utenti registrati in tutto il mondo, il cui scopo è creare e fornire dati geografici liberi a chiunque li voglia utilizzare.<br>La comunità italiana è particolarmente attiva non soltanto nel mantenere la mappa di OpenStreetMap aggiornata, ma anche nell'organizzare eventi di formazione, divulgazione e condivisione.",
             "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
             "Wikimedia Italia – Associazione per la diffusione della conoscenza libera (WMI) è un’associazione di promozione sociale che dal 2005 opera nell’ambito della cultura libera.\n\nOpera per diffondere la conoscenza libera e per sostenere i progetti Wikimedia, contenitori e generatori del sapere libero, come Wikipedia, l’enciclopedia libera, nonché OpenStreetMap.\n\nWikimedia Italia (WMI) favorisce il miglioramento e l’avanzamento del sapere e della cultura. In particolare, WMI promuove la produzione, la raccolta e la diffusione di contenuti liberi (open content), ossia di opere contrassegnate dai loro autori con una licenza libera, che ne permetta l’elaborazione e/o la diffusione gratuita per ogni scopo (anche commerciale).\n\nL’Associazione è inoltre impegnata a diffondere la conoscenza e aumentare la consapevolezza in merito alle questioni sociali e filosofiche correlate ai temi della cultura libera e del pubblico dominio.",
-            "Etica Digitale è un gruppo di attivismo sui diritti digitali, nato nel 2019 per informare, tra le altre cose, su tematiche come la privacy, la sorveglianza e l’etica delle intelligenze artificiali. Cerchiamo di vedere la tecnologia con uno sguardo critico e scientifico.\n\nAbbiamo un canale Telegram dove riportiamo regolarmente notizie e un gruppo amichevole dove poter discutere dei temi che trattiamo. Inoltre abbiamo creato PrivaSì, la nostra guida alla privacy, e un server Minetest, un videogioco libero che si rifà al più Minecraft."
+            "Etica Digitale è un gruppo di attivismo sui diritti digitali, nato nel 2019 per informare, tra le altre cose, su tematiche come la privacy, la sorveglianza e l’etica delle intelligenze artificiali. Cerchiamo di vedere la tecnologia con uno sguardo critico e scientifico.\n\nAbbiamo un canale Telegram dove riportiamo regolarmente notizie e un gruppo amichevole dove poter discutere dei temi che trattiamo. Inoltre abbiamo creato PrivaSì, la nostra guida alla privacy, e un server Minetest, un videogioco libero che si rifà al più Minecraft. Po'"
         ],
         "host_image": [
             "https://x.scambi.org/images/Valerio_Bozzolan.webp",
@@ -113,7 +113,7 @@
             "27: 18:00 → 19:00"
         ],
         "scambi_url": null,
-        "location": "Piazzetta Santa Brigida",
+        "location": "Terrazza Santa Brigida",
         "scheda tenica": "possibilmente supporto per slides",
         "host": [
             "Open Street Map Italia",
@@ -136,7 +136,7 @@
             "26: 17:30 → 18:30"
         ],
         "scambi_url": null,
-        "location": "Terrazza San Costanzo",
+        "location": "Piazzetta Santa Brigida",
         "scheda tenica": "ø",
         "host": "Equo Garantito"
     },
@@ -161,7 +161,7 @@
             "27: 10:30 → 12:00"
         ],
         "scambi_url": null,
-        "location": "Oratorio San Costanzo",
+        "location": "Porta San Giuseppe",
         "scheda tenica": "ø",
         "host": "Filò"
     },
@@ -211,7 +211,10 @@
     },
     {
         "title": "Un passo nel buio",
-        "days": "25",
+        "days": [
+            "25",
+            "26"
+        ],
         "description": "La nostra difficile ricerca di un equilibrio è sempre accompagnata da alti e bassi. Vogliamo risultati immediati e pretendiamo di non perdere mai il controllo, così non lasciamo spazio all'ascolto. Giocando con i nostri sensi e con l'uso di linguaggi creativi, lasciamo per un istante le redini mentali e scopriamo nuovi Versi di noi. \"Se vuoi fare un passo in avanti, devi perdere l'equilibrio per un attimo\"",
         "description_en": "Our difficult search for balance is always subject to highs and lows. We want immediate results and demand to never lose control, and not leave any space for listening. Playing with our senses and with creative language use, we release our mental helm for a second and find out about new directions within us. \"If you want to take a step forward, for one second you must lose balance\"",
         "host_logo": "https://x.scambi.org/others_logos/Teatroterapia.png",
