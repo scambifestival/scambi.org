@@ -1,18 +1,18 @@
 [
     {
-        "title": "Art Corner, Botteghe aperte",
-        "description": "L'idea nasce dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Con \"Botteghe Aperte\" immergetevi nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
-        "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
-        "host_bio_en": null,
-        "referente": [
-            "Leonardo",
-            "Giulia"
+        "title": "Art Atelier",
+        "days": [
+            "24",
+            "25",
+            "26",
+            "27"
         ],
-        "host buggato rotto": "Akvo",
-        "scambi_url": null,
-        "location": "Piazza Santa Brigida",
-        "scheda tenica": "illuminazione per tenerlo in mostra la sera",
-        "host": "Akvo"
+        "description": "Una bottega che riflette lo spirito della Pigna, in cui vengono creati manufatti in legno d’ulivo e lana.",
+        "host_bio_en": null,
+        "host_url": "https://instagram.com/artatelier.sanremo",
+        "referente": "Giulia",
+        "host": "Art Atelier",
+        "location": "Art Atelier"
     },
     {
         "title": "Body Painting, Botteghe aperte",
@@ -28,10 +28,11 @@
             "Leonardo",
             "Giulia"
         ],
-        "host buggato rotto": "Akvo",
+        "host": "Akvo",
         "scambi_url": null,
+        "location": "Piazza Santa Brigida",
         "scheda tenica": "ø",
-        "host": "Akvo"
+        "host ROTTO, NON USARE": "Akvo"
     },
     {
         "title": "Calvino tra i carruggi",
@@ -64,7 +65,7 @@
             "Sabrina",
             "Lea"
         ],
-        "host buggato rotto": [
+        "host": [
             "Martina D’Amore",
             "Laura Guglielmi"
         ],
@@ -74,16 +75,25 @@
             "27: 17:30 → 19:00"
         ],
         "scambi_url": null,
-        "location": "itinerante",
+        "location": [
+            "Piazza Cassini",
+            "itinerante"
+        ],
         "scheda tenica": "ø",
-        "host": [
+        "host ROTTO, NON USARE": [
             "Martina D’Amore",
             "Laura Guglielmi"
         ]
     },
     {
         "title": "Le Ideebs, Botteghe aperte",
-        "description": "L'idea nasce dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Con \"Botteghe Aperte\" immergetevi nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
+        "days": [
+            "24",
+            "25",
+            "26",
+            "27"
+        ],
+        "description": "<q>Botteghe Aperte</q> è un’idea nata dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Vi immergerete nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
         "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
         "host_logo": "https://nuvola.scambi.org/s/QBbDGpLNK6goEi7",
         "host_bio": "LeIdeebs  è un piccolo brand artigianale di produzione lenta e accurata. Deborah ha un piccolo laboratorio sartoriale all'interno della Pigna. Crea abbigliamento e accessori donna e ogni pezzo è studiato e realizzato interamente da lei. Le parole d'ordine sono unicità e colore, è infatti molto difficile trovare un capo uguale all'altro. Utilizza materiali di recupero e di fine stock in un ottica di riciclo.",
@@ -91,27 +101,14 @@
         "host_bio_en": "LeIdeebs is a small artisan brand of slow and accurate production. Deborah has a small tailoring workshop inside the Pigna. She creates women's clothing and accessories and each piece is designed and created entirely by her. The watchwords are uniqueness and colour, it is in fact very difficult to find a garment that is the same as another. She uses recycled and end-of-stock materials with a view to recycling.",
         "host_url": "https://instagram.com/leideebs",
         "referente": "Giulia",
-        "host buggato rotto": "Le Ideebs",
+        "host": "Le Ideebs",
+        "location": "Le Ideebs",
         "scheda tenica": "ø",
-        "host": "Le Ideebs"
-    },
-    {
-        "title": "Pinolo Lazzarin",
-        "description": "Da ottobre 2015, lo scrittore Walter Lazzarin ha deciso di rincorrere un sogno, un'utopia secondo alcune persone: promuovere i suoi libri girando per le strade d'Italia. L'idea non è solo quella di farsi conoscere come autore, ma vuole soprattutto riavvicinare le persone alla narrativa. Venite a scovarlo!",
-        "description_en": "Since October 2015, the writer Walter Lazzarin has decided to pursue a dream, a utopia according to some: to promote his books by touring the streets of Italy. The idea is not only to make himself known as an author but above all to bring people closer to fiction. Come and find it!",
-        "host_bio": "Walter Lazzarin (1982) è uno scrittore che nel 2011 esordisce con il romanzo “A volte un bacio” e nel 2012 pubblica la prima raccolta di tautogrammi: “21 Lettere d’amore”. Nel 2015 pubblica il “Il drago non si droga”, un romanzo promosso tramite il progetto Scrittore per strada. Dal 2016 a maggio 2017 collabora alla trasmissione “Dribbling” di Rai 2, come autore e interprete dei tautogrammi che introducono le puntate. Nel 2017 pubblica “Ventuno vicende vagamente vergognose”, la seconda raccolta di tautogrammi. La terza è del 2019: “Animali all’avventura”, recensita da Robinson, inserto culturale de La Repubblica.",
-        "host_image": "https://x.scambi.org/profile_pics/WalterLazzarin.webp",
-        "host_bio_en": "Walter Lazzarin (1982) is a writer who made his debut in 2011 with the novel \"A volte un bacio\" and in 2012 published the first collection of tautograms: \"21 Lettere d'Amore\". In 2015 he published \"Il drago non si droga\", a novel promoted through his Writer on the road project. From 2016 to May 2017 he took part in the Rai 2 podcast \"Dribbling\", as author and interpreter of the tautograms that start off the episodes. In 2017 he published \"21 vicende vagamente vergognose\", the second collection of tautograms. In 2019, the third one: \"Animali all'avventura\", reviewed by Robinson, art section of La Repubblica.",
-        "host_url": "https://instagram.com/walter.lazzarin",
-        "referente": "Valeria",
-        "host buggato rotto": "Walter  Lazzarin",
-        "scambi_url": null,
-        "location": "Piazza Santa Brigida",
-        "scheda tenica": "ø",
-        "host": "Walter  Lazzarin"
+        "host ROTTO, NON USARE": "Le Ideebs"
     },
     {
         "title": "Pinolo Pedro",
+        "days": "25",
         "description": "Avete visto per caso dei pavoni in giro per la Pigna? Sono stati disegnati da Stefano Pedro Porro! Passate a trovarlo nel suo pinolo, dove vi parlerà del suo processo artistico e vi accoglierà con le sue illustrazioni, incisioni e libri.",
         "description_en": "Have you seen peacocks around the Pigna by chance? They were designed by Stefano Pedro Porro! Come and see him at his Pinolo, where he will tell you about his artistic process and will welcome you with his illustrations, engravings and books.",
         "host_bio": "Stefano Pedro Porro nasce ad Asti, si diploma al Liceo Artistico e frequenta vari corsi di fumetto. Si forma ad Alba, presso la Libera Accademia Novalia, frequentando un corso di pittura e illustrazione, in cui conclude la triennale presentando una tesi su \"Le città invisibili\" di Italo Calvino. Dal 2020 al 2022 pubblica settimanalmente nella rubrica da lui creata \"Voci Illustrate\" sulla Nuova Provincia di Asti. Nel dicembre 2022 pubblica \"Wassily Kandinsk - Il funambolo dei colori\" e parla della vita di Kandinsky per la collana ALT! Arte Libera Tutti dedicata ai bambini e ragazzi di Maria Pacini Fazzi Editore / Edizioni Fondazione Ragghianti Studi sull’arte di Lucca.  Ama sperimentare usando varie tecniche cercando sempre il linguaggio piú adatto, predilige la pittura, la china e l'incisione. Per Scambi Festival propone una scultura che introduce un percorso itinerante nella pigna attraverso quattordici illustrazioni tratte dal progetto di tesi \"INVISIBILIS\". Stefano Pedro Porro nasce ad Asti, si diploma al Liceo Artistico e frequenta vari corsi di fumetto. Si forma ad Alba, presso la Libera Accademia Novalia, frequentando un corso di pittura e illustrazione, in cui conclude la triennale presentando una tesi su \"Le città invisibili\" di Italo Calvino. Dal 2020 al 2022 pubblica settimanalmente nella rubrica da lui creata \"Voci Illustrate\" sulla Nuova Provincia di Asti. Nel dicembre 2022 pubblica \"Wassily Kandinsky- Il funambolo dei colori\" che parla della vita di Kandinsky per la collana ALT! Arte Libera Tutti dedicata ai bambini e ragazzi di Maria Pacini Fazzi Editore / Edizioni Fondazione Ragghianti Studi sull’arte di Lucca.  Fa parte del collettivo Pikitanka, con cui realizza murales, specialmente a Viarigi, negli ultimi cinque anni hanno riempito la città di colori, e vari concerti disegnati. Per Scambi Festival propone una scultura che introduce un percorso itinerante nella pigna attraverso quattordici illustrazioni che introdurranno i vari Lab degli artisti. A coronare il viaggio nell'orizzonte calviniano creato dal giovane artista, sarà il concerto disegnato (\"Io sono INVISIBILE\") che avverrà la sera del 24 agosto, ovvero la data di apertura del festival. Passate a trovare Pedro nel suo pinolo, dove vi accoglierà con le sue illustrazioni, incisioni e libri.",
@@ -122,10 +119,43 @@
             "Leonardo",
             "Marta"
         ],
-        "host buggato rotto": "Pedro",
+        "host": "Pedro",
         "scambi_url": null,
+        "location": "Piazza Cassini",
         "scheda tenica": "ø",
-        "host": "Pedro"
+        "host ROTTO, NON USARE": "Pedro"
+    },
+    {
+        "title": "Pinolo Seeweb",
+        "days": [
+            "24",
+            "25"
+        ],
+        "description": "Due tecnici del nostro sponsor [Seeweb](https://seeweb.it) ci verranno a trovare e risponderanno a tutte le domande che potreste avere sul perché e come l’informatica può essere green e quali sono i valori che accomunano il nostro festival al primo e principale hosting provider green in Italia.",
+        "host_logo": "https://x.scambi.org/others_logos/seeweb.png",
+        "host_bio": "Seeweb offre soluzioni cloud sostenibili e responsabili. Le loro politiche aziendali contemplano etica, inclusione e supporto a progetti per il sociale e l’ambiente. Tutte le loro server farm sono alimentate sfruttando esclusivamente energia rinnovabile al 100%.",
+        "host_image": "https://x.scambi.org/profile_pics/Chiara_Grande.jpg",
+        "host_bio_en": "Seeweb offers sustainable and responsible cloud solutions. Their company policies include ethics, inclusion and support for social and environmental projects. Their server farm are powered by 100% renewable energy.",
+        "host_url": "https://seeweb.it",
+        "referente": "Tommaso",
+        "host": "Seeweb",
+        "location": "Piazza Cassini"
+    },
+    {
+        "title": "Scrittore prestato",
+        "days": "26",
+        "description": "Da ottobre 2015, lo scrittore Walter Lazzarin ha deciso di rincorrere un sogno, un'utopia secondo alcune persone: promuovere i suoi libri girando per le strade d'Italia. L'idea non è solo quella di farsi conoscere come autore, ma vuole soprattutto riavvicinare le persone alla narrativa. Venite a scovarlo!",
+        "description_en": "Since October 2015, the writer Walter Lazzarin has decided to pursue a dream, a utopia according to some: to promote his books by touring the streets of Italy. The idea is not only to make himself known as an author but above all to bring people closer to fiction. Come and find it!",
+        "host_bio": "Walter Lazzarin (1982) è uno scrittore che nel 2011 esordisce con il romanzo “A volte un bacio” e nel 2012 pubblica la prima raccolta di tautogrammi: “21 Lettere d’amore”. Nel 2015 pubblica il “Il drago non si droga”, un romanzo promosso tramite il progetto Scrittore per strada. Dal 2016 a maggio 2017 collabora alla trasmissione “Dribbling” di Rai 2, come autore e interprete dei tautogrammi che introducono le puntate. Nel 2017 pubblica “Ventuno vicende vagamente vergognose”, la seconda raccolta di tautogrammi. La terza è del 2019: “Animali all’avventura”, recensita da Robinson, inserto culturale de La Repubblica.",
+        "host_image": "https://x.scambi.org/profile_pics/WalterLazzarin.webp",
+        "host_bio_en": "Walter Lazzarin (1982) is a writer who made his debut in 2011 with the novel \"A volte un bacio\" and in 2012 published the first collection of tautograms: \"21 Lettere d'Amore\". In 2015 he published \"Il drago non si droga\", a novel promoted through his Writer on the road project. From 2016 to May 2017 he took part in the Rai 2 podcast \"Dribbling\", as author and interpreter of the tautograms that start off the episodes. In 2017 he published \"21 vicende vagamente vergognose\", the second collection of tautograms. In 2019, the third one: \"Animali all'avventura\", reviewed by Robinson, art section of La Repubblica.",
+        "host_url": "https://instagram.com/walter.lazzarin",
+        "referente": "Valeria",
+        "host": "Walter  Lazzarin",
+        "scambi_url": null,
+        "location": "Piazza Santa Brigida",
+        "scheda tenica": "ø",
+        "host ROTTO, NON USARE": "Walter  Lazzarin"
     },
     {
         "title": "Slimp",
@@ -135,6 +165,11 @@
         ],
         "description": "Slimp (SoftwareLiberoIMperiaProvincia) è un gruppo informale ed eterogeneo di utilizzatori di software libero della provincia di Imperia e zone limitrofe.<br>Lo scopo del gruppo è la promozione di concetti quali la libertà dello scambio di idee e di informazioni, con un occhio di riguardo al software open source e ai sistemi operativi come Linux che condividono gli stessi concetti. Ci incontriamo online sul [gruppo Telegram](https://t.me/slimpimperia) e dal vivo durante eventi come il Linux Day, o sporadici incontri in birreria o pizzate.",
         "description_en": "Slimp (SoftwareLiberoIMperiaProvincia) is an informal and heterogeneous group of free software users from the province of Imperia and neighbouring areas.<br>The purpose of the group is to promote concepts such as the freedom to exchange ideas and information, with an eye on open-source software and operating systems like Linux that share the same concepts. We meet online on the [Telegram group](https://t.me/slimpimperia) and live during events like Linux Day, or sporadic brewery meetings or pizza parties.",
+        "host_logo": "https://x.scambi.org/others_logos/slimp.svg",
+        "host_bio": "Slimp (SoftwareLiberoIMperiaProvincia) è un gruppo informale ed eterogeneo di utilizzatori di software libero della provincia di Imperia e zone limitrofe.<br>Lo scopo del gruppo è la promozione di concetti quali la libertà dello scambio di idee e di informazioni, con un occhio di riguardo al software open source e ai sistemi operativi come Linux che condividono gli stessi concetti. Ci incontriamo online sul [gruppo Telegram](https://t.me/slimpimperia) e dal vivo durante eventi come il Linux Day, o sporadici incontri in birreria o pizzate",
+        "host_url": "https://t.me/slimpimperia",
+        "referente": "Tommaso",
+        "host": "Slimp",
         "location": "Terrazza Santa Brigida",
         "scheda tenica": "corrente elettrica e, se riusciamo, internet"
     },
@@ -151,14 +186,23 @@
             "Leonardo",
             "Marta"
         ],
-        "host buggato rotto": "Filò",
+        "host": "Filò",
         "scambi_url": null,
+        "location": "Piazza Cassini",
         "scheda tenica": "ø",
-        "host": "Filò"
+        "host ROTTO, NON USARE": "Filò"
     },
     {
         "title": "Tra le Pagine Intrecciate",
+        "days": [
+            "25",
+            "26"
+        ],
         "description": "Esplora l’arte della rilegatura con telaio e costruisci la tua agenda dei sogni! Con la tua carta preferita, dai vita a un’agenda personalizzata per custodire pensieri e ispirazioni in modo unico.",
+        "host_bio": "Fatto capolino nel 1978, <cite>FabioLupiArt</cite> naviga tra la bellezza del mondo e l’insidia dell’assurdità umana. In molteplici rinascite, condivide esperienze e sogni con anime affini, sentendo crescere il desiderio di creare dal <q>materiale scarto</q>. Con un occhio di riguardo per legno e carta, trasforma ciò che altri scartano opere d’arte.",
+        "host_url": "https://instagram.com/fabiolupiart",
+        "referente": "Tommaso",
+        "host": "Fabio Lupi",
         "location": "Piazza Santa Brigida",
         "scheda tenica": "ø"
     },
@@ -169,16 +213,17 @@
             "26",
             "27"
         ],
-        "description": "L'idea nasce dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Con \"Botteghe Aperte\" immergetevi nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
+        "description": "<q>Botteghe Aperte</q> è un’idea nata dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Vi immergerete nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
         "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
         "host_bio": "Andrea Selvaggio: Nato a Palermo il 28 febbraio 1980, nel 2002 consegue il diploma in Decorazione presso l'Accademia di Belle Arti di Palermo. Si dedica alla pittura conseguendo premi e riconoscimenti, partecipa a numerose collettive in Italia e all'estero. Dopo un breve e intenso periodo come pittore di scena in diversi set cinematografici (come le collaborazioni con Giuseppe Tornatore per il film “Baaria\" e John Turturro per il docufilm “La Sicilia” ) si dedica totalmente all'insegnamento. Oggi vive e lavora a Sanremo, dove insegna Arte e Immagine presso la scuola Secondaria Dante Alighieri. Nel 2018 inizia il suo progetto artistico di riqualifica urbana e sociale “pescheria n.2” riuscendo a coinvolgere, attraverso interventi di street art e laboratori di pittura , oltre ai suoi allievi, gli abitanti del centro storico di Sanremo. Lo spazio: La nuova galleria aperta da qualche anno in via Palma 16, nasce come uno spazio aperto dove la ricerca pittorica si fonde con l'entusiasmo e il coinvolgimento di tutti coloro che curiosi, interessati e affascinati entrano e lasciano la loro impronta. E' un luogo dove arte e cultura si incontrano, dov'è possibile vedere l'artista in azione ed  acquistare opere uniche.",
         "host_image": "https://nuvola.scambi.org/s/dALjQLNzbx98Aqd",
         "host_bio_en": "Born in Palermo on February 28, 1980, in 2002 he graduated in Decoration at the Academy of Fine Arts in Palermo. He dedicates himself to painting achieving prizes and awards, and participates in numerous group exhibitions in Italy and abroad. After a short and intense period as a scene painter in various film sets (such as collaborations with Giuseppe Tornatore for the film \"Baaria\" and John Turturro for the docufilm \"La Sicilia\"), he devoted himself totally to teaching. Today he lives and works in Sanremo, where he teaches Art and Image at the Dante Alighieri secondary school. In 2018 he began his artistic project of urban and social redevelopment \"pescheria n.2\" managing to involve, through street art interventions and painting workshops, in addition to his students, the inhabitants of the historic centre of Sanremo. Space: The new gallery opened a few years ago in Via Palma 16. It is born as an open space where pictorial research merges with the enthusiasm and involvement of all those curious, interested and fascinated who enter and leave their mark. It is a place where art and culture meet, where it is possible to see the artist in action and buy unique works.",
         "host_url": "https://tuttomat.it",
         "referente": "Giulia",
-        "host buggato rotto": "Galleria Tutto Mat",
+        "host": "Galleria Tutto Mat",
+        "location": "Tutto Mat",
         "scheda tenica": "ø",
-        "host": "Galleria Tutto Mat"
+        "host ROTTO, NON USARE": "Galleria Tutto Mat"
     },
     {
         "title": "Versi a Colazione",
@@ -187,21 +232,24 @@
             "26",
             "27"
         ],
-        "description": "L’ultima tappa del nostro Gruppo di Lettura ci porta all’Osteria La Ciotola, dove, sorseggiando un caffè caldo e gustando una focaccia appena sformata, parleremo insieme a Martina D’Amore di Italo Calvino e del suo rapporto con la Pigna",
-        "description_en": "Our loved Reading Group takes us to La Ciotola, where, accompanied by a cappuccino and a freshly baked focaccia, together with Martina D’Amore we will discuss Italo Calvino and his relation with Sanremo.",
+        "description": "Tra un caffè caldo e della focaccia appena sfornata, parleremo in compagnia di Letteratura e di Poesia. Tra dialetti, epoche passate e tanta immaginazione attraverseremo il concetto di Verso in tutte le sue molteplici interpretazione.",
+        "description_en": "Between a hot coffee and freshly baked focaccia, we will talk together about literature and poetry. Through dialects, past eras and a lot of imagination we will cross the concept of Verso in all its multiple interpretations.",
         "referente": [
             "Sabrina",
             "Lea"
         ],
-        "host buggato rotto": "Chiocciole",
+        "host": "Chiocciole",
         "times": [
             "25: 09:30 → 10:15",
             "26: 09:30 → 10:15",
             "27: 09:30 → 10:15"
         ],
         "scambi_url": null,
-        "location": "La Ciotola",
+        "location": [
+            "Piazzetta dei Ferri",
+            "La Ciotola"
+        ],
         "scheda tenica": "ampli e mic che ha La Ciotola",
-        "host": "Chiocciole"
+        "host ROTTO, NON USARE": "Chiocciole"
     }
 ]
