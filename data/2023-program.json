@@ -1,11 +1,5 @@
 [
     {
-        "what": null
-    },
-    {
-        "what": null
-    },
-    {
         "title": "<cite>Io sono INVISIBILE</cite>, Concerto disegnato",
         "days": "24",
         "description": "Stefano Pedro Porro ama sperimentare in campo artistico usando varie tecniche, prediligendo la pittura, la china e l’incisione. La <cite>Casa in collina</cite> è un duo strumentale basato sull’improvvisazione e sui torrenti che scavano i fianchi delle colline delle Langhe. Insieme, si uniscono per il concerto disegnato <cite>Io sono INVISIBILE</cite>, un viaggio multidisciplinare ed estemporaneo tra musica e arti visive.",
@@ -26,7 +20,7 @@
         "host_url": [
             "https://instagram.com/stefanoporro_"
         ],
-        "host buggato rotto": [
+        "host": [
             "Pedro",
             "La Casa in collina"
         ],
@@ -35,7 +29,7 @@
         "img": "https://x.scambi.org/images/concerto-disegnato.webp",
         "location": "Piazza Santa Brigida",
         "scheda tenica": "roba cinema solita",
-        "host": [
+        "host ROTTO, NON USARE": [
             "Pedro",
             "La Casa in collina"
         ]
@@ -50,15 +44,15 @@
         "host_bio": "Festivalori è una realtà culturale organizzata da Valori, la testata giornalistica di proprietà di Fondazione Finanza Etica, promossa da Banca Etica ed Etica Sgr. Puntano ad accendere i riflettori sulle ingiustizie del sistema economico e a promuovere esperienze alternative di economia sociale e sostenibile. Dal 2002 realizzano inchieste e reportage per avvicinare le persone al mondo della finanza e dell’economia. Si impegnano infatti a tradurre temi spesso ritenuti “complessi” per far capire allɜ cittadinɜ come le scelte che avvengono nelle aziende e nei mercati sono profondamente connesse ad aspetti delle nostre quotidianità. Credono inoltre in un’educazione finanziaria critica, indipendente e capace di mettere al centro le persone non solo come “clienti”, ma soprattutto come cittadinɜ responsabili e consapevoli.",
         "host_bio_en": "Festivalori is a cultural reality organised by Valori, the newspaper owned by Fondazione Finanza Etica, promoted by Banca Etica and Etica Sgr. They aim to spotlight the injustices of the local and international economic system and promote alternative experiences of a social and sustainable economy. Since 2002 they have been carrying out surveys and reports to bring people closer to the world of finance and the economy. In fact, they are committed to simplifying themes often considered \"complex\" to make citizens understand how the choices that take place in companies and markets are deeply connected to aspects of our daily lives. They also believe in a critical, independent financial education capable of putting people at the centre of the action, not only as \"customers\" but also as responsible and aware citizens.",
         "host_url": "https://festival.valori.it",
-        "host buggato rotto": "Valori.it - Fondazione Banca Etica",
+        "host": "Valori.it - Fondazione Banca Etica",
         "times": [
             "26: 15:30 → 17:00",
             "26: 19:00 → 20:30"
         ],
         "scambi_url": null,
-        "location": "Piazza San Costanzo",
+        "location": "Angolino San Costanzo",
         "scheda tenica": "un supporto visivo per mostrare tabella excel con risultati del gioco e info.",
-        "host": "Valori.it - Fondazione Banca Etica"
+        "host ROTTO, NON USARE": "Valori.it - Fondazione Banca Etica"
     },
     {
         "title": "Allestimento collettivo",
@@ -70,23 +64,26 @@
         "host_image": "https://x.scambi.org/images/staff.webp",
         "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
         "host_url": "https://scambi.org/staff",
-        "host buggato rotto": "Staff Scambi",
+        "host": "Staff Scambi",
         "times": "24: 10:00 → 18:00",
         "location": "itinerante",
         "scheda tenica": "ø",
-        "host": "Staff Scambi"
+        "host ROTTO, NON USARE": "Staff Scambi"
     },
     {
-        "title": "Art Corner, Botteghe aperte",
-        "description": "L'idea nasce dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Con \"Botteghe Aperte\" immergetevi nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
+        "title": "Art Atelier",
+        "days": [
+            "24",
+            "25",
+            "26",
+            "27"
+        ],
+        "description": "Una bottega che riflette lo spirito della Pigna, in cui vengono creati manufatti in legno d’ulivo e lana.",
         "what": "pinolo",
-        "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
         "host_bio_en": null,
-        "host buggato rotto": "Akvo",
-        "scambi_url": null,
-        "location": "Piazza Santa Brigida",
-        "scheda tenica": "illuminazione per tenerlo in mostra la sera",
-        "host": "Akvo"
+        "host_url": "https://instagram.com/artatelier.sanremo",
+        "host": "Art Atelier",
+        "location": "Art Atelier"
     },
     {
         "title": "Body Painting, Botteghe aperte",
@@ -99,10 +96,11 @@
         "what": "pinolo",
         "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
         "host_bio_en": null,
-        "host buggato rotto": "Akvo",
+        "host": "Akvo",
         "scambi_url": null,
+        "location": "Piazza Santa Brigida",
         "scheda tenica": "ø",
-        "host": "Akvo"
+        "host ROTTO, NON USARE": "Akvo"
     },
     {
         "title": "Calvino tra i carruggi",
@@ -131,7 +129,7 @@
             "https://instagram.com/martidamo",
             "https://lauraguglielmi.it"
         ],
-        "host buggato rotto": [
+        "host": [
             "Martina D’Amore",
             "Laura Guglielmi"
         ],
@@ -141,9 +139,12 @@
             "27: 17:30 → 19:00"
         ],
         "scambi_url": null,
-        "location": "itinerante",
+        "location": [
+            "Piazza Cassini",
+            "itinerante"
+        ],
         "scheda tenica": "ø",
-        "host": [
+        "host ROTTO, NON USARE": [
             "Martina D’Amore",
             "Laura Guglielmi"
         ]
@@ -177,7 +178,7 @@
         "host_url": [
             "https://instagram.com/leonardo_sinopoli"
         ],
-        "host buggato rotto": [
+        "host": [
             "Leonardo Sinopoli",
             "Elnoir",
             "Bianca Carlino"
@@ -188,9 +189,9 @@
             "27: 10:30 → 12:00"
         ],
         "scambi_url": null,
-        "location": "Piazza Santa Brigida",
+        "location": "Piazza San Costanzo",
         "scheda tenica": "ø",
-        "host": [
+        "host ROTTO, NON USARE": [
             "Leonardo Sinopoli",
             "Elnoir",
             "Bianca Carlino"
@@ -207,13 +208,13 @@
         "host_image": "https://x.scambi.org/profile_pics/Chicca_Dedali.jpg",
         "host_bio_en": "Pigna Mon Amour is the pro-loco of the Pigna district of Sanremo. They have been dear friends of the festival since even before its birth.",
         "host_url": "https://facebook.com/Pigna-Mon-Amour-190555831024696",
-        "host buggato rotto": "Pigna Mon Amour",
+        "host": "Pigna Mon Amour",
         "times": "24: 21:15 → 23:45",
         "scambi_url": null,
         "img": "https://x.scambi.org/images/proiezione.webp",
         "location": "Piazza Santa Brigida",
         "scheda tenica": "roba cinema solita",
-        "host": "Pigna Mon Amour"
+        "host ROTTO, NON USARE": "Pigna Mon Amour"
     },
     {
         "title": "Direzione FediVerso!",
@@ -252,7 +253,7 @@
             "https://wikimedia.it",
             "https://eticadigitale.org"
         ],
-        "host buggato rotto": [
+        "host": [
             "Open Street Map Italia",
             "Staff Scambi",
             "Wikimedia Italia",
@@ -264,9 +265,9 @@
             "27: 18:00 → 19:00"
         ],
         "scambi_url": null,
-        "location": "Terrazza Santa Brigida",
+        "location": "Angolino San Costanzo",
         "scheda tenica": "possibilmente supporto per slides",
-        "host": [
+        "host ROTTO, NON USARE": [
             "Open Street Map Italia",
             "Staff Scambi",
             "Wikimedia Italia",
@@ -282,7 +283,7 @@
         "host_bio": "Denise Procaccianti è una laureanda del corso di laurea in Studi Internazionali, ha svolto volontariato dall’età di 15 anni, prima con la croce rossa italiana, poi con alcune associazioni giovanili, attualmente con MeetEu, tutte con lo scopo di portare l’Unione Europea più vicina ai giovani. Ma è grazie all’anno del Servizio civile che ha capito che la sostenibilità è il tema che desidera approfondire e magari farne un lavoro in futuro. Sempre grazie al Servizio civile e soprattutto grazie al progetto Erasmus+ ha avuto l’occasione di progettare, insieme ad un gruppo fantastico, un gioco di carte sul Fair Trade e di partecipare alla Fair Trade Breakfast al Parlamento Europeo di Bruxelles.",
         "host_bio_en": "Denise Procaccianti is graduating from International Studies, and she has been a volunteer since the age of 15, first with the Italian red Cross, then with several youth associations, currently with MeetEu, all of which with the aim of bringing the European Union closer to young people. But it is thanks to the year of the Civil Service that she understood that Sustainability is the theme she wishes to explore and perhaps make a job of in the future. Thanks to the Erasmus+ project, she had the opportunity to design, together with a fantastic group, a card game on Fair Trade and to participate in the Fair Trade Breakfast at the European Parliament in Brussels.",
         "host_url": "https://equogarantito.org",
-        "host buggato rotto": "Equo Garantito",
+        "host": "Equo Garantito",
         "times": [
             "26: 16:00 → 17:00",
             "26: 17:30 → 18:30"
@@ -290,7 +291,7 @@
         "scambi_url": null,
         "location": "Piazzetta Santa Brigida",
         "scheda tenica": "ø",
-        "host": "Equo Garantito"
+        "host ROTTO, NON USARE": "Equo Garantito"
     },
     {
         "title": "Il Tenco Ascolta",
@@ -315,7 +316,7 @@
             "https://facebook.com/christian.gullone1",
             "https://clubtenco.it"
         ],
-        "host buggato rotto": [
+        "host": [
             "Christian Gullone",
             "Claynuts",
             "Club Tenco"
@@ -325,7 +326,7 @@
         "img": "https://c1.staticflickr.com/6/5471/30861057096_a2f863b38f.jpg",
         "location": "Piazza San Costanzo",
         "scheda tenica": "tutta la roba concerto",
-        "host": [
+        "host ROTTO, NON USARE": [
             "Christian Gullone",
             "Claynuts",
             "Club Tenco"
@@ -346,7 +347,7 @@
         "host_image": "https://x.scambi.org/images/Fil%c3%b2/",
         "host_bio_en": "\"Filò – Il filo del pensiero\" is an association of social promotion, born from the research project FarFilò (University of Bologna), whose core consists of philosophers and educators. The members of Filò are also members of ΑΙΩΝ / AIÓN – Philosophy and Didactics, Research Group on Didactics of Philosophy and on Philosophical Practices of the University of Bologna (site.unibo.it/aion/it). Filò aims to promote and disseminate, for all age groups, Philosophy understood as an educational practice capable of developing critical thought, logical-argumentative skills, capacity for abstraction and creativity, all combined with ethical-relational skills. We operate in several fields including schools, libraries, and cultural festivals besides training teachers interested in philosophical dialogue as an educational tool. Chiara Minardi, born in 1994, holds a master's degree in Philosophical Sciences at the University of Bologna and is now enrolled in Modern Literature at Ca' Foscari University in Venice. She meets Filò in 2021 and she is today a Board member. Philosophy always fascinated her and she always wanted to teach it, until she finally encountered philosophical practices: at that point, the opportunity of transforming the teaching of philosophy into the practice of philosophy made her understand that doing philosophy is a chance that no one should miss. Beatrice Gobbi, born in 1995; she obtained a master's degree in Philosophical Sciences with a thesis on truth in science. During her master's degree years, she met the Filò association while carrying out a curricular internship. During this time, Beatrice experienced the transformative power of philosophy and decided that this will be her job. After the internship, Beatrice began collaborating with Filò by holding her first philosophical dialogue workshops in the classroom and beyond. She is a Board member and continues to work in Filò by bringing the practice of philosophy to as many people as possible.",
         "host_url": "https://filoedu.com",
-        "host buggato rotto": "Filò",
+        "host": "Filò",
         "times": [
             "25: 18:00 → 19:30",
             "26: 10:30 → 12:00",
@@ -355,7 +356,7 @@
         "scambi_url": null,
         "location": "Porta San Giuseppe",
         "scheda tenica": "ø",
-        "host": "Filò"
+        "host ROTTO, NON USARE": "Filò"
     },
     {
         "title": "Il pregiudizio Rosso Malpelo: Analisi della narrazione nel cinema italiano contemporaneo - Tremilaseicento fotogrammi",
@@ -368,13 +369,13 @@
         "host_image": "https://x.scambi.org/images/Andrea_Vailati.jpg",
         "host_bio_en": "Andrea Vailati, graduated in Philosophy of the Contemporary World at the San Raffaele University of Milan. He is the founder and editorial director of the online magazine Artesettima. Together with the activity of editor, he plays the role of Head content and Digital Marketing manager for WeShort.",
         "host_url": "https://artesettima.it/",
-        "host buggato rotto": "ArteSettima",
+        "host": "ArteSettima",
         "times": "26: 18:30 → 19:30",
         "scambi_url": null,
         "img": "https://nuvola.scambi.org/core/preview?fileId=316007&x=1920&y=1080&a=true",
         "location": "Piazzetta dei Ferri",
         "scheda tenica": "televisione, impianto amplificazione base e 1-3 microfoni.",
-        "host": "ArteSettima"
+        "host ROTTO, NON USARE": "ArteSettima"
     },
     {
         "title": "Inaugurazione di Scambi Festival 2023",
@@ -386,12 +387,12 @@
         "host_image": "https://x.scambi.org/images/staff.webp",
         "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
         "host_url": "https://scambi.org/staff",
-        "host buggato rotto": "Staff Scambi",
+        "host": "Staff Scambi",
         "times": "24: 18:30 → 19:00",
         "scambi_url": null,
         "location": "Piazza Cassini",
         "scheda tenica": "amplificazione, 1-2 microfoni",
-        "host": "Staff Scambi"
+        "host ROTTO, NON USARE": "Staff Scambi"
     },
     {
         "title": "La figlia di Carmine",
@@ -402,12 +403,13 @@
         "host_bio": "<q>Cinque anni fa, per i venticinque anni della Caritas ci siamo chiesti cosa potevamo fare – esordisce **Cristian Papini** di **Caritas Intemelia** – al che ci è venuto in mente di creare uno spettacolo teatrale con volontari e subito abbiamo pensato a Davide Barella per portarlo avanti. Doveva essere solo per un anno, e invece…</q><br>Nasce così il **Teatro Abusivo**, realtà che unisce appunto la Caritas, la **Scuola MusicArte di Camporosso** e lo scrittore **Davide Barella**.<br><q>Trasformiamo i ragazzi in scrittori, attraverso il loro vissuto importante rielaboriamo e drammatizziamo alcuni episodi della loro storia in veste teatrale – spiega Barella – un percorso con un risvolto terapeutico importante che li pone dinnanzi ad una platea al di fuori del loro quotidiano</q>.",
         "host_bio_en": "<q>Five years ago, for the twenty-five years of Caritas we asked ourselves what we could do - begins **Cristian Papini** of **Caritas Intemelia** - to which we came up with the idea of creating a theatrical show with volunteers and we immediately thought of Davide Barella to carry it forward. It was supposed to be only for a year, but instead…</q><br>This is how the **Teatro Abusivo** was born, a reality that unites Caritas, the **MusicArte School of Camporosso** and the writer **Davide Barella **.<br><q>We transform young people into writers, through their important experience we re-elaborate and dramatize some episodes of their history in a theatrical guise - explains Barella - a path with an important therapeutic implication that places them before an audience at outside their daily routine</q>.",
         "host_url": "https://rivieratime.news/il-teatro-abusivo-esperienze-di-vita-forti-che-diventano-racconti",
-        "host buggato rotto": "Teatro Abusivo",
+        "host": "Teatro Abusivo",
         "times": "24: 19:00 → 21:00",
         "scambi_url": "/2023/teatro",
+        "img": "https://x.scambi.org/images/la-figlia-di-carmine.webp",
         "location": "Piazza Cassini",
         "scheda tenica": "sono autonomi, ma magari sentiamoli per venirci incontro",
-        "host": "Teatro Abusivo"
+        "host ROTTO, NON USARE": "Teatro Abusivo"
     },
     {
         "title": "Late Night Sessions",
@@ -428,7 +430,7 @@
         "host_url": [
             "https://instagram.com/latenights_ig"
         ],
-        "host buggato rotto": [
+        "host": [
             "Late Night Sessions",
             "Gini Paoli"
         ],
@@ -437,14 +439,20 @@
         "img": "https://x.scambi.org/images/lns.webp",
         "location": "Piazza Santa Brigida",
         "scheda tenica": "tutta la roba concerto",
-        "host": [
+        "host ROTTO, NON USARE": [
             "Late Night Sessions",
             "Gini Paoli"
         ]
     },
     {
         "title": "Le Ideebs, Botteghe aperte",
-        "description": "L'idea nasce dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Con \"Botteghe Aperte\" immergetevi nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
+        "days": [
+            "24",
+            "25",
+            "26",
+            "27"
+        ],
+        "description": "<q>Botteghe Aperte</q> è un’idea nata dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Vi immergerete nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
         "what": "pinolo",
         "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
         "host_logo": "https://nuvola.scambi.org/s/QBbDGpLNK6goEi7",
@@ -452,9 +460,10 @@
         "host_image": "https://nuvola.scambi.org/s/nbdstCc69gDd2x3",
         "host_bio_en": "LeIdeebs is a small artisan brand of slow and accurate production. Deborah has a small tailoring workshop inside the Pigna. She creates women's clothing and accessories and each piece is designed and created entirely by her. The watchwords are uniqueness and colour, it is in fact very difficult to find a garment that is the same as another. She uses recycled and end-of-stock materials with a view to recycling.",
         "host_url": "https://instagram.com/leideebs",
-        "host buggato rotto": "Le Ideebs",
+        "host": "Le Ideebs",
+        "location": "Le Ideebs",
         "scheda tenica": "ø",
-        "host": "Le Ideebs"
+        "host ROTTO, NON USARE": "Le Ideebs"
     },
     {
         "title": "Pensatevi liberatɜ: discussione e lamentela sul cinema LGBTQIA+ emergente italiano (e la sua mancanza) - Tremilaseicento fotogrammi",
@@ -471,7 +480,7 @@
             "Leonardo Venturi è un attore e performer originario di Genzano di Roma (RM) e lavora tra Italia\ne Regno Unito. Inizia la sua formazione come danzatore nel 2010 per poi continuare i suoi studi\nin recitazione alla Guildhall School of Acting di Londra. Nel 2020 recita nel film \"Ernesto\" ed è\ntra i vincitori dell'Artkeys Prize di Agropoli (SA) con la sua performance \"Martyr\". Nel 2021 si\nlaurea in \"Performing Arts\" alla De Montfort University di Leicester (UK), dove porta avanti la\nsua ricerca sul rapporto tra corpo, attivismo e nuove pratiche performative contemporanee.\nNegli ultimi mesi è stato in scena con \"Bros\" di Romeo Castellucci e \"Lucciole\" di Bluemotion/Giorgina Pi. È inoltre facilitator della giuria +16 del Giffoni Opportunity."
         ],
         "host_image": [
-            "https://nuvola.scambi.org/s/6zWb7r2RjPqMGpW",
+            "https://x.scambi.org/profile_pics/Emiliano_Sisolfi.jpg",
             "https://nuvola.scambi.org/s/ZwGWnsxSp52fCey",
             "https://x.scambi.org/profile_pics/Leonardo_Venturi.jpg"
         ],
@@ -481,9 +490,11 @@
             "Leonardo Venturi is an Italian actor and performer from Genzano di Roma (RM) and works\nbetween Italy and the United Kingdom. He began his training as a dancer in 2010 and then\ncontinued his studies in acting at the Guildhall School of Acting in London. In 2020 he starred\nin the film \"Ernesto\" and was among the winners of the Artkeys Prize in Agropoli (SA) with his\nperformance \"Martyr\". In 2021 he graduated in \"Performing Arts\" at De Montfort University in\nLeicester (UK), where he carries on his research on the relationship between body, activism and\nnew contemporary performative practices. In recent months he has been on stage with \"Bros\"\nby Romeo Castellucci and \"Lucciole\" by Bluemotion/Giorgina Pi. He is also the\nfacilitator of the +16 jury of the Giffoni Opportunity."
         ],
         "host_url": [
-            "https://gioielloplayhard.com/"
+            "https://instagram.com/emilianosisolfi",
+            "https://gioielloplayhard.com/",
+            "https://instagram.com/venturileonardo"
         ],
-        "host buggato rotto": [
+        "host": [
             "Emiliano Sisolfi",
             "Cinema Gioiello",
             "Leonardo Venturi"
@@ -493,29 +504,15 @@
         "img": "https://nuvola.scambi.org/core/preview?fileId=315908&x=1920&y=1080&a=true",
         "location": "Piazzetta dei Ferri",
         "scheda tenica": "televisione, impianto amplificazione base e 1-3 microfoni.",
-        "host": [
+        "host ROTTO, NON USARE": [
             "Emiliano Sisolfi",
             "Cinema Gioiello",
             "Leonardo Venturi"
         ]
     },
     {
-        "title": "Pinolo Lazzarin",
-        "description": "Da ottobre 2015, lo scrittore Walter Lazzarin ha deciso di rincorrere un sogno, un'utopia secondo alcune persone: promuovere i suoi libri girando per le strade d'Italia. L'idea non è solo quella di farsi conoscere come autore, ma vuole soprattutto riavvicinare le persone alla narrativa. Venite a scovarlo!",
-        "what": "pinolo",
-        "description_en": "Since October 2015, the writer Walter Lazzarin has decided to pursue a dream, a utopia according to some: to promote his books by touring the streets of Italy. The idea is not only to make himself known as an author but above all to bring people closer to fiction. Come and find it!",
-        "host_bio": "Walter Lazzarin (1982) è uno scrittore che nel 2011 esordisce con il romanzo “A volte un bacio” e nel 2012 pubblica la prima raccolta di tautogrammi: “21 Lettere d’amore”. Nel 2015 pubblica il “Il drago non si droga”, un romanzo promosso tramite il progetto Scrittore per strada. Dal 2016 a maggio 2017 collabora alla trasmissione “Dribbling” di Rai 2, come autore e interprete dei tautogrammi che introducono le puntate. Nel 2017 pubblica “Ventuno vicende vagamente vergognose”, la seconda raccolta di tautogrammi. La terza è del 2019: “Animali all’avventura”, recensita da Robinson, inserto culturale de La Repubblica.",
-        "host_image": "https://x.scambi.org/profile_pics/WalterLazzarin.webp",
-        "host_bio_en": "Walter Lazzarin (1982) is a writer who made his debut in 2011 with the novel \"A volte un bacio\" and in 2012 published the first collection of tautograms: \"21 Lettere d'Amore\". In 2015 he published \"Il drago non si droga\", a novel promoted through his Writer on the road project. From 2016 to May 2017 he took part in the Rai 2 podcast \"Dribbling\", as author and interpreter of the tautograms that start off the episodes. In 2017 he published \"21 vicende vagamente vergognose\", the second collection of tautograms. In 2019, the third one: \"Animali all'avventura\", reviewed by Robinson, art section of La Repubblica.",
-        "host_url": "https://instagram.com/walter.lazzarin",
-        "host buggato rotto": "Walter  Lazzarin",
-        "scambi_url": null,
-        "location": "Piazza Santa Brigida",
-        "scheda tenica": "ø",
-        "host": "Walter  Lazzarin"
-    },
-    {
         "title": "Pinolo Pedro",
+        "days": "25",
         "description": "Avete visto per caso dei pavoni in giro per la Pigna? Sono stati disegnati da Stefano Pedro Porro! Passate a trovarlo nel suo pinolo, dove vi parlerà del suo processo artistico e vi accoglierà con le sue illustrazioni, incisioni e libri.",
         "what": "pinolo",
         "description_en": "Have you seen peacocks around the Pigna by chance? They were designed by Stefano Pedro Porro! Come and see him at his Pinolo, where he will tell you about his artistic process and will welcome you with his illustrations, engravings and books.",
@@ -523,10 +520,27 @@
         "host_image": "https://x.scambi.org/images/Stefano_Pedro_Porro.webp",
         "host_bio_en": "Stefano Pedro Porro was born in Asti, graduated from the Art School and attended various comics courses. He trained in Alba, at the Libera Accademia Novalia, attending a course in painting and illustration, in which he concluded the three-year course by presenting a thesis on \"Invisible Cities\" by Italo Calvino. From 2020 to 2022 he published weekly in the column he created \"Voci Illustrate\" on the New Province of Asti. In December 2022 he publishes \"Wassily Kandinsky - The tightrope walker of colours\" and talks about Kandinsky's life for the ALT necklace! Free Art All dedicated to children and teenagers by Maria Pacini Fazzi Editore / Ragghianti Foundation Editions Studies on the art of Lucca. He loves to experiment using various techniques always looking for the most suitable language, he prefers painting, ink and engraving. For Exchange Festival he proposes a sculpture that introduces an itinerant path in the pine cone through fourteen illustrations taken from the thesis project \"INVISIBILIS\". Stefano Pedro Porro was born in Asti, graduated from the Art School and attended various comics courses. He trained in Alba, at the Libera Accademia Novalia, attending a course in painting and illustration, in which he concluded the three-year course by presenting a thesis on \"Invisible Cities\" by Italo Calvino. From 2020 to 2022 he published weekly in the column he created \"Voci Illustrate\" on the New Province of Asti. In December 2022 he published \"Wassily Kandinsky - The Acrobatic of Colours\" which talks about Kandinsky's life for the ALT necklace! Free Art All dedicated to children and teenagers by Maria Pacini Fazzi Editore / Ragghianti Foundation Editions Studies on the art of Lucca. He is part of the Pikitanka collective, with which he creates murals, especially in Viarigi, which have filled the city with colours in the last five years, and various designed concerts. For Exchange Festival he proposes a sculpture that introduces an itinerant path in the pine cone through fourteen illustrations that will introduce the various artists' Labs. The journey into the Calvino horizon created by the young artist will be crowned by the designed concert (\"I am INVISIBLE\") which will take place on the evening of August 24, which is the opening date of the festival. Come and see Pedro in his Pinolo, where he will welcome you with his illustrations, engravings and books.",
         "host_url": "https://instagram.com/stefanoporro_",
-        "host buggato rotto": "Pedro",
+        "host": "Pedro",
         "scambi_url": null,
+        "location": "Piazza Cassini",
         "scheda tenica": "ø",
-        "host": "Pedro"
+        "host ROTTO, NON USARE": "Pedro"
+    },
+    {
+        "title": "Pinolo Seeweb",
+        "days": [
+            "24",
+            "25"
+        ],
+        "description": "Due tecnici del nostro sponsor [Seeweb](https://seeweb.it) ci verranno a trovare e risponderanno a tutte le domande che potreste avere sul perché e come l’informatica può essere green e quali sono i valori che accomunano il nostro festival al primo e principale hosting provider green in Italia.",
+        "what": "pinolo",
+        "host_logo": "https://x.scambi.org/others_logos/seeweb.png",
+        "host_bio": "Seeweb offre soluzioni cloud sostenibili e responsabili. Le loro politiche aziendali contemplano etica, inclusione e supporto a progetti per il sociale e l’ambiente. Tutte le loro server farm sono alimentate sfruttando esclusivamente energia rinnovabile al 100%.",
+        "host_image": "https://x.scambi.org/profile_pics/Chiara_Grande.jpg",
+        "host_bio_en": "Seeweb offers sustainable and responsible cloud solutions. Their company policies include ethics, inclusion and support for social and environmental projects. Their server farm are powered by 100% renewable energy.",
+        "host_url": "https://seeweb.it",
+        "host": "Seeweb",
+        "location": "Piazza Cassini"
     },
     {
         "title": "Premiazione Dissolvenze",
@@ -538,12 +552,12 @@
         "host_image": "https://x.scambi.org/images/staff.webp",
         "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
         "host_url": "https://scambi.org/staff",
-        "host buggato rotto": "Staff Scambi",
+        "host": "Staff Scambi",
         "times": "27: 20:30 → 21:30",
         "scambi_url": "/2023/dissolvenze",
         "location": "Chiesa di Santa Brigida",
         "scheda tenica": "roba cinema solita + amplificazione con 1-2 microfoni",
-        "host": "Staff Scambi"
+        "host ROTTO, NON USARE": "Staff Scambi"
     },
     {
         "title": "Presentazione del libro <cite>Italo Calvino e Sanremo. Alla ricerca di una città scomparsa</cite>",
@@ -555,12 +569,12 @@
         "host_image": "https://x.scambi.org/images/Laura_Guglielmi.webp",
         "host_bio_en": "Laura Guglielmi was born in Sanremo but lives in Genoa, after having spent some years in Rome and London. She deals with literature and landscape and in 1999 she curated a photographic exhibition on Italo Calvino and Sanremo also exhibited at New York University. In 2023, on the occasion of the writer's centenary, she created a 'Calvinian' itinerary in the city of Western Liguria for the University of Genoa. Among her latest books: \"Lady Constance Lloyd. The Importance of Being Wilde\" (Morellini), a novel about the wife of the Irish dandy writer, and \"The Incredible Curiosities of Genoa\" (Newton Compton), which contains eighty stories about the Ligurian capital. She has worked for the Art pages of various newspapers, including «Il Secolo XIX», «La Stampa», «D-la Repubblica delle Donne». Expert in cultural journalism and digital media, she has taught at the University of Genoa.",
         "host_url": "https://lauraguglielmi.it",
-        "host buggato rotto": "Laura Guglielmi",
+        "host": "Laura Guglielmi",
         "times": "25: 19:00 → 20:00",
         "scambi_url": null,
         "location": "Piazza Capitolo",
         "scheda tenica": "amplificazione, 1-2 microfoni",
-        "host": "Laura Guglielmi"
+        "host ROTTO, NON USARE": "Laura Guglielmi"
     },
     {
         "title": "Proiezione <cite>Il castello errante di Howl</cite> - Cineforum Verso Casa",
@@ -568,11 +582,16 @@
         "description": "<cite>Verso Casa</cite> è la nostra rassegna di film d’animazione dedicata a tutte quelle che anime che, ogni tanto, hanno bisogno di abitare (o ritrovare) il loro posto sicuro nel mondo.<br>Presenteremo tre film che ci ricorderanno di quanto sia importante perdersi in un posto che non conosciamo, lottare per la propria libertà e avere la curiosità di osservare la realtà più da vicino. Questo varco spaziotemporale sarà aperto a tuttɜ senza limiti d’età, come la magia del cinema e i personaggi che incontreremo. VI aspettiamo ogni mattina in Chiesa Santa Brigida con la voglia familiare di sognare ed emozionarci insieme.",
         "what": "dissolvenze",
         "description_en": "<cite lang='it'>Verso Casa</cite> is our film club dedicated to all those souls who, from time to time, need to inhabit (or find) their safe place in the world. We will present 3 films that will remind us of how important it is to get lost in an unknown place, to fight for our freedom and to have the curiosity to observe reality more closely. This space-time gap will be open to everyone without age limits, like the magic of cinema and the characters we’ll meet. We are waiting for you every morning in Santa Brigida Church with the familiar desire to dream and get emotional together. (Films in Italian with English subtitles)",
+        "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
+        "host_image": "https://x.scambi.org/images/staff.webp",
+        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff",
+        "host": "Staff Dissolvenze",
         "times": "27: 10:00 → 12:30",
         "scambi_url": null,
         "img": "https://upload.wikimedia.org/wikipedia/it/c/cc/Howl%27s_Moving_Castle_Bluray_snapshot.png",
         "location": "Chiesa di Santa Brigida",
-        "scheda tenica": "solita roba cinema"
+        "scheda tenica": "solita roba cinema + montaggio e smontaggio telo"
     },
     {
         "title": "Proiezione <cite>Madagascar<cite> - Cineforum Verso Casa",
@@ -580,11 +599,16 @@
         "description": "<cite>Verso Casa</cite> è la nostra rassegna di film d’animazione dedicata a tutte quelle che anime che, ogni tanto, hanno bisogno di abitare (o ritrovare) il loro posto sicuro nel mondo.<br>Presenteremo tre film che ci ricorderanno di quanto sia importante perdersi in un posto che non conosciamo, lottare per la propria libertà e avere la curiosità di osservare la realtà più da vicino. Questo varco spaziotemporale sarà aperto a tuttɜ senza limiti d’età, come la magia del cinema e i personaggi che incontreremo. VI aspettiamo ogni mattina in Chiesa Santa Brigida con la voglia familiare di sognare ed emozionarci insieme.",
         "what": "dissolvenze",
         "description_en": "<cite lang='it'>Verso Casa</cite> is our film club dedicated to all those souls who, from time to time, need to inhabit (or find) their safe place in the world. We will present 3 films that will remind us of how important it is to get lost in an unknown place, to fight for our freedom and to have the curiosity to observe reality more closely. This space-time gap will be open to everyone without age limits, like the magic of cinema and the characters we’ll meet. We are waiting for you every morning in Santa Brigida Church with the familiar desire to dream and get emotional together. (Films in Italian with English subtitles)",
+        "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
+        "host_image": "https://x.scambi.org/images/staff.webp",
+        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff",
+        "host": "Staff Dissolvenze",
         "times": "26: 10:00 → 12:00",
         "scambi_url": null,
         "img": "https://images.bauerhosting.com/legacy/empire-tmdb/films/953/images/wUetiqu2EFhHW94yTP0pWABfyUG.jpg?format=jpg&quality=80&width=960&height=540&ratio=16-9&resize=aspectfill",
         "location": "Chiesa di Santa Brigida",
-        "scheda tenica": "roba cinema solita"
+        "scheda tenica": "roba cinema solita + montaggio e smontaggio telo"
     },
     {
         "title": "Proiezione <cite>Wall-E</cite> - Cineforum Verso Casa",
@@ -592,11 +616,16 @@
         "description": "<cite>Verso Casa</cite> è la nostra rassegna di film d’animazione dedicata a tutte quelle che anime che, ogni tanto, hanno bisogno di abitare (o ritrovare) il loro posto sicuro nel mondo.<br>Presenteremo tre film che ci ricorderanno di quanto sia importante perdersi in un posto che non conosciamo, lottare per la propria libertà e avere la curiosità di osservare la realtà più da vicino. Questo varco spaziotemporale sarà aperto a tuttɜ senza limiti d’età, come la magia del cinema e i personaggi che incontreremo. VI aspettiamo ogni mattina in Chiesa Santa Brigida con la voglia familiare di sognare ed emozionarci insieme.",
         "what": "dissolvenze",
         "description_en": "<cite lang='it'>Verso Casa</cite> is our film club dedicated to all those souls who, from time to time, need to inhabit (or find) their safe place in the world. We will present 3 films that will remind us of how important it is to get lost in an unknown place, to fight for our freedom and to have the curiosity to observe reality more closely. This space-time gap will be open to everyone without age limits, like the magic of cinema and the characters we’ll meet. We are waiting for you every morning in Santa Brigida Church with the familiar desire to dream and get emotional together. (Films in Italian with English subtitles)",
+        "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
+        "host_image": "https://x.scambi.org/images/staff.webp",
+        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff",
+        "host": "Staff Dissolvenze",
         "times": "25: 10:00 → 12:00",
         "scambi_url": null,
         "img": "https://cdn.vox-cdn.com/thumbor/q7j9F8nSwZKVsn-79IqTBncVjsg=/0x0:1920x1080/1200x800/filters:focal(403x177:709x483)/cdn.vox-cdn.com/uploads/chorus_image/image/71340003/WALL_E.0.jpeg",
         "location": "Chiesa di Santa Brigida",
-        "scheda tenica": "roba cinema solita"
+        "scheda tenica": "roba cinema solita + montaggio e smontaggio telo"
     },
     {
         "title": "Proiezione corti internazionali finalisti",
@@ -604,11 +633,16 @@
         "description": "Proiezione dei cortometraggi internazionali finalisti del concorso cortometraggi \"Dissolvenze\" sul tema \"Verso\": - Nahid di Samad Alizadeh - Old Tricks di Edoardo Pasquini e Viktor Ivanov - Rooms di Alvaro de la Hoz - It Comes at Dawn di Rafael Aragón",
         "what": "dissolvenze",
         "description_en": "Screening of the international short films finalists of the \"Dissolvenze\" short film competition on the theme \"Verso\": - Nahid by Samad Alizadeh - Old Tricks by Edoardo Pasquini and Viktor Ivanov - Rooms by Alvaro de la Hoz - It Comes at Dawn by Rafael Aragón",
+        "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
+        "host_image": "https://x.scambi.org/images/staff.webp",
+        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff",
+        "host": "Staff Dissolvenze",
         "times": "26: 17:00 → 18:00",
         "scambi_url": null,
         "img": "https://archive.org/download/scambi-2021-dissolvenze-10/scambi-2021-dissolvenze-10.jpg",
         "location": "Chiesa di Santa Brigida",
-        "scheda tenica": "roba cinema solita"
+        "scheda tenica": "roba cinema solita + angolo registrazione"
     },
     {
         "title": "Proiezione corti italiani finalisti",
@@ -616,11 +650,16 @@
         "description": "Proiezione dei corti italiani finalisti del concorso di cortometraggi Dissolvenze a tema \"Verso\": - IN FONDO AL MAR di Giacomo Raffaelli - Guerra tra poveri di Kassim Yassin Saleh - HATE di Emiliano Sisolfi - Ecce di Margherita Premuroso - SIR di Maurizio Ravallese",
         "what": "dissolvenze",
         "description_en": "Screening of the Italian short films finalists of the \"Verso\" themed Dissolvenze short film competition: -  UNDER THE SEA by Giacomo Raffaelli - Guerra tra poveri by Kassim Yassin Saleh - HATE by Emiliano Sisolfi - Ecce di Margherita Premuroso - SIR by Maurizio Ravallese",
+        "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
+        "host_image": "https://x.scambi.org/images/staff.webp",
+        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff",
+        "host": "Staff Dissolvenze",
         "times": "25: 17:00 → 18:00",
         "scambi_url": null,
         "img": "https://archive.org/download/scambi-2021-dissolvenze-10/scambi-2021-dissolvenze-10.jpg",
         "location": "Chiesa di Santa Brigida",
-        "scheda tenica": "roba cinema solita"
+        "scheda tenica": "roba cinema solita + angolo registrazione"
     },
     {
         "title": "Riversando",
@@ -644,7 +683,7 @@
             "https://instagram.com/leonardo_sinopoli",
             "https://olivacontemporarydanceproject.com"
         ],
-        "host buggato rotto": [
+        "host": [
             "Musica Orizzontale",
             "Leonardo Sinopoli",
             "Olivia Contemporary Dance Project (OCDP)"
@@ -654,11 +693,27 @@
         "img": "https://x.scambi.org/images/ocdp.jpg",
         "location": "Piazza Santa Brigida",
         "scheda tenica": "tutta la roba concerto",
-        "host": [
+        "host ROTTO, NON USARE": [
             "Musica Orizzontale",
             "Leonardo Sinopoli",
             "Olivia Contemporary Dance Project (OCDP)"
         ]
+    },
+    {
+        "title": "Scrittore prestato",
+        "days": "26",
+        "description": "Da ottobre 2015, lo scrittore Walter Lazzarin ha deciso di rincorrere un sogno, un'utopia secondo alcune persone: promuovere i suoi libri girando per le strade d'Italia. L'idea non è solo quella di farsi conoscere come autore, ma vuole soprattutto riavvicinare le persone alla narrativa. Venite a scovarlo!",
+        "what": "pinolo",
+        "description_en": "Since October 2015, the writer Walter Lazzarin has decided to pursue a dream, a utopia according to some: to promote his books by touring the streets of Italy. The idea is not only to make himself known as an author but above all to bring people closer to fiction. Come and find it!",
+        "host_bio": "Walter Lazzarin (1982) è uno scrittore che nel 2011 esordisce con il romanzo “A volte un bacio” e nel 2012 pubblica la prima raccolta di tautogrammi: “21 Lettere d’amore”. Nel 2015 pubblica il “Il drago non si droga”, un romanzo promosso tramite il progetto Scrittore per strada. Dal 2016 a maggio 2017 collabora alla trasmissione “Dribbling” di Rai 2, come autore e interprete dei tautogrammi che introducono le puntate. Nel 2017 pubblica “Ventuno vicende vagamente vergognose”, la seconda raccolta di tautogrammi. La terza è del 2019: “Animali all’avventura”, recensita da Robinson, inserto culturale de La Repubblica.",
+        "host_image": "https://x.scambi.org/profile_pics/WalterLazzarin.webp",
+        "host_bio_en": "Walter Lazzarin (1982) is a writer who made his debut in 2011 with the novel \"A volte un bacio\" and in 2012 published the first collection of tautograms: \"21 Lettere d'Amore\". In 2015 he published \"Il drago non si droga\", a novel promoted through his Writer on the road project. From 2016 to May 2017 he took part in the Rai 2 podcast \"Dribbling\", as author and interpreter of the tautograms that start off the episodes. In 2017 he published \"21 vicende vagamente vergognose\", the second collection of tautograms. In 2019, the third one: \"Animali all'avventura\", reviewed by Robinson, art section of La Repubblica.",
+        "host_url": "https://instagram.com/walter.lazzarin",
+        "host": "Walter  Lazzarin",
+        "scambi_url": null,
+        "location": "Piazza Santa Brigida",
+        "scheda tenica": "ø",
+        "host ROTTO, NON USARE": "Walter  Lazzarin"
     },
     {
         "title": "Slimp",
@@ -669,6 +724,10 @@
         "description": "Slimp (SoftwareLiberoIMperiaProvincia) è un gruppo informale ed eterogeneo di utilizzatori di software libero della provincia di Imperia e zone limitrofe.<br>Lo scopo del gruppo è la promozione di concetti quali la libertà dello scambio di idee e di informazioni, con un occhio di riguardo al software open source e ai sistemi operativi come Linux che condividono gli stessi concetti. Ci incontriamo online sul [gruppo Telegram](https://t.me/slimpimperia) e dal vivo durante eventi come il Linux Day, o sporadici incontri in birreria o pizzate.",
         "what": "pinolo",
         "description_en": "Slimp (SoftwareLiberoIMperiaProvincia) is an informal and heterogeneous group of free software users from the province of Imperia and neighbouring areas.<br>The purpose of the group is to promote concepts such as the freedom to exchange ideas and information, with an eye on open-source software and operating systems like Linux that share the same concepts. We meet online on the [Telegram group](https://t.me/slimpimperia) and live during events like Linux Day, or sporadic brewery meetings or pizza parties.",
+        "host_logo": "https://x.scambi.org/others_logos/slimp.svg",
+        "host_bio": "Slimp (SoftwareLiberoIMperiaProvincia) è un gruppo informale ed eterogeneo di utilizzatori di software libero della provincia di Imperia e zone limitrofe.<br>Lo scopo del gruppo è la promozione di concetti quali la libertà dello scambio di idee e di informazioni, con un occhio di riguardo al software open source e ai sistemi operativi come Linux che condividono gli stessi concetti. Ci incontriamo online sul [gruppo Telegram](https://t.me/slimpimperia) e dal vivo durante eventi come il Linux Day, o sporadici incontri in birreria o pizzate",
+        "host_url": "https://t.me/slimpimperia",
+        "host": "Slimp",
         "location": "Terrazza Santa Brigida",
         "scheda tenica": "corrente elettrica e, se riusciamo, internet"
     },
@@ -682,10 +741,11 @@
         "host_image": "https://x.scambi.org/images/Fil%c3%b2/",
         "host_bio_en": "\"Filò – Il filo del pensiero\" is an association of social promotion, born from the research project FarFilò (University of Bologna), whose core consists of philosophers and educators. The members of Filò are also members of ΑΙΩΝ / AIÓN – Philosophy and Didactics, Research Group on Didactics of Philosophy and on Philosophical Practices of the University of Bologna (site.unibo.it/aion/it). Filò aims to promote and disseminate, for all age groups, Philosophy understood as an educational practice capable of developing critical thought, logical-argumentative skills, capacity for abstraction and creativity, all combined with ethical-relational skills. We operate in several fields including schools, libraries, and cultural festivals besides training teachers interested in philosophical dialogue as an educational tool. Chiara Minardi, born in 1994, holds a master's degree in Philosophical Sciences at the University of Bologna and is now enrolled in Modern Literature at Ca' Foscari University in Venice. She meets Filò in 2021 and she is today a Board member. Philosophy always fascinated her and she always wanted to teach it, until she finally encountered philosophical practices: at that point, the opportunity of transforming the teaching of philosophy into the practice of philosophy made her understand that doing philosophy is a chance that no one should miss. Beatrice Gobbi, born in 1995; she obtained a master's degree in Philosophical Sciences with a thesis on truth in science. During her master's degree years, she met the Filò association while carrying out a curricular internship. During this time, Beatrice experienced the transformative power of philosophy and decided that this will be her job. After the internship, Beatrice began collaborating with Filò by holding her first philosophical dialogue workshops in the classroom and beyond. She is a Board member and continues to work in Filò by bringing the practice of philosophy to as many people as possible.",
         "host_url": "https://filoedu.com",
-        "host buggato rotto": "Filò",
+        "host": "Filò",
         "scambi_url": null,
+        "location": "Piazza Cassini",
         "scheda tenica": "ø",
-        "host": "Filò"
+        "host ROTTO, NON USARE": "Filò"
     },
     {
         "title": "Spettacolo di Teatro-Canzone <cite>Cantautogramma</cite>",
@@ -710,7 +770,7 @@
             "https://facebook.com/christian.gullone1",
             "https://instagram.com/walter.lazzarin"
         ],
-        "host buggato rotto": [
+        "host": [
             "Christian Gullone",
             "Walter  Lazzarin"
         ],
@@ -719,7 +779,7 @@
         "img": "https://nuvola.scambi.org/s/ArSK85jkBSBRSKw",
         "location": "Piazza Santa Brigida",
         "scheda tenica": "impianto di amplificazione (live in atustico e 2 microfoni)",
-        "host": [
+        "host ROTTO, NON USARE": [
             "Christian Gullone",
             "Walter  Lazzarin"
         ]
@@ -734,16 +794,15 @@
         "host_image": "https://x.scambi.org/profile_pics/WalterLazzarin.webp",
         "host_bio_en": "Walter Lazzarin (1982) is a writer who made his debut in 2011 with the novel \"A volte un bacio\" and in 2012 published the first collection of tautograms: \"21 Lettere d'Amore\". In 2015 he published \"Il drago non si droga\", a novel promoted through his Writer on the road project. From 2016 to May 2017 he took part in the Rai 2 podcast \"Dribbling\", as author and interpreter of the tautograms that start off the episodes. In 2017 he published \"21 vicende vagamente vergognose\", the second collection of tautograms. In 2019, the third one: \"Animali all'avventura\", reviewed by Robinson, art section of La Repubblica.",
         "host_url": "https://instagram.com/walter.lazzarin",
-        "host buggato rotto": "Walter  Lazzarin",
+        "host": "Walter  Lazzarin",
         "times": [
-            "26: 10:30 → 12:00",
             "27: 16:00 → 17:30",
             "27: 18:00 → 19:30"
         ],
         "scambi_url": null,
         "location": "Porta San Giuseppe",
         "scheda tenica": "ø",
-        "host": "Walter  Lazzarin"
+        "host ROTTO, NON USARE": "Walter  Lazzarin"
     },
     {
         "title": "The Prompt Club",
@@ -759,7 +818,7 @@
         "host_image": "https://x.scambi.org/images/Leo_Scarin.webp",
         "host_bio_en": "Leicester (UK), where he carries on his research on the relationship between body, activism and",
         "host_url": "https://leoscarin.com",
-        "host buggato rotto": "Leo Scarin",
+        "host": "Leo Scarin",
         "times": [
             "25: 16:00 → 17:30",
             "26: 17:15 → 18:45",
@@ -768,12 +827,19 @@
         "scambi_url": null,
         "location": "Palazzo Gentile",
         "scheda tenica": "connesisone a internet, corrente e proiettore.",
-        "host": "Leo Scarin"
+        "host ROTTO, NON USARE": "Leo Scarin"
     },
     {
         "title": "Tra le Pagine Intrecciate",
+        "days": [
+            "25",
+            "26"
+        ],
         "description": "Esplora l’arte della rilegatura con telaio e costruisci la tua agenda dei sogni! Con la tua carta preferita, dai vita a un’agenda personalizzata per custodire pensieri e ispirazioni in modo unico.",
         "what": "pinolo",
+        "host_bio": "Fatto capolino nel 1978, <cite>FabioLupiArt</cite> naviga tra la bellezza del mondo e l’insidia dell’assurdità umana. In molteplici rinascite, condivide esperienze e sogni con anime affini, sentendo crescere il desiderio di creare dal <q>materiale scarto</q>. Con un occhio di riguardo per legno e carta, trasforma ciò che altri scartano opere d’arte.",
+        "host_url": "https://instagram.com/fabiolupiart",
+        "host": "Fabio Lupi",
         "location": "Piazza Santa Brigida",
         "scheda tenica": "ø"
     },
@@ -784,16 +850,17 @@
             "26",
             "27"
         ],
-        "description": "L'idea nasce dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Con \"Botteghe Aperte\" immergetevi nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
+        "description": "<q>Botteghe Aperte</q> è un’idea nata dalla necessità e volontà che abbiamo avuto di condividere il lavoro di alcunɜ artistɜ ed artigianɜ locali. Vi immergerete nei magici spazi creativi e studi che si apriranno al pubblico durante il festival e conoscete meglio alcune pratiche artistiche che animano il territorio e la magia del quartiere.",
         "what": "pinolo",
         "description_en": "The idea stems from the need and willingness we had to share the work of some local artists and craftsmen. With \"Botteghe Aperte\" immerse yourself in the magical creative spaces and studios that will be open to the public during the festival and learn more about some of the artistic practices that animate the area and the neighbourhood's magic.",
         "host_bio": "Andrea Selvaggio: Nato a Palermo il 28 febbraio 1980, nel 2002 consegue il diploma in Decorazione presso l'Accademia di Belle Arti di Palermo. Si dedica alla pittura conseguendo premi e riconoscimenti, partecipa a numerose collettive in Italia e all'estero. Dopo un breve e intenso periodo come pittore di scena in diversi set cinematografici (come le collaborazioni con Giuseppe Tornatore per il film “Baaria\" e John Turturro per il docufilm “La Sicilia” ) si dedica totalmente all'insegnamento. Oggi vive e lavora a Sanremo, dove insegna Arte e Immagine presso la scuola Secondaria Dante Alighieri. Nel 2018 inizia il suo progetto artistico di riqualifica urbana e sociale “pescheria n.2” riuscendo a coinvolgere, attraverso interventi di street art e laboratori di pittura , oltre ai suoi allievi, gli abitanti del centro storico di Sanremo. Lo spazio: La nuova galleria aperta da qualche anno in via Palma 16, nasce come uno spazio aperto dove la ricerca pittorica si fonde con l'entusiasmo e il coinvolgimento di tutti coloro che curiosi, interessati e affascinati entrano e lasciano la loro impronta. E' un luogo dove arte e cultura si incontrano, dov'è possibile vedere l'artista in azione ed  acquistare opere uniche.",
         "host_image": "https://nuvola.scambi.org/s/dALjQLNzbx98Aqd",
         "host_bio_en": "Born in Palermo on February 28, 1980, in 2002 he graduated in Decoration at the Academy of Fine Arts in Palermo. He dedicates himself to painting achieving prizes and awards, and participates in numerous group exhibitions in Italy and abroad. After a short and intense period as a scene painter in various film sets (such as collaborations with Giuseppe Tornatore for the film \"Baaria\" and John Turturro for the docufilm \"La Sicilia\"), he devoted himself totally to teaching. Today he lives and works in Sanremo, where he teaches Art and Image at the Dante Alighieri secondary school. In 2018 he began his artistic project of urban and social redevelopment \"pescheria n.2\" managing to involve, through street art interventions and painting workshops, in addition to his students, the inhabitants of the historic centre of Sanremo. Space: The new gallery opened a few years ago in Via Palma 16. It is born as an open space where pictorial research merges with the enthusiasm and involvement of all those curious, interested and fascinated who enter and leave their mark. It is a place where art and culture meet, where it is possible to see the artist in action and buy unique works.",
         "host_url": "https://tuttomat.it",
-        "host buggato rotto": "Galleria Tutto Mat",
+        "host": "Galleria Tutto Mat",
+        "location": "Tutto Mat",
         "scheda tenica": "ø",
-        "host": "Galleria Tutto Mat"
+        "host ROTTO, NON USARE": "Galleria Tutto Mat"
     },
     {
         "title": "Un passo nel buio",
@@ -809,7 +876,7 @@
         "host_image": "https://x.scambi.org/images/Giovanni_De_Mattia.jpg",
         "host_bio_en": "Giovanni De Mattia was born in Sanremo on the 7th of September 1993. He is a theater-therapist, a cinema and theater actor, and a yoga teacher. He graduated from the School of  Therapeutic Arts Artedo, with a specialisation in theater-therapy. He has been leading integrated theater-therapy meetings and workshops in several cities such as Sanremo, Genova, Milano and Bologna.",
         "host_url": "https://instagram.com/giovanni_demattia",
-        "host buggato rotto": "Giovanni De Mattia",
+        "host": "Giovanni De Mattia",
         "times": [
             "25: 18:00 → 19:30",
             "26: 10:30 → 12:00"
@@ -817,7 +884,7 @@
         "scambi_url": null,
         "location": "Giardini Regina Elena",
         "scheda tenica": "ø",
-        "host": "Giovanni De Mattia"
+        "host ROTTO, NON USARE": "Giovanni De Mattia"
     },
     {
         "title": "Un universo di suoni e spazi",
@@ -833,7 +900,7 @@
         "host_image": "https://x.scambi.org/images/Alessandro_Di_Andrea.webp",
         "host_bio_en": "Alessandro Di Andrea is a student born in 1999, currently in the third year of Education and Training Sciences. Enticed by a family environment full of inputs, he got passionate about the expressive arts at the age of 16 thanks to a school theater workshop and has since then continued his studies and research in the artistic field, working and collaborating for large institutions and well-known personalities . In 2021 he released his first EP \"sogno un album\". He has had numerous live performances in Rome and around Italy. In 2023 he officially became a cultural animator at the well-known Rome agency \"Saltimbanco Animazione e Spettacolo\", which boasts prestigious collaborations; moreover, in the same year he became co-founder and advisor of the cultural association \"Welcome to Wonderland\". His goal is to unite all his passions through the common thread of education, with the aim of making the greatest number of people aware of the beauty and strength of diversity by training that child who hides inside each of us.",
         "host_url": "https://instagram.com/alessandro.diandrea",
-        "host buggato rotto": "Alessandro Di Andrea",
+        "host": "Alessandro Di Andrea",
         "times": [
             "25: 16:00 → 17:00",
             "26: 19:00 → 20:00",
@@ -842,7 +909,7 @@
         "scambi_url": null,
         "location": "Giardini Regina Elena",
         "scheda tenica": "necessaria corrente elettrica e eventualmente supporto schermo/proiettore.",
-        "host": "Alessandro Di Andrea"
+        "host ROTTO, NON USARE": "Alessandro Di Andrea"
     },
     {
         "title": "Versi a Colazione",
@@ -851,19 +918,22 @@
             "26",
             "27"
         ],
-        "description": "L’ultima tappa del nostro Gruppo di Lettura ci porta all’Osteria La Ciotola, dove, sorseggiando un caffè caldo e gustando una focaccia appena sformata, parleremo insieme a Martina D’Amore di Italo Calvino e del suo rapporto con la Pigna",
+        "description": "Tra un caffè caldo e della focaccia appena sfornata, parleremo in compagnia di Letteratura e di Poesia. Tra dialetti, epoche passate e tanta immaginazione attraverseremo il concetto di Verso in tutte le sue molteplici interpretazione.",
         "what": "pinolo",
-        "description_en": "Our loved Reading Group takes us to La Ciotola, where, accompanied by a cappuccino and a freshly baked focaccia, together with Martina D’Amore we will discuss Italo Calvino and his relation with Sanremo.",
-        "host buggato rotto": "Chiocciole",
+        "description_en": "Between a hot coffee and freshly baked focaccia, we will talk together about literature and poetry. Through dialects, past eras and a lot of imagination we will cross the concept of Verso in all its multiple interpretations.",
+        "host": "Chiocciole",
         "times": [
             "25: 09:30 → 10:15",
             "26: 09:30 → 10:15",
             "27: 09:30 → 10:15"
         ],
         "scambi_url": null,
-        "location": "La Ciotola",
+        "location": [
+            "Piazzetta dei Ferri",
+            "La Ciotola"
+        ],
         "scheda tenica": "ampli e mic che ha La Ciotola",
-        "host": "Chiocciole"
+        "host ROTTO, NON USARE": "Chiocciole"
     },
     {
         "title": "Verso Tè",
@@ -879,16 +949,16 @@
         "host_image": "https://x.scambi.org/images/staff.webp",
         "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
         "host_url": "https://scambi.org/staff",
-        "host buggato rotto": "Staff Scambi",
+        "host": "Staff Scambi",
         "times": [
             "25: 14:00 → 15:30",
             "26: 14:00 → 15:30",
             "27: 14:00 → 15:30"
         ],
         "scambi_url": null,
-        "location": "Piazza Cassini",
+        "location": "Sede Scout Sanremo 1",
         "scheda tenica": "impianto di amplificazione, 1-2 microfoni (valutare un condensatore ambientale)",
-        "host": "Staff Scambi"
+        "host ROTTO, NON USARE": "Staff Scambi"
     },
     {
         "title": "Verso Ultima Generazione",
@@ -903,15 +973,15 @@
         "host_image": "https://x.scambi.org/images/Ultima_Generazione/",
         "host_bio_en": "Fioretta Maldifassi was born in Milan in 1999 and has a degree in Graphic design. Being angry with the government for how she is handling the climate crisis issue, she decides to join the nonviolent civil disobedience movement Last Generation and they take part in the campaign in various roles. One of the goals of the workshop is to connect emotionally with the problem we are experiencing and explain how nonviolent civil disobedience is a powerful means to change the system. Based on his direct experience and the studies they have done on the subject, we will also talk about what role disorder, repression by law enforcement and resilience play. One of the goals of their workshop is to connect emotionally with the problem we are experiencing and explain how nonviolent civil disobedience is a powerful means to change the system. Based on their direct experience and the studies they have done on the subject, we will also talk about what role disorder, repression by law enforcement and resilience play.",
         "host_url": "https://ultima-generazione.com",
-        "host buggato rotto": "Ultima Generazione",
+        "host": "Ultima Generazione",
         "times": [
             "25: 18:00 → 19:00",
             "26: 10:30 → 11:30"
         ],
         "scambi_url": null,
-        "location": "Terrazza San Costanzo",
+        "location": "Angolino San Costanzo",
         "scheda tenica": "???corrente elettrica???",
-        "host": "Ultima Generazione"
+        "host ROTTO, NON USARE": "Ultima Generazione"
     },
     {
         "title": "Verso il futuro",
@@ -927,7 +997,7 @@
         "host_image": "https://x.scambi.org/images/ANFFAS_Imperia.webp",
         "host_bio_en": "ANFFAS of Imperia is an association of families that works to improve the quality of life of people with disabilities with its services and projects. Its task is to support young people who take part in socialisation, sports, recreation and the development of autonomy.<br>Anffas Imperia has two active self-representation groups, led by two trained facilitators.<br>Self-representation means that people with disabilities can speak for themselves and for other people, to make sure they are heard and understood. For this purpose, the participants meet: in the group we talk about rights, duties, inclusion and accessibility and how often these rights are forgotten. In the meetings, solutions and alternatives are sought to be proposed to the community and institutions, to live in a truly inclusive society. The task of the facilitators is to help the kids in the group to better understand even complex topics and to bring out their thoughts on the issues that concern them.",
         "host_url": "https://anffas.net/it/strutture/imperia-anffas-onlus",
-        "host buggato rotto": "ANFFAS Imperia",
+        "host": "ANFFAS Imperia",
         "times": [
             "25: 10:30 → 12:00",
             "25: 15:00 → 16:30",
@@ -937,12 +1007,13 @@
         "scambi_url": null,
         "location": "Terrazza San Costanzo",
         "scheda tenica": "schermo o proiettore, non fondamentale",
-        "host": "ANFFAS Imperia"
+        "host ROTTO, NON USARE": "ANFFAS Imperia"
     },
     {
         "title": "Verso l’altrə",
         "days": [
             "25",
+            "26",
             "27"
         ],
         "description": "Quanto poco conosciamo le storie lontane di chi è costretto a intraprendere viaggi incerti in cerca di condizioni di vita migliori in un nuovo paese? Quanto conosciamo delle motivazioni che li hanno spinti a partire per un viaggio cosi rischioso? Cosa rappresenta l’Italia? E la famiglia? La lingua nuova da imparare? Il lavoro?<br><cite>Verso l’altrə</cite> è un laboratorio in cui Elena Ballerini, che nella vita insegna italiano ai migranti appena arrivati nel nostro paese, ci accompagnerà alla scoperta di storie di vita che spesso sentiamo distanti da noi: ascolteremo i racconti di 4 ragazzɜ arrivati da poco in Italia e, partendo da alcune parole chiave, ci confronteremo su temi che riguardano tutti noi, seppur diversamente.",
@@ -952,14 +1023,15 @@
         "host_image": "https://x.scambi.org/profile_pics/Elena_Ballerini.webp",
         "host_bio_en": "Elena Ballerini is 25 years old and in live, she is a teacher. She studied Languages ​​and while gaining experience abroad she realized how much she loved Italy, how much the Italian language was the most beautiful and how rich our history and culture are. Elena has therefore combined her need for contact with ever-changing people with her love for her country: she teaches Italian to foreigners. Those who come here to Italy, escaping from their country, do so because they are looking for a better life, simply a noteworthy salary or a school worthy of the name and often that is enough. But what if everyone who enters Italy could see the beauty of this country? What if they could fall in love with language, movies and cooking? Elena dreams of a colourful, lively and dynamic Italy. She already works for it and she will keep going!",
         "host_url": "https://instagram.com/ele.ballerini",
-        "host buggato rotto": "Elena Ballerini",
+        "host": "Elena Ballerini",
         "times": [
             "25: 10:30 → 11:30",
+            "26: 10:30 → 11:30",
             "27: 10:30 → 11:30"
         ],
         "scambi_url": null,
         "location": "Piazzetta dei Ferri",
         "scheda tenica": "ø",
-        "host": "Elena Ballerini"
+        "host ROTTO, NON USARE": "Elena Ballerini"
     }
 ]
