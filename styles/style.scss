@@ -459,8 +459,8 @@ figcaption {
 
 .full {
 	background: var(--purple);
-	width: 100vw;
-	height: 100vh;
+	width: calc(100vw - 2rem);
+	height: calc(100vh - 2rem);
 	overflow-x: hidden;
 	a:hover {
 		transform: none;
