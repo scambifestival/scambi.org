@@ -71,7 +71,7 @@
         "host ROTTO, NON USARE": "Staff Scambi"
     },
     {
-        "title": "Art Atelier",
+        "title": "Art Atelier, Botteghe aperte",
         "days": [
             "24",
             "25",
@@ -532,7 +532,7 @@
             "24",
             "25"
         ],
-        "description": "Due tecnici del nostro sponsor [Seeweb](https://seeweb.it) ci verranno a trovare e risponderanno a tutte le domande che potreste avere sul perché e come l’informatica può essere green e quali sono i valori che accomunano il nostro festival al primo e principale hosting provider green in Italia.",
+        "description": "Due tecnici del nostro sponsor Seeweb ci verranno a trovare e risponderanno a tutte le domande che potreste avere sul perché e come l’informatica può essere green e quali sono i valori che accomunano il nostro festival al primo e principale hosting provider green in Italia.",
         "what": "pinolo",
         "host_logo": "https://x.scambi.org/others_logos/seeweb.png",
         "host_bio": "Seeweb offre soluzioni cloud sostenibili e responsabili. Le loro politiche aziendali contemplano etica, inclusione e supporto a progetti per il sociale e l’ambiente. Tutte le loro server farm sono alimentate sfruttando esclusivamente energia rinnovabile al 100%.",
@@ -800,7 +800,7 @@
             "27: 18:00 → 19:30"
         ],
         "scambi_url": null,
-        "location": "Porta San Giuseppe",
+        "location": "Piazzetta Santa Brigida",
         "scheda tenica": "ø",
         "host ROTTO, NON USARE": "Walter  Lazzarin"
     },
@@ -890,8 +890,8 @@
         "title": "Un universo di suoni e spazi",
         "days": [
             "25",
-            "27",
-            "26"
+            "26",
+            "27"
         ],
         "description": "Avete mai sentito quanti suoni produce il nostro mondo? Avete mai dato attenzione alle emozioni che vi suscita il movimento di una qualsiasi persona che vi passa vicino? Insieme esploreremo tutto questo e molto altro, faremo un viaggio uniVersale tra l’armonia della musica e la bellezza del movimento teatrale.  Il laboratorio prevederà l’utilizzo di tecniche ludico-musicali e ludico-teatrali al fine di sensibilizzare il più ampio numero di bambini e adulti possibile sull’uso e sulla pratica di queste arti, le quali, se ben utilizzate ed esplorate, possono diventare terapeutiche per l’anima del soggetto che le pratica. Il laboratorio si concluderà con la breve costruzione di un piccolo strumento musicale da portare con sé come ricordo della giornata.",
         "what": "lab",
@@ -918,9 +918,9 @@
             "26",
             "27"
         ],
-        "description": "Tra un caffè caldo e della focaccia appena sfornata, parleremo in compagnia di Letteratura e di Poesia. Tra dialetti, epoche passate e tanta immaginazione attraverseremo il concetto di Verso in tutte le sue molteplici interpretazione.",
+        "description": "Tra un caffè caldo e della focaccia appena sfornata, parleremo in compagnia di Letteratura e di Poesia. Tra dialetti, epoche passate e tanta immaginazione attraverseremo il concetto di Verso in tutte le sue molteplici interpretazione. Venerdì 25 vi aspettiamo all'osteria La Ciotola. Sabato 26 e domenica 27, invece, saremo in Piazzetta dei Ferri.",
         "what": "pinolo",
-        "description_en": "Between a hot coffee and freshly baked focaccia, we will talk together about literature and poetry. Through dialects, past eras and a lot of imagination we will cross the concept of Verso in all its multiple interpretations.",
+        "description_en": "Between a hot coffee and freshly baked focaccia, we will talk together about literature and poetry. Through dialects, past eras and a lot of imagination we will cross the concept of Verso in all its multiple interpretations. On the 25th we will be at La Ciotola, while on the 26th and on the 27th in Piazzetta dei Ferri.",
         "host": "Chiocciole",
         "times": [
             "25: 09:30 → 10:15",
@@ -1005,7 +1005,7 @@
             "26: 15:00 → 16:30"
         ],
         "scambi_url": null,
-        "location": "Terrazza San Costanzo",
+        "location": "Piazza Cassini",
         "scheda tenica": "schermo o proiettore, non fondamentale",
         "host ROTTO, NON USARE": "ANFFAS Imperia"
     },
