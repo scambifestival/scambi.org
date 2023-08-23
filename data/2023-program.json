@@ -1,8 +1,5 @@
 [
     {
-        "what": null
-    },
-    {
         "title": "<cite>Io sono INVISIBILE</cite>, Concerto disegnato",
         "days": "24",
         "description": "Stefano Pedro Porro ama sperimentare in campo artistico usando varie tecniche, prediligendo la pittura, la china e l’incisione. La <cite>Casa in collina</cite> è un duo strumentale basato sull’improvvisazione e sui torrenti che scavano i fianchi delle colline delle Langhe. Insieme, si uniscono per il concerto disegnato <cite>Io sono INVISIBILE</cite>, un viaggio multidisciplinare ed estemporaneo tra musica e arti visive.",
@@ -398,23 +395,6 @@
         "host ROTTO, NON USARE": "Staff Scambi"
     },
     {
-        "title": "La figlia di Carmine",
-        "days": "24",
-        "description": "<cite>La figlia di Carmine</cite> è uno spettacolo comico e surreale sul tema dei disservizi. Politicamente scorretto e dissacrante affronta alcuni dei paradossi di questa Italia.<br>Lo spettacolo, scritto dai ragazzi della Compagnia, diretto da Davide Barella & Christian Papini, accompagnato dalla musica originale di <cite>Trio Scampato + 1</cite>.",
-        "what": "evento speciale",
-        "description_en": "<cite lang='it'>La figlia di Carmine</cite> is a comic and surreal show on the theme of disservices. Politically incorrect and irreverent, it addresses some of the paradoxes of this Italy. The show is written by the boys of the Company, directed by Davide Barella & Christian Papini, and accompanied by the original music of Trio Scampato + 1.",
-        "host_bio": "<q>Cinque anni fa, per i venticinque anni della Caritas ci siamo chiesti cosa potevamo fare – esordisce **Cristian Papini** di **Caritas Intemelia** – al che ci è venuto in mente di creare uno spettacolo teatrale con volontari e subito abbiamo pensato a Davide Barella per portarlo avanti. Doveva essere solo per un anno, e invece…</q><br>Nasce così il **Teatro Abusivo**, realtà che unisce appunto la Caritas, la **Scuola MusicArte di Camporosso** e lo scrittore **Davide Barella**.<br><q>Trasformiamo i ragazzi in scrittori, attraverso il loro vissuto importante rielaboriamo e drammatizziamo alcuni episodi della loro storia in veste teatrale – spiega Barella – un percorso con un risvolto terapeutico importante che li pone dinnanzi ad una platea al di fuori del loro quotidiano</q>.",
-        "host_bio_en": "<q>Five years ago, for the twenty-five years of Caritas we asked ourselves what we could do - begins **Cristian Papini** of **Caritas Intemelia** - to which we came up with the idea of creating a theatrical show with volunteers and we immediately thought of Davide Barella to carry it forward. It was supposed to be only for a year, but instead…</q><br>This is how the **Teatro Abusivo** was born, a reality that unites Caritas, the **MusicArte School of Camporosso** and the writer **Davide Barella **.<br><q>We transform young people into writers, through their important experience we re-elaborate and dramatize some episodes of their history in a theatrical guise - explains Barella - a path with an important therapeutic implication that places them before an audience at outside their daily routine</q>.",
-        "host_url": "https://rivieratime.news/il-teatro-abusivo-esperienze-di-vita-forti-che-diventano-racconti",
-        "host": "Teatro Abusivo",
-        "times": "24: 19:00 → 21:00",
-        "scambi_url": "/2023/teatro",
-        "img": "https://x.scambi.org/images/la-figlia-di-carmine.webp",
-        "location": "Piazza Cassini",
-        "scheda tenica": "sono autonomi, ma magari sentiamoli per venirci incontro",
-        "host ROTTO, NON USARE": "Teatro Abusivo"
-    },
-    {
         "title": "Late Night Sessions",
         "days": "25",
         "description": "La ciurma *Late Night Sessions* sbarca sulle spiagge di Bussana con un semplice obiettivo: divertirsi suonando e cantando davanti agli scorci più belli che la Riviera può offrire. Nel corso del tempo, la carovana si è trasferita in numerose location dell’entroterra in cerca di nuovi terreni di **sperimentazione**. In questa particolare serata, amici e ospiti da tutta la Liguria si uniranno per contribuire all’energia inimitabile delle <q>*Late*</q>",
@@ -732,7 +712,7 @@
         "host_bio": "Slimp (SoftwareLiberoIMperiaProvincia) è un gruppo informale ed eterogeneo di utilizzatori di software libero della provincia di Imperia e zone limitrofe.<br>Lo scopo del gruppo è la promozione di concetti quali la libertà dello scambio di idee e di informazioni, con un occhio di riguardo al software open source e ai sistemi operativi come Linux che condividono gli stessi concetti. Ci incontriamo online sul [gruppo Telegram](https://t.me/slimpimperia) e dal vivo durante eventi come il Linux Day, o sporadici incontri in birreria o pizzate",
         "host_url": "https://t.me/slimpimperia",
         "host": "Slimp",
-        "location": "Terrazza Santa Brigida",
+        "location": "Piazza Santa Brigida",
         "scheda tenica": "corrente elettrica e, se riusciamo, internet"
     },
     {
