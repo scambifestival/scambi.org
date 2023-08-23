@@ -150,6 +150,23 @@
         ]
     },
     {
+        "title": "Cerimonia di chiusura e premiazione Dissolvenze",
+        "days": "27",
+        "description": "La cerimonia di chiusura di Dissolvenze celebrerà lɜ vincitorɜ del nostro concorso di cortometraggi e le persone e gli eventi che hanno caratterizzato l’edizione di quest’anno.",
+        "what": "evento speciale",
+        "description_en": "The closing ceremony of Dissolvenze will celebrate the winners of our international and national short film competitions and the people and events that characterized this year’s edition.",
+        "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
+        "host_image": "https://x.scambi.org/images/staff.webp",
+        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
+        "host_url": "https://scambi.org/staff",
+        "host": "Staff Scambi",
+        "times": "27: 19:30 → 20:30",
+        "scambi_url": "/2023/dissolvenze",
+        "location": "Chiesa di Santa Brigida",
+        "scheda tenica": "roba cinema solita + amplificazione con 1-2 microfoni",
+        "host ROTTO, NON USARE": "Staff Scambi"
+    },
+    {
         "title": "Chinmoku No Mori",
         "days": [
             "25",
@@ -524,23 +541,6 @@
         "host_url": "https://seeweb.it",
         "host": "Seeweb",
         "location": "Piazza Cassini"
-    },
-    {
-        "title": "Premiazione Dissolvenze",
-        "days": "27",
-        "description": "La cerimonia di chiusura di Dissolvenze celebrerà lɜ vincitorɜ del nostro concorso di cortometraggi e le persone e gli eventi che hanno caratterizzato l’edizione di quest’anno.",
-        "what": "evento speciale",
-        "description_en": "The closing ceremony of Dissolvenze will celebrate the winners of our international and national short film competitions and the people and events that characterized this year’s edition.",
-        "host_bio": "Non servono descrizioni… Chi siamo è raccontato [qui](https://scambi.org/chi-siamo 'Chi siamo — Scambi Festival')",
-        "host_image": "https://x.scambi.org/images/staff.webp",
-        "host_bio_en": "No description needed. Who we are is explained on [here](https://scambi.org/about-us 'About us — Scambi Festival')",
-        "host_url": "https://scambi.org/staff",
-        "host": "Staff Scambi",
-        "times": "27: 20:30 → 21:30",
-        "scambi_url": "/2023/dissolvenze",
-        "location": "Chiesa di Santa Brigida",
-        "scheda tenica": "roba cinema solita + amplificazione con 1-2 microfoni",
-        "host ROTTO, NON USARE": "Staff Scambi"
     },
     {
         "title": "Presentazione del libro <cite>Italo Calvino e Sanremo. Alla ricerca di una città scomparsa</cite>",
