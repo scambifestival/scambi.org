@@ -17,6 +17,9 @@ layout: page
 - The Prompt Club - **Palazzo Gentile Spinola**
 - Tautogrammologia - **Sala Lettura**
 
+## 17:30 - 19:00
+- Calvino tra i carruggi è confermato
+
 ## 18:00 - 19:30
 - Tautogrammologia - **Sala Lettura**
 - Un universo di suoni e spazi - **Palazzo Gentile Spinola**
