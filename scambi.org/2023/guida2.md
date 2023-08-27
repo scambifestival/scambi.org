@@ -6,19 +6,21 @@ layout: page
 ---
 
 ## 10:30 - 12:00 
-- Il filo del pensiero - il Buco (Piazza Santa Brigida)
-- Verso l’altro - portici dove c’è il Piña Social Club 
-- Chimnoku No Mori - Palazzo Gentile
+- Il filo del pensiero - **il Buco** (Piazza Santa Brigida)
+- Verso l’altro - **Sede Scout** Sanremo 1 (Piazza Cassini)
+- Chimnoku No Mori - **Palazzo Gentile Spinola** (Piazza dei Dolori)
 
 ## pranzo
-- Verso tè - sede Scout (Piazza Cassini)
+- Verso tè - **sede Scout** Sanremo 1 (Piazza Cassini)
 
 ## 16:00 - 17:30
-- The Prompt Club - Palazzo Gentile
-- Tautogrammologia - portici dove c’è il Piña Social Club oppure sala lettura (da definire)
+- The Prompt Club - **Palazzo Gentile Spinola**
+- Tautogrammologia - **Sala Lettura**
 
 ## 18:00 - 19:30
-- Tautogrammologia - Piña Social Club oppure sala lettura (da definire)
-- Un universo di suoni e spazi - Palazzo Gentile 
-- Direzione Fediverso - portici dove c'è il Piña Social Club
+- Tautogrammologia - **Sala Lettura**
+- Un universo di suoni e spazi - **Palazzo Gentile Spinola**
+- Direzione Fediverso - **Rivolte San Sebastiano**
 
+Tutti gli appuntamenti relativi a *Dissolvenze* rimangono confermati in Chiesa Santa Brigida.
+La serata **Riversare** si svolgerà dalle 21:00 in Chiesa Santa Brigida.
